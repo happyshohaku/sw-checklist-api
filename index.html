@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Star Wars Book Checklist - A comprehensive guide to Star Wars novels, audiobooks, and comics across all eras.">
+  <title>Star Wars Book Checklist</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+      background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+      color: #e0e0e0;
+      padding: 40px 20px;
+      min-height: 100vh;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid rgba(255, 215, 0, 0.3);
+      border-radius: 12px;
+      padding: 40px;
+      backdrop-filter: blur(10px);
+    }
+
+    h1 {
+      color: #ffd700;
+      font-size: 2.5rem;
+      margin-bottom: 20px;
+      text-align: center;
+      text-shadow: 0 0 10px rgba(255, 215, 0, 0.3);
+    }
+
+    h2 {
+      color: #ffd700;
+      font-size: 1.5rem;
+      margin-top: 30px;
+      margin-bottom: 15px;
+    }
+
+    p {
+      line-height: 1.8;
+      margin-bottom: 15px;
+      font-size: 1.1rem;
+    }
+
+    ul {
+      margin-left: 30px;
+      margin-bottom: 20px;
+    }
+
+    li {
+      margin-bottom: 10px;
+      line-height: 1.6;
+    }
+
+    .hero {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+
+    .hero p {
+      font-size: 1.2rem;
+      color: #b0b0b0;
+    }
+
+    .features {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+      margin: 30px 0;
+    }
+
+    .feature {
+      background: rgba(255, 215, 0, 0.05);
+      padding: 20px;
+      border-radius: 8px;
+      border: 1px solid rgba(255, 215, 0, 0.2);
+    }
+
+    .feature h3 {
+      color: #ffd700;
+      margin-bottom: 10px;
+      font-size: 1.2rem;
+    }
+
+    .footer {
+      margin-top: 40px;
+      padding-top: 20px;
+      border-top: 1px solid rgba(255, 215, 0, 0.2);
+      text-align: center;
+      color: #888;
+    }
+
+    a {
+      color: #ffd700;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    @media (max-width: 768px) {
+      .features {
+        grid-template-columns: 1fr;
+      }
+
+      h1 {
+        font-size: 2rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="hero">
+      <h1>⭐ Star Wars Book Checklist</h1>
+      <p>Your comprehensive guide to the Star Wars literary universe</p>
+    </div>
+
+    <h2>About This Project</h2>
+    <p>
+      Star Wars Book Checklist is a curated database of Star Wars novels, audiobooks, comics, and reference materials.
+      We help fans discover, track, and explore the rich literary universe of Star Wars across all eras and formats.
+    </p>
+
+    <p>
+      Our mission is to make it easy for both new and longtime fans to navigate the extensive Star Wars book catalog,
+      from classic Legends stories to the latest canon releases.
+    </p>
+
+    <div class="features">
+      <div class="feature">
+        <h3>📚 Comprehensive Database</h3>
+        <p>Hundreds of Star Wars books across all eras, including High Republic, Clone Wars, Original Trilogy, and beyond.</p>
+      </div>
+
+      <div class="feature">
+        <h3>🎧 Multiple Formats</h3>
+        <p>Track books across hardcover, paperback, eBook, and audiobook formats.</p>
+      </div>
+
+      <div class="feature">
+        <h3>📅 Timeline Tracking</h3>
+        <p>Books organized by in-universe chronology and publication date.</p>
+      </div>
+
+      <div class="feature">
+        <h3>🔍 Easy Discovery</h3>
+        <p>Find books by series, era, author, and reading level (Adult, Young Adult, Junior).</p>
+      </div>
+    </div>
+
+    <h2>What We Track</h2>
+    <ul>
+      <li><strong>Book Details:</strong> Title, author, publisher, publication dates, ISBN/ASIN</li>
+      <li><strong>Timeline Information:</strong> In-universe chronology (BBY/ABY)</li>
+      <li><strong>Series & Categories:</strong> Book series, eras, and reading order</li>
+      <li><strong>Format Availability:</strong> Hardcover, paperback, eBook, audiobook</li>
+      <li><strong>Audio Details:</strong> Narrators, publishers, runtime for audiobooks</li>
+      <li><strong>Canon Status:</strong> Canon vs Legends designation</li>
+    </ul>
+
+    <h2>Data API</h2>
+    <p>
+      This site serves as a JSON API for Star Wars book data, freely available for developers and fans
+      building Star Wars reading apps and tools.
+    </p>
+    <p>
+      <a href="books-data.json">View Books Database (JSON)</a>
+    </p>
+
+    <h2>Affiliate Disclosure</h2>
+    <p>
+      As an Amazon Associate, we earn from qualifying purchases. When you purchase books through our
+      Amazon links, we may receive a small commission at no extra cost to you. This helps support the
+      maintenance and development of this free resource.
+    </p>
+
+    <div class="footer">
+      <p>&copy; 2024 Star Wars Book Checklist | A fan-made resource for the Star Wars community</p>
+      <p style="margin-top: 10px; font-size: 0.9rem;">
+        Star Wars is a trademark of Lucasfilm Ltd. This is an unofficial fan project not affiliated with Disney or Lucasfilm.
+      </p>
+    </div>
+  </div>
+</body>
+</html>
