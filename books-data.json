@@ -3,6 +3,9 @@
     "id": 1,
     "title": "A New Dawn",
     "sort_title": "New Dawn",
+    "author": [
+      "John Jackson Miller"
+    ],
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "09/02/2014",
@@ -18,20 +21,17 @@
     "audio_runtime": 750,
     "timeline_text": "11 BBY",
     "sort_timeline_yavin": -11,
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
-    "canon": 1,
     "series": [],
-    "author": [
-      "John Jackson Miller"
-    ]
+    "canon": 1,
+    "series_order": {}
   },
   {
     "id": 2,
     "title": "Tarkin",
     "sort_title": "Tarkin",
+    "author": [
+      "James Luceno"
+    ],
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "11/04/2014",
@@ -47,25 +47,22 @@
     "audio_runtime": 570,
     "timeline_text": "14 BBY",
     "sort_timeline_yavin": -14,
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
-    "canon": 1,
     "series": [],
-    "author": [
-      "James Luceno"
-    ]
+    "canon": 1,
+    "series_order": {}
   },
   {
     "id": 3,
     "title": "Heir to the Jedi",
     "sort_title": "Heir to the Jedi",
+    "author": [
+      "Kevin Hearne"
+    ],
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "03/03/2015",
     "pub_date_all": "March 3, 2015 (Hardcover, eBook)\nNovember 24, 2015 (Paperback)",
-    "pub_summary": "Luke Skywalker’s game-changing destruction of the Death Star has made him not only a hero of the Rebel Alliance but a valuable asset in the ongoing battle against the Empire. Though he’s a long way from mastering the power of the Force, there’s no denying his phenomenal skills as a pilot—and in the eyes of Rebel leaders Princess Leia Organa and Admiral Ackbar, there’s no one better qualified to carry out a daring rescue mission crucial to the Alliance cause.\n\nA brilliant alien cryptographer renowned for her ability to breach even the most advanced communications systems is being detained by Imperial agents determined to exploit her exceptional talents for the Empire’s purposes. But the prospective spy’s sympathies lie with the Rebels, and she’s willing to join their effort in exchange for being reunited with her family. It’s an opportunity to gain a critical edge against the Empire that’s too precious to pass up. It’s also a job that demands the element of surprise. So Luke and the ever-resourceful droid R2-D2 swap their trusty X-wing fighter for a sleek space yacht piloted by brash recruit Nakari Kelen, daughter of a biotech mogul, who’s got a score of her own to settle with the Empire.\n\nChallenged by ruthless Imperial bodyguards, death-dealing enemy battleships, merciless bounty hunters, and monstrous brain-eating parasites, Luke plunges head-on into a high-stakes espionage operation that will push his abilities as a Rebel fighter and would-be Jedi to the limit. If ever he needed the wisdom of Obi-Wan Kenobi to shepherd him through danger, it’s now. But Luke will have to rely on himself, his friends, and his own burgeoning relationship with the Force to survive.",
+    "pub_summary": "Luke Skywalker's game-changing destruction of the Death Star has made him not only a hero of the Rebel Alliance but a valuable asset in the ongoing battle against the Empire. Though he's a long way from mastering the power of the Force, there's no denying his phenomenal skills as a pilot—and in the eyes of Rebel leaders Princess Leia Organa and Admiral Ackbar, there's no one better qualified to carry out a daring rescue mission crucial to the Alliance cause.\n\nA brilliant alien cryptographer renowned for her ability to breach even the most advanced communications systems is being detained by Imperial agents determined to exploit her exceptional talents for the Empire's purposes. But the prospective spy's sympathies lie with the Rebels, and she's willing to join their effort in exchange for being reunited with her family. It's an opportunity to gain a critical edge against the Empire that's too precious to pass up. It's also a job that demands the element of surprise. So Luke and the ever-resourceful droid R2-D2 swap their trusty X-wing fighter for a sleek space yacht piloted by brash recruit Nakari Kelen, daughter of a biotech mogul, who's got a score of her own to settle with the Empire.\n\nChallenged by ruthless Imperial bodyguards, death-dealing enemy battleships, merciless bounty hunters, and monstrous brain-eating parasites, Luke plunges head-on into a high-stakes espionage operation that will push his abilities as a Rebel fighter and would-be Jedi to the limit. If ever he needed the wisdom of Obi-Wan Kenobi to shepherd him through danger, it's now. But Luke will have to rely on himself, his friends, and his own burgeoning relationship with the Force to survive.",
     "pages": 304,
     "isbn": "9780345544858",
     "asin": "B00MKZ3VMW",
@@ -76,20 +73,17 @@
     "audio_runtime": 542,
     "timeline_text": "0 ABY",
     "sort_timeline_yavin": null,
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
-    "canon": 1,
     "series": [],
-    "author": [
-      "Kevin Hearne"
-    ]
+    "canon": 1,
+    "series_order": {}
   },
   {
     "id": 4,
     "title": "Lords of the Sith",
     "sort_title": "Lords of the Sith",
+    "author": [
+      "Paul S. Kemp"
+    ],
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "04/28/2015",
@@ -105,20 +99,17 @@
     "audio_runtime": 657,
     "timeline_text": "14 BBY",
     "sort_timeline_yavin": -14,
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
-    "canon": 1,
     "series": [],
-    "author": [
-      "Paul S. Kemp"
-    ]
+    "canon": 1,
+    "series_order": {}
   },
   {
     "id": 5,
     "title": "Dark Disciple",
     "sort_title": "Dark Disciple",
+    "author": [
+      "Christie Golden"
+    ],
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "07/07/2015",
@@ -134,15 +125,9 @@
     "audio_runtime": 660,
     "timeline_text": "19 BBY\t",
     "sort_timeline_yavin": -19,
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
-    "canon": 1,
     "series": [],
-    "author": [
-      "Christie Golden"
-    ]
+    "canon": 1,
+    "series_order": {}
   },
   {
     "id": 6,
@@ -163,22 +148,22 @@
     "audio_runtime": 702,
     "timeline_text": "11 BBY – 5 ABY",
     "sort_timeline_yavin": -11,
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 0,
     "canon": 1,
     "series": [
       "Journey to Star Wars: The Force Awakens"
     ],
     "author": [
       "Claudia Gray"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 7,
     "title": "Aftermath",
     "sort_title": "Aftermath",
+    "author": [
+      "Chuck Wendig"
+    ],
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "09/04/2015",
@@ -194,22 +179,22 @@
     "audio_runtime": 750,
     "timeline_text": "4 ABY",
     "sort_timeline_yavin": 4,
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
-    "canon": 1,
     "series": [
-      "The Aftermath Trilogy"
+      "The Aftermath Trilogy",
+      "Journey to Star Wars: The Force Awakens"
     ],
-    "author": [
-      "Chuck Wendig"
-    ]
+    "series_order": {
+      "The Aftermath Trilogy": 1
+    },
+    "canon": 1
   },
   {
     "id": 8,
     "title": "Battlefront: Twilight Company",
     "sort_title": "Battlefront: Twilight Company",
+    "author": [
+      "Alexander Freed"
+    ],
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "11/03/2015",
@@ -225,22 +210,19 @@
     "audio_runtime": 838,
     "timeline_text": "6 BBY – 3 ABY",
     "sort_timeline_yavin": -6,
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
-    "canon": 1,
     "series": [
       "Battlefront"
     ],
-    "author": [
-      "Alexander Freed"
-    ]
+    "canon": 1,
+    "series_order": {}
   },
   {
     "id": 9,
     "title": "Bloodline",
     "sort_title": "Bloodline",
+    "author": [
+      "Claudia Gray"
+    ],
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "05/03/2016",
@@ -256,20 +238,17 @@
     "audio_runtime": 750,
     "timeline_text": "28 ABY",
     "sort_timeline_yavin": 28,
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
-    "canon": 1,
     "series": [],
-    "author": [
-      "Claudia Gray"
-    ]
+    "canon": 1,
+    "series_order": {}
   },
   {
     "id": 10,
-    "title": "Aftermath: Life Debt",
+    "title": "Life Debt",
     "sort_title": "Life Debt",
+    "author": [
+      "Chuck Wendig"
+    ],
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "07/12/2016",
@@ -285,17 +264,13 @@
     "audio_runtime": 930,
     "timeline_text": "5 ABY",
     "sort_timeline_yavin": 5,
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
-    "canon": 1,
     "series": [
       "The Aftermath Trilogy"
     ],
-    "author": [
-      "Chuck Wendig"
-    ]
+    "series_order": {
+      "The Aftermath Trilogy": 2
+    },
+    "canon": 1
   },
   {
     "id": 11,
@@ -316,20 +291,20 @@
     "audio_runtime": 424,
     "timeline_text": "18 BBY",
     "sort_timeline_yavin": -18,
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
     "canon": 1,
     "series": [],
     "author": [
       "E. K. Johnston"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 12,
-    "title": "Catalyst: A Rogue One Novel",
-    "sort_title": "Catalyst: A Rogue One Novel",
+    "title": "Catalyst",
+    "sort_title": "Catalyst",
+    "author": [
+      "James Luceno"
+    ],
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "11/15/2016",
@@ -345,20 +320,17 @@
     "audio_runtime": 660,
     "timeline_text": "21 BBY – 17 BBY",
     "sort_timeline_yavin": -21,
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
-    "canon": 1,
     "series": [],
-    "author": [
-      "James Luceno"
-    ]
+    "canon": 1,
+    "series_order": {}
   },
   {
     "id": 13,
     "title": "Thrawn",
     "sort_title": "Thrawn",
+    "author": [
+      "Timothy Zahn"
+    ],
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "04/11/2017",
@@ -372,19 +344,13 @@
     "audio_narrator": "Marc Thompson",
     "audio_publisher": "Random House Audio",
     "audio_runtime": 1020,
-    "timeline_text": "16 BBY – 2 BBY",
-    "sort_timeline_yavin": -16,
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
-    "canon": 1,
+    "timeline_text": "15 BBY – 2 BBY",
+    "sort_timeline_yavin": -15,
     "series": [
       "The Imperial Trilogy"
     ],
-    "author": [
-      "Timothy Zahn"
-    ]
+    "canon": 1,
+    "series_order": {}
   },
   {
     "id": 14,
@@ -405,20 +371,20 @@
     "audio_runtime": 593,
     "timeline_text": "13 BBY – 1 BBY",
     "sort_timeline_yavin": -13,
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
     "canon": 1,
     "series": [],
     "author": [
       "Beth Revis"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 15,
-    "title": "Aftermath: Empire's End",
+    "title": "Empire's End",
     "sort_title": "Empire's End",
+    "author": [
+      "Chuck Wendig"
+    ],
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "02/21/2017",
@@ -434,22 +400,21 @@
     "audio_runtime": 960,
     "timeline_text": "5 ABY",
     "sort_timeline_yavin": 5,
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
-    "canon": 1,
     "series": [
       "The Aftermath Trilogy"
     ],
-    "author": [
-      "Chuck Wendig"
-    ]
+    "series_order": {
+      "The Aftermath Trilogy": 3
+    },
+    "canon": 1
   },
   {
     "id": 16,
     "title": "Battlefront II: Inferno Squad",
     "sort_title": "Battlefront II: Inferno Squad",
+    "author": [
+      "Christie Golden"
+    ],
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "07/25/2017",
@@ -465,27 +430,24 @@
     "audio_runtime": 622,
     "timeline_text": "0",
     "sort_timeline_yavin": null,
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
-    "canon": 1,
     "series": [
       "Battlefront"
     ],
-    "author": [
-      "Christie Golden"
-    ]
+    "canon": 1,
+    "series_order": {}
   },
   {
     "id": 17,
     "title": "Phasma",
     "sort_title": "Phasma",
+    "author": [
+      "Delilah S. Dawson"
+    ],
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "09/01/2017",
     "pub_date_all": "September 1, 2017 (Hardcover, eBook)\nApril 24, 2018 (Paperback)",
-    "pub_summary": "Discover Captain Phasma’s mysterious history in this “Journey to Star Wars: The Last Jedi” novel.\n\nOne of the most cunning and merciless officers of the First Order, Captain Phasma commands the favor of her superiors, the respect of her peers, and the terror of her enemies. But for all her renown, Phasma remains as virtually unknown as the impassive expression on her gleaming chrome helmet. Now, an adversary is bent on unearthing her mysterious origins—and exposing a secret she guards as zealously and ruthlessly as she serves her masters.\n\nDeep inside the Battlecruiser Absolution, a captured Resistance spy endures brutal interrogation at the hands of a crimson-armored stormtrooper—Cardinal. But the information he desires has nothing to do with the Resistance or its covert operations against the First Order.\n\nWhat the mysterious stormtrooper wants is Phasma’s past—and with it whatever long-buried scandal, treachery, or private demons he can wield against the hated rival who threatens his own power and privilege in the ranks of the First Order. His prisoner has what Cardinal so desperately seeks, but she won’t surrender it easily. As she wages a painstaking war of wills with her captor, bargaining for her life in exchange for every precious revelation, the spellbinding chronicle of the inscrutable Phasma unfolds. But this knowledge may prove more than just dangerous once Cardinal possesses it—and once his adversary unleashes the full measure of her fury.",
+    "pub_summary": "Discover Captain Phasma's mysterious history in this \"Journey to Star Wars: The Last Jedi\" novel.\n\nOne of the most cunning and merciless officers of the First Order, Captain Phasma commands the favor of her superiors, the respect of her peers, and the terror of her enemies. But for all her renown, Phasma remains as virtually unknown as the impassive expression on her gleaming chrome helmet. Now, an adversary is bent on unearthing her mysterious origins—and exposing a secret she guards as zealously and ruthlessly as she serves her masters.\n\nDeep inside the Battlecruiser Absolution, a captured Resistance spy endures brutal interrogation at the hands of a crimson-armored stormtrooper—Cardinal. But the information he desires has nothing to do with the Resistance or its covert operations against the First Order.\n\nWhat the mysterious stormtrooper wants is Phasma's past—and with it whatever long-buried scandal, treachery, or private demons he can wield against the hated rival who threatens his own power and privilege in the ranks of the First Order. His prisoner has what Cardinal so desperately seeks, but she won't surrender it easily. As she wages a painstaking war of wills with her captor, bargaining for her life in exchange for every precious revelation, the spellbinding chronicle of the inscrutable Phasma unfolds. But this knowledge may prove more than just dangerous once Cardinal possesses it—and once his adversary unleashes the full measure of her fury.",
     "pages": 380,
     "isbn": "9781524796310",
     "asin": "B071YBLDCB",
@@ -496,17 +458,11 @@
     "audio_runtime": 750,
     "timeline_text": "34 ABY",
     "sort_timeline_yavin": 34,
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
-    "canon": 1,
     "series": [
       "Journey to Star Wars: The Last Jedi"
     ],
-    "author": [
-      "Delilah S. Dawson"
-    ]
+    "canon": 1,
+    "series_order": {}
   },
   {
     "id": 18,
@@ -527,17 +483,14 @@
     "audio_runtime": 594,
     "timeline_text": "3 BBY",
     "sort_timeline_yavin": -3,
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
     "canon": 1,
     "series": [
       "Journey to Star Wars: The Last Jedi"
     ],
     "author": [
       "Claudia Gray"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 19,
@@ -558,15 +511,12 @@
     "audio_runtime": 660,
     "timeline_text": "7 ABY",
     "sort_timeline_yavin": 7,
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
     "canon": 1,
     "series": [],
     "author": [
       "Daniel José Older"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 20,
@@ -587,15 +537,12 @@
     "audio_runtime": 476,
     "timeline_text": "13 BBY",
     "sort_timeline_yavin": -13,
-    "type_hc": 1,
-    "type_pb": 0,
-    "type_eb": 1,
-    "type_ab": 1,
     "canon": 1,
     "series": [],
     "author": [
       "Rae Carson"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 21,
@@ -616,17 +563,14 @@
     "audio_runtime": 810,
     "timeline_text": "19 BBY (Past)1 BBY (Present)",
     "sort_timeline_yavin": -19,
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
     "canon": 1,
     "series": [
       "The Imperial Trilogy"
     ],
     "author": [
       "Timothy Zahn"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 22,
@@ -647,17 +591,14 @@
     "audio_runtime": 502,
     "timeline_text": "28 BBY",
     "sort_timeline_yavin": -28,
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
     "canon": 1,
     "series": [
       "Queen's Series"
     ],
     "author": [
       "E. K. Johnston"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 23,
@@ -678,15 +619,12 @@
     "audio_runtime": 690,
     "timeline_text": "40 BBY32 BBY (Epilogue)",
     "sort_timeline_yavin": -40,
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
     "canon": 1,
     "series": [],
     "author": [
       "Claudia Gray"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 24,
@@ -707,17 +645,14 @@
     "audio_runtime": 840,
     "timeline_text": "4 ABY",
     "sort_timeline_yavin": 4,
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
     "canon": 1,
     "series": [
       "Alphabet Squadron"
     ],
     "author": [
       "Alexander Freed"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 25,
@@ -738,17 +673,14 @@
     "audio_runtime": 780,
     "timeline_text": "1 BBY",
     "sort_timeline_yavin": -1,
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
     "canon": 1,
     "series": [
       "The Imperial Trilogy"
     ],
     "author": [
       "Timothy Zahn"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 26,
@@ -769,17 +701,14 @@
     "audio_runtime": 475,
     "timeline_text": "34 ABY",
     "sort_timeline_yavin": 34,
-    "type_hc": 1,
-    "type_pb": 0,
-    "type_eb": 1,
-    "type_ab": 1,
     "canon": 1,
     "series": [
       "Galaxy's Edge"
     ],
     "author": [
       "Zoraida Córdova"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 27,
@@ -800,17 +729,14 @@
     "audio_runtime": 780,
     "timeline_text": "34 ABY",
     "sort_timeline_yavin": 34,
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
     "canon": 1,
     "series": [
       "Galaxy's Edge"
     ],
     "author": [
       "Delilah S. Dawson"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 28,
@@ -831,17 +757,14 @@
     "audio_runtime": 690,
     "timeline_text": "34 ABY",
     "sort_timeline_yavin": 34,
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
     "canon": 1,
     "series": [
       "Journey to Star Wars: The Rise of Skywalker"
     ],
     "author": [
       "Rebecca Roanhorse"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 29,
@@ -862,17 +785,14 @@
     "audio_runtime": 494,
     "timeline_text": "32 ABY",
     "sort_timeline_yavin": 32,
-    "type_hc": 1,
-    "type_pb": 0,
-    "type_eb": 1,
-    "type_ab": 1,
     "canon": 1,
     "series": [
       "Journey to Star Wars: The Rise of Skywalker"
     ],
     "author": [
       "Kevin Shinick"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 30,
@@ -893,17 +813,14 @@
     "audio_runtime": 371,
     "timeline_text": "32 BBY",
     "sort_timeline_yavin": -32,
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
     "canon": 1,
     "series": [
       "Queen's Series"
     ],
     "author": [
       "E. K. Johnston"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 31,
@@ -924,17 +841,14 @@
     "audio_runtime": 900,
     "timeline_text": "5 ABY",
     "sort_timeline_yavin": 5,
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
     "canon": 1,
     "series": [
       "Alphabet Squadron"
     ],
     "author": [
       "Alexander Freed"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 32,
@@ -955,15 +869,12 @@
     "audio_runtime": 510,
     "timeline_text": "18 ABY – 19 ABY",
     "sort_timeline_yavin": 18,
-    "type_hc": 1,
-    "type_pb": 0,
-    "type_eb": 1,
-    "type_ab": 1,
     "canon": 1,
     "series": [],
     "author": [
       "Alex Segura"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 33,
@@ -984,17 +895,14 @@
     "audio_runtime": 780,
     "timeline_text": "19 BBY",
     "sort_timeline_yavin": -19,
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
     "canon": 1,
     "series": [
       "The Ascendancy Trilogy"
     ],
     "author": [
       "Timothy Zahn"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 34,
@@ -1015,10 +923,6 @@
     "audio_runtime": 780,
     "timeline_text": "232 BBY",
     "sort_timeline_yavin": -232,
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
     "canon": 1,
     "series": [
       "The High Republic",
@@ -1026,7 +930,8 @@
     ],
     "author": [
       "Charles Soule"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 35,
@@ -1047,10 +952,6 @@
     "audio_runtime": 600,
     "timeline_text": "232 BBY",
     "sort_timeline_yavin": -232,
-    "type_hc": 1,
-    "type_pb": 0,
-    "type_eb": 1,
-    "type_ab": 1,
     "canon": 1,
     "series": [
       "The High Republic",
@@ -1058,7 +959,8 @@
     ],
     "author": [
       "Claudia Gray"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 36,
@@ -1079,17 +981,14 @@
     "audio_runtime": 980,
     "timeline_text": "5 ABY",
     "sort_timeline_yavin": 5,
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
     "canon": 1,
     "series": [
       "Alphabet Squadron"
     ],
     "author": [
       "Alexander Freed"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 37,
@@ -1110,17 +1009,14 @@
     "audio_runtime": 840,
     "timeline_text": "18 BBY",
     "sort_timeline_yavin": -18,
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
     "canon": 1,
     "series": [
       "The Ascendancy Trilogy"
     ],
     "author": [
       "Timothy Zahn"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 39,
@@ -1145,14 +1041,11 @@
       "The High Republic",
       "Phase I: Quest of the Jedi"
     ],
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
     "canon": 1,
     "author": [
       "Justina Ireland"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 40,
@@ -1173,17 +1066,14 @@
     "audio_runtime": 1394,
     "timeline_text": "18 BBY",
     "sort_timeline_yavin": -18,
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
     "canon": 1,
     "series": [
       "The Ascendancy Trilogy"
     ],
     "author": [
       "Timothy Zahn"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 41,
@@ -1204,10 +1094,6 @@
     "audio_runtime": 840,
     "timeline_text": "230 BBY",
     "sort_timeline_yavin": -230,
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
     "canon": 1,
     "series": [
       "The High Republic",
@@ -1215,7 +1101,8 @@
     ],
     "author": [
       "Claudia Gray"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 42,
@@ -1236,10 +1123,6 @@
     "audio_runtime": 605,
     "timeline_text": "230 BBY",
     "sort_timeline_yavin": -230,
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
     "canon": 1,
     "series": [
       "The High Republic",
@@ -1247,7 +1130,8 @@
     ],
     "author": [
       "Daniel José Older"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 43,
@@ -1268,17 +1152,14 @@
     "audio_runtime": 400,
     "timeline_text": "22 BBY",
     "sort_timeline_yavin": -22,
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
     "canon": 1,
     "series": [
       "Queen's Series"
     ],
     "author": [
       "E. K. Johnston"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 44,
@@ -1299,15 +1180,12 @@
     "audio_runtime": 766,
     "timeline_text": "22 BBY",
     "sort_timeline_yavin": -22,
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
     "canon": 1,
     "series": [],
     "author": [
       "Mike Chen"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 45,
@@ -1328,15 +1206,12 @@
     "audio_runtime": 1032,
     "timeline_text": "21 ABY",
     "sort_timeline_yavin": 21,
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
     "canon": 1,
     "series": [],
     "author": [
       "Adam Christopher"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 46,
@@ -1358,14 +1233,11 @@
     "timeline_text": "41 BBY",
     "sort_timeline_yavin": -41,
     "series": [],
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
     "canon": 1,
     "author": [
       "Kiersten White"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 47,
@@ -1386,15 +1258,12 @@
     "audio_runtime": 765,
     "timeline_text": "4 ABY",
     "sort_timeline_yavin": 4,
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
     "canon": 1,
     "series": [],
     "author": [
       "Beth Revis"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 48,
@@ -1419,15 +1288,12 @@
       "The High Republic",
       "Phase II: Light of the Jedi"
     ],
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
     "canon": 1,
     "author": [
       "Tessa Gratton",
       "Justina Ireland"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 49,
@@ -1448,10 +1314,6 @@
     "audio_runtime": 808,
     "timeline_text": "382 BBY",
     "sort_timeline_yavin": -382,
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
     "canon": 1,
     "series": [
       "The High Republic",
@@ -1459,7 +1321,8 @@
     ],
     "author": [
       "Zoraida Córdova"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 50,
@@ -1480,17 +1343,14 @@
     "audio_runtime": 628,
     "timeline_text": "12 BBY",
     "sort_timeline_yavin": -12,
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
     "canon": 1,
     "series": [
       "Jedi"
     ],
     "author": [
       "Sam Maggs"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 51,
@@ -1511,10 +1371,6 @@
     "audio_runtime": 840,
     "timeline_text": "382 BBY",
     "sort_timeline_yavin": -382,
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
     "canon": 1,
     "series": [
       "The High Republic",
@@ -1522,7 +1378,8 @@
     ],
     "author": [
       "Lydia Kang"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 53,
@@ -1543,18 +1400,20 @@
     "audio_runtime": null,
     "timeline_text": "22 BBY–14 BBY",
     "sort_timeline_yavin": -22,
-    "type_hc": 1,
-    "type_pb": 1,
-    "type_eb": 1,
-    "type_ab": 1,
     "canon": 1,
     "series": [],
     "author": [
       "Delilah S. Dawson"
-    ]
+    ],
+    "series_order": {}
   },
   {
-    "title": "Star Wars: The Force Awakens",
+    "id": 55,
+    "title": "The Force Awakens",
+    "sort_title": "Force Awakens",
+    "author": [
+      "Alan Dean Foster"
+    ],
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "12/18/2015",
@@ -1563,27 +1422,24 @@
     "pages": 272,
     "isbn": "9781101965498",
     "asin": null,
-    "cover_url": null,
+    "audio_asin": null,
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/b/b9/The_Force_Awakens_novelization_final_cover.jpg/revision/latest/scale-to-width-down/500?cb=20190531021855",
     "audio_narrator": null,
     "audio_publisher": null,
     "audio_runtime": null,
-    "audio_asin": null,
     "timeline_text": "34 ABY",
     "sort_timeline_yavin": 34,
-    "type_hc": 0,
-    "type_pb": 0,
-    "type_eb": 0,
-    "type_ab": 0,
-    "canon": 1,
-    "id": 55,
-    "sort_title": "Star Wars: The Force Awakens",
     "series": [],
-    "author": [
-      "Alan Dean Foster"
-    ]
+    "canon": 1,
+    "series_order": {}
   },
   {
-    "title": "Rogue One: A Star Wars Story",
+    "id": 56,
+    "title": "Rogue One",
+    "sort_title": "Rogue One",
+    "author": [
+      "Alexander Freed"
+    ],
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "12/16/2016",
@@ -1592,29 +1448,24 @@
     "pages": 352,
     "isbn": "9780399178450",
     "asin": null,
-    "cover_url": null,
+    "audio_asin": null,
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/1/18/RogueOneNovel.png/revision/latest/scale-to-width-down/500?cb=20161109122101",
     "audio_narrator": null,
     "audio_publisher": null,
     "audio_runtime": null,
-    "audio_asin": null,
     "timeline_text": "13 BBY–1 BBY",
     "sort_timeline_yavin": -13,
-    "type_hc": 0,
-    "type_pb": 0,
-    "type_eb": 0,
-    "type_ab": 0,
-    "canon": 1,
-    "id": 56,
-    "sort_title": "Rogue One: A Star Wars Story",
     "series": [],
-    "author": [
-      "Alexander Freed"
-    ]
+    "canon": 1,
+    "series_order": {}
   },
   {
     "id": 57,
     "title": "From a Certain Point of View",
     "sort_title": "From a Certain Point of View",
+    "author": [
+      "Various"
+    ],
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "10/03/2017",
@@ -1624,23 +1475,17 @@
     "isbn": "9780345511478",
     "asin": null,
     "audio_asin": null,
-    "cover_url": null,
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/c/c4/FACPOV-Paperback.png/revision/latest/scale-to-width-down/500?cb=20211011044249",
     "audio_narrator": null,
     "audio_publisher": null,
     "audio_runtime": null,
     "timeline_text": "0",
     "sort_timeline_yavin": null,
-    "type_hc": 0,
-    "type_pb": 0,
-    "type_eb": 0,
-    "type_ab": 0,
-    "canon": 1,
     "series": [
       "From a Certain Point of View"
     ],
-    "author": [
-      "Various"
-    ]
+    "canon": 1,
+    "series_order": {}
   },
   {
     "title": "Canto Bight",
@@ -1659,10 +1504,6 @@
     "audio_asin": null,
     "timeline_text": "34 ABY",
     "sort_timeline_yavin": 34,
-    "type_hc": 0,
-    "type_pb": 0,
-    "type_eb": 0,
-    "type_ab": 0,
     "canon": 1,
     "id": 58,
     "sort_title": "Canto Bight",
@@ -1671,7 +1512,8 @@
     ],
     "author": [
       "Various"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 59,
@@ -1692,15 +1534,12 @@
     "audio_runtime": null,
     "timeline_text": "34 ABY",
     "sort_timeline_yavin": 34,
-    "type_hc": 0,
-    "type_pb": 0,
-    "type_eb": 0,
-    "type_ab": 0,
     "canon": 1,
     "series": [],
     "author": [
       "Jason Fry"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "title": "Solo: A Star Wars Story: Expanded Edition",
@@ -1719,17 +1558,14 @@
     "audio_asin": null,
     "timeline_text": "13 BBY–10 BBY",
     "sort_timeline_yavin": -13,
-    "type_hc": 0,
-    "type_pb": 0,
-    "type_eb": 0,
-    "type_ab": 0,
     "canon": 1,
     "id": 60,
     "sort_title": "Solo: A Star Wars Story: Expanded Edition",
     "series": [],
     "author": [
       "Mur Lafferty"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 61,
@@ -1750,15 +1586,12 @@
     "audio_runtime": null,
     "timeline_text": "23 BBY",
     "sort_timeline_yavin": -23,
-    "type_hc": 0,
-    "type_pb": 0,
-    "type_eb": 0,
-    "type_ab": 0,
     "canon": 1,
     "series": [],
     "author": [
       "Cavan Scott"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 62,
@@ -1779,15 +1612,12 @@
     "audio_runtime": null,
     "timeline_text": "35 ABY",
     "sort_timeline_yavin": 35,
-    "type_hc": 0,
-    "type_pb": 0,
-    "type_eb": 0,
-    "type_ab": 0,
     "canon": 1,
     "series": [],
     "author": [
       "Rae Carson"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 63,
@@ -1808,17 +1638,14 @@
     "audio_runtime": null,
     "timeline_text": "3 ABY",
     "sort_timeline_yavin": 3,
-    "type_hc": 0,
-    "type_pb": 0,
-    "type_eb": 0,
-    "type_ab": 0,
     "canon": 1,
     "series": [
       "From a Certain Point of View"
     ],
     "author": [
       "Various"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 64,
@@ -1839,15 +1666,12 @@
     "audio_runtime": null,
     "timeline_text": "0 ABY",
     "sort_timeline_yavin": null,
-    "type_hc": 0,
-    "type_pb": 0,
-    "type_eb": 0,
-    "type_ab": 0,
     "canon": 1,
     "series": [],
     "author": [
       "Sarah Kuhn"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 65,
@@ -1868,10 +1692,6 @@
     "audio_runtime": null,
     "timeline_text": "231 BBY",
     "sort_timeline_yavin": -231,
-    "type_hc": 0,
-    "type_pb": 0,
-    "type_eb": 0,
-    "type_ab": 0,
     "canon": 1,
     "series": [
       "The High Republic",
@@ -1879,7 +1699,8 @@
     ],
     "author": [
       "Cavan Scott"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 66,
@@ -1900,17 +1721,14 @@
     "audio_runtime": null,
     "timeline_text": null,
     "sort_timeline_yavin": null,
-    "type_hc": 0,
-    "type_pb": 0,
-    "type_eb": 0,
-    "type_ab": 0,
     "canon": 0,
     "series": [
       "Visions"
     ],
     "author": [
       "Emma Mieko Candon"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 67,
@@ -1931,17 +1749,14 @@
     "audio_runtime": null,
     "timeline_text": "231 BBY",
     "sort_timeline_yavin": -231,
-    "type_hc": 0,
-    "type_pb": 0,
-    "type_eb": 0,
-    "type_ab": 0,
     "canon": 1,
     "series": [
       "The High Republic"
     ],
     "author": [
       "Cavan Scott"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 68,
@@ -1962,10 +1777,6 @@
     "audio_runtime": null,
     "timeline_text": null,
     "sort_timeline_yavin": null,
-    "type_hc": 0,
-    "type_pb": 0,
-    "type_eb": 0,
-    "type_ab": 0,
     "canon": 1,
     "series": [
       "The High Republic",
@@ -1973,7 +1784,8 @@
     ],
     "author": [
       "Various"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 69,
@@ -1994,10 +1806,6 @@
     "audio_runtime": null,
     "timeline_text": "382 BBY",
     "sort_timeline_yavin": -382,
-    "type_hc": 0,
-    "type_pb": 0,
-    "type_eb": 0,
-    "type_ab": 0,
     "canon": 1,
     "series": [
       "The High Republic",
@@ -2005,7 +1813,8 @@
     ],
     "author": [
       "George Mann"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 70,
@@ -2026,17 +1835,14 @@
     "audio_runtime": null,
     "timeline_text": "4 ABY",
     "sort_timeline_yavin": 4,
-    "type_hc": 0,
-    "type_pb": 0,
-    "type_eb": 0,
-    "type_ab": 0,
     "canon": 1,
     "series": [
       "From a Certain Point of View"
     ],
     "author": [
       "Various"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 71,
@@ -2057,10 +1863,6 @@
     "audio_runtime": null,
     "timeline_text": "229 BBY—228 BBY",
     "sort_timeline_yavin": -229,
-    "type_hc": 0,
-    "type_pb": 0,
-    "type_eb": 0,
-    "type_ab": 0,
     "canon": 1,
     "series": [
       "The High Republic",
@@ -2068,7 +1870,8 @@
     ],
     "author": [
       "George Mann"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 72,
@@ -2089,15 +1892,12 @@
     "audio_runtime": null,
     "timeline_text": "382 BBY—c. 377 BBY",
     "sort_timeline_yavin": -382,
-    "type_hc": 0,
-    "type_pb": 0,
-    "type_eb": 0,
-    "type_ab": 0,
     "canon": 1,
     "series": [],
     "author": [
       "George Mann"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 73,
@@ -2118,15 +1918,12 @@
     "audio_runtime": null,
     "timeline_text": "33 BBY",
     "sort_timeline_yavin": -33,
-    "type_hc": 0,
-    "type_pb": 0,
-    "type_eb": 0,
-    "type_ab": 0,
     "canon": 1,
     "series": [],
     "author": [
       "John Jackson Miller"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 74,
@@ -2147,10 +1944,6 @@
     "audio_runtime": null,
     "timeline_text": "228 BBY",
     "sort_timeline_yavin": -228,
-    "type_hc": 0,
-    "type_pb": 0,
-    "type_eb": 0,
-    "type_ab": 0,
     "canon": 1,
     "series": [
       "The High Republic",
@@ -2158,7 +1951,8 @@
     ],
     "author": [
       "Tessa Gratton"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 75,
@@ -2179,15 +1973,12 @@
     "audio_runtime": null,
     "timeline_text": null,
     "sort_timeline_yavin": null,
-    "type_hc": 0,
-    "type_pb": 0,
-    "type_eb": 0,
-    "type_ab": 0,
     "canon": 1,
     "series": [],
     "author": [
       "Chris Kempshall"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 76,
@@ -2208,15 +1999,12 @@
     "audio_runtime": null,
     "timeline_text": "c. 32 BBY",
     "sort_timeline_yavin": -32,
-    "type_hc": 0,
-    "type_pb": 0,
-    "type_eb": 0,
-    "type_ab": 0,
     "canon": 1,
     "series": [],
     "author": [
       "Steven Barnes"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 77,
@@ -2237,17 +2025,14 @@
     "audio_runtime": null,
     "timeline_text": "19–18 BBY",
     "sort_timeline_yavin": -18,
-    "type_hc": 0,
-    "type_pb": 0,
-    "type_eb": 0,
-    "type_ab": 0,
     "canon": 1,
     "series": [
       "Reign of the Empire"
     ],
     "author": [
       "Alexander Freed"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 78,
@@ -2268,15 +2053,12 @@
     "audio_runtime": null,
     "timeline_text": "160 BBY",
     "sort_timeline_yavin": -160,
-    "type_hc": 0,
-    "type_pb": 0,
-    "type_eb": 0,
-    "type_ab": 0,
     "canon": 1,
     "series": [],
     "author": [
       "Justina Ireland"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 79,
@@ -2297,10 +2079,6 @@
     "audio_runtime": null,
     "timeline_text": "228 BBY",
     "sort_timeline_yavin": -228,
-    "type_hc": 0,
-    "type_pb": 0,
-    "type_eb": 0,
-    "type_ab": 0,
     "canon": 1,
     "series": [
       "The High Republic",
@@ -2308,7 +2086,8 @@
     ],
     "author": [
       "Cavan Scott"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 80,
@@ -2329,10 +2108,6 @@
     "audio_runtime": null,
     "timeline_text": "228 BBY",
     "sort_timeline_yavin": -228,
-    "type_hc": 0,
-    "type_pb": 0,
-    "type_eb": 0,
-    "type_ab": 0,
     "canon": 1,
     "series": [
       "The High Republic",
@@ -2340,7 +2115,8 @@
     ],
     "author": [
       "Charles Soule"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 81,
@@ -2361,15 +2137,12 @@
     "audio_runtime": null,
     "timeline_text": "c. 18 BBY",
     "sort_timeline_yavin": -18,
-    "type_hc": 0,
-    "type_pb": 0,
-    "type_eb": 0,
-    "type_ab": 0,
     "canon": 1,
     "series": [],
     "author": [
       "Lamar Giles"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 82,
@@ -2390,15 +2163,12 @@
     "audio_runtime": null,
     "timeline_text": "19 BBY",
     "sort_timeline_yavin": -19,
-    "type_hc": 0,
-    "type_pb": 0,
-    "type_eb": 0,
-    "type_ab": 0,
     "canon": 1,
     "series": [],
     "author": [
       "Adam Christopher"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 83,
@@ -2419,15 +2189,12 @@
     "audio_runtime": null,
     "timeline_text": "19 BBY - 10 BBY",
     "sort_timeline_yavin": -19,
-    "type_hc": 0,
-    "type_pb": 0,
-    "type_eb": 0,
-    "type_ab": 0,
     "canon": 1,
     "series": [],
     "author": [
       "Mike Chen"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 84,
@@ -2448,15 +2215,12 @@
     "audio_runtime": null,
     "timeline_text": "34 ABY - 35 ABY",
     "sort_timeline_yavin": 34,
-    "type_hc": 0,
-    "type_pb": 0,
-    "type_eb": 0,
-    "type_ab": 0,
     "canon": 1,
     "series": [],
     "author": [
       "Madeleine Roux"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "title": "Myths & Fables",
@@ -2475,10 +2239,6 @@
     "audio_asin": null,
     "timeline_text": "",
     "sort_timeline_yavin": null,
-    "type_hc": 0,
-    "type_pb": 0,
-    "type_eb": 0,
-    "type_ab": 0,
     "canon": 1,
     "id": 86,
     "sort_title": "Myths & Fables",
@@ -2487,7 +2247,8 @@
     ],
     "author": [
       "George Mann"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "title": "Dark Legends",
@@ -2506,20 +2267,22 @@
     "audio_asin": null,
     "timeline_text": "",
     "sort_timeline_yavin": null,
-    "type_hc": 0,
-    "type_pb": 0,
-    "type_eb": 0,
-    "type_ab": 0,
     "canon": 1,
     "id": 87,
     "sort_title": "Dark Legends",
     "series": [],
     "author": [
       "George Mann"
-    ]
+    ],
+    "series_order": {}
   },
   {
-    "title": "The Clone Wars: Stories of Light and Dark",
+    "id": 88,
+    "title": "Stories of Light and Dark",
+    "sort_title": "Stories of Light and Dark",
+    "author": [
+      "Various"
+    ],
     "publisher": "Disney Lucasfilm Press",
     "audience": "Young Adult",
     "pub_date": "08/25/2020",
@@ -2528,26 +2291,18 @@
     "pages": 384,
     "isbn": "9781368057295",
     "asin": null,
+    "audio_asin": null,
     "cover_url": "https://static.wikia.nocookie.net/starwars/images/4/42/StoriesOfLightAndDark.jpg/revision/latest/scale-to-width-down/500?cb=20200902014252",
     "audio_narrator": null,
     "audio_publisher": null,
     "audio_runtime": null,
-    "audio_asin": null,
-    "timeline_text": "22 BBY–19 BBY",
+    "timeline_text": "22 BBY – 19 BBY",
     "sort_timeline_yavin": -22,
-    "type_hc": 0,
-    "type_pb": 0,
-    "type_eb": 0,
-    "type_ab": 0,
-    "canon": 1,
-    "id": 88,
-    "sort_title": "Clone Wars: Stories of Light and Dark",
     "series": [
       "The Clone Wars"
     ],
-    "author": [
-      "Various"
-    ]
+    "canon": 1,
+    "series_order": {}
   },
   {
     "title": "Life Day Treasury",
@@ -2566,17 +2321,14 @@
     "audio_asin": null,
     "timeline_text": "",
     "sort_timeline_yavin": null,
-    "type_hc": 0,
-    "type_pb": 0,
-    "type_eb": 0,
-    "type_ab": 0,
     "canon": 1,
     "id": 89,
     "sort_title": "Life Day Treasury",
     "series": [],
     "author": [
       "George MannCavan Scott"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "title": "Path of Vengeance",
@@ -2599,16 +2351,13 @@
       "The High Republic",
       "Phase II: Light of the Jedi"
     ],
-    "type_hc": 0,
-    "type_pb": 0,
-    "type_eb": 0,
-    "type_ab": 0,
     "canon": 1,
     "id": 90,
     "sort_title": "Path of Vengeance",
     "author": [
       "Cavan Scott"
-    ]
+    ],
+    "series_order": {}
   },
   {
     "id": 91,
@@ -2632,13 +2381,204 @@
     "series": [
       "The High Republic"
     ],
-    "type_hc": 0,
-    "type_pb": 0,
-    "type_eb": 0,
-    "type_ab": 0,
     "canon": 1,
     "author": [
       "Various"
-    ]
+    ],
+    "series_order": {}
+  },
+  {
+    "id": 92,
+    "title": "Crimson Climb",
+    "sort_title": "Crimson Climb",
+    "author": [
+      "E. K. Johnston"
+    ],
+    "publisher": "Disney Lucasfilm Press",
+    "audience": "Young Adult",
+    "pub_date": "10/10/2023",
+    "pub_date_all": null,
+    "pub_summary": "New York Times bestselling author E. K. Johnston, author of the Queens series starring Padmé Amidala, brings fans an untold story about Qi'ra, portrayed by Emilia Clarke in Star Wars: A Solo Story. [sic]\n\nNot everyone gets to be the hero.\n\nQi'ra listened to the dreams and promises of a boy with a reckless smile, only to be torn away from him and returned to the White Worms gang while Han made his way to freedom. Now freedom seems like a luxury she can't afford while she concentrates on survival and despairs of ever leaving Corellia. But her fortunes seem to turn when a representative of the crime syndicate Crimson Dawn plucks Qi'ra from captivity and brings her to the syndicate's leader, the mysterious and mercurial Dryden Vos. Vos offers Qi'ra an opportunity she's never had before: the chance to build something resembling a comfortable life if she can prove her worth to his organization. With failure meaning certain death, Qi'ra knows she must immerse herself in the merciless, murderous world of Crimson Dawn. What she doesn't know is just who she will be if she survives….",
+    "pages": 368,
+    "isbn": "9781368093750",
+    "asin": null,
+    "audio_asin": null,
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/f/f5/CrimsonClimb-revealcover.jpg/revision/latest/scale-to-width-down/500?cb=20230208001041",
+    "audio_narrator": null,
+    "audio_publisher": null,
+    "audio_runtime": null,
+    "timeline_text": "13 BBY – 12 BBY",
+    "sort_timeline_yavin": -13,
+    "series": [],
+    "canon": 1,
+    "series_order": {}
+  },
+  {
+    "title": "Defy the Storm",
+    "author": [
+      "Tessa Gratton",
+      "Justina Ireland"
+    ],
+    "publisher": "Disney Lucasfilm Press",
+    "audience": "Young Adult",
+    "pub_date": "03/05/2024",
+    "pub_date_all": null,
+    "pub_summary": "Nowhere is safe within the eye of the storm….\n\nThe Galactic Republic is in chaos following the Nihil's shocking destruction of the gleaming space station Starlight Beacon. Capitalizing on their victory, the Nihil have erected a barrier called the Stormwall around a section of Republic space and claimed it for themselves. Within this Occlusion Zone, people live at the mercy of the Nihil–and the Nihil are not known for mercy.\n\nJedi Knight Vernestra Rwoh, believing her Padawan, Imri Cantaros, to be among the casualties of Starlight Beacon, has retreated to a peaceful planet where she hopes to nurse her wounds and regain some sense of equilibrium. But her old friend Avon Starros has other plans. Avon knows that Imri is alive inside the Occlusion Zone–and she and Vernestra must be the ones to find him.\n\nWith the help of former frontier deputy Jordanna Sparkburn and the extremely untrustworthy Xylan Graf, Avon and Vernestra set out to breach the Stormwall and enter the Occlusion Zone in search of Imri. But within Nihil territory, danger lurks around every corner…as do terrifying creatures known as the Nameless.\n\nHow can Vernestra find her lost Padawan when her very strength in the Force becomes her ultimate weakness? And what are Avon's true motivations behind enemy lines?",
+    "pages": 464,
+    "isbn": "9781368093811",
+    "asin": null,
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/7/79/TheHighRepublic-DefytheStorm-cover.jpg/revision/latest/scale-to-width-down/500?cb=20230721222810",
+    "audio_narrator": null,
+    "audio_publisher": null,
+    "audio_runtime": null,
+    "audio_asin": null,
+    "timeline_text": "228 BBY",
+    "sort_timeline_yavin": -228,
+    "series": [
+      "The High Republic",
+      "Phase III: Trials of the Jedi"
+    ],
+    "canon": 1,
+    "id": 93,
+    "sort_title": "Defy the Storm",
+    "series_order": {}
+  },
+  {
+    "id": 94,
+    "title": "Tears of the Nameless",
+    "sort_title": "Tears of the Nameless",
+    "author": [
+      "George Mann"
+    ],
+    "publisher": "Disney Lucasfilm Press",
+    "audience": "Young Adult",
+    "pub_date": "09/24/2024",
+    "pub_date_all": null,
+    "pub_summary": "The New York Times best-selling series continues in this heart-wrenching sequel to Defy the Storm where fans will reunite with fan-favorite Jedi Knight Reath Silas.\n\nWritten by the author of The High Republic: Eye of Darkness, The High Republic: Quest for the Hidden City, Dark Legends, and Myths & Fables, this next High Republic installment is perfect for fans of investigative mysteries, mythology, monster-hunting, and apocalyptic sci-fi.\n\nIt's been over a year since the fall of the Starlight Beacon space station, and both heroes and villains alike must face the consequences of their decisions. When Jedi Knight Reath and Padawan Amadeo Azzazzo are sent on a mission to test their theories about the Nameless, they'll come face-to-face with the terrifying creatures once thought to be myth–and learn the true meaning of fear…fear that fallen Jedi Azlin Rell advised them to embrace if they have any hope of defeating the monsters…",
+    "pages": 512,
+    "isbn": "9781368095174",
+    "asin": null,
+    "audio_asin": null,
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/3/3b/TearsOfTheNameless-Cover.png/revision/latest/scale-to-width-down/500?cb=20240929070043",
+    "audio_narrator": null,
+    "audio_publisher": null,
+    "audio_runtime": null,
+    "timeline_text": "228 BBY",
+    "sort_timeline_yavin": -228,
+    "series": [
+      "The High Republic",
+      "Phase III: Trials of the Jedi"
+    ],
+    "canon": 1,
+    "series_order": {}
+  },
+  {
+    "title": "Into the Light",
+    "author": [
+      "Claudia Gray"
+    ],
+    "publisher": "Disney Lucasfilm Press",
+    "audience": "Young Adult",
+    "pub_date": "04/01/2025",
+    "pub_date_all": null,
+    "pub_summary": "The New York Times best-selling series is coming to an epic conclusion—witness the beginning of the end!\n\nAs several crises all hurtle toward their thrilling and shocking conclusions, fan-favorite Jedi Knights and Padawans must band together to save the galaxy from the Nihil, the Nameless, and perhaps worst of all, a mysterious blight that turns everything in its path to dust and is seemingly impossible to stop.",
+    "pages": 368,
+    "isbn": "9781368095181",
+    "asin": null,
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/4/45/TheHighRepublic-IntotheLight-cover.jpg/revision/latest/scale-to-width-down/500?cb=20241018205643",
+    "audio_narrator": null,
+    "audio_publisher": null,
+    "audio_runtime": null,
+    "audio_asin": null,
+    "timeline_text": "228 BBY",
+    "sort_timeline_yavin": -228,
+    "series": [
+      "The High Republic",
+      "Phase III: Trials of the Jedi"
+    ],
+    "canon": 1,
+    "id": 95,
+    "sort_title": "Into the Light",
+    "series_order": {}
+  },
+  {
+    "title": "The Crystal Crown",
+    "author": [
+      "Tessa Gratton"
+    ],
+    "publisher": "Disney Lucasfilm Press",
+    "audience": "Young Adult",
+    "pub_date": "07/29/2025",
+    "pub_date_all": null,
+    "pub_summary": "An exciting adventure starring fan-favorite Jedi Padawans Jecki and Yord from the Disney+ live-action series, The Acolyte.\n\nWhile their Jedi Masters clean up a political mess left by one of their own, Jedi Padawan Jecki and her least favorite Padawan Yord are drawn into a planet-wide coming-of-age ritual as featured guests. The first ritual goes well, but when the event is interrupted, Jecki and Yord will have to use all of their abilities and work together to keep each other — and their new friends — safe from danger.\n\nThis young adult novel is Star Wars meets The Hunger Games and offers fans of The Acolyte a chance to spend more time with two of their favorite characters from the show.",
+    "pages": 448,
+    "isbn": "9781368070126",
+    "asin": null,
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/1/18/TheAcolyte-TheCrystalCrown-Cover.jpg/revision/latest/scale-to-width-down/500?cb=20250524051956",
+    "audio_narrator": null,
+    "audio_publisher": null,
+    "audio_runtime": null,
+    "audio_asin": null,
+    "timeline_text": "134 BBY",
+    "sort_timeline_yavin": -134,
+    "series": [
+      "The Acolyte"
+    ],
+    "canon": 1,
+    "id": 96,
+    "sort_title": "Crystal Crown",
+    "series_order": {}
+  },
+  {
+    "id": 97,
+    "title": "The Last Order",
+    "sort_title": "Last Order",
+    "author": [
+      "Kwame Mbalia"
+    ],
+    "publisher": "Disney Lucasfilm Press",
+    "audience": "Young Adult",
+    "pub_date": "10/21/2025",
+    "pub_date_all": null,
+    "pub_summary": "New York Times best-selling author Kwame Mbalia makes his Star Wars debut with this exciting YA novel!\n\nFollowing the end of Star Wars: The Rise of Skywalker, the Resistance rescues a ship full of young passengers who had been kidnapped by the First Order. As Finn and Jannah set out to find the First Order officer responsible before he can endanger any more children, the two former stormtroopers must wrestle with their own complicated pasts as soldiers of the oppressive regime.\n\nTake a deep dive into the pasts of popular characters Finn and Jannah in this richly-drawn, action-packed story that fans have been asking for.",
+    "pages": 464,
+    "isbn": "9781368065610",
+    "asin": null,
+    "audio_asin": null,
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/e/e7/TheLastOrder-Cover.jpg/revision/latest/scale-to-width-down/500?cb=20250517001950",
+    "audio_narrator": null,
+    "audio_publisher": null,
+    "audio_runtime": null,
+    "timeline_text": "35 ABY",
+    "sort_timeline_yavin": 35,
+    "series": [],
+    "canon": 1,
+    "series_order": {}
+  },
+  {
+    "id": 98,
+    "title": "Eyes Like Stars",
+    "sort_title": "Eyes Like Stars",
+    "author": [
+      "Ashley Poston"
+    ],
+    "publisher": "Delacorte Press",
+    "audience": "Young Adult",
+    "pub_date": "07/01/2026",
+    "pub_date_all": null,
+    "pub_summary": "New York Times best-selling author Ashley Poston is writing the first official Star Wars romance novel, Eyes Like Stars. NYCC got the first look at the dreamlike cover for the young adult novel, which features a couple in search of their happily ever after in the galaxy far, far away. The charming young adult romance, set about a year and a half before Star Wars: The Force Awakens, features all-new characters, a mysterious artifact, and the fearsome First Order. (Summer 2026)",
+    "pages": null,
+    "isbn": null,
+    "asin": null,
+    "audio_asin": null,
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/c/cd/EyesLikeStars-Cover.jpg/revision/latest/scale-to-width-down/499?cb=20251011165956",
+    "audio_narrator": null,
+    "audio_publisher": null,
+    "audio_runtime": null,
+    "timeline_text": "33 ABY",
+    "sort_timeline_yavin": 33,
+    "series": [],
+    "canon": 1,
+    "series_order": {}
   }
 ]
