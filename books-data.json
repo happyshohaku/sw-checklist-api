@@ -3,7 +3,6 @@
     "id": 1,
     "title": "A New Dawn",
     "sort_title": "New Dawn",
-    "author": "John Jackson Miller",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "09/02/2014",
@@ -24,13 +23,15 @@
     "type_eb": 1,
     "type_ab": 1,
     "canon": 1,
-    "series": []
+    "series": [],
+    "author": [
+      "John Jackson Miller"
+    ]
   },
   {
     "id": 2,
     "title": "Tarkin",
     "sort_title": "Tarkin",
-    "author": "James Luceno",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "11/04/2014",
@@ -51,13 +52,15 @@
     "type_eb": 1,
     "type_ab": 1,
     "canon": 1,
-    "series": []
+    "series": [],
+    "author": [
+      "James Luceno"
+    ]
   },
   {
     "id": 3,
     "title": "Heir to the Jedi",
     "sort_title": "Heir to the Jedi",
-    "author": "Kevin Hearne",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "03/03/2015",
@@ -78,13 +81,15 @@
     "type_eb": 1,
     "type_ab": 1,
     "canon": 1,
-    "series": []
+    "series": [],
+    "author": [
+      "Kevin Hearne"
+    ]
   },
   {
     "id": 4,
     "title": "Lords of the Sith",
     "sort_title": "Lords of the Sith",
-    "author": "Paul S. Kemp",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "04/28/2015",
@@ -105,13 +110,15 @@
     "type_eb": 1,
     "type_ab": 1,
     "canon": 1,
-    "series": []
+    "series": [],
+    "author": [
+      "Paul S. Kemp"
+    ]
   },
   {
     "id": 5,
     "title": "Dark Disciple",
     "sort_title": "Dark Disciple",
-    "author": "Christie Golden",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "07/07/2015",
@@ -132,13 +139,15 @@
     "type_eb": 1,
     "type_ab": 1,
     "canon": 1,
-    "series": []
+    "series": [],
+    "author": [
+      "Christie Golden"
+    ]
   },
   {
     "id": 6,
     "title": "Lost Stars",
     "sort_title": "Lost Stars",
-    "author": "Claudia Gray",
     "publisher": "Disney Lucasfilm Press",
     "audience": "Young Adult",
     "pub_date": "09/04/2015",
@@ -161,13 +170,15 @@
     "canon": 1,
     "series": [
       "Journey to Star Wars: The Force Awakens"
+    ],
+    "author": [
+      "Claudia Gray"
     ]
   },
   {
     "id": 7,
     "title": "Aftermath",
     "sort_title": "Aftermath",
-    "author": "Chuck Wendig",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "09/04/2015",
@@ -190,13 +201,15 @@
     "canon": 1,
     "series": [
       "The Aftermath Trilogy"
+    ],
+    "author": [
+      "Chuck Wendig"
     ]
   },
   {
     "id": 8,
     "title": "Battlefront: Twilight Company",
     "sort_title": "Battlefront: Twilight Company",
-    "author": "Alexander Freed",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "11/03/2015",
@@ -219,13 +232,15 @@
     "canon": 1,
     "series": [
       "Battlefront"
+    ],
+    "author": [
+      "Alexander Freed"
     ]
   },
   {
     "id": 9,
     "title": "Bloodline",
     "sort_title": "Bloodline",
-    "author": "Claudia Gray",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "05/03/2016",
@@ -246,13 +261,15 @@
     "type_eb": 1,
     "type_ab": 1,
     "canon": 1,
-    "series": []
+    "series": [],
+    "author": [
+      "Claudia Gray"
+    ]
   },
   {
     "id": 10,
     "title": "Aftermath: Life Debt",
     "sort_title": "Life Debt",
-    "author": "Chuck Wendig",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "07/12/2016",
@@ -275,13 +292,15 @@
     "canon": 1,
     "series": [
       "The Aftermath Trilogy"
+    ],
+    "author": [
+      "Chuck Wendig"
     ]
   },
   {
     "id": 11,
     "title": "Ahsoka",
     "sort_title": "Ahsoka",
-    "author": "E. K. Johnston",
     "publisher": "Disney Lucasfilm Press",
     "audience": "Young Adult",
     "pub_date": "10/11/2016",
@@ -302,13 +321,15 @@
     "type_eb": 1,
     "type_ab": 1,
     "canon": 1,
-    "series": []
+    "series": [],
+    "author": [
+      "E. K. Johnston"
+    ]
   },
   {
     "id": 12,
     "title": "Catalyst: A Rogue One Novel",
     "sort_title": "Catalyst: A Rogue One Novel",
-    "author": "James Luceno",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "11/15/2016",
@@ -329,13 +350,15 @@
     "type_eb": 1,
     "type_ab": 1,
     "canon": 1,
-    "series": []
+    "series": [],
+    "author": [
+      "James Luceno"
+    ]
   },
   {
     "id": 13,
     "title": "Thrawn",
     "sort_title": "Thrawn",
-    "author": "Timothy Zahn",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "04/11/2017",
@@ -358,13 +381,15 @@
     "canon": 1,
     "series": [
       "The Imperial Trilogy"
+    ],
+    "author": [
+      "Timothy Zahn"
     ]
   },
   {
     "id": 14,
     "title": "Rebel Rising",
     "sort_title": "Rebel Rising",
-    "author": "Beth Revis",
     "publisher": "Disney Lucasfilm Press",
     "audience": "Young Adult",
     "pub_date": "05/02/2017",
@@ -385,13 +410,15 @@
     "type_eb": 1,
     "type_ab": 1,
     "canon": 1,
-    "series": []
+    "series": [],
+    "author": [
+      "Beth Revis"
+    ]
   },
   {
     "id": 15,
     "title": "Aftermath: Empire's End",
     "sort_title": "Empire's End",
-    "author": "Chuck Wendig",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "02/21/2017",
@@ -414,13 +441,15 @@
     "canon": 1,
     "series": [
       "The Aftermath Trilogy"
+    ],
+    "author": [
+      "Chuck Wendig"
     ]
   },
   {
     "id": 16,
     "title": "Battlefront II: Inferno Squad",
     "sort_title": "Battlefront II: Inferno Squad",
-    "author": "Christie Golden",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "07/25/2017",
@@ -443,13 +472,15 @@
     "canon": 1,
     "series": [
       "Battlefront"
+    ],
+    "author": [
+      "Christie Golden"
     ]
   },
   {
     "id": 17,
     "title": "Phasma",
     "sort_title": "Phasma",
-    "author": "Delilah S. Dawson",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "09/01/2017",
@@ -472,13 +503,15 @@
     "canon": 1,
     "series": [
       "Journey to Star Wars: The Last Jedi"
+    ],
+    "author": [
+      "Delilah S. Dawson"
     ]
   },
   {
     "id": 18,
     "title": "Leia, Princess of Alderaan",
     "sort_title": "Leia, Princess of Alderaan",
-    "author": "Claudia Gray",
     "publisher": "Disney Lucasfilm Press",
     "audience": "Young Adult",
     "pub_date": "09/01/2017",
@@ -501,13 +534,15 @@
     "canon": 1,
     "series": [
       "Journey to Star Wars: The Last Jedi"
+    ],
+    "author": [
+      "Claudia Gray"
     ]
   },
   {
     "id": 19,
     "title": "Last Shot",
     "sort_title": "Last Shot",
-    "author": "Daniel José Older",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "04/17/2018",
@@ -528,13 +563,15 @@
     "type_eb": 1,
     "type_ab": 1,
     "canon": 1,
-    "series": []
+    "series": [],
+    "author": [
+      "Daniel José Older"
+    ]
   },
   {
     "id": 20,
     "title": "Most Wanted",
     "sort_title": "Most Wanted",
-    "author": "Rae Carson",
     "publisher": "Disney Lucasfilm Press",
     "audience": "Young Adult",
     "pub_date": "05/25/2018",
@@ -555,13 +592,15 @@
     "type_eb": 1,
     "type_ab": 1,
     "canon": 1,
-    "series": []
+    "series": [],
+    "author": [
+      "Rae Carson"
+    ]
   },
   {
     "id": 21,
     "title": "Thrawn: Alliances",
     "sort_title": null,
-    "author": "Timothy Zahn",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "07/24/2018",
@@ -584,13 +623,15 @@
     "canon": 1,
     "series": [
       "The Imperial Trilogy"
+    ],
+    "author": [
+      "Timothy Zahn"
     ]
   },
   {
     "id": 22,
     "title": "Queen's Shadow",
     "sort_title": "Queen's Shadow",
-    "author": "E. K. Johnston",
     "publisher": "Disney Lucasfilm Press",
     "audience": "Young Adult",
     "pub_date": "03/05/2019",
@@ -613,13 +654,15 @@
     "canon": 1,
     "series": [
       "Queen's Series"
+    ],
+    "author": [
+      "E. K. Johnston"
     ]
   },
   {
     "id": 23,
     "title": "Master & Apprentice",
     "sort_title": "Master & Apprentice",
-    "author": "Claudia Gray",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "04/16/2019",
@@ -640,13 +683,15 @@
     "type_eb": 1,
     "type_ab": 1,
     "canon": 1,
-    "series": []
+    "series": [],
+    "author": [
+      "Claudia Gray"
+    ]
   },
   {
     "id": 24,
     "title": "Alphabet Squadron",
     "sort_title": "Alphabet Squadron",
-    "author": "Alexander Freed",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "06/11/2019",
@@ -669,13 +714,15 @@
     "canon": 1,
     "series": [
       "Alphabet Squadron"
+    ],
+    "author": [
+      "Alexander Freed"
     ]
   },
   {
     "id": 25,
     "title": "Thrawn: Treason",
     "sort_title": "Treason",
-    "author": "Timothy Zahn",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "07/23/2019",
@@ -698,13 +745,15 @@
     "canon": 1,
     "series": [
       "The Imperial Trilogy"
+    ],
+    "author": [
+      "Timothy Zahn"
     ]
   },
   {
     "id": 26,
     "title": "A Crash of Fate",
     "sort_title": "Crash of Fate",
-    "author": "Zoraida Córdova",
     "publisher": "Disney Lucasfilm Press",
     "audience": "Young Adult",
     "pub_date": "08/06/2019",
@@ -727,13 +776,15 @@
     "canon": 1,
     "series": [
       "Galaxy's Edge"
+    ],
+    "author": [
+      "Zoraida Córdova"
     ]
   },
   {
     "id": 27,
     "title": "Galaxy's Edge: Black Spire",
     "sort_title": "Black Spire",
-    "author": "Delilah S. Dawson",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "08/27/2019",
@@ -756,13 +807,15 @@
     "canon": 1,
     "series": [
       "Galaxy's Edge"
+    ],
+    "author": [
+      "Delilah S. Dawson"
     ]
   },
   {
     "id": 28,
     "title": "Resistance Reborn",
     "sort_title": "Resistance Reborn",
-    "author": "Rebecca Roanhorse",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "11/5/2019",
@@ -785,13 +838,15 @@
     "canon": 1,
     "series": [
       "Journey to Star Wars: The Rise of Skywalker"
+    ],
+    "author": [
+      "Rebecca Roanhorse"
     ]
   },
   {
     "id": 29,
     "title": "Force Collector",
     "sort_title": "Force Collector",
-    "author": "Kevin Shinick",
     "publisher": "Disney Lucasfilm Press",
     "audience": "Young Adult",
     "pub_date": "10/04/2019",
@@ -814,13 +869,15 @@
     "canon": 1,
     "series": [
       "Journey to Star Wars: The Rise of Skywalker"
+    ],
+    "author": [
+      "Kevin Shinick"
     ]
   },
   {
     "id": 30,
     "title": "Queen's Peril",
     "sort_title": "Queen's Peril",
-    "author": "E. K. Johnston",
     "publisher": "Disney Lucasfilm Press",
     "audience": "Young Adult",
     "pub_date": "06/02/2020",
@@ -843,13 +900,15 @@
     "canon": 1,
     "series": [
       "Queen's Series"
+    ],
+    "author": [
+      "E. K. Johnston"
     ]
   },
   {
     "id": 31,
     "title": "Shadow Fall: An Alphabet Squadron Novel",
     "sort_title": "Shadow Fall",
-    "author": "Alexander Freed",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "06/23/2020",
@@ -872,13 +931,15 @@
     "canon": 1,
     "series": [
       "Alphabet Squadron"
+    ],
+    "author": [
+      "Alexander Freed"
     ]
   },
   {
     "id": 32,
     "title": "Poe Dameron: Free Fall",
     "sort_title": "Poe Dameron: Free Fall",
-    "author": "Alex Segura",
     "publisher": "Disney Lucasfilm Press",
     "audience": "Young Adult",
     "pub_date": "08/04/2020",
@@ -899,13 +960,15 @@
     "type_eb": 1,
     "type_ab": 1,
     "canon": 1,
-    "series": []
+    "series": [],
+    "author": [
+      "Alex Segura"
+    ]
   },
   {
     "id": 33,
     "title": "Thrawn Ascendancy: Chaos Rising",
     "sort_title": "Chaos Rising",
-    "author": "Timothy Zahn",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "09/01/2020",
@@ -928,13 +991,15 @@
     "canon": 1,
     "series": [
       "The Ascendancy Trilogy"
+    ],
+    "author": [
+      "Timothy Zahn"
     ]
   },
   {
     "id": 34,
     "title": "The High Republic: Light of the Jedi",
     "sort_title": "Light of the Jedi",
-    "author": "Charles Soule",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "01/05/2021",
@@ -957,14 +1022,16 @@
     "canon": 1,
     "series": [
       "The High Republic",
-      "Phase I"
+      "Phase I: Quest of the Jedi"
+    ],
+    "author": [
+      "Charles Soule"
     ]
   },
   {
     "id": 35,
     "title": "Into the Dark",
     "sort_title": "Into the Dark",
-    "author": "Claudia Gray",
     "publisher": "Disney Lucasfilm Press",
     "audience": "Young Adult",
     "pub_date": "02/02/2021",
@@ -987,14 +1054,16 @@
     "canon": 1,
     "series": [
       "The High Republic",
-      "Phase I"
+      "Phase I: Quest of the Jedi"
+    ],
+    "author": [
+      "Claudia Gray"
     ]
   },
   {
     "id": 36,
     "title": "Victory's Price: An Alphabet Squadron Novel",
     "sort_title": "Victory's Price",
-    "author": "Alexander Freed",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "03/02/2021",
@@ -1017,13 +1086,15 @@
     "canon": 1,
     "series": [
       "Alphabet Squadron"
+    ],
+    "author": [
+      "Alexander Freed"
     ]
   },
   {
     "id": 37,
     "title": "Thrawn Ascendancy: Greater Good",
     "sort_title": "Greater Good",
-    "author": "Timothy Zahn",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "04/27/2021",
@@ -1046,13 +1117,15 @@
     "canon": 1,
     "series": [
       "The Ascendancy Trilogy"
+    ],
+    "author": [
+      "Timothy Zahn"
     ]
   },
   {
     "id": 39,
     "title": "Out of the Shadows",
     "sort_title": "Out of the Shadows",
-    "author": "Justina Ireland",
     "publisher": "Disney Lucasfilm Press",
     "audience": "Young Adult",
     "pub_date": "07/27/2021",
@@ -1070,19 +1143,21 @@
     "sort_timeline_yavin": -231,
     "series": [
       "The High Republic",
-      "Phase I: Light of the Jedi"
+      "Phase I: Quest of the Jedi"
     ],
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "author": [
+      "Justina Ireland"
+    ]
   },
   {
     "id": 40,
     "title": "Thrawn Ascendancy: Lesser Evil",
     "sort_title": "Lesser Evil",
-    "author": "Timothy Zahn",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "11/16/2021",
@@ -1105,13 +1180,15 @@
     "canon": 1,
     "series": [
       "The Ascendancy Trilogy"
+    ],
+    "author": [
+      "Timothy Zahn"
     ]
   },
   {
     "id": 41,
     "title": "The High Republic: The Fallen Star",
     "sort_title": "Fallen Star",
-    "author": "Claudia Gray",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "01/04/2022",
@@ -1134,14 +1211,16 @@
     "canon": 1,
     "series": [
       "The High Republic",
-      "Phase I"
+      "Phase I: Quest of the Jedi"
+    ],
+    "author": [
+      "Claudia Gray"
     ]
   },
   {
     "id": 42,
     "title": "Midnight Horizon",
     "sort_title": "Midnight Horizon",
-    "author": "Daniel José Older",
     "publisher": "Disney Lucasfilm Press",
     "audience": "Young Adult",
     "pub_date": "02/01/2022",
@@ -1164,14 +1243,16 @@
     "canon": 1,
     "series": [
       "The High Republic",
-      "Phase I"
+      "Phase I: Quest of the Jedi"
+    ],
+    "author": [
+      "Daniel José Older"
     ]
   },
   {
     "id": 43,
     "title": "Queen's Hope",
     "sort_title": "Queen's Hope",
-    "author": "E. K. Johnston",
     "publisher": "Disney Lucasfilm Press",
     "audience": "Young Adult",
     "pub_date": "04/05/2022",
@@ -1194,13 +1275,15 @@
     "canon": 1,
     "series": [
       "Queen's Series"
+    ],
+    "author": [
+      "E. K. Johnston"
     ]
   },
   {
     "id": 44,
     "title": "Brotherhood",
     "sort_title": "Brotherhood",
-    "author": "Mike Chen",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "05/10/2022",
@@ -1221,13 +1304,15 @@
     "type_eb": 1,
     "type_ab": 1,
     "canon": 1,
-    "series": []
+    "series": [],
+    "author": [
+      "Mike Chen"
+    ]
   },
   {
     "id": 45,
     "title": "Shadow of the Sith",
     "sort_title": "Shadow of the Sith",
-    "author": "Adam Christopher",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "06/28/2022",
@@ -1248,13 +1333,15 @@
     "type_eb": 1,
     "type_ab": 1,
     "canon": 1,
-    "series": []
+    "series": [],
+    "author": [
+      "Adam Christopher"
+    ]
   },
   {
     "id": 46,
     "title": "Padawan",
     "sort_title": "Padawan",
-    "author": "Kiersten White",
     "publisher": "Disney Lucasfilm Press",
     "audience": "Young Adult",
     "pub_date": "07/26/2022",
@@ -1275,13 +1362,15 @@
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "author": [
+      "Kiersten White"
+    ]
   },
   {
     "id": 47,
     "title": "The Princess and the Scoundrel",
     "sort_title": "Princess and the Scoundrel ",
-    "author": "Beth Revis",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "08/16/2022",
@@ -1302,13 +1391,15 @@
     "type_eb": 1,
     "type_ab": 1,
     "canon": 1,
-    "series": []
+    "series": [],
+    "author": [
+      "Beth Revis"
+    ]
   },
   {
     "id": 48,
     "title": "Path of Deceit",
     "sort_title": "Path of Deceit",
-    "author": "Tessa Gratton;Justina Ireland",
     "publisher": "Disney Lucasfilm Press",
     "audience": "Young Adult",
     "pub_date": "10/04/2022",
@@ -1326,19 +1417,22 @@
     "sort_timeline_yavin": -382,
     "series": [
       "The High Republic",
-      "Phase II: Quest of the Jedi"
+      "Phase II: Light of the Jedi"
     ],
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "author": [
+      "Tessa Gratton",
+      "Justina Ireland"
+    ]
   },
   {
     "id": 49,
     "title": "The High Republic: Convergence",
     "sort_title": "Convergence",
-    "author": "Zoraida Córdova",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "11/22/2022",
@@ -1361,14 +1455,16 @@
     "canon": 1,
     "series": [
       "The High Republic",
-      "Phase II"
+      "Phase II: Light of the Jedi"
+    ],
+    "author": [
+      "Zoraida Córdova"
     ]
   },
   {
     "id": 50,
     "title": "Jedi: Battle Scars",
     "sort_title": "Battle Scars",
-    "author": "Sam Maggs",
     "publisher": "Random House Worlds",
     "audience": "Adult",
     "pub_date": "03/07/2023",
@@ -1391,13 +1487,15 @@
     "canon": 1,
     "series": [
       "Jedi"
+    ],
+    "author": [
+      "Sam Maggs"
     ]
   },
   {
     "id": 51,
     "title": "The High Republic: Cataclysm",
     "sort_title": "Cataclysm",
-    "author": "Lydia Kang",
     "publisher": "Random House Worlds",
     "audience": "Adult",
     "pub_date": "04/04/2023",
@@ -1420,14 +1518,16 @@
     "canon": 1,
     "series": [
       "The High Republic",
-      "Phase II"
+      "Phase II: Light of the Jedi"
+    ],
+    "author": [
+      "Lydia Kang"
     ]
   },
   {
     "id": 53,
     "title": "Inquisitor: Rise of the Red Blade",
     "sort_title": "Inquisitor: Rise of the Red Blade ",
-    "author": "Delilah S. Dawson",
     "publisher": "Random House Worlds",
     "audience": "Adult",
     "pub_date": "07/18/2023",
@@ -1448,11 +1548,13 @@
     "type_eb": 1,
     "type_ab": 1,
     "canon": 1,
-    "series": []
+    "series": [],
+    "author": [
+      "Delilah S. Dawson"
+    ]
   },
   {
     "title": "Star Wars: The Force Awakens",
-    "author": "Alan Dean Foster",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "12/18/2015",
@@ -1475,11 +1577,13 @@
     "canon": 1,
     "id": 55,
     "sort_title": "Star Wars: The Force Awakens",
-    "series": []
+    "series": [],
+    "author": [
+      "Alan Dean Foster"
+    ]
   },
   {
     "title": "Rogue One: A Star Wars Story",
-    "author": "Alexander Freed",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "12/16/2016",
@@ -1502,13 +1606,15 @@
     "canon": 1,
     "id": 56,
     "sort_title": "Rogue One: A Star Wars Story",
-    "series": []
+    "series": [],
+    "author": [
+      "Alexander Freed"
+    ]
   },
   {
     "id": 57,
     "title": "From a Certain Point of View",
     "sort_title": "From a Certain Point of View",
-    "author": "Various",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "10/03/2017",
@@ -1531,11 +1637,13 @@
     "canon": 1,
     "series": [
       "From a Certain Point of View"
+    ],
+    "author": [
+      "Various"
     ]
   },
   {
     "title": "Canto Bight",
-    "author": "Various",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "12/05/2017",
@@ -1560,13 +1668,15 @@
     "sort_title": "Canto Bight",
     "series": [
       "Journey to Star Wars: The Last Jedi"
+    ],
+    "author": [
+      "Various"
     ]
   },
   {
     "id": 59,
     "title": "The Last Jedi: Expanded Edition",
     "sort_title": "Last Jedi",
-    "author": "Jason Fry",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "03/06/2018",
@@ -1587,11 +1697,13 @@
     "type_eb": 0,
     "type_ab": 0,
     "canon": 1,
-    "series": []
+    "series": [],
+    "author": [
+      "Jason Fry"
+    ]
   },
   {
     "title": "Solo: A Star Wars Story: Expanded Edition",
-    "author": "Mur Lafferty",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "09/04/2018",
@@ -1614,13 +1726,15 @@
     "canon": 1,
     "id": 60,
     "sort_title": "Solo: A Star Wars Story: Expanded Edition",
-    "series": []
+    "series": [],
+    "author": [
+      "Mur Lafferty"
+    ]
   },
   {
     "id": 61,
     "title": "Dooku: Jedi Lost",
     "sort_title": "Dooku: Jedi Lost",
-    "author": "Cavan Scott",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "10/01/2019",
@@ -1641,13 +1755,15 @@
     "type_eb": 0,
     "type_ab": 0,
     "canon": 1,
-    "series": []
+    "series": [],
+    "author": [
+      "Cavan Scott"
+    ]
   },
   {
     "id": 62,
     "title": "The Rise of Skywalker: Expanded Edition",
     "sort_title": "Rise of Skywalker: Expanded Edition",
-    "author": "Rae Carson",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "03/17/2020",
@@ -1668,13 +1784,15 @@
     "type_eb": 0,
     "type_ab": 0,
     "canon": 1,
-    "series": []
+    "series": [],
+    "author": [
+      "Rae Carson"
+    ]
   },
   {
     "id": 63,
     "title": "From a Certain Point of View: The Empire Strikes Back",
     "sort_title": "From a Certain Point of View: The Empire Strikes Back",
-    "author": "Various",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "11/10/2020",
@@ -1697,13 +1815,15 @@
     "canon": 1,
     "series": [
       "From a Certain Point of View"
+    ],
+    "author": [
+      "Various"
     ]
   },
   {
     "id": 64,
     "title": "Doctor Aphra",
     "sort_title": "Doctor Aphra",
-    "author": "Sarah Kuhn",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "April 6, 2021",
@@ -1724,13 +1844,15 @@
     "type_eb": 0,
     "type_ab": 0,
     "canon": 1,
-    "series": []
+    "series": [],
+    "author": [
+      "Sarah Kuhn"
+    ]
   },
   {
     "id": 65,
     "title": "The High Republic: The Rising Storm",
     "sort_title": "Rising Storm",
-    "author": "Cavan Scott",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "06/29/2021",
@@ -1753,14 +1875,16 @@
     "canon": 1,
     "series": [
       "The High Republic",
-      "Phase I"
+      "Phase I: Quest of the Jedi"
+    ],
+    "author": [
+      "Cavan Scott"
     ]
   },
   {
     "id": 66,
     "title": "Ronin: A Visions Novel",
     "sort_title": "Ronin: A Visions Novel",
-    "author": "Emma Mieko Candon",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "10/12/2021",
@@ -1783,13 +1907,15 @@
     "canon": 0,
     "series": [
       "Visions"
+    ],
+    "author": [
+      "Emma Mieko Candon"
     ]
   },
   {
     "id": 67,
     "title": "The High Republic: Tempest Runner",
     "sort_title": "High Republic: Tempest Runner",
-    "author": "Cavan Scott",
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "03/01/2022",
@@ -1812,13 +1938,15 @@
     "canon": 1,
     "series": [
       "The High Republic"
+    ],
+    "author": [
+      "Cavan Scott"
     ]
   },
   {
     "id": 68,
     "title": "Star Wars Insider: The High Republic: Starlight Stories",
     "sort_title": "Star Wars Insider: The High Republic: Starlight Stories",
-    "author": "Various",
     "publisher": "Titan Magazines",
     "audience": "Adult",
     "pub_date": "12/06/2022",
@@ -1841,14 +1969,16 @@
     "canon": 1,
     "series": [
       "The High Republic",
-      "Phase II"
+      "Phase II: Light of the Jedi"
+    ],
+    "author": [
+      "Various"
     ]
   },
   {
     "id": 69,
     "title": "The High Republic: The Battle of Jedha",
     "sort_title": "High Republic: The Battle of Jedha",
-    "author": "George Mann",
     "publisher": "Random House Worlds",
     "audience": "Adult",
     "pub_date": "02/14/2023",
@@ -1871,14 +2001,16 @@
     "canon": 1,
     "series": [
       "The High Republic",
-      "Phase II"
+      "Phase II: Light of the Jedi"
+    ],
+    "author": [
+      "George Mann"
     ]
   },
   {
     "id": 70,
     "title": "From a Certain Point of View: Return of the Jedi",
     "sort_title": "From a Certain Point of View: Return of the Jedi",
-    "author": "Various",
     "publisher": "Random House Worlds",
     "audience": "Adult",
     "pub_date": "08/29/2023",
@@ -1901,13 +2033,15 @@
     "canon": 1,
     "series": [
       "From a Certain Point of View"
+    ],
+    "author": [
+      "Various"
     ]
   },
   {
     "id": 71,
     "title": "The High Republic: The Eye of Darkness",
     "sort_title": "High Republic: The Eye of Darkness",
-    "author": "George Mann",
     "publisher": "Random House Worlds",
     "audience": "Adult",
     "pub_date": "11/14/2023",
@@ -1930,14 +2064,16 @@
     "canon": 1,
     "series": [
       "The High Republic",
-      "Phase III"
+      "Phase III: Trials of the Jedi"
+    ],
+    "author": [
+      "George Mann"
     ]
   },
   {
     "id": 72,
     "title": "The High Republic: Tales of Enlightenment",
     "sort_title": "High Republic: Tales of Enlightenment",
-    "author": "George Mann",
     "publisher": null,
     "audience": "Adult",
     "pub_date": "04/02/2024",
@@ -1958,13 +2094,15 @@
     "type_eb": 0,
     "type_ab": 0,
     "canon": 1,
-    "series": []
+    "series": [],
+    "author": [
+      "George Mann"
+    ]
   },
   {
     "id": 73,
     "title": "The Living Force",
     "sort_title": "Living Force",
-    "author": "John Jackson Miller",
     "publisher": "Random House Worlds",
     "audience": "Adult",
     "pub_date": "04/09/2024",
@@ -1985,13 +2123,15 @@
     "type_eb": 0,
     "type_ab": 0,
     "canon": 1,
-    "series": []
+    "series": [],
+    "author": [
+      "John Jackson Miller"
+    ]
   },
   {
     "id": 74,
     "title": "The High Republic: Temptation of the Force",
     "sort_title": "High Republic: Temptation of the Force",
-    "author": "Tessa Gratton",
     "publisher": "Random House Worlds",
     "audience": "Adult",
     "pub_date": "06/11/2024",
@@ -2014,14 +2154,16 @@
     "canon": 1,
     "series": [
       "The High Republic",
-      "Phase III"
+      "Phase III: Trials of the Jedi"
+    ],
+    "author": [
+      "Tessa Gratton"
     ]
   },
   {
     "id": 75,
     "title": "The Rise and Fall of the Galactic Empire",
     "sort_title": "Rise and Fall of the Galactic Empire",
-    "author": "Chris Kempshall",
     "publisher": "Dorling Kindersley",
     "audience": "Adult",
     "pub_date": "07/04/2024",
@@ -2042,13 +2184,15 @@
     "type_eb": 0,
     "type_ab": 0,
     "canon": 1,
-    "series": []
+    "series": [],
+    "author": [
+      "Chris Kempshall"
+    ]
   },
   {
     "id": 76,
     "title": "Mace Windu: The Glass Abyss",
     "sort_title": "Mace Windu: The Glass Abyss",
-    "author": "Steven Barnes",
     "publisher": "Random House Worlds",
     "audience": "Adult",
     "pub_date": "10/15/2024",
@@ -2069,13 +2213,15 @@
     "type_eb": 0,
     "type_ab": 0,
     "canon": 1,
-    "series": []
+    "series": [],
+    "author": [
+      "Steven Barnes"
+    ]
   },
   {
     "id": 77,
     "title": "Reign of the Empire: The Mask of Fear",
     "sort_title": "Reign of the Empire: The Mask of Fear",
-    "author": "Alexander Freed",
     "publisher": "Random House Worlds",
     "audience": "Adult",
     "pub_date": "02/25/2025",
@@ -2098,13 +2244,15 @@
     "canon": 1,
     "series": [
       "Reign of the Empire"
+    ],
+    "author": [
+      "Alexander Freed"
     ]
   },
   {
     "id": 78,
     "title": "The Acolyte: Wayseeker",
     "sort_title": "Acolyte: Wayseeker",
-    "author": "Justina Ireland",
     "publisher": "Random House Worlds",
     "audience": "Adult",
     "pub_date": "05/06/2025",
@@ -2125,13 +2273,15 @@
     "type_eb": 0,
     "type_ab": 0,
     "canon": 1,
-    "series": []
+    "series": [],
+    "author": [
+      "Justina Ireland"
+    ]
   },
   {
     "id": 79,
     "title": "The High Republic: Tempest Breaker",
     "sort_title": "High Republic: Tempest Breaker",
-    "author": "Cavan Scott",
     "publisher": "Random House Worlds",
     "audience": "Adult",
     "pub_date": "05/13/2025",
@@ -2154,14 +2304,16 @@
     "canon": 1,
     "series": [
       "The High Republic",
-      "Phase III"
+      "Phase III: Trials of the Jedi"
+    ],
+    "author": [
+      "Cavan Scott"
     ]
   },
   {
     "id": 80,
     "title": "The High Republic: Trials of the Jedi",
     "sort_title": "High Republic: Trials of the Jedi",
-    "author": "Charles Soule",
     "publisher": "Random House Worlds",
     "audience": "Adult",
     "pub_date": "06/17/2025",
@@ -2184,14 +2336,16 @@
     "canon": 1,
     "series": [
       "The High Republic",
-      "Phase III"
+      "Phase III: Trials of the Jedi"
+    ],
+    "author": [
+      "Charles Soule"
     ]
   },
   {
     "id": 81,
     "title": "Sanctuary: A Bad Batch Novel",
     "sort_title": "Sanctuary: A Bad Batch Novel",
-    "author": "Lamar Giles",
     "publisher": "Random House Worlds",
     "audience": "Adult",
     "pub_date": "08/05/2025",
@@ -2212,13 +2366,15 @@
     "type_eb": 0,
     "type_ab": 0,
     "canon": 1,
-    "series": []
+    "series": [],
+    "author": [
+      "Lamar Giles"
+    ]
   },
   {
     "id": 82,
     "title": "Master of Evil",
     "sort_title": "Master of Evil",
-    "author": "Adam Christopher",
     "publisher": "Random House Worlds",
     "audience": "Adult",
     "pub_date": "11/11/2025",
@@ -2239,13 +2395,15 @@
     "type_eb": 0,
     "type_ab": 0,
     "canon": 1,
-    "series": []
+    "series": [],
+    "author": [
+      "Adam Christopher"
+    ]
   },
   {
     "id": 83,
     "title": "Outlaws: Low Red Moon",
     "sort_title": "Outlaws: Low Red Moon",
-    "author": "Mike Chen",
     "publisher": "Random House Worlds",
     "audience": "Adult",
     "pub_date": "02/03/2026",
@@ -2266,13 +2424,15 @@
     "type_eb": 0,
     "type_ab": 0,
     "canon": 1,
-    "series": []
+    "series": [],
+    "author": [
+      "Mike Chen"
+    ]
   },
   {
     "id": 84,
     "title": "Legacy",
     "sort_title": "Legacy",
-    "author": "Madeleine Roux",
     "publisher": "Random House Worlds",
     "audience": "Adult",
     "pub_date": "07/28/2026",
@@ -2293,11 +2453,13 @@
     "type_eb": 0,
     "type_ab": 0,
     "canon": 1,
-    "series": []
+    "series": [],
+    "author": [
+      "Madeleine Roux"
+    ]
   },
   {
     "title": "Myths & Fables",
-    "author": "George Mann",
     "publisher": "Disney Lucasfilm Press",
     "audience": "Young Adult",
     "pub_date": "08/06/2019",
@@ -2322,11 +2484,13 @@
     "sort_title": "Myths & Fables",
     "series": [
       "Galaxy's Edge"
+    ],
+    "author": [
+      "George Mann"
     ]
   },
   {
     "title": "Dark Legends",
-    "author": "George Mann",
     "publisher": "Disney Lucasfilm Press",
     "audience": "Young Adult",
     "pub_date": "07/28/2020",
@@ -2349,11 +2513,13 @@
     "canon": 1,
     "id": 87,
     "sort_title": "Dark Legends",
-    "series": []
+    "series": [],
+    "author": [
+      "George Mann"
+    ]
   },
   {
     "title": "The Clone Wars: Stories of Light and Dark",
-    "author": "Various",
     "publisher": "Disney Lucasfilm Press",
     "audience": "Young Adult",
     "pub_date": "08/25/2020",
@@ -2378,11 +2544,13 @@
     "sort_title": "Clone Wars: Stories of Light and Dark",
     "series": [
       "The Clone Wars"
+    ],
+    "author": [
+      "Various"
     ]
   },
   {
     "title": "Life Day Treasury",
-    "author": "George MannCavan Scott",
     "publisher": "Disney Lucasfilm Press",
     "audience": "Young Adult",
     "pub_date": "09/07/2021",
@@ -2405,11 +2573,13 @@
     "canon": 1,
     "id": 89,
     "sort_title": "Life Day Treasury",
-    "series": []
+    "series": [],
+    "author": [
+      "George MannCavan Scott"
+    ]
   },
   {
     "title": "Path of Vengeance",
-    "author": "Cavan Scott",
     "publisher": "Disney Lucasfilm Press",
     "audience": "Young Adult",
     "pub_date": "05/02/2023",
@@ -2435,13 +2605,15 @@
     "type_ab": 0,
     "canon": 1,
     "id": 90,
-    "sort_title": "Path of Vengeance"
+    "sort_title": "Path of Vengeance",
+    "author": [
+      "Cavan Scott"
+    ]
   },
   {
     "id": 91,
     "title": "Tales of Light and Life",
     "sort_title": "Tales of Light and Life",
-    "author": "Various",
     "publisher": "Disney Lucasfilm Press",
     "audience": "Young Adult",
     "pub_date": "09/05/2023",
@@ -2464,6 +2636,9 @@
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
-    "canon": 1
+    "canon": 1,
+    "author": [
+      "Various"
+    ]
   }
 ]
