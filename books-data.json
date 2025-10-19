@@ -25,6 +25,7 @@
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
+    "released": 1,
     "canon": 1
   },
   {
@@ -53,6 +54,7 @@
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
+    "released": 1,
     "canon": 1
   },
   {
@@ -81,6 +83,7 @@
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
+    "released": 1,
     "canon": 1
   },
   {
@@ -109,6 +112,7 @@
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
+    "released": 1,
     "canon": 1
   },
   {
@@ -137,6 +141,7 @@
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
+    "released": 1,
     "canon": 1
   },
   {
@@ -147,24 +152,26 @@
     "publisher": "Disney Lucasfilm Press",
     "audience": "Young Adult",
     "pub_date": "09/04/2015",
-    "pub_date_all": "September 4, 2015 (Hardcover)\r\nAugust 1, 2017 (Paperback)",
-    "pub_summary": "The reign of the Galactic Empire has reached the Outer Rim planet of Jelucan, where aristocratic Thane Kyrell and rural villager Ciena Ree bond over their love of flying. Enrolling at the Imperial Academy together to become fighter pilots for the glorious Empire is nothing less than a dream come true for the both of them. But Thane sours on the dream when he sees firsthand the horrific tactics the Empire uses to maintain its ironclad rule.\r\n\r\nBitter and disillusioned, Thane joins the fledgling Rebellion—putting Ciena in an unbearable position to choose between her loyalty to the Empire and her love for the man she’s known since childhood.\r\nNow on opposite sides of the war, will these friends turned foes find a way to be together, or will duty tear them—and the galaxy—apart?",
+    "pub_date_all": "September 4, 2015 (Hardcover)\nAugust 1, 2017 (Paperback)",
+    "pub_summary": "The reign of the Galactic Empire has reached the Outer Rim planet of Jelucan, where aristocratic Thane Kyrell and rural villager Ciena Ree bond over their love of flying. Enrolling at the Imperial Academy together to become fighter pilots for the glorious Empire is nothing less than a dream come true for the both of them. But Thane sours on the dream when he sees firsthand the horrific tactics the Empire uses to maintain its ironclad rule.\n\nBitter and disillusioned, Thane joins the fledgling Rebellion—putting Ciena in an unbearable position to choose between her loyalty to the Empire and her love for the man she's known since childhood.\n\nNow on opposite sides of the war, will these friends turned foes find a way to be together, or will duty tear them—and the galaxy—apart?",
     "pages": 551,
     "isbn": "9781484724989",
     "asin": "B00YB2HK42",
+    "audio_asin": null,
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/a/a2/LostStars.png/revision/latest/scale-to-width-down/500?cb=20150709005414",
     "audio_narrator": "Pierce Cravens",
     "audio_publisher": "Random House Audio",
     "audio_runtime": 702,
-    "audio_asin": null,
     "timeline_text": "11 BBY – 5 ABY",
     "sort_timeline_yavin": -11,
+    "series": "Journey to Star Wars",
+    "series2": "The Force Awakens",
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 0,
-    "canon": 1,
-    "series": null,
-    "series2": null
+    "released": 1,
+    "canon": 1
   },
   {
     "id": 7,
@@ -192,6 +199,7 @@
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
+    "released": 1,
     "canon": 1
   },
   {
@@ -220,6 +228,7 @@
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
+    "released": 1,
     "canon": 1
   },
   {
@@ -248,6 +257,7 @@
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
+    "released": 1,
     "canon": 1
   },
   {
@@ -276,6 +286,7 @@
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
+    "released": 1,
     "canon": 1
   },
   {
@@ -286,24 +297,26 @@
     "publisher": "Disney Lucasfilm Press",
     "audience": "Young Adult",
     "pub_date": "10/11/2016",
-    "pub_date_all": "October 11, 2016 (Hardcover, eBook)\r\nOctober 3, 2017 (Paperback)",
-    "pub_summary": "Ahsoka Tano, fan favorite character from Star Wars: The Clone Wars and Star Wars Rebels, will be the star of her own young adult novel from Disney Lucasfilm Press this October 11, 2016! Fans have long wondered what happened to Ahsoka after she left the Jedi Order near the end of the Clone Wars, and before she re-appeared as the mysterious Rebel operative Fulcrum in Rebels. Finally, her story will begin to be told. Following her experiences with the Jedi and the devastation of Order 66, Ahsoka is unsure she can be part of a larger whole ever again. But her desire to fight the evils of the Empire and protect those who need it will lead her right to Bail Organa, and the Rebel Alliance….",
+    "pub_date_all": "October 11, 2016 (Hardcover, eBook)\nOctober 3, 2017 (Paperback)",
+    "pub_summary": "Ahsoka Tano, fan favorite character from Star Wars: The Clone Wars and Star Wars Rebels, will be the star of her own young adult novel from Disney Lucasfilm Press this October 11, 2016! Fans have long wondered what happened to Ahsoka after she left the Jedi Order near the end of the Clone Wars, and before she re-appeared as the mysterious Rebel operative Fulcrum in Rebels. Finally, her story will begin to be told. Following her experiences with the Jedi and the devastation of Order 66, Ahsoka is unsure she can be part of a larger whole ever again. But her desire to fight the evils of the Empire and protect those who need it will lead her right to Bail Organa, and the Rebel Alliance....",
     "pages": 356,
-    "isbn": "9781484705667",
+    "isbn": "1484705661",
     "asin": "1484705661",
+    "audio_asin": "B01M0YKIZA",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/d/d3/Ahsoka_novel_cover.png/revision/latest/scale-to-width-down/500?cb=20160715164545",
     "audio_narrator": "Ashley Eckstein",
     "audio_publisher": "Random House Audio",
     "audio_runtime": 424,
-    "audio_asin": "B01M0YKIZA",
     "timeline_text": "18 BBY",
     "sort_timeline_yavin": -18,
+    "series": null,
+    "series2": null,
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1,
-    "series": null,
-    "series2": null
+    "released": 1,
+    "canon": 1
   },
   {
     "id": 12,
@@ -331,6 +344,7 @@
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
+    "released": 1,
     "canon": 1
   },
   {
@@ -359,6 +373,7 @@
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
+    "released": 1,
     "canon": 1
   },
   {
@@ -369,24 +384,26 @@
     "publisher": "Disney Lucasfilm Press",
     "audience": "Young Adult",
     "pub_date": "05/02/2017",
-    "pub_date_all": "May 2, 2017 (Hardcover, eBook)\r\nAugust 7, 2018 (Paperback)",
-    "pub_summary": "When Jyn Erso was five years old, her mother was murdered and her father taken from her to serve the Empire. But despite the loss of her parents she is not completely alone—Saw Gerrera, a man willing to go to any extremes necessary in order to resist Imperial tyranny, takes her in as his own, and gives her not only a home but all the abilities and resources she needs to become a rebel herself.\r\n\r\nJyn dedicates herself to the cause—and the man. But fighting alongside Saw and his people brings with it danger and the question of just how far Jyn is willing to go as one of Saw’s soldiers. When she faces an unthinkable betrayal that shatters her world, Jyn will have to pull the pieces of herself back together and figure out what she truly believes in…and who she can really trust.",
+    "pub_date_all": "May 2, 2017 (Hardcover, eBook)\nAugust 7, 2018 (Paperback)",
+    "pub_summary": "When Jyn Erso is eight years old, her mother is murdered and her father taken from her to serve the Empire. But despite the loss of her parents, she is not completely alone. Saw Gerrera, a man willing to go to any extremes necessary to resist Imperial tyranny, takes her in as his own daughter and gives her not only a home but all the abilities and resources she needs to become a rebel.\n\nJyn dedicates herself to the cause—and the man. But fighting alongside Saw and his people brings with it danger and the question of just how far Jyn is willing to go as one of Saw's soldiers. When she faces an unthinkable betrayal that shatters her world, Jyn will have to pull the pieces of herself back together and figure out what she truly believes in…and whom she can really trust.",
     "pages": 410,
     "isbn": "9781484780831",
     "asin": "B01N9QS8E4",
+    "audio_asin": "B06XT8G4NB",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/4/41/RebelRising-Hardcover.jpg/revision/latest/scale-to-width-down/500?cb=20180121202424",
     "audio_narrator": "Rebecca Soler",
     "audio_publisher": "Random House Audio",
     "audio_runtime": 593,
-    "audio_asin": "B06XT8G4NB",
-    "timeline_text": "13 BBY – 0 BBY",
+    "timeline_text": "13 BBY – 1 BBY",
     "sort_timeline_yavin": -13,
+    "series": null,
+    "series2": null,
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1,
-    "series": null,
-    "series2": null
+    "released": 1,
+    "canon": 1
   },
   {
     "id": 15,
@@ -414,6 +431,7 @@
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
+    "released": 1,
     "canon": 1
   },
   {
@@ -442,6 +460,7 @@
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
+    "released": 1,
     "canon": 1
   },
   {
@@ -470,6 +489,7 @@
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
+    "released": 1,
     "canon": 1
   },
   {
@@ -480,24 +500,26 @@
     "publisher": "Disney Lucasfilm Press",
     "audience": "Young Adult",
     "pub_date": "09/01/2017",
-    "pub_date_all": "September 1, 2017 (Hardcover)\r\nNovember 6, 2018 (Paperback)",
-    "pub_summary": "It is Leia Organa’s sixteenth birthday and she participates in the traditional ceremony where she declares her intention to one day take the throne of Alderaan. But she’s much more concerned about the way her parents are acting lately: lots of meetings and late dinners and not talking to her as much as they used to. Eventually she discovers the reason for their secrecy: their involvement in the increasingly organized rebellion. When Leia decides to become involved herself in the fight against the Empire, whether her parents approve or not, she will have to prove to them that she is a valuable asset who must be allowed to take a stand, regardless of the risk to herself. Her stand will also put her at odds with a pacifist young Alderaanian man who gives Leia her first kiss…and her first real loss.",
+    "pub_date_all": "September 1, 2017 (Hardcover)\nNovember 6, 2018 (Paperback)",
+    "pub_summary": "It is Leia Organa's sixteenth birthday and she participates in the traditional ceremony where she declares her intention to one day take the throne of Alderaan. But she's much more concerned about the way her parents are acting lately: lots of meetings and late dinners and not talking to her as much as they used to. Eventually she discovers the reason for their secrecy: their involvement in the increasingly organized rebellion. When Leia decides to become involved herself in the fight against the Empire, whether her parents approve or not, she will have to prove to them that she is a valuable asset who must be allowed to take a stand, regardless of the risk to herself. Her stand will also put her at odds with a pacifist young Alderaanian man who gives Leia her first kiss…and her first real loss.",
     "pages": 416,
     "isbn": "9781484780787",
     "asin": "B06ZY49H5J",
+    "audio_asin": "B074CMXKJ4",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/1/11/LeiaPrincessofAlderaan-Hardcover.jpg/revision/latest/scale-to-width-down/500?cb=20170708131542",
     "audio_narrator": "Saskia Maarleveld",
     "audio_publisher": "Random House Audio",
     "audio_runtime": 594,
-    "audio_asin": "B074CMXKJ4",
     "timeline_text": "3 BBY",
     "sort_timeline_yavin": -3,
+    "series": "Journey to Star Wars",
+    "series2": "The Last Jedi",
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1,
-    "series": null,
-    "series2": null
+    "released": 1,
+    "canon": 1
   },
   {
     "id": 19,
@@ -525,6 +547,7 @@
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
+    "released": 1,
     "canon": 1
   },
   {
@@ -536,23 +559,25 @@
     "audience": "Young Adult",
     "pub_date": "05/25/2018",
     "pub_date_all": "May 25, 2018",
-    "pub_summary": "Set before the events of Solo: A Star Wars Story! Han and Qi’ra don’t have a lot in common other than not having a lot. They’re street kids on the industrial planet Corellia, doing whatever it takes to get by, dreaming of something more. They each jump at a chance to prove themselves in the perilous world of Corellia’s criminal underbelly, only to discover they are on the same mission for the same unscrupulous boss. When the job goes disastrously wrong, Han and Qi’ra are on the run–from pirates, a droid crime syndicate, the Empire, and their boss–and will have to learn to trust each other if they are going to survive.\r\n",
+    "pub_summary": "Set before the events of Solo: A Star Wars Story! Han and Qi'ra don't have a lot in common other than not having a lot. They're street kids on the industrial planet Corellia, doing whatever it takes to get by, dreaming of something more. They each jump at a chance to prove themselves in the perilous world of Corellia's criminal underbelly, only to discover they are on the same mission for the same unscrupulous boss. When the job goes disastrously wrong, Han and Qi'ra are on the run–from pirates, a droid crime syndicate, the Empire, and their boss–and will have to learn to trust each other if they are going to survive.",
     "pages": 352,
     "isbn": "9781368016308",
     "asin": "B079VVNP7P",
+    "audio_asin": "B07BL4DSD6",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/6/60/Most_Wanted_book_cover.jpg/revision/latest/scale-to-width-down/500?cb=20180217015536",
     "audio_narrator": "Saskia Maarleveld",
     "audio_publisher": "Random House Audio",
     "audio_runtime": 476,
-    "audio_asin": "B07BL4DSD6",
     "timeline_text": "13 BBY",
     "sort_timeline_yavin": -13,
+    "series": null,
+    "series2": null,
     "type_hc": 1,
     "type_pb": 0,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1,
-    "series": null,
-    "series2": null
+    "released": 1,
+    "canon": 1
   },
   {
     "id": 21,
@@ -580,6 +605,7 @@
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
+    "released": 1,
     "canon": 1
   },
   {
@@ -590,24 +616,26 @@
     "publisher": "Disney Lucasfilm Press",
     "audience": "Young Adult",
     "pub_date": "03/05/2019",
-    "pub_date_all": "March 5, 2019 (Hardcover, eBook)\r\nMay 2, 2019 (Paperback)",
-    "pub_summary": "The end of her reign is just the beginning….\r\n\r\nWhen Padmé Amidala steps down from her position as Queen of Naboo, she is ready to set aside her title and return to life out of the spotlight. But to her surprise, the new queen asks Padmé to continue serving their people—this time in the Galactic Senate. Padmé is unsure about the new role but cannot turn down the request, especially since, thanks to her dearest friend—and decoy—Sabé, she can be in two places at once. So while Padmé plunges into politics, Sabé sets off on a mission dear to Padmé’s heart.\r\n\r\nOn the glistening capital planet Coruscant, Padmé’s new Senate colleagues regard her with curiosity—and with suspicion for her role in ousting the previous chancellor. Posing as a merchant on Tatooine, Sabé has fewer resources than she thought and fewer options than she needs.\r\n\r\nTogether with Padmé’s loyal handmaidens, Padmé and Sabé must navigate treacherous politics, adapt to constantly changing landscapes, and forge a new identity beyond the queen’s shadow.",
+    "pub_date_all": "March 5, 2019 (Hardcover, eBook)\nMay 2, 2019 (Paperback)",
+    "pub_summary": "The end of her reign is just the beginning....\n\nWhen Padmé Amidala steps down from her position as Queen of Naboo, she is ready to set aside her title and return to life out of the spotlight. But to her surprise, the new queen asks Padmé to continue serving their people—this time in the Galactic Senate. Padmé is unsure about the new role but cannot turn down the request, especially since, thanks to her dearest friend—and decoy—Sabé, she can be in two places at once. So while Padmé plunges into politics, Sabé sets off on a mission dear to Padmé's heart.\n\nOn the glistening capital planet Coruscant, Padmé's new Senate colleagues regard her with curiosity—and with suspicion for her role in ousting the previous chancellor. Posing as a merchant on Tatooine, Sabé has fewer resources than she thought and fewer options than she needs.\n\nTogether with Padmé's loyal handmaidens, Padmé and Sabé must navigate treacherous politics, adapt to constantly changing landscapes, and forge a new identity beyond the queen's shadow.",
     "pages": 352,
     "isbn": "9781368024259",
     "asin": "B07FR2JJ7L",
+    "audio_asin": "B07M8YJFCH",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/0/0e/QueensShadow.png/revision/latest/scale-to-width-down/500?cb=20190305210550",
     "audio_narrator": "Catherine Taber",
     "audio_publisher": "Random House Audio",
     "audio_runtime": 502,
-    "audio_asin": "B07M8YJFCH",
-    "timeline_text": "32 BBY (Prologue)\r\n28 BBY\r\n19 BBY (Epilogue)",
+    "timeline_text": "28 BBY",
     "sort_timeline_yavin": -28,
+    "series": "Queen's Series",
+    "series2": null,
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1,
-    "series": "The Queen's Hands",
-    "series2": null
+    "released": 1,
+    "canon": 1
   },
   {
     "id": 23,
@@ -635,6 +663,7 @@
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
+    "released": 1,
     "canon": 1
   },
   {
@@ -663,6 +692,7 @@
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
+    "released": 1,
     "canon": 1
   },
   {
@@ -691,6 +721,7 @@
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
+    "released": 1,
     "canon": 1
   },
   {
@@ -702,23 +733,25 @@
     "audience": "Young Adult",
     "pub_date": "08/06/2019",
     "pub_date_all": "August 6, 2019",
-    "pub_summary": "Izzy and Jules were childhood friends, climbing the spires of Batuu, inventing silly games, and dreaming of adventures they would share one day. Then, Izzy’s family left abruptly, without even a chance to say goodbye. Izzy’s life became one of constant motion, traveling from one world to the next, until her parents were killed and she became a low-level smuggler to make ends meet. Jules remained on Batuu, eventually becoming a farmer like his father, but always yearning for something more.\r\n\r\nNow, thirteen years after she left, Izzy is returning to Batuu. She’s been hired to deliver a mysterious parcel, and she just wants to finish the job and get gone. But upon arrival at Black Spire Outpost she runs smack into the one person who still means something to her after all this time: Jules.\r\n\r\nThe attraction between them is immediate, yet despite Jules seeming to be everything she’s ever needed, Izzy hesitates. How can she drag this good-hearted man into the perilous life she’s chosen?\r\n\r\nJules has been trying to figure out his future, but now all he knows for certain is that he wants to be with Izzy. How can he convince her to take a chance on someone who’s never left the safety of his homeworld?\r\n\r\nWhen Izzy’s job goes wrong, the two childhood friends find themselves on the run. And all their secrets will be revealed as they fight to stay alive?",
+    "pub_summary": "Izzy and Jules were childhood best friends, climbing the spires of Batuu, inventing silly games, and dreaming of adventures they would share one day. Then Izzy's family left abruptly, without even a chance to say good-bye. Izzy's life became one of constant motion, from one world to the next, until her parents were killed and she became a low-level smuggler to make ends meet. Jules remained on Batuu, eventually becoming a farmer like his father, but always yearning for something more.\n\nNow, thirteen years after she left, Izzy has returned to Batuu. She's been hired to deliver a mysterious parcel, and she just wants to finish the job and get gone. But upon arrival at Black Spire Outpost, she runs smack into the one person who still means something to her after all this time: Jules. And the attraction between them is instant and overwhelming.\n\nYet despite Jules seeming to be everything she's ever needed, Izzy hesitates. How can she drag such a good-hearted man into the perilous life she's chosen?\n\nJules has been unsure what his future holds, and now all he knows for certain is that he wants to be with Izzy. How can he convince her to take a chance on someone who's never left the safety of his homeworld?\n\nWhen Izzy's job goes wrong, the two childhood friends find themselves on the run. And all their secrets will be revealed as they fight to stay alive....",
     "pages": 352,
     "isbn": "9781368048538",
     "asin": "B07P1DYPQF",
+    "audio_asin": "0593152603",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/8/8a/ACrashofFate.png/revision/latest/scale-to-width-down/499?cb=20190808231603",
     "audio_narrator": "Brittany Pressley",
     "audio_publisher": "Random House Audio",
     "audio_runtime": 475,
-    "audio_asin": "0593152603",
     "timeline_text": "34 ABY",
     "sort_timeline_yavin": 34,
+    "series": "Galaxy's Edge",
+    "series2": null,
     "type_hc": 1,
     "type_pb": 0,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1,
-    "series": "Galaxy's Edge",
-    "series2": null
+    "released": 1,
+    "canon": 1
   },
   {
     "id": 27,
@@ -746,6 +779,7 @@
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
+    "released": 1,
     "canon": 1
   },
   {
@@ -774,6 +808,7 @@
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
+    "released": 1,
     "canon": 1
   },
   {
@@ -783,25 +818,27 @@
     "author": "Kevin Shinick",
     "publisher": "Disney Lucasfilm Press",
     "audience": "Young Adult",
-    "pub_date": "11/19/2019",
+    "pub_date": "10/04/2019",
     "pub_date_all": "November 19, 2019",
-    "pub_summary": "Karr is a teenage boy like many others in the galaxy. He goes to school, helps his parents with the family business, likes speeders and droids. But Karr also has a secret: when he touches certain objects, he gets searing headaches and blacks out. And along with the pain sometimes come visions of people he doesn't know and places he's never been.\r\n\r\nKarr's parents worry that he's sick; his grandmother is convinced the visions come from the Force. But it's been years since anyone has heard from the last of the Jedi—Luke Skywalker. Are there any Jedi left to guide Karr in the use of his abilities? Is anyone even willing to talk about the Jedi and what happened to them, as their memory continues to fade and the First Order rises? Stuck on his isolated home planet, Karr becomes a collector of historical artifacts, hoping to one day find an object that will give him a vision about the secrets of the Jedi.\r\n\r\nWhen his grandmother dies and his parents announce they're sending him away to a school on the other side of the planet, Karr reaches his breaking point. He needs to know what his destiny holds, and whether the Jedi are involved. Accompanied by Maize, the blunt, unpredictable new girl at school with ties to the First Order, and RZ-7, Karr's solicitous droid companion, he sets off into the larger galaxy to find the truth. His adventures will take him from Utapau to Jakku to Takodana and beyond as he learns more about the Jedi than he could have expected…and about his own place in the Force. ",
+    "pub_summary": "Karr is a teenage boy like many others in the galaxy. He goes to school, helps his parents with the family business, likes speeders and droids. But Karr also has a secret: when he touches certain objects, he gets searing headaches and blacks out. And along with the pain sometimes come visions of people he doesn't know and places he's never been.\n\nKarr's parents worry that he's sick; his grandmother is convinced the visions come from the Force. But it's been years since anyone has heard from the last of the Jedi—Luke Skywalker. Are there any Jedi left to guide Karr in the use of his abilities? Is anyone even willing to talk about the Jedi and what happened to them, as their memory continues to fade and the First Order rises? Stuck on his isolated home planet, Karr becomes a collector of historical artifacts, hoping to one day find an object that will give him a vision about the secrets of the Jedi.\n\nWhen his grandmother dies and his parents announce they're sending him away to a school on the other side of the planet, Karr reaches his breaking point. He needs to know what his destiny holds, and whether the Jedi are involved. Accompanied by Maize, the blunt, unpredictable new girl at school with ties to the First Order, and RZ-7, Karr's solicitous droid companion, he sets off into the larger galaxy to find the truth. His adventures will take him from Utapau to Jakku to Takodana and beyond as he learns more about the Jedi than he could have expected…and about his own place in the Force.",
     "pages": 384,
     "isbn": "9781405295413",
     "asin": "B07RPF789X",
+    "audio_asin": "B07RV3RR7K",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/8/8c/ForceCollector-Egmont.jpg/revision/latest/scale-to-width-down/350?cb=20191025191801",
     "audio_narrator": "Euan Morton",
     "audio_publisher": "Random House Audio",
     "audio_runtime": 494,
-    "audio_asin": "B07RV3RR7K",
-    "timeline_text": "31 ABY – 32 ABY",
-    "sort_timeline_yavin": 31,
+    "timeline_text": "32 ABY",
+    "sort_timeline_yavin": 32,
+    "series": "Journey to Star Wars",
+    "series2": "The Rise of Skywalker",
     "type_hc": 1,
     "type_pb": 0,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1,
-    "series": "Journey to Star Wars",
-    "series2": "The Rise of Skywalker"
+    "released": 1,
+    "canon": 1
   },
   {
     "id": 30,
@@ -811,24 +848,26 @@
     "publisher": "Disney Lucasfilm Press",
     "audience": "Young Adult",
     "pub_date": "06/02/2020",
-    "pub_date_all": "June 2, 2020 (hardcover)\r\nOctober 5, 2021 (paperback)",
-    "pub_summary": "When fourteen-year-old Padmé Naberrie wins the election for Queen of Naboo, she takes the name Amidala and leaves her family to rule from the Royal Palace in the capital of Theed. At a time of brewing uncertainty for Naboo and the Galactic Republic, she and her security advisor, Captain Panaka, devise a plan for the Queen's safety: the recruitment of multiple handmaidens. These handmaidens will be her aides, confidants, protectors, and even decoys. Each young woman is selected by Panaka for her particular talents, but it is up to Padmé to unite them as a group. Different though they may be, the handmaidens learn to work together in service of the one goal they all share: to protect the Queen at all costs. But when their peaceful world is invaded by the ambitious Trade Federation, Queen Amidala and her brave handmaidens will face their greatest test— of themselves and of each other. ",
+    "pub_date_all": "June 2, 2020 (hardcover)\nOctober 5, 2021 (paperback)",
+    "pub_summary": "When fourteen-year-old Padmé Naberrie wins the election for Queen of Naboo, she takes the name Amidala and leaves her family to rule from the Royal Palace in the capital of Theed. At a time of brewing uncertainty for Naboo and the Galactic Republic, she and her security advisor, Captain Panaka, devise a plan for the Queen's safety: the recruitment of multiple handmaidens. These handmaidens will be her aides, confidants, protectors, and even decoys. Each young woman is selected by Panaka for her particular talents, but it is up to Padmé to unite them as a group. Different though they may be, the handmaidens learn to work together in service of the one goal they all share: to protect the Queen at all costs. But when their peaceful world is invaded by the ambitious Trade Federation, Queen Amidala and her brave handmaidens will face their greatest test— of themselves and of each other.",
     "pages": 288,
     "isbn": "9781368057141",
     "asin": "B085KKSQBW",
+    "audio_asin": "B085LMW71G",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/1/1c/QueensPeril.png/revision/latest/scale-to-width-down/499?cb=20200618062128",
     "audio_narrator": "Catherine Taber",
     "audio_publisher": "Random House Audio",
     "audio_runtime": 371,
-    "audio_asin": "B085LMW71G",
     "timeline_text": "32 BBY",
     "sort_timeline_yavin": -32,
+    "series": "Queen's Series",
+    "series2": null,
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1,
-    "series": "The Queen's Hands",
-    "series2": null
+    "released": 1,
+    "canon": 1
   },
   {
     "id": 31,
@@ -856,6 +895,7 @@
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
+    "released": 1,
     "canon": 1
   },
   {
@@ -867,23 +907,25 @@
     "audience": "Young Adult",
     "pub_date": "08/04/2020",
     "pub_date_all": "August 4, 2020",
-    "pub_summary": "Poe Dameron has always wanted to fly. His mother, Shara Bey, who was an A-wing pilot for the Rebellion against the Empire, was more than happy to show her son everything she knew about flying. But she died an untimely death, and Poe was left alone with his father, Kes Dameron, who struggles with grief and a desire to keep his son safe.\r\n\r\nNow sixteen, Poe wants nothing more than to leave his home on the quiet moon Yavin 4 to find adventure in the wider galaxy, while his father wants nothing more than for him to stay put. So when a group of smugglers offers Poe a job piloting them off-world, it feels like an opportunity he can't refuse. And by the time he finds out the smugglers are actually part of the fearsome criminal enterprise called the Spice Runners of Kijimi, Poe is already in deep. His burgeoning friendship—and perhaps more—with one young Spice Runner, Zorii, is even more incentive for Poe to stick around. But is this the life he's meant to have, is it even the life he wants? With danger closing in, Poe will have to figure out where he stands—and what he stands for. ",
+    "pub_summary": "Poe Dameron has always wanted to fly. His mother, Shara Bey, who was an A-wing pilot for the Rebellion against the Empire, was more than happy to show her son everything she knew about flying. But she died an untimely death, and Poe was left alone with his father, Kes Dameron, who struggles with grief and a desire to keep his son safe.\n\nNow sixteen, Poe wants nothing more than to leave his home on the quiet moon Yavin 4 to find adventure in the wider galaxy, while his father wants nothing more than for him to stay put. So when a group of smugglers offers Poe a job piloting them off-world, it feels like an opportunity he can't refuse. And by the time he finds out the smugglers are actually part of the fearsome criminal enterprise called the Spice Runners of Kijimi, Poe is already in deep. His burgeoning friendship—and perhaps more—with one young Spice Runner, Zorii, is even more incentive for Poe to stick around. But is this the life he's meant to have, is it even the life he wants? With danger closing in, Poe will have to figure out where he stands—and what he stands for.",
     "pages": 384,
     "isbn": "9781368051668",
     "asin": "B088KPK1Q1",
+    "audio_asin": "B0892RKT7T",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/c/c2/PoeDameronFreeFall.jpg/revision/latest/scale-to-width-down/500?cb=20200514183531",
     "audio_narrator": "Sean Elias-Reyes",
     "audio_publisher": "Random House Audio",
     "audio_runtime": 510,
-    "audio_asin": "B0892RKT7T",
     "timeline_text": "18 ABY – 19 ABY",
     "sort_timeline_yavin": 18,
+    "series": null,
+    "series2": null,
     "type_hc": 1,
     "type_pb": 0,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1,
-    "series": null,
-    "series2": null
+    "released": 1,
+    "canon": 1
   },
   {
     "id": 33,
@@ -911,6 +953,7 @@
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
+    "released": 1,
     "canon": 1
   },
   {
@@ -939,6 +982,7 @@
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
+    "released": 1,
     "canon": 1
   },
   {
@@ -950,23 +994,25 @@
     "audience": "Young Adult",
     "pub_date": "02/02/2021",
     "pub_date_all": "February 2, 2021",
-    "pub_summary": "Padawan Reath Silas is being sent from the cosmopolitan galactic capital of Coruscant to the undeveloped frontier—and he couldn't be less happy about it. He'd rather stay at the Jedi Temple, studying the archives. But when the ship he's traveling on is knocked out of hyperspace in a galactic-wide disaster, Reath finds himself at the center of the action. The Jedi and their traveling companions find refuge on what appears to be an abandoned space station. But then strange things start happening, leading the Jedi to investigate the truth behind the mysterious station, a truth that could end in tragedy....",
+    "pub_summary": "Padawan Reath Silas is being sent from the cosmopolitan galactic capital of Coruscant to the undeveloped frontier—and he couldn't be less happy about it. He'd rather stay at the Jedi Temple, studying the archives. But when the ship he's traveling on is knocked out of hyperspace in a galactic-wide disaster, Reath finds himself at the center of the action. The Jedi and their traveling companions find refuge on what appears to be an abandoned space station. But then strange things start happening, leading the Jedi to investigate the truth behind the mysterious station, a truth that could end in tragedy....\n\nNOT EVERYONE WHO HEARS THE CALL TO ADVENTURE WANTS TO ANSWER IT. . . .\n\nJedi Padawan Reath Silas loves adventure—reading about it, that is, not living it. Content to spend hours browsing the Jedi Archives on Coruscant, Reath dreams of being one of the greatest scholars of the Jedi Order. But Reath's master, the well-respected and virtuous Jora Malli, has other plans: she's taken a post at Starlight Beacon, the Republic's shining new outpost on the edge of known space. As her Padawan, Reath must join her, whether he likes the idea or not. (And he most definitely does not.)\n\nSo Reath reluctantly boards the ship that will take him and a few other Jedi to the dedication of Starlight Beacon, where Master Jora waits for him to start their new adventurous life on the frontier. But trouble in hyperspace leaves the ship and other nearby vessels stranded, with only an eerie abandoned space station reachable for shelter. And the secrets hidden there will not only bring Reath to a crossroads but, if left unchecked, could plunge the entire galaxy into darkness. . . .",
     "pages": 352,
     "isbn": "9781368057288",
     "asin": "B08543D4W9",
+    "audio_asin": "B085F2YKJC",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/8/81/Into_the_Dark_cover.jpg/revision/latest/scale-to-width-down/500?cb=20200225074008",
     "audio_narrator": "Dan Bittner",
     "audio_publisher": "Random House Audio",
     "audio_runtime": 600,
-    "audio_asin": "B085F2YKJC",
     "timeline_text": "232 BBY",
     "sort_timeline_yavin": -232,
+    "series": "The High Republic",
+    "series2": "Phase 1",
     "type_hc": 1,
     "type_pb": 0,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1,
-    "series": "The High Republic",
-    "series2": "Light of the Jedi"
+    "released": 1,
+    "canon": 1
   },
   {
     "id": 36,
@@ -994,6 +1040,7 @@
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
+    "released": 1,
     "canon": 1
   },
   {
@@ -1022,6 +1069,7 @@
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
+    "released": 1,
     "canon": 1
   },
   {
@@ -1029,16 +1077,16 @@
     "title": "Out of the Shadows",
     "sort_title": "Out of the Shadows",
     "author": "Justina Ireland",
-    "publisher": "Del Rey",
+    "publisher": "Disney Lucasfilm Press",
     "audience": "Young Adult",
     "pub_date": "07/27/2021",
     "pub_date_all": "July 27, 2021",
-    "pub_summary": "Sylvestri Yarrow is on a streak of bad luck with no end of sight. She's been doing her best to keep the family cargo business going after her mom's death, but between mounting debt and increasing attacks by the Nihil on unsuspecting ships, Syl is in danger of losing all she has left of her mother. She heads to the galactic capital of Coruscant for help, but gets sidetracked when she's drawn into a squabble between two of the Republic's most powerful families over a patch of space on the frontier. Tangled up in familial politics is the last place Syl wants to be, but the promise of a big payoff is enough to keep her interested...\n\nMeanwhile, Jedi Knight Vernestra Rwoh has been summoned to Coruscant, but with no idea of why or by whom. She and her Padawan Imri Cantaros arrive at the capital along with Jedi Master Cohmac Vitus and his Padawan, Reath Silas—and are asked to assist with the property dispute on the frontier. But why? What is so important about an empty patch of space? The answer will lead Vernestra to a new understanding of her abilities, and take Syl back to the past... and to truths that will finally come out of the shadows. ",
-    "pages": 352,
+    "pub_summary": "The darkest secrets are the hardest to bring to light...\n\nSylvestri Yarrow is on a streak of bad luck with no end of sight. She's been doing her best to keep the family cargo business going after her mom's death, but between mounting debt and increasing attacks by the Nihil on unsuspecting ships, Syl is in danger of losing all she has left of her mother. She heads to the galactic capital of Coruscant for help, but gets sidetracked when she's drawn into a squabble between two of the Republic's most powerful families over a patch of space on the frontier. Tangled up in familial politics is the last place Syl wants to be, but the promise of a big payoff is enough to keep her interested...\n\nMeanwhile, Jedi Knight Vernestra Rwoh has been summoned to Coruscant, but with no idea of why or by whom. She and her Padawan Imri Cantaros arrive at the capital along with Jedi Master Cohmac Vitus and his Padawan, Reath Silas—and are asked to assist with the property dispute on the frontier. But why? What is so important about an empty patch of space? The answer will lead Vernestra to a new understanding of her abilities, and take Syl back to the past... and to truths that will finally come out of the shadows.",
+    "pages": 423,
     "isbn": "9781368060653",
     "asin": "B091M4WKVQ",
     "audio_asin": "B098BHBW9Z",
-    "cover_url": null,
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/5/51/Star_Wars_The_High_Republic_Out_of_the_Shadows_final_cover.jpg/revision/latest/scale-to-width-down/500?cb=20210217035059",
     "audio_narrator": "Keylor Leigh",
     "audio_publisher": "Random House Audio",
     "audio_runtime": 650,
@@ -1050,6 +1098,7 @@
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
+    "released": 1,
     "canon": 1
   },
   {
@@ -1078,6 +1127,7 @@
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
+    "released": 1,
     "canon": 1
   },
   {
@@ -1106,6 +1156,7 @@
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
+    "released": 1,
     "canon": 1
   },
   {
@@ -1117,23 +1168,25 @@
     "audience": "Young Adult",
     "pub_date": "02/01/2022",
     "pub_date_all": "February 1, 2022",
-    "pub_summary": "Two hundred years before the events of Star Wars: The Phantom Menace, in the era of the glorious High Republic, the Jedi are the guardians of peace and justice in the galaxy!\r\n\r\nAfter a series of staggering losses, the Republic seems to finally have the villainous Nihil marauders on the run, and it looks like there’s light at the end of the tunnel. Until word comes of a suspected Nihil attack on the industrial cosmopolitan world of Corellia, right in the Galactic Core.\r\n\r\nSent to investigate are Jedi Masters Cohmac Vitus and Kantam Sy, along with Padawans Reath Silas and Ram Jomaram, all fighting their own private battles after months of unrelenting danger. On Corellia, Reath and Ram encounter a brazen young security specialist named Crash, whose friend was one of the victims of the Nihil attack, and they team up with her to infiltrate Corellia’s elite while the Masters pursue more diplomatic avenues. But going undercover with Crash is more dangerous than anyone expected, even as Ram pulls in his friend Zeen to help with an elaborate ruse involving a galactic pop star.\r\n\r\nBut what they uncover on Corellia turns out to be just one part of a greater plan, one that could lead the Jedi to their most stunning defeat yet….\r\n\r\nThe New York Times best-selling series continues…. For light and life!",
+    "pub_summary": "Two hundred years before the events of Star Wars: The Phantom Menace''', in the era of the glorious High Republic, the Jedi are the guardians of peace and justice in the galaxy!'\n\nAfter a series of staggering losses, the Republic seems to finally have the villainous Nihil marauders on the run, and it looks like there's light at the end of the tunnel. Until word comes of a suspected Nihil attack on the industrial cosmopolitan world of Corellia, right in the Galactic Core.\n\nSent to investigate are Jedi Masters Cohmac Vitus and Kantam Sy, along with Padawans Reath Silas and Ram Jomaram, all fighting their own private battles after months of unrelenting danger. On Corellia, Reath and Ram encounter a brazen young security specialist named Crash, whose friend was one of the victims of the Nihil attack, and they team up with her to infiltrate Corellia's elite while the Masters pursue more diplomatic avenues. But going undercover with Crash is more dangerous than anyone expected, even as Ram pulls in his friend Zeen to help with an elaborate ruse involving a galactic pop star.\n\nBut what they uncover on Corellia turns out to be just one part of a greater plan, one that could lead the Jedi to their most stunning defeat yet….\n\nThe New York Times best-selling series continues.... For light and life!",
     "pages": 496,
     "isbn": "9781368060677",
     "asin": "B09NQJ8XX6",
+    "audio_asin": "B09RKV58G3",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/d/dc/HighRepublicMidnightHorizon.jpg/revision/latest/scale-to-width-down/500?cb=20210916182836",
     "audio_narrator": "Todd Haberkorn",
     "audio_publisher": "Random House Audio",
     "audio_runtime": 605,
-    "audio_asin": "B09RKV58G3",
     "timeline_text": "230 BBY",
     "sort_timeline_yavin": -230,
+    "series": "The High Republic",
+    "series2": "Phase 1",
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1,
-    "series": "The High Republic",
-    "series2": "Light of the Jedi"
+    "released": 1,
+    "canon": 1
   },
   {
     "id": 43,
@@ -1144,23 +1197,25 @@
     "audience": "Young Adult",
     "pub_date": "04/05/2022",
     "pub_date_all": "April 5, 2022",
-    "pub_summary": "A peace-loving senator faces a time of war in another thrilling Padmé Amidala adventure from the author of the New York Times best-sellers Queen’s Peril and Queen’s Shadow!\r\n\r\nPadmé is adjusting to being a wartime senator during the Clone Wars. Her secret husband, Anakin Skwyalker, [sic] is off fighting the war, and excels at being a wartime Jedi. In contrast, when Padmé gets the opportunity to see the casualties on the war-torn front lines, she is horrified. The stakes have never been higher for the galaxy, or for the newly-married couple.\r\n\r\nMeanwhile, with Padmé on a secret mission, her handmaiden Sabé steps into the role of Senator Amidala, something no handmaiden has done for an extended period of time. While in the Senate, Sabé is equally horrified by the machinations that happen there. She comes face to face with a gut-wrenching decision as she realizes that she cannot fight a war this way, not even for Padmé.\r\n\r\nAnd Chancellor Palpatine hovers over it all, manipulating the players to his own ends…",
+    "pub_summary": "A peace-loving senator faces a time of war in another thrilling Padmé Amidala adventure from the author of the New York Times best-sellers Queen's Peril and Queen's Shadow!\n\nPadmé is adjusting to being a wartime senator during the Clone Wars. Her secret husband, Anakin Skwyalker, [sic] is off fighting the war, and excels at being a wartime Jedi. In contrast, when Padmé gets the opportunity to see the casualties on the war-torn front lines, she is horrified. The stakes have never been higher for the galaxy, or for the newly-married couple.\n\nMeanwhile, with Padmé on a secret mission, her handmaiden Sabé steps into the role of Senator Amidala, something no handmaiden has done for an extended period of time. While in the Senate, Sabé is equally horrified by the machinations that happen there. She comes face to face with a gut-wrenching decision as she realizes that she cannot fight a war this way, not even for Padmé.\n\nAnd Chancellor Palpatine hovers over it all, manipulating the players to his own ends…",
     "pages": 352,
     "isbn": "9781368075930",
     "asin": "B09V99NZ58",
+    "audio_asin": "B09VRLVQP1",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/4/47/Queens_Hope_final_cover.jpg/revision/latest/scale-to-width-down/500?cb=20210618225638",
     "audio_narrator": "Catherine Taber",
     "audio_publisher": "Random House Audio",
     "audio_runtime": 400,
-    "audio_asin": "B09VRLVQP1",
     "timeline_text": "22 BBY",
     "sort_timeline_yavin": -22,
+    "series": "Queen's Series",
+    "series2": null,
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1,
-    "series": "The Queen's Hands",
-    "series2": null
+    "released": 1,
+    "canon": 1
   },
   {
     "id": 44,
@@ -1188,6 +1243,7 @@
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
+    "released": 1,
     "canon": 1
   },
   {
@@ -1216,6 +1272,7 @@
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
+    "released": 1,
     "canon": 1
   },
   {
@@ -1241,6 +1298,7 @@
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
+    "released": 1,
     "canon": 1,
     "series": null,
     "series2": null
@@ -1271,34 +1329,37 @@
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
+    "released": 1,
     "canon": 1
   },
   {
     "id": 48,
     "title": "Path of Deceit",
     "sort_title": "Path of Deceit",
-    "author": "Tessa Gratton;\r\nJustina Ireland",
+    "author": "Tessa Gratton;Justina Ireland",
     "publisher": "Disney Lucasfilm Press",
     "audience": "Young Adult",
     "pub_date": "10/04/2022",
     "pub_date_all": "October 4, 2022",
-    "pub_summary": "Set in the world of the High Republic, 150 years before the storytelling of Phase I, an era of change brings new hopes and possibilities…but also new dangers.\r\n\r\nThe Outer Rim planet Dalna has become the focus of a Jedi investigation into a stolen Force artifact, and Zallah Macri and her Padawan, Kevmo Zink, arrive on the pastoral world to follow up on a possible connection to a Dalnan missionary group called the Path of the Open Hand. Members of the Path believe that the Force must be free and should not be used by anyone, not even the Jedi. One such believer is Marda Ro, a young woman who dreams of leaving Dalna to spread word of the Path throughout the galaxy.\r\n\r\nWhen Marda and Kevmo meet, their connection is instantaneous and electric―until Marda discovers Kevmo is a Jedi. But Kevmo is so kind and eager to learn more about the Path, that she hopes she can convince him of the rightness of her beliefs. What Marda doesn’t realize is that the leader of the Path, a charismatic woman known only as the Mother, has an agenda of her own, and it is one that can never coexist peacefully with the Jedi.\r\n\r\nIn order to follow her faith, Marda may have to choose to become her new friend’s worst enemy….",
+    "pub_summary": "Set in the world of the High Republic, 150 years before the storytelling of Phase I, an era of change brings new hopes and possibilities…but also new dangers.\n\nThe Outer Rim planet Dalna has become the focus of a Jedi investigation into a stolen Force artifact, and Zallah Macri and her Padawan, Kevmo Zink, arrive on the pastoral world to follow up on a possible connection to a Dalnan missionary group called the Path of the Open Hand. Members of the Path believe that the Force must be free and should not be used by anyone, not even the Jedi. One such believer is Marda Ro, a young woman who dreams of leaving Dalna to spread word of the Path throughout the galaxy.\n\nWhen Marda and Kevmo meet, their connection is instantaneous and electric―until Marda discovers Kevmo is a Jedi. But Kevmo is so kind and eager to learn more about the Path, that she hopes she can convince him of the rightness of her beliefs. What Marda doesn’t realize is that the leader of the Path, a charismatic woman known only as the Mother, has an agenda of her own, and it is one that can never coexist peacefully with the Jedi.\n\nIn order to follow her faith, Marda may have to choose to become her new friend’s worst enemy….",
     "pages": 352,
     "isbn": "9781368076128",
     "asin": "B0B69KD5Z6",
+    "audio_asin": "B0BFT5FR8V",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/3/38/TheHighRepublic-PathOfDeceit.jpg/revision/latest/scale-to-width-down/499?cb=20220526233239",
     "audio_narrator": "Erin Yvette",
     "audio_publisher": "Random House Audio",
     "audio_runtime": 490,
-    "audio_asin": "B0BFT5FR8V",
     "timeline_text": "382 BBY",
     "sort_timeline_yavin": -382,
+    "series": "The High Republic",
+    "series2": "Quest of the Jedi",
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1,
-    "series": "The High Republic",
-    "series2": "Quest of the Jedi"
+    "released": 1,
+    "canon": 1
   },
   {
     "id": 49,
@@ -1326,6 +1387,7 @@
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
+    "released": 1,
     "canon": 1
   },
   {
@@ -1354,6 +1416,7 @@
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
+    "released": 1,
     "canon": 1
   },
   {
@@ -1382,6 +1445,7 @@
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
+    "released": 1,
     "canon": 1
   },
   {
@@ -1410,6 +1474,7 @@
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
+    "released": 0,
     "canon": 1
   },
   {
@@ -1436,6 +1501,7 @@
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
+    "released": 1,
     "canon": 1,
     "id": 55,
     "sort_title": "Star Wars: The Force Awakens"
@@ -1464,6 +1530,7 @@
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
+    "released": 1,
     "canon": 1,
     "id": 56,
     "sort_title": "Rogue One: A Star Wars Story"
@@ -1494,6 +1561,7 @@
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
+    "released": 1,
     "canon": 1
   },
   {
@@ -1520,6 +1588,7 @@
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
+    "released": 1,
     "canon": 1,
     "id": 58,
     "sort_title": "Canto Bight"
@@ -1550,6 +1619,7 @@
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
+    "released": 1,
     "canon": 1
   },
   {
@@ -1576,6 +1646,7 @@
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
+    "released": 1,
     "canon": 1,
     "id": 60,
     "sort_title": "Solo: A Star Wars Story: Expanded Edition"
@@ -1606,6 +1677,7 @@
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
+    "released": 1,
     "canon": 1
   },
   {
@@ -1634,6 +1706,7 @@
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
+    "released": 1,
     "canon": 1
   },
   {
@@ -1662,6 +1735,7 @@
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
+    "released": 1,
     "canon": 1
   },
   {
@@ -1690,6 +1764,7 @@
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
+    "released": 1,
     "canon": 1
   },
   {
@@ -1718,6 +1793,7 @@
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
+    "released": 1,
     "canon": 1
   },
   {
@@ -1746,6 +1822,7 @@
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
+    "released": 1,
     "canon": 0
   },
   {
@@ -1774,6 +1851,7 @@
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
+    "released": 1,
     "canon": 1
   },
   {
@@ -1802,6 +1880,7 @@
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
+    "released": 1,
     "canon": 1
   },
   {
@@ -1830,6 +1909,7 @@
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
+    "released": 1,
     "canon": 1
   },
   {
@@ -1858,6 +1938,7 @@
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
+    "released": 1,
     "canon": 1
   },
   {
@@ -1886,6 +1967,7 @@
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
+    "released": 1,
     "canon": 1
   },
   {
@@ -1914,6 +1996,7 @@
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
+    "released": 1,
     "canon": 1
   },
   {
@@ -1942,6 +2025,7 @@
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
+    "released": 1,
     "canon": 1
   },
   {
@@ -1970,6 +2054,7 @@
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
+    "released": 1,
     "canon": 1
   },
   {
@@ -1998,6 +2083,7 @@
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
+    "released": 1,
     "canon": 1
   },
   {
@@ -2026,6 +2112,7 @@
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
+    "released": 1,
     "canon": 1
   },
   {
@@ -2054,6 +2141,7 @@
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
+    "released": 1,
     "canon": 1
   },
   {
@@ -2082,6 +2170,7 @@
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
+    "released": 1,
     "canon": 1
   },
   {
@@ -2110,6 +2199,7 @@
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
+    "released": 1,
     "canon": 1
   },
   {
@@ -2138,6 +2228,7 @@
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
+    "released": 1,
     "canon": 1
   },
   {
@@ -2166,6 +2257,7 @@
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
+    "released": 1,
     "canon": 1
   },
   {
@@ -2194,6 +2286,7 @@
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
+    "released": 0,
     "canon": 1
   },
   {
@@ -2222,6 +2315,7 @@
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
+    "released": 0,
     "canon": 1
   },
   {
@@ -2250,6 +2344,152 @@
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
+    "released": 1,
     "canon": 1
+  },
+  {
+    "title": "Path of Deceit",
+    "author": "Tessa Gratton; Justina Ireland",
+    "publisher": "Disney–Lucasfilm Press",
+    "audience": "Young Adult",
+    "pub_date": "10/04/2022",
+    "pub_date_all": null,
+    "pub_summary": "Set in the world of the High Republic, 150 years before the storytelling of Phase I, an era of change brings new hopes and possibilities…but also new dangers.\n\nThe Outer Rim planet Dalna has become the focus of a Jedi investigation into a stolen Force artifact, and Zallah Macri and her Padawan, Kevmo Zink, arrive on the pastoral world to follow up on a possible connection to a Dalnan missionary group called the Path of the Open Hand. Members of the Path believe that the Force must be free and should not be used by anyone, not even the Jedi. One such believer is Marda Ro, a young woman who dreams of leaving Dalna to spread word of the Path throughout the galaxy.\n\nWhen Marda and Kevmo meet, their connection is instantaneous and electric―until Marda discovers Kevmo is a Jedi. But Kevmo is so kind and eager to learn more about the Path, that she hopes she can convince him of the rightness of her beliefs. What Marda doesn't realize is that the leader of the Path, a charismatic woman known only as the Mother, has an agenda of her own, and it is one that can never coexist peacefully with the Jedi.\n\nIn order to follow her faith, Marda may have to choose to become her new friend's worst enemy….",
+    "pages": 352,
+    "isbn": "9781368076128",
+    "asin": null,
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/3/38/TheHighRepublic-PathOfDeceit.jpg/revision/latest/scale-to-width-down/499?cb=20220526233239",
+    "audio_narrator": null,
+    "audio_publisher": null,
+    "audio_runtime": null,
+    "audio_asin": null,
+    "timeline_text": "382 BBY",
+    "sort_timeline_yavin": -382,
+    "series": "The High Republic",
+    "series2": "Phase 2",
+    "type_hc": 0,
+    "type_pb": 0,
+    "type_eb": 0,
+    "type_ab": 0,
+    "released": 1,
+    "canon": 1,
+    "id": 85,
+    "sort_title": "Path of Deceit"
+  },
+  {
+    "title": "Myths & Fables",
+    "author": "George Mann",
+    "publisher": "Disney Lucasfilm Press",
+    "audience": "Young Adult",
+    "pub_date": "08/06/2019",
+    "pub_date_all": null,
+    "pub_summary": "Beautifully illustrated, this unique treasury of in-world space tales takes readers to the far reaches of the Star Wars universe…including to the remote outer rim world of Batuu from Galaxy's Edge.",
+    "pages": null,
+    "isbn": "9781368043458",
+    "asin": null,
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/6/6d/Myths-Fables.png/revision/latest/scale-to-width-down/500?cb=20211121170019",
+    "audio_narrator": null,
+    "audio_publisher": null,
+    "audio_runtime": null,
+    "audio_asin": null,
+    "timeline_text": "",
+    "sort_timeline_yavin": null,
+    "series": "Galaxy's Edge",
+    "series2": null,
+    "type_hc": 0,
+    "type_pb": 0,
+    "type_eb": 0,
+    "type_ab": 0,
+    "released": 1,
+    "canon": 1,
+    "id": 86,
+    "sort_title": "Myths & Fables"
+  },
+  {
+    "title": "Dark Legends",
+    "author": "George Mann",
+    "publisher": "Disney Lucasfilm Press",
+    "audience": "Young Adult",
+    "pub_date": "07/28/2020",
+    "pub_date_all": null,
+    "pub_summary": "Read on if you dare! This unique in-world collection hallows the spooky tales and ghost stories that would have kept young Luke and Leia up at night. Created by George Mann and Grant Griffin—the same team behind the stunning Star Wars: Myths & Fables—these six [sic] frightful fables have been carefully woven from the expansive fabric that is the Star Wars galaxy (including the thrilling landscape from Galaxy's Edge at Disneyland and Disney World), and beautifully painted in a lush illustrative style that feels intergalactic yet innately archetypal and timeless.",
+    "pages": null,
+    "isbn": "9781368057332",
+    "asin": null,
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/f/fa/DarkLegendsCoverArt.jpg/revision/latest/scale-to-width-down/500?cb=20200807142507",
+    "audio_narrator": null,
+    "audio_publisher": null,
+    "audio_runtime": null,
+    "audio_asin": null,
+    "timeline_text": "",
+    "sort_timeline_yavin": null,
+    "series": null,
+    "series2": null,
+    "type_hc": 0,
+    "type_pb": 0,
+    "type_eb": 0,
+    "type_ab": 0,
+    "released": 1,
+    "canon": 1,
+    "id": 87,
+    "sort_title": "Dark Legends"
+  },
+  {
+    "title": "The Clone Wars: Stories of Light and Dark",
+    "author": "Various",
+    "publisher": "Disney Lucasfilm Press",
+    "audience": "Young Adult",
+    "pub_date": "08/25/2020",
+    "pub_date_all": null,
+    "pub_summary": "An epic clash between the forces of light and dark, between the Galactic Republic and the Separatists, between brave heroes and brilliant villains…the fate of the galaxy is at stake in the Emmy Award–winning animated series Star Wars: The Clone Wars. In this exciting anthology, eleven authors who are also fans of the series bring stories from their favorite show to life. Relive memorable moments and stunning adventures, from attempted assassinations to stolen bounties, from lessons learned to loves lost. All your favorite characters from The Clone Wars are here: Anakin Skywalker, Yoda, Obi-Wan Kenobi, Ahsoka Tano, Captain Rex, Darth Maul, Count Dooku, and more!",
+    "pages": 384,
+    "isbn": "9781368057295",
+    "asin": null,
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/4/42/StoriesOfLightAndDark.jpg/revision/latest/scale-to-width-down/500?cb=20200902014252",
+    "audio_narrator": null,
+    "audio_publisher": null,
+    "audio_runtime": null,
+    "audio_asin": null,
+    "timeline_text": "22 BBY–19 BBY",
+    "sort_timeline_yavin": -22,
+    "series": "The Clone Wars",
+    "series2": null,
+    "type_hc": 0,
+    "type_pb": 0,
+    "type_eb": 0,
+    "type_ab": 0,
+    "released": 1,
+    "canon": 1,
+    "id": 88,
+    "sort_title": "Clone Wars: Stories of Light and Dark"
+  },
+  {
+    "title": "Life Day Treasury",
+    "author": "George MannCavan Scott",
+    "publisher": "Disney Lucasfilm Press",
+    "audience": "Young Adult",
+    "pub_date": "09/07/2021",
+    "pub_date_all": null,
+    "pub_summary": "Cozy up with this collection of holiday-themed midwinter stories from throughout the galaxy far, far away!\n\nFrom George Mann and Grant Griffin, the same team that brought us the stunning Star Wars: Myths & Fables and Star Wars: Dark Legends–with the addition of best-selling author Cavan Scott–this collection of eight myths and fables told around winter fires and high-tech heating pods across the galaxy will bring holiday joy to young and old Star Wars fans alike. From Jedi in the city to Ewoks in the forest, from Wookiees to droids, in this charming collection you will find holiday feasts, ghostly apparitions, snowy adventures, and much more. Ultimately these are stories of hope in the darkest of days. Of family, found and otherwise. Of kindness. And of love.",
+    "pages": 192,
+    "isbn": "9781368070881",
+    "asin": null,
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/0/05/LifeDayTreasury-cover.png/revision/latest/scale-to-width-down/500?cb=20210506235335",
+    "audio_narrator": null,
+    "audio_publisher": null,
+    "audio_runtime": null,
+    "audio_asin": null,
+    "timeline_text": "",
+    "sort_timeline_yavin": null,
+    "series": null,
+    "series2": null,
+    "type_hc": 0,
+    "type_pb": 0,
+    "type_eb": 0,
+    "type_ab": 0,
+    "released": 1,
+    "canon": 1,
+    "id": 89,
+    "sort_title": "Life Day Treasury"
   }
 ]
