@@ -19,13 +19,12 @@
     "audio_runtime": 750,
     "timeline_text": "11 BBY",
     "sort_timeline_yavin": -11,
-    "series": null,
-    "series2": null,
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": []
   },
   {
     "id": 2,
@@ -47,13 +46,12 @@
     "audio_runtime": 570,
     "timeline_text": "14 BBY",
     "sort_timeline_yavin": -14,
-    "series": null,
-    "series2": null,
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": []
   },
   {
     "id": 3,
@@ -75,13 +73,12 @@
     "audio_runtime": 542,
     "timeline_text": "0 ABY",
     "sort_timeline_yavin": null,
-    "series": null,
-    "series2": null,
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": []
   },
   {
     "id": 4,
@@ -103,13 +100,12 @@
     "audio_runtime": 657,
     "timeline_text": "14 BBY",
     "sort_timeline_yavin": -14,
-    "series": null,
-    "series2": null,
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": []
   },
   {
     "id": 5,
@@ -131,13 +127,12 @@
     "audio_runtime": 660,
     "timeline_text": "19 BBY\t",
     "sort_timeline_yavin": -19,
-    "series": null,
-    "series2": null,
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": []
   },
   {
     "id": 6,
@@ -159,13 +154,14 @@
     "audio_runtime": 702,
     "timeline_text": "11 BBY – 5 ABY",
     "sort_timeline_yavin": -11,
-    "series": "Journey to Star Wars",
-    "series2": "The Force Awakens",
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 0,
-    "canon": 1
+    "canon": 1,
+    "series": [
+      "Journey to Star Wars: The Force Awakens"
+    ]
   },
   {
     "id": 7,
@@ -187,13 +183,14 @@
     "audio_runtime": 750,
     "timeline_text": "4 ABY",
     "sort_timeline_yavin": 4,
-    "series": "The Aftermath Trilogy",
-    "series2": null,
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": [
+      "The Aftermath Trilogy"
+    ]
   },
   {
     "id": 8,
@@ -215,13 +212,14 @@
     "audio_runtime": 838,
     "timeline_text": "6 BBY – 3 ABY",
     "sort_timeline_yavin": -6,
-    "series": "Battlefront",
-    "series2": null,
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": [
+      "Battlefront"
+    ]
   },
   {
     "id": 9,
@@ -243,13 +241,12 @@
     "audio_runtime": 750,
     "timeline_text": "28 ABY",
     "sort_timeline_yavin": 28,
-    "series": null,
-    "series2": null,
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": []
   },
   {
     "id": 10,
@@ -271,13 +268,14 @@
     "audio_runtime": 930,
     "timeline_text": "5 ABY",
     "sort_timeline_yavin": 5,
-    "series": "The Aftermath Trilogy",
-    "series2": null,
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": [
+      "The Aftermath Trilogy"
+    ]
   },
   {
     "id": 11,
@@ -299,13 +297,12 @@
     "audio_runtime": 424,
     "timeline_text": "18 BBY",
     "sort_timeline_yavin": -18,
-    "series": null,
-    "series2": null,
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": []
   },
   {
     "id": 12,
@@ -327,13 +324,12 @@
     "audio_runtime": 660,
     "timeline_text": "21 BBY – 17 BBY",
     "sort_timeline_yavin": -21,
-    "series": null,
-    "series2": null,
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": []
   },
   {
     "id": 13,
@@ -355,13 +351,14 @@
     "audio_runtime": 1020,
     "timeline_text": "16 BBY – 2 BBY",
     "sort_timeline_yavin": -16,
-    "series": "The Imperial Trilogy",
-    "series2": null,
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": [
+      "The Imperial Trilogy"
+    ]
   },
   {
     "id": 14,
@@ -383,13 +380,12 @@
     "audio_runtime": 593,
     "timeline_text": "13 BBY – 1 BBY",
     "sort_timeline_yavin": -13,
-    "series": null,
-    "series2": null,
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": []
   },
   {
     "id": 15,
@@ -411,13 +407,14 @@
     "audio_runtime": 960,
     "timeline_text": "5 ABY",
     "sort_timeline_yavin": 5,
-    "series": "The Aftermath Trilogy",
-    "series2": null,
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": [
+      "The Aftermath Trilogy"
+    ]
   },
   {
     "id": 16,
@@ -439,13 +436,14 @@
     "audio_runtime": 622,
     "timeline_text": "0",
     "sort_timeline_yavin": null,
-    "series": "Battlefront",
-    "series2": null,
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": [
+      "Battlefront"
+    ]
   },
   {
     "id": 17,
@@ -467,13 +465,14 @@
     "audio_runtime": 750,
     "timeline_text": "34 ABY",
     "sort_timeline_yavin": 34,
-    "series": "Journey to Star Wars: The Last Jedi",
-    "series2": null,
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": [
+      "Journey to Star Wars: The Last Jedi"
+    ]
   },
   {
     "id": 18,
@@ -495,13 +494,14 @@
     "audio_runtime": 594,
     "timeline_text": "3 BBY",
     "sort_timeline_yavin": -3,
-    "series": "Journey to Star Wars",
-    "series2": "The Last Jedi",
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": [
+      "Journey to Star Wars: The Last Jedi"
+    ]
   },
   {
     "id": 19,
@@ -523,13 +523,12 @@
     "audio_runtime": 660,
     "timeline_text": "7 ABY",
     "sort_timeline_yavin": 7,
-    "series": null,
-    "series2": null,
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": []
   },
   {
     "id": 20,
@@ -551,13 +550,12 @@
     "audio_runtime": 476,
     "timeline_text": "13 BBY",
     "sort_timeline_yavin": -13,
-    "series": null,
-    "series2": null,
     "type_hc": 1,
     "type_pb": 0,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": []
   },
   {
     "id": 21,
@@ -579,13 +577,14 @@
     "audio_runtime": 810,
     "timeline_text": "19 BBY (Past)1 BBY (Present)",
     "sort_timeline_yavin": -19,
-    "series": "The Imperial Trilogy",
-    "series2": null,
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": [
+      "The Imperial Trilogy"
+    ]
   },
   {
     "id": 22,
@@ -607,13 +606,14 @@
     "audio_runtime": 502,
     "timeline_text": "28 BBY",
     "sort_timeline_yavin": -28,
-    "series": "Queen's Series",
-    "series2": null,
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": [
+      "Queen's Series"
+    ]
   },
   {
     "id": 23,
@@ -635,13 +635,12 @@
     "audio_runtime": 690,
     "timeline_text": "40 BBY32 BBY (Epilogue)",
     "sort_timeline_yavin": -40,
-    "series": null,
-    "series2": null,
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": []
   },
   {
     "id": 24,
@@ -663,13 +662,14 @@
     "audio_runtime": 840,
     "timeline_text": "4 ABY",
     "sort_timeline_yavin": 4,
-    "series": "Alphabet Squadron",
-    "series2": null,
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": [
+      "Alphabet Squadron"
+    ]
   },
   {
     "id": 25,
@@ -691,13 +691,14 @@
     "audio_runtime": 780,
     "timeline_text": "1 BBY",
     "sort_timeline_yavin": -1,
-    "series": "The Imperial Trilogy",
-    "series2": null,
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": [
+      "The Imperial Trilogy"
+    ]
   },
   {
     "id": 26,
@@ -719,13 +720,14 @@
     "audio_runtime": 475,
     "timeline_text": "34 ABY",
     "sort_timeline_yavin": 34,
-    "series": "Galaxy's Edge",
-    "series2": null,
     "type_hc": 1,
     "type_pb": 0,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": [
+      "Galaxy's Edge"
+    ]
   },
   {
     "id": 27,
@@ -747,13 +749,14 @@
     "audio_runtime": 780,
     "timeline_text": "34 ABY",
     "sort_timeline_yavin": 34,
-    "series": "Galaxy's Edge",
-    "series2": null,
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": [
+      "Galaxy's Edge"
+    ]
   },
   {
     "id": 28,
@@ -775,13 +778,14 @@
     "audio_runtime": 690,
     "timeline_text": "34 ABY",
     "sort_timeline_yavin": 34,
-    "series": "Journey to Star Wars: The Rise of Skywalker",
-    "series2": "The Rise of Skywalker",
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": [
+      "Journey to Star Wars: The Rise of Skywalker"
+    ]
   },
   {
     "id": 29,
@@ -803,13 +807,14 @@
     "audio_runtime": 494,
     "timeline_text": "32 ABY",
     "sort_timeline_yavin": 32,
-    "series": "Journey to Star Wars",
-    "series2": "The Rise of Skywalker",
     "type_hc": 1,
     "type_pb": 0,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": [
+      "Journey to Star Wars: The Rise of Skywalker"
+    ]
   },
   {
     "id": 30,
@@ -831,13 +836,14 @@
     "audio_runtime": 371,
     "timeline_text": "32 BBY",
     "sort_timeline_yavin": -32,
-    "series": "Queen's Series",
-    "series2": null,
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": [
+      "Queen's Series"
+    ]
   },
   {
     "id": 31,
@@ -859,13 +865,14 @@
     "audio_runtime": 900,
     "timeline_text": "5 ABY",
     "sort_timeline_yavin": 5,
-    "series": "Alphabet Squadron",
-    "series2": null,
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": [
+      "Alphabet Squadron"
+    ]
   },
   {
     "id": 32,
@@ -887,13 +894,12 @@
     "audio_runtime": 510,
     "timeline_text": "18 ABY – 19 ABY",
     "sort_timeline_yavin": 18,
-    "series": null,
-    "series2": null,
     "type_hc": 1,
     "type_pb": 0,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": []
   },
   {
     "id": 33,
@@ -915,13 +921,14 @@
     "audio_runtime": 780,
     "timeline_text": "19 BBY",
     "sort_timeline_yavin": -19,
-    "series": "The Ascendancy Trilogy",
-    "series2": null,
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": [
+      "The Ascendancy Trilogy"
+    ]
   },
   {
     "id": 34,
@@ -943,13 +950,15 @@
     "audio_runtime": 780,
     "timeline_text": "232 BBY",
     "sort_timeline_yavin": -232,
-    "series": "The High Republic",
-    "series2": "Phase 1",
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": [
+      "The High Republic",
+      "Phase I"
+    ]
   },
   {
     "id": 35,
@@ -971,13 +980,15 @@
     "audio_runtime": 600,
     "timeline_text": "232 BBY",
     "sort_timeline_yavin": -232,
-    "series": "The High Republic",
-    "series2": "Phase 1",
     "type_hc": 1,
     "type_pb": 0,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": [
+      "The High Republic",
+      "Phase I"
+    ]
   },
   {
     "id": 36,
@@ -999,13 +1010,14 @@
     "audio_runtime": 980,
     "timeline_text": "5 ABY",
     "sort_timeline_yavin": 5,
-    "series": "Alphabet Squadron",
-    "series2": null,
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": [
+      "Alphabet Squadron"
+    ]
   },
   {
     "id": 37,
@@ -1027,13 +1039,14 @@
     "audio_runtime": 840,
     "timeline_text": "18 BBY",
     "sort_timeline_yavin": -18,
-    "series": "The Ascendancy Trilogy",
-    "series2": null,
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": [
+      "The Ascendancy Trilogy"
+    ]
   },
   {
     "id": 39,
@@ -1055,8 +1068,10 @@
     "audio_runtime": 650,
     "timeline_text": "231 BBY",
     "sort_timeline_yavin": -231,
-    "series": "The High Republic",
-    "series2": "Light of the Jedi",
+    "series": [
+      "The High Republic",
+      "Phase I: Light of the Jedi"
+    ],
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
@@ -1083,13 +1098,14 @@
     "audio_runtime": 1394,
     "timeline_text": "18 BBY",
     "sort_timeline_yavin": -18,
-    "series": "The Ascendancy Trilogy",
-    "series2": null,
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": [
+      "The Ascendancy Trilogy"
+    ]
   },
   {
     "id": 41,
@@ -1111,13 +1127,15 @@
     "audio_runtime": 840,
     "timeline_text": "230 BBY",
     "sort_timeline_yavin": -230,
-    "series": "The High Republic",
-    "series2": "Phase 1",
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": [
+      "The High Republic",
+      "Phase I"
+    ]
   },
   {
     "id": 42,
@@ -1139,13 +1157,15 @@
     "audio_runtime": 605,
     "timeline_text": "230 BBY",
     "sort_timeline_yavin": -230,
-    "series": "The High Republic",
-    "series2": "Phase 1",
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": [
+      "The High Republic",
+      "Phase I"
+    ]
   },
   {
     "id": 43,
@@ -1167,13 +1187,14 @@
     "audio_runtime": 400,
     "timeline_text": "22 BBY",
     "sort_timeline_yavin": -22,
-    "series": "Queen's Series",
-    "series2": null,
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": [
+      "Queen's Series"
+    ]
   },
   {
     "id": 44,
@@ -1195,13 +1216,12 @@
     "audio_runtime": 766,
     "timeline_text": "22 BBY",
     "sort_timeline_yavin": -22,
-    "series": null,
-    "series2": null,
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": []
   },
   {
     "id": 45,
@@ -1223,13 +1243,12 @@
     "audio_runtime": 1032,
     "timeline_text": "21 ABY",
     "sort_timeline_yavin": 21,
-    "series": null,
-    "series2": null,
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": []
   },
   {
     "id": 46,
@@ -1240,23 +1259,23 @@
     "audience": "Young Adult",
     "pub_date": "07/26/2022",
     "pub_date_all": "July 26, 2022",
-    "pub_summary": "BEING A TEENAGER IS HARD ENOUGH WITHOUT ALSO TRAINING TO BE A JEDI….\r\n\r\nObi-Wan Kenobi has not been apprenticed long to Qui-Gon Jinn, and he is chafing at Qui-Gon’s training style: all meditation, no action. Obi-Wan yearns to prove himself on a mission, but when he and Qui-Gon are finally set to leave on an assignment, Qui-Gon is nowhere to be found. Angered by his master’s abandonment, Obi-Wan sets out on the mission alone, determined to prove himself. On a mysterious planet he encounters a pack of feral, Force-wielding teens who seem to be the planet’s only inhabitants. As he experiences wild freedom with them and wonders if this isn’t the life he was meant for, Obi-Wan can’t escape the nagging sense that something is wrong with the Force there. Growing attachments, startling revelations, and a looming threat to both the planet and his new friends will bring Obi-Wan face-to-face with his worst fear: that maybe he was never supposed to be a Jedi at all. Can he connect with the living Force in time to save himself and everyone around him?\r\n\r\nIt’s the star of the Obi-Wan Kenobi Disney+ limited series as you’ve never seen him before…",
+    "pub_summary": "BEING A TEENAGER IS HARD ENOUGH WITHOUT ALSO TRAINING TO BE A JEDI….\n\nObi-Wan Kenobi has not been apprenticed long to Qui-Gon Jinn, and he is chafing at Qui-Gon's training style: all meditation, no action. Obi-Wan yearns to prove himself on a mission, but when he and Qui-Gon are finally set to leave on an assignment, Qui-Gon is nowhere to be found. Angered by his master's abandonment, Obi-Wan sets out on the mission alone, determined to prove himself. On a mysterious planet he encounters a pack of feral, Force-wielding teens who seem to be the planet's only inhabitants. As he experiences wild freedom with them and wonders if this isn't the life he was meant for, Obi-Wan can't escape the nagging sense that something is wrong with the Force there. Growing attachments, startling revelations, and a looming threat to both the planet and his new friends will bring Obi-Wan face-to-face with his worst fear: that maybe he was never supposed to be a Jedi at all. Can he connect with the living Force in time to save himself and everyone around him?\n\nIt's the star of the Obi-Wan Kenobi Disney+ limited series as you've never seen him before….",
     "pages": 410,
     "isbn": "9781368023498",
     "asin": "B09TG1XPQB",
+    "audio_asin": "B0B6QG9RJR",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/7/74/Padawan_cover.jpg/revision/latest/scale-to-width-down/500?cb=20220225073815",
     "audio_narrator": "Gary Furlong",
     "audio_publisher": "Random House Audio",
     "audio_runtime": 446,
-    "audio_asin": "B0B6QG9RJR",
     "timeline_text": "41 BBY",
     "sort_timeline_yavin": -41,
+    "series": [],
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1,
-    "series": null,
-    "series2": null
+    "canon": 1
   },
   {
     "id": 47,
@@ -1278,13 +1297,12 @@
     "audio_runtime": 765,
     "timeline_text": "4 ABY",
     "sort_timeline_yavin": 4,
-    "series": null,
-    "series2": null,
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": []
   },
   {
     "id": 48,
@@ -1295,7 +1313,7 @@
     "audience": "Young Adult",
     "pub_date": "10/04/2022",
     "pub_date_all": "October 4, 2022",
-    "pub_summary": "Set in the world of the High Republic, 150 years before the storytelling of Phase I, an era of change brings new hopes and possibilities…but also new dangers.\n\nThe Outer Rim planet Dalna has become the focus of a Jedi investigation into a stolen Force artifact, and Zallah Macri and her Padawan, Kevmo Zink, arrive on the pastoral world to follow up on a possible connection to a Dalnan missionary group called the Path of the Open Hand. Members of the Path believe that the Force must be free and should not be used by anyone, not even the Jedi. One such believer is Marda Ro, a young woman who dreams of leaving Dalna to spread word of the Path throughout the galaxy.\n\nWhen Marda and Kevmo meet, their connection is instantaneous and electric―until Marda discovers Kevmo is a Jedi. But Kevmo is so kind and eager to learn more about the Path, that she hopes she can convince him of the rightness of her beliefs. What Marda doesn’t realize is that the leader of the Path, a charismatic woman known only as the Mother, has an agenda of her own, and it is one that can never coexist peacefully with the Jedi.\n\nIn order to follow her faith, Marda may have to choose to become her new friend’s worst enemy….",
+    "pub_summary": "Set in the world of the High Republic, 150 years before the storytelling of Phase I, an era of change brings new hopes and possibilities…but also new dangers.\n\nThe Outer Rim planet Dalna has become the focus of a Jedi investigation into a stolen Force artifact, and Zallah Macri and her Padawan, Kevmo Zink, arrive on the pastoral world to follow up on a possible connection to a Dalnan missionary group called the Path of the Open Hand. Members of the Path believe that the Force must be free and should not be used by anyone, not even the Jedi. One such believer is Marda Ro, a young woman who dreams of leaving Dalna to spread word of the Path throughout the galaxy.\n\nWhen Marda and Kevmo meet, their connection is instantaneous and electric―until Marda discovers Kevmo is a Jedi. But Kevmo is so kind and eager to learn more about the Path, that she hopes she can convince him of the rightness of her beliefs. What Marda doesn't realize is that the leader of the Path, a charismatic woman known only as the Mother, has an agenda of her own, and it is one that can never coexist peacefully with the Jedi.\n\nIn order to follow her faith, Marda may have to choose to become her new friend's worst enemy….",
     "pages": 352,
     "isbn": "9781368076128",
     "asin": "B0B69KD5Z6",
@@ -1306,8 +1324,10 @@
     "audio_runtime": 490,
     "timeline_text": "382 BBY",
     "sort_timeline_yavin": -382,
-    "series": "The High Republic",
-    "series2": "Quest of the Jedi",
+    "series": [
+      "The High Republic",
+      "Phase II: Quest of the Jedi"
+    ],
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
@@ -1334,13 +1354,15 @@
     "audio_runtime": 808,
     "timeline_text": "382 BBY",
     "sort_timeline_yavin": -382,
-    "series": "The High Republic",
-    "series2": "Phase 2",
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": [
+      "The High Republic",
+      "Phase II"
+    ]
   },
   {
     "id": 50,
@@ -1362,13 +1384,14 @@
     "audio_runtime": 628,
     "timeline_text": "12 BBY",
     "sort_timeline_yavin": -12,
-    "series": "Jedi",
-    "series2": null,
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": [
+      "Jedi"
+    ]
   },
   {
     "id": 51,
@@ -1390,13 +1413,15 @@
     "audio_runtime": 840,
     "timeline_text": "382 BBY",
     "sort_timeline_yavin": -382,
-    "series": "The High Republic",
-    "series2": "Phase 2",
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": [
+      "The High Republic",
+      "Phase II"
+    ]
   },
   {
     "id": 53,
@@ -1418,13 +1443,12 @@
     "audio_runtime": null,
     "timeline_text": "22 BBY–14 BBY",
     "sort_timeline_yavin": -22,
-    "series": null,
-    "series2": null,
     "type_hc": 1,
     "type_pb": 1,
     "type_eb": 1,
     "type_ab": 1,
-    "canon": 1
+    "canon": 1,
+    "series": []
   },
   {
     "title": "Star Wars: The Force Awakens",
@@ -1444,15 +1468,14 @@
     "audio_asin": null,
     "timeline_text": "34 ABY",
     "sort_timeline_yavin": 34,
-    "series": null,
-    "series2": null,
     "type_hc": 0,
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
     "canon": 1,
     "id": 55,
-    "sort_title": "Star Wars: The Force Awakens"
+    "sort_title": "Star Wars: The Force Awakens",
+    "series": []
   },
   {
     "title": "Rogue One: A Star Wars Story",
@@ -1472,15 +1495,14 @@
     "audio_asin": null,
     "timeline_text": "13 BBY–1 BBY",
     "sort_timeline_yavin": -13,
-    "series": null,
-    "series2": null,
     "type_hc": 0,
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
     "canon": 1,
     "id": 56,
-    "sort_title": "Rogue One: A Star Wars Story"
+    "sort_title": "Rogue One: A Star Wars Story",
+    "series": []
   },
   {
     "id": 57,
@@ -1502,13 +1524,14 @@
     "audio_runtime": null,
     "timeline_text": "0",
     "sort_timeline_yavin": null,
-    "series": "From a Certain Point of View",
-    "series2": null,
     "type_hc": 0,
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
-    "canon": 1
+    "canon": 1,
+    "series": [
+      "From a Certain Point of View"
+    ]
   },
   {
     "title": "Canto Bight",
@@ -1528,15 +1551,16 @@
     "audio_asin": null,
     "timeline_text": "34 ABY",
     "sort_timeline_yavin": 34,
-    "series": "Journey to Star Wars: The Last Jedi",
-    "series2": null,
     "type_hc": 0,
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
     "canon": 1,
     "id": 58,
-    "sort_title": "Canto Bight"
+    "sort_title": "Canto Bight",
+    "series": [
+      "Journey to Star Wars: The Last Jedi"
+    ]
   },
   {
     "id": 59,
@@ -1558,13 +1582,12 @@
     "audio_runtime": null,
     "timeline_text": "34 ABY",
     "sort_timeline_yavin": 34,
-    "series": null,
-    "series2": null,
     "type_hc": 0,
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
-    "canon": 1
+    "canon": 1,
+    "series": []
   },
   {
     "title": "Solo: A Star Wars Story: Expanded Edition",
@@ -1584,15 +1607,14 @@
     "audio_asin": null,
     "timeline_text": "13 BBY–10 BBY",
     "sort_timeline_yavin": -13,
-    "series": null,
-    "series2": null,
     "type_hc": 0,
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
     "canon": 1,
     "id": 60,
-    "sort_title": "Solo: A Star Wars Story: Expanded Edition"
+    "sort_title": "Solo: A Star Wars Story: Expanded Edition",
+    "series": []
   },
   {
     "id": 61,
@@ -1614,13 +1636,12 @@
     "audio_runtime": null,
     "timeline_text": "23 BBY",
     "sort_timeline_yavin": -23,
-    "series": null,
-    "series2": null,
     "type_hc": 0,
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
-    "canon": 1
+    "canon": 1,
+    "series": []
   },
   {
     "id": 62,
@@ -1642,13 +1663,12 @@
     "audio_runtime": null,
     "timeline_text": "35 ABY",
     "sort_timeline_yavin": 35,
-    "series": null,
-    "series2": null,
     "type_hc": 0,
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
-    "canon": 1
+    "canon": 1,
+    "series": []
   },
   {
     "id": 63,
@@ -1670,13 +1690,14 @@
     "audio_runtime": null,
     "timeline_text": "3 ABY",
     "sort_timeline_yavin": 3,
-    "series": "From a Certain Point of View",
-    "series2": null,
     "type_hc": 0,
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
-    "canon": 1
+    "canon": 1,
+    "series": [
+      "From a Certain Point of View"
+    ]
   },
   {
     "id": 64,
@@ -1698,13 +1719,12 @@
     "audio_runtime": null,
     "timeline_text": "0 ABY",
     "sort_timeline_yavin": null,
-    "series": null,
-    "series2": null,
     "type_hc": 0,
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
-    "canon": 1
+    "canon": 1,
+    "series": []
   },
   {
     "id": 65,
@@ -1726,13 +1746,15 @@
     "audio_runtime": null,
     "timeline_text": "231 BBY",
     "sort_timeline_yavin": -231,
-    "series": "The High Republic",
-    "series2": "Phase 1",
     "type_hc": 0,
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
-    "canon": 1
+    "canon": 1,
+    "series": [
+      "The High Republic",
+      "Phase I"
+    ]
   },
   {
     "id": 66,
@@ -1754,13 +1776,14 @@
     "audio_runtime": null,
     "timeline_text": null,
     "sort_timeline_yavin": null,
-    "series": "Visions",
-    "series2": null,
     "type_hc": 0,
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
-    "canon": 0
+    "canon": 0,
+    "series": [
+      "Visions"
+    ]
   },
   {
     "id": 67,
@@ -1782,13 +1805,14 @@
     "audio_runtime": null,
     "timeline_text": "231 BBY",
     "sort_timeline_yavin": -231,
-    "series": "The High Republic",
-    "series2": null,
     "type_hc": 0,
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
-    "canon": 1
+    "canon": 1,
+    "series": [
+      "The High Republic"
+    ]
   },
   {
     "id": 68,
@@ -1810,13 +1834,15 @@
     "audio_runtime": null,
     "timeline_text": null,
     "sort_timeline_yavin": null,
-    "series": "The High Republic",
-    "series2": "Phase 2",
     "type_hc": 0,
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
-    "canon": 1
+    "canon": 1,
+    "series": [
+      "The High Republic",
+      "Phase II"
+    ]
   },
   {
     "id": 69,
@@ -1838,13 +1864,15 @@
     "audio_runtime": null,
     "timeline_text": "382 BBY",
     "sort_timeline_yavin": -382,
-    "series": "The High Republic",
-    "series2": "Phase 2",
     "type_hc": 0,
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
-    "canon": 1
+    "canon": 1,
+    "series": [
+      "The High Republic",
+      "Phase II"
+    ]
   },
   {
     "id": 70,
@@ -1866,13 +1894,14 @@
     "audio_runtime": null,
     "timeline_text": "4 ABY",
     "sort_timeline_yavin": 4,
-    "series": "From a Certain Point of View",
-    "series2": null,
     "type_hc": 0,
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
-    "canon": 1
+    "canon": 1,
+    "series": [
+      "From a Certain Point of View"
+    ]
   },
   {
     "id": 71,
@@ -1894,13 +1923,15 @@
     "audio_runtime": null,
     "timeline_text": "229 BBY—228 BBY",
     "sort_timeline_yavin": -229,
-    "series": "The High Republic",
-    "series2": "Phase 3",
     "type_hc": 0,
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
-    "canon": 1
+    "canon": 1,
+    "series": [
+      "The High Republic",
+      "Phase III"
+    ]
   },
   {
     "id": 72,
@@ -1922,13 +1953,12 @@
     "audio_runtime": null,
     "timeline_text": "382 BBY—c. 377 BBY",
     "sort_timeline_yavin": -382,
-    "series": null,
-    "series2": null,
     "type_hc": 0,
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
-    "canon": 1
+    "canon": 1,
+    "series": []
   },
   {
     "id": 73,
@@ -1950,13 +1980,12 @@
     "audio_runtime": null,
     "timeline_text": "33 BBY",
     "sort_timeline_yavin": -33,
-    "series": null,
-    "series2": null,
     "type_hc": 0,
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
-    "canon": 1
+    "canon": 1,
+    "series": []
   },
   {
     "id": 74,
@@ -1978,13 +2007,15 @@
     "audio_runtime": null,
     "timeline_text": "228 BBY",
     "sort_timeline_yavin": -228,
-    "series": "The High Republic",
-    "series2": "Phase 3",
     "type_hc": 0,
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
-    "canon": 1
+    "canon": 1,
+    "series": [
+      "The High Republic",
+      "Phase III"
+    ]
   },
   {
     "id": 75,
@@ -2006,13 +2037,12 @@
     "audio_runtime": null,
     "timeline_text": null,
     "sort_timeline_yavin": null,
-    "series": null,
-    "series2": null,
     "type_hc": 0,
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
-    "canon": 1
+    "canon": 1,
+    "series": []
   },
   {
     "id": 76,
@@ -2034,13 +2064,12 @@
     "audio_runtime": null,
     "timeline_text": "c. 32 BBY",
     "sort_timeline_yavin": -32,
-    "series": null,
-    "series2": null,
     "type_hc": 0,
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
-    "canon": 1
+    "canon": 1,
+    "series": []
   },
   {
     "id": 77,
@@ -2062,13 +2091,14 @@
     "audio_runtime": null,
     "timeline_text": "19–18 BBY",
     "sort_timeline_yavin": -18,
-    "series": "Reign of the Empire",
-    "series2": null,
     "type_hc": 0,
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
-    "canon": 1
+    "canon": 1,
+    "series": [
+      "Reign of the Empire"
+    ]
   },
   {
     "id": 78,
@@ -2090,13 +2120,12 @@
     "audio_runtime": null,
     "timeline_text": "160 BBY",
     "sort_timeline_yavin": -160,
-    "series": null,
-    "series2": null,
     "type_hc": 0,
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
-    "canon": 1
+    "canon": 1,
+    "series": []
   },
   {
     "id": 79,
@@ -2118,13 +2147,15 @@
     "audio_runtime": null,
     "timeline_text": "228 BBY",
     "sort_timeline_yavin": -228,
-    "series": "The High Republic",
-    "series2": "Phase 3",
     "type_hc": 0,
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
-    "canon": 1
+    "canon": 1,
+    "series": [
+      "The High Republic",
+      "Phase III"
+    ]
   },
   {
     "id": 80,
@@ -2146,13 +2177,15 @@
     "audio_runtime": null,
     "timeline_text": "228 BBY",
     "sort_timeline_yavin": -228,
-    "series": "The High Republic",
-    "series2": "Phase 3",
     "type_hc": 0,
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
-    "canon": 1
+    "canon": 1,
+    "series": [
+      "The High Republic",
+      "Phase III"
+    ]
   },
   {
     "id": 81,
@@ -2174,13 +2207,12 @@
     "audio_runtime": null,
     "timeline_text": "c. 18 BBY",
     "sort_timeline_yavin": -18,
-    "series": null,
-    "series2": null,
     "type_hc": 0,
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
-    "canon": 1
+    "canon": 1,
+    "series": []
   },
   {
     "id": 82,
@@ -2202,13 +2234,12 @@
     "audio_runtime": null,
     "timeline_text": "19 BBY",
     "sort_timeline_yavin": -19,
-    "series": null,
-    "series2": null,
     "type_hc": 0,
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
-    "canon": 1
+    "canon": 1,
+    "series": []
   },
   {
     "id": 83,
@@ -2230,13 +2261,12 @@
     "audio_runtime": null,
     "timeline_text": "19 BBY - 10 BBY",
     "sort_timeline_yavin": -19,
-    "series": null,
-    "series2": null,
     "type_hc": 0,
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
-    "canon": 1
+    "canon": 1,
+    "series": []
   },
   {
     "id": 84,
@@ -2258,41 +2288,12 @@
     "audio_runtime": null,
     "timeline_text": "34 ABY - 35 ABY",
     "sort_timeline_yavin": 34,
-    "series": null,
-    "series2": null,
-    "type_hc": 0,
-    "type_pb": 0,
-    "type_eb": 0,
-    "type_ab": 0,
-    "canon": 1
-  },
-  {
-    "title": "Path of Deceit",
-    "author": "Tessa Gratton; Justina Ireland",
-    "publisher": "Disney–Lucasfilm Press",
-    "audience": "Young Adult",
-    "pub_date": "10/04/2022",
-    "pub_date_all": null,
-    "pub_summary": "Set in the world of the High Republic, 150 years before the storytelling of Phase I, an era of change brings new hopes and possibilities…but also new dangers.\n\nThe Outer Rim planet Dalna has become the focus of a Jedi investigation into a stolen Force artifact, and Zallah Macri and her Padawan, Kevmo Zink, arrive on the pastoral world to follow up on a possible connection to a Dalnan missionary group called the Path of the Open Hand. Members of the Path believe that the Force must be free and should not be used by anyone, not even the Jedi. One such believer is Marda Ro, a young woman who dreams of leaving Dalna to spread word of the Path throughout the galaxy.\n\nWhen Marda and Kevmo meet, their connection is instantaneous and electric―until Marda discovers Kevmo is a Jedi. But Kevmo is so kind and eager to learn more about the Path, that she hopes she can convince him of the rightness of her beliefs. What Marda doesn't realize is that the leader of the Path, a charismatic woman known only as the Mother, has an agenda of her own, and it is one that can never coexist peacefully with the Jedi.\n\nIn order to follow her faith, Marda may have to choose to become her new friend's worst enemy….",
-    "pages": 352,
-    "isbn": "9781368076128",
-    "asin": null,
-    "cover_url": "https://static.wikia.nocookie.net/starwars/images/3/38/TheHighRepublic-PathOfDeceit.jpg/revision/latest/scale-to-width-down/499?cb=20220526233239",
-    "audio_narrator": null,
-    "audio_publisher": null,
-    "audio_runtime": null,
-    "audio_asin": null,
-    "timeline_text": "382 BBY",
-    "sort_timeline_yavin": -382,
-    "series": "The High Republic",
-    "series2": "Phase 2",
     "type_hc": 0,
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
     "canon": 1,
-    "id": 85,
-    "sort_title": "Path of Deceit"
+    "series": []
   },
   {
     "title": "Myths & Fables",
@@ -2312,15 +2313,16 @@
     "audio_asin": null,
     "timeline_text": "",
     "sort_timeline_yavin": null,
-    "series": "Galaxy's Edge",
-    "series2": null,
     "type_hc": 0,
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
     "canon": 1,
     "id": 86,
-    "sort_title": "Myths & Fables"
+    "sort_title": "Myths & Fables",
+    "series": [
+      "Galaxy's Edge"
+    ]
   },
   {
     "title": "Dark Legends",
@@ -2340,15 +2342,14 @@
     "audio_asin": null,
     "timeline_text": "",
     "sort_timeline_yavin": null,
-    "series": null,
-    "series2": null,
     "type_hc": 0,
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
     "canon": 1,
     "id": 87,
-    "sort_title": "Dark Legends"
+    "sort_title": "Dark Legends",
+    "series": []
   },
   {
     "title": "The Clone Wars: Stories of Light and Dark",
@@ -2368,15 +2369,16 @@
     "audio_asin": null,
     "timeline_text": "22 BBY–19 BBY",
     "sort_timeline_yavin": -22,
-    "series": "The Clone Wars",
-    "series2": null,
     "type_hc": 0,
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
     "canon": 1,
     "id": 88,
-    "sort_title": "Clone Wars: Stories of Light and Dark"
+    "sort_title": "Clone Wars: Stories of Light and Dark",
+    "series": [
+      "The Clone Wars"
+    ]
   },
   {
     "title": "Life Day Treasury",
@@ -2396,14 +2398,72 @@
     "audio_asin": null,
     "timeline_text": "",
     "sort_timeline_yavin": null,
-    "series": null,
-    "series2": null,
     "type_hc": 0,
     "type_pb": 0,
     "type_eb": 0,
     "type_ab": 0,
     "canon": 1,
     "id": 89,
-    "sort_title": "Life Day Treasury"
+    "sort_title": "Life Day Treasury",
+    "series": []
+  },
+  {
+    "title": "Path of Vengeance",
+    "author": "Cavan Scott",
+    "publisher": "Disney Lucasfilm Press",
+    "audience": "Young Adult",
+    "pub_date": "05/02/2023",
+    "pub_date_all": null,
+    "pub_summary": "This enthralling follow up to Path of Deceit finds cousins Marda and Yana Ro bound by blood but driven apart by faith.\n\nMarda and Yana belong to the Path of the Open Hand, a group led by a charismatic woman called the Mother, which believes the Force must not be used by anyone. While Marda joins a perilous expedition to Planet X in search of more mysterious creatures to use against the Jedi, Yana finds herself forming an unexpected alliance with the father of her dead lover in attempt to wrest the Path from the Mother's control. These two young women will face a crossroads, forced to choose not only their own fates, but that of the galaxy itself.",
+    "pages": 528,
+    "isbn": "9781368082884",
+    "asin": null,
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/2/2a/TheHighRepublic-PathofVengeance-cover.jpg/revision/latest/scale-to-width-down/500?cb=20221010031440",
+    "audio_narrator": null,
+    "audio_publisher": null,
+    "audio_runtime": null,
+    "audio_asin": null,
+    "timeline_text": "382 BBY",
+    "sort_timeline_yavin": -382,
+    "series": [
+      "The High Republic",
+      "Phase II: Light of the Jedi"
+    ],
+    "type_hc": 0,
+    "type_pb": 0,
+    "type_eb": 0,
+    "type_ab": 0,
+    "canon": 1,
+    "id": 90,
+    "sort_title": "Path of Vengeance"
+  },
+  {
+    "id": 91,
+    "title": "Tales of Light and Life",
+    "sort_title": "Tales of Light and Life",
+    "author": "Various",
+    "publisher": "Disney Lucasfilm Press",
+    "audience": "Young Adult",
+    "pub_date": "09/05/2023",
+    "pub_date_all": null,
+    "pub_summary": "Thrilling short stories featuring fan favorite characters from the beloved High Republic series each written by a New York Times bestselling author.\n\nThe High Republic authors share unmissable short stories that bridge Phases, resolve mysteries, and offer tantalizing hints of what is to come.\n\nRejoin the adventures of the Jedi and Padawans, Pathfinders and Path members, heroes and villains ahead of the launch of Phase III.",
+    "pages": 400,
+    "isbn": "9781368093798",
+    "asin": null,
+    "audio_asin": null,
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/8/81/TalesOfLightAndLife-Cover.png/revision/latest/scale-to-width-down/500?cb=20230308221712",
+    "audio_narrator": null,
+    "audio_publisher": null,
+    "audio_runtime": null,
+    "timeline_text": null,
+    "sort_timeline_yavin": null,
+    "series": [
+      "The High Republic"
+    ],
+    "type_hc": 0,
+    "type_pb": 0,
+    "type_eb": 0,
+    "type_ab": 0,
+    "canon": 1
   }
 ]
