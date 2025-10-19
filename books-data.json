@@ -22,8 +22,10 @@
     "timeline_text": "11 BBY",
     "sort_timeline_yavin": -11,
     "series": [],
-    "canon": 1,
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 2,
@@ -48,8 +50,10 @@
     "timeline_text": "14 BBY",
     "sort_timeline_yavin": -14,
     "series": [],
-    "canon": 1,
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 3,
@@ -74,8 +78,10 @@
     "timeline_text": "0 ABY",
     "sort_timeline_yavin": null,
     "series": [],
-    "canon": 1,
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 4,
@@ -100,8 +106,10 @@
     "timeline_text": "14 BBY",
     "sort_timeline_yavin": -14,
     "series": [],
-    "canon": 1,
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 5,
@@ -126,8 +134,10 @@
     "timeline_text": "19 BBY\t",
     "sort_timeline_yavin": -19,
     "series": [],
-    "canon": 1,
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 6,
@@ -148,14 +158,16 @@
     "audio_runtime": 702,
     "timeline_text": "11 BBY – 5 ABY",
     "sort_timeline_yavin": -11,
-    "canon": 1,
     "series": [
       "Journey to Star Wars: The Force Awakens"
     ],
     "author": [
       "Claudia Gray"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 7,
@@ -186,7 +198,9 @@
     "series_order": {
       "The Aftermath Trilogy": 1
     },
-    "canon": 1
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 8,
@@ -213,8 +227,10 @@
     "series": [
       "Battlefront"
     ],
-    "canon": 1,
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 9,
@@ -239,8 +255,10 @@
     "timeline_text": "28 ABY",
     "sort_timeline_yavin": 28,
     "series": [],
-    "canon": 1,
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 10,
@@ -270,7 +288,9 @@
     "series_order": {
       "The Aftermath Trilogy": 2
     },
-    "canon": 1
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 11,
@@ -291,12 +311,14 @@
     "audio_runtime": 424,
     "timeline_text": "18 BBY",
     "sort_timeline_yavin": -18,
-    "canon": 1,
     "series": [],
     "author": [
       "E. K. Johnston"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 12,
@@ -321,8 +343,10 @@
     "timeline_text": "21 BBY – 17 BBY",
     "sort_timeline_yavin": -21,
     "series": [],
-    "canon": 1,
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 13,
@@ -352,7 +376,9 @@
     "series_order": {
       "The Imperial Trilogy": 1
     },
-    "canon": 1
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 14,
@@ -373,12 +399,14 @@
     "audio_runtime": 593,
     "timeline_text": "13 BBY – 1 BBY",
     "sort_timeline_yavin": -13,
-    "canon": 1,
     "series": [],
     "author": [
       "Beth Revis"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 15,
@@ -408,7 +436,9 @@
     "series_order": {
       "The Aftermath Trilogy": 3
     },
-    "canon": 1
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 16,
@@ -435,8 +465,10 @@
     "series": [
       "Battlefront"
     ],
-    "canon": 1,
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 17,
@@ -463,8 +495,10 @@
     "series": [
       "Journey to Star Wars: The Last Jedi"
     ],
-    "canon": 1,
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 18,
@@ -485,14 +519,16 @@
     "audio_runtime": 594,
     "timeline_text": "3 BBY",
     "sort_timeline_yavin": -3,
-    "canon": 1,
     "series": [
       "Journey to Star Wars: The Last Jedi"
     ],
     "author": [
       "Claudia Gray"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 19,
@@ -518,7 +554,9 @@
     "sort_timeline_yavin": 7,
     "series": [],
     "series_order": {},
-    "canon": 1
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 20,
@@ -539,12 +577,14 @@
     "audio_runtime": 476,
     "timeline_text": "13 BBY",
     "sort_timeline_yavin": -13,
-    "canon": 1,
     "series": [],
     "author": [
       "Rae Carson"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 21,
@@ -574,7 +614,9 @@
     "series_order": {
       "The Imperial Trilogy": 2
     },
-    "canon": 1
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 22,
@@ -595,14 +637,16 @@
     "audio_runtime": 502,
     "timeline_text": "28 BBY",
     "sort_timeline_yavin": -28,
-    "canon": 1,
     "series": [
       "Queen's Series"
     ],
     "author": [
       "E. K. Johnston"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 23,
@@ -628,7 +672,9 @@
     "sort_timeline_yavin": -40,
     "series": [],
     "series_order": {},
-    "canon": 1
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 24,
@@ -658,7 +704,9 @@
     "series_order": {
       "Alphabet Squadron": 1
     },
-    "canon": 1
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 25,
@@ -688,7 +736,9 @@
     "series_order": {
       "The Imperial Trilogy": 3
     },
-    "canon": 1
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 26,
@@ -709,14 +759,16 @@
     "audio_runtime": 475,
     "timeline_text": "34 ABY",
     "sort_timeline_yavin": 34,
-    "canon": 1,
     "series": [
       "Galaxy's Edge"
     ],
     "author": [
       "Zoraida Córdova"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 27,
@@ -737,14 +789,16 @@
     "audio_runtime": 780,
     "timeline_text": "34 ABY",
     "sort_timeline_yavin": 34,
-    "canon": 1,
     "series": [
       "Galaxy's Edge"
     ],
     "author": [
       "Delilah S. Dawson"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 28,
@@ -765,14 +819,16 @@
     "audio_runtime": 690,
     "timeline_text": "34 ABY",
     "sort_timeline_yavin": 34,
-    "canon": 1,
     "series": [
       "Journey to Star Wars: The Rise of Skywalker"
     ],
     "author": [
       "Rebecca Roanhorse"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 29,
@@ -793,14 +849,16 @@
     "audio_runtime": 494,
     "timeline_text": "32 ABY",
     "sort_timeline_yavin": 32,
-    "canon": 1,
     "series": [
       "Journey to Star Wars: The Rise of Skywalker"
     ],
     "author": [
       "Kevin Shinick"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 30,
@@ -821,14 +879,16 @@
     "audio_runtime": 371,
     "timeline_text": "32 BBY",
     "sort_timeline_yavin": -32,
-    "canon": 1,
     "series": [
       "Queen's Series"
     ],
     "author": [
       "E. K. Johnston"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 31,
@@ -849,14 +909,16 @@
     "audio_runtime": 900,
     "timeline_text": "5 ABY",
     "sort_timeline_yavin": 5,
-    "canon": 1,
     "series": [
       "Alphabet Squadron"
     ],
     "author": [
       "Alexander Freed"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 32,
@@ -877,12 +939,14 @@
     "audio_runtime": 510,
     "timeline_text": "18 ABY – 19 ABY",
     "sort_timeline_yavin": 18,
-    "canon": 1,
     "series": [],
     "author": [
       "Alex Segura"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 33,
@@ -903,14 +967,16 @@
     "audio_runtime": 780,
     "timeline_text": "19 BBY",
     "sort_timeline_yavin": -19,
-    "canon": 1,
     "series": [
       "The Ascendancy Trilogy"
     ],
     "author": [
       "Timothy Zahn"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 34,
@@ -931,7 +997,6 @@
     "audio_runtime": 780,
     "timeline_text": "232 BBY",
     "sort_timeline_yavin": -232,
-    "canon": 1,
     "series": [
       "The High Republic",
       "Phase I: Quest of the Jedi"
@@ -939,7 +1004,10 @@
     "author": [
       "Charles Soule"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 35,
@@ -960,7 +1028,6 @@
     "audio_runtime": 600,
     "timeline_text": "232 BBY",
     "sort_timeline_yavin": -232,
-    "canon": 1,
     "series": [
       "The High Republic",
       "Phase I: Quest of the Jedi"
@@ -968,7 +1035,10 @@
     "author": [
       "Claudia Gray"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 36,
@@ -989,14 +1059,16 @@
     "audio_runtime": 980,
     "timeline_text": "5 ABY",
     "sort_timeline_yavin": 5,
-    "canon": 1,
     "series": [
       "Alphabet Squadron"
     ],
     "author": [
       "Alexander Freed"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 37,
@@ -1017,14 +1089,16 @@
     "audio_runtime": 840,
     "timeline_text": "18 BBY",
     "sort_timeline_yavin": -18,
-    "canon": 1,
     "series": [
       "The Ascendancy Trilogy"
     ],
     "author": [
       "Timothy Zahn"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 39,
@@ -1049,11 +1123,13 @@
       "The High Republic",
       "Phase I: Quest of the Jedi"
     ],
-    "canon": 1,
     "author": [
       "Justina Ireland"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 40,
@@ -1074,14 +1150,16 @@
     "audio_runtime": 1394,
     "timeline_text": "18 BBY",
     "sort_timeline_yavin": -18,
-    "canon": 1,
     "series": [
       "The Ascendancy Trilogy"
     ],
     "author": [
       "Timothy Zahn"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 41,
@@ -1102,7 +1180,6 @@
     "audio_runtime": 840,
     "timeline_text": "230 BBY",
     "sort_timeline_yavin": -230,
-    "canon": 1,
     "series": [
       "The High Republic",
       "Phase I: Quest of the Jedi"
@@ -1110,7 +1187,10 @@
     "author": [
       "Claudia Gray"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 42,
@@ -1131,7 +1211,6 @@
     "audio_runtime": 605,
     "timeline_text": "230 BBY",
     "sort_timeline_yavin": -230,
-    "canon": 1,
     "series": [
       "The High Republic",
       "Phase I: Quest of the Jedi"
@@ -1139,7 +1218,10 @@
     "author": [
       "Daniel José Older"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 43,
@@ -1160,14 +1242,16 @@
     "audio_runtime": 400,
     "timeline_text": "22 BBY",
     "sort_timeline_yavin": -22,
-    "canon": 1,
     "series": [
       "Queen's Series"
     ],
     "author": [
       "E. K. Johnston"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 44,
@@ -1188,12 +1272,14 @@
     "audio_runtime": 766,
     "timeline_text": "22 BBY",
     "sort_timeline_yavin": -22,
-    "canon": 1,
     "series": [],
     "author": [
       "Mike Chen"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 45,
@@ -1214,12 +1300,14 @@
     "audio_runtime": 1032,
     "timeline_text": "21 ABY",
     "sort_timeline_yavin": 21,
-    "canon": 1,
     "series": [],
     "author": [
       "Adam Christopher"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 46,
@@ -1241,11 +1329,13 @@
     "timeline_text": "41 BBY",
     "sort_timeline_yavin": -41,
     "series": [],
-    "canon": 1,
     "author": [
       "Kiersten White"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 47,
@@ -1266,12 +1356,14 @@
     "audio_runtime": 765,
     "timeline_text": "4 ABY",
     "sort_timeline_yavin": 4,
-    "canon": 1,
     "series": [],
     "author": [
       "Beth Revis"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 48,
@@ -1296,12 +1388,14 @@
       "The High Republic",
       "Phase II: Light of the Jedi"
     ],
-    "canon": 1,
     "author": [
       "Tessa Gratton",
       "Justina Ireland"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 49,
@@ -1322,7 +1416,6 @@
     "audio_runtime": 808,
     "timeline_text": "382 BBY",
     "sort_timeline_yavin": -382,
-    "canon": 1,
     "series": [
       "The High Republic",
       "Phase II: Light of the Jedi"
@@ -1330,7 +1423,10 @@
     "author": [
       "Zoraida Córdova"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 50,
@@ -1351,14 +1447,16 @@
     "audio_runtime": 628,
     "timeline_text": "12 BBY",
     "sort_timeline_yavin": -12,
-    "canon": 1,
     "series": [
       "Jedi"
     ],
     "author": [
       "Sam Maggs"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 51,
@@ -1379,7 +1477,6 @@
     "audio_runtime": 840,
     "timeline_text": "382 BBY",
     "sort_timeline_yavin": -382,
-    "canon": 1,
     "series": [
       "The High Republic",
       "Phase II: Light of the Jedi"
@@ -1387,7 +1484,10 @@
     "author": [
       "Lydia Kang"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 53,
@@ -1408,12 +1508,14 @@
     "audio_runtime": null,
     "timeline_text": "22 BBY–14 BBY",
     "sort_timeline_yavin": -22,
-    "canon": 1,
     "series": [],
     "author": [
       "Delilah S. Dawson"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 55,
@@ -1438,8 +1540,10 @@
     "timeline_text": "34 ABY",
     "sort_timeline_yavin": 34,
     "series": [],
-    "canon": 1,
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novelization",
+    "stories": []
   },
   {
     "id": 56,
@@ -1464,8 +1568,10 @@
     "timeline_text": "13 BBY–1 BBY",
     "sort_timeline_yavin": -13,
     "series": [],
-    "canon": 1,
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novelization",
+    "stories": []
   },
   {
     "id": 57,
@@ -1492,8 +1598,255 @@
     "series": [
       "From a Certain Point of View"
     ],
-    "canon": 1,
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Anthology",
+    "stories": [
+      {
+        "title": "Raymus",
+        "author": [
+          "Gary Whitta"
+        ]
+      },
+      {
+        "title": "The Bucket",
+        "author": [
+          "Christie Golden"
+        ]
+      },
+      {
+        "title": "The Sith of Datawork",
+        "author": [
+          "Ken Liu"
+        ]
+      },
+      {
+        "title": "Stories in the Sand",
+        "author": [
+          "Griffin McElroy"
+        ]
+      },
+      {
+        "title": "Reirin",
+        "author": [
+          "Sabaa Tahir"
+        ]
+      },
+      {
+        "title": "The Red One",
+        "author": [
+          "Rae Carson"
+        ]
+      },
+      {
+        "title": "Rites",
+        "author": [
+          "John Jackson Miller"
+        ]
+      },
+      {
+        "title": "Master and Apprentice",
+        "author": [
+          "Claudia Gray"
+        ]
+      },
+      {
+        "title": "Beru Whitesun Lars",
+        "author": [
+          "Meg Cabot"
+        ]
+      },
+      {
+        "title": "The Luckless Rodian",
+        "author": [
+          "Renée Ahdieh"
+        ]
+      },
+      {
+        "title": "Not for Nothing",
+        "author": [
+          "Mur Lafferty"
+        ]
+      },
+      {
+        "title": "We Don't Serve Their Kind Here",
+        "author": [
+          "Chuck Wendig"
+        ]
+      },
+      {
+        "title": "The Kloo Horn Cantina Caper",
+        "author": [
+          "Kelly Sue DeConnick",
+          "Matt Fraction"
+        ]
+      },
+      {
+        "title": "Added Muscle",
+        "author": [
+          "Paul Dini"
+        ]
+      },
+      {
+        "title": "You Owe Me a Ride",
+        "author": [
+          "Zoraida Córdova"
+        ]
+      },
+      {
+        "title": "The Secrets of Long Snoot",
+        "author": [
+          "Delilah S. Dawson"
+        ]
+      },
+      {
+        "title": "Born in the Storm",
+        "author": [
+          "Daniel José Older"
+        ]
+      },
+      {
+        "title": "Laina",
+        "author": [
+          "Wil Wheaton"
+        ]
+      },
+      {
+        "title": "Fully Operational",
+        "author": [
+          "Beth Revis"
+        ]
+      },
+      {
+        "title": "An Incident Report",
+        "author": [
+          "Daniel M. Lavery"
+        ]
+      },
+      {
+        "title": "Change of Heart",
+        "author": [
+          "Elizabeth Wein"
+        ]
+      },
+      {
+        "title": "Eclipse",
+        "author": [
+          "Madeleine Roux"
+        ]
+      },
+      {
+        "title": "Verge of Greatness",
+        "author": [
+          "Pablo Hidalgo"
+        ]
+      },
+      {
+        "title": "Far Too Remote",
+        "author": [
+          "Jeffrey Brown (writer",
+          "illustrator)"
+        ]
+      },
+      {
+        "title": "The Trigger",
+        "author": [
+          "Kieron Gillen"
+        ]
+      },
+      {
+        "title": "Of MSE-6 and Men",
+        "author": [
+          "Glen Weldon"
+        ]
+      },
+      {
+        "title": "Bump",
+        "author": [
+          "Ben Acker",
+          "Ben Blacker"
+        ]
+      },
+      {
+        "title": "End of Watch",
+        "author": [
+          "Adam Christopher"
+        ]
+      },
+      {
+        "title": "The Baptist",
+        "author": [
+          "Nnedi Okorafor"
+        ]
+      },
+      {
+        "title": "Time of Death",
+        "author": [
+          "Cavan Scott"
+        ]
+      },
+      {
+        "title": "There is Another",
+        "author": [
+          "Gary D. Schmidt"
+        ]
+      },
+      {
+        "title": "Palpatine",
+        "author": [
+          "Ian Doescher"
+        ]
+      },
+      {
+        "title": "Sparks",
+        "author": [
+          "Paul S. Kemp"
+        ]
+      },
+      {
+        "title": "Duty Roster",
+        "author": [
+          "Jason Fry"
+        ]
+      },
+      {
+        "title": "Desert Son",
+        "author": [
+          "Pierce Brown"
+        ]
+      },
+      {
+        "title": "Grounded",
+        "author": [
+          "Greg Rucka"
+        ]
+      },
+      {
+        "title": "Contingency Plan",
+        "author": [
+          "Alexander Freed"
+        ]
+      },
+      {
+        "title": "The Angle",
+        "author": [
+          "Charles Soule"
+        ]
+      },
+      {
+        "title": "By Whatever Sun",
+        "author": [
+          "E. K. Johnston",
+          "Ashley Eckstein"
+        ]
+      },
+      {
+        "title": "Whills",
+        "author": [
+          "Tom Angleberger"
+        ]
+      }
+    ]
   },
   {
     "id": 58,
@@ -1521,7 +1874,9 @@
       "Journey to Star Wars: The Last Jedi"
     ],
     "series_order": {},
-    "canon": 1
+    "continuity": "Canon",
+    "book_type": "Collection",
+    "stories": []
   },
   {
     "id": 59,
@@ -1547,7 +1902,9 @@
     "sort_timeline_yavin": 34,
     "series": [],
     "series_order": {},
-    "canon": 1
+    "continuity": "Canon",
+    "book_type": "Novelization",
+    "stories": []
   },
   {
     "id": 60,
@@ -1573,12 +1930,17 @@
     "sort_timeline_yavin": -13,
     "series": [],
     "series_order": {},
-    "canon": 1
+    "continuity": "Canon",
+    "book_type": "Novelization",
+    "stories": []
   },
   {
     "id": 61,
     "title": "Dooku: Jedi Lost",
     "sort_title": "Dooku: Jedi Lost",
+    "author": [
+      "Cavan Scott"
+    ],
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "10/01/2019",
@@ -1594,12 +1956,11 @@
     "audio_runtime": null,
     "timeline_text": "23 BBY",
     "sort_timeline_yavin": -23,
-    "canon": 1,
     "series": [],
-    "author": [
-      "Cavan Scott"
-    ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Script Book",
+    "stories": []
   },
   {
     "id": 62,
@@ -1620,17 +1981,22 @@
     "audio_runtime": null,
     "timeline_text": "35 ABY",
     "sort_timeline_yavin": 35,
-    "canon": 1,
     "series": [],
     "author": [
       "Rae Carson"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 63,
     "title": "From a Certain Point of View: The Empire Strikes Back",
     "sort_title": "From a Certain Point of View: The Empire Strikes Back",
+    "author": [
+      "Various"
+    ],
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "11/10/2020",
@@ -1646,14 +2012,254 @@
     "audio_runtime": null,
     "timeline_text": "3 ABY",
     "sort_timeline_yavin": 3,
-    "canon": 1,
     "series": [
       "From a Certain Point of View"
     ],
-    "author": [
-      "Various"
-    ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": [
+      {
+        "title": "Eyes of the Empire",
+        "author": [
+          "Kiersten White"
+        ]
+      },
+      {
+        "title": "Hunger",
+        "author": [
+          "Mark Oshiro"
+        ]
+      },
+      {
+        "title": "Ion Control",
+        "author": [
+          "Emily Skrutskie"
+        ]
+      },
+      {
+        "title": "A Good Kiss",
+        "author": [
+          "C.B. Lee"
+        ]
+      },
+      {
+        "title": "She Will Keep Them Warm",
+        "author": [
+          "Delilah S. Dawson"
+        ]
+      },
+      {
+        "title": "Heroes of the Rebellion",
+        "author": [
+          "Amy Ratcliffe"
+        ]
+      },
+      {
+        "title": "Rogue Two",
+        "author": [
+          "Gary Whitta"
+        ]
+      },
+      {
+        "title": "Kendal",
+        "author": [
+          "Charles Yu"
+        ]
+      },
+      {
+        "title": "Against All Odds",
+        "author": [
+          "R.F. Kuang"
+        ]
+      },
+      {
+        "title": "Beyond Hope",
+        "author": [
+          "Michael Moreci"
+        ]
+      },
+      {
+        "title": "The Truest Duty",
+        "author": [
+          "Christie Golden"
+        ]
+      },
+      {
+        "title": "A Naturalist on Hoth",
+        "author": [
+          "Hank Green"
+        ]
+      },
+      {
+        "title": "The Dragonsnake Saves R2-D2",
+        "author": [
+          "Katie Cook"
+        ]
+      },
+      {
+        "title": "For the Last Time",
+        "author": [
+          "Beth Revis"
+        ]
+      },
+      {
+        "title": "Rendezvous Point",
+        "author": [
+          "Jason Fry"
+        ]
+      },
+      {
+        "title": "The Final Order",
+        "author": [
+          "Seth Dickinson"
+        ]
+      },
+      {
+        "title": "Amara Kel's Rules for TIE Pilot Survival (Probably)",
+        "author": [
+          "Django Wexler"
+        ]
+      },
+      {
+        "title": "The First Lesson",
+        "author": [
+          "Jim Zub"
+        ]
+      },
+      {
+        "title": "Disturbance",
+        "author": [
+          "Mike Chen"
+        ]
+      },
+      {
+        "title": "This Is No Cave",
+        "author": [
+          "Catherynne M. Valente"
+        ]
+      },
+      {
+        "title": "Lord Vader Will See You Now",
+        "author": [
+          "John Jackson Miller"
+        ]
+      },
+      {
+        "title": "Vergence",
+        "author": [
+          "Tracy Deonn"
+        ]
+      },
+      {
+        "title": "Tooth and Claw",
+        "author": [
+          "Michael Kogge"
+        ]
+      },
+      {
+        "title": "STET!",
+        "author": [
+          "Daniel José Older"
+        ]
+      },
+      {
+        "title": "Wait for It",
+        "author": [
+          "Zoraida Córdova"
+        ]
+      },
+      {
+        "title": "Standard Imperial Procedure",
+        "author": [
+          "Sarwat Chadda"
+        ]
+      },
+      {
+        "title": "There Is Always Another",
+        "author": [
+          "Mackenzi Lee"
+        ]
+      },
+      {
+        "title": "Fake It Till You Make It",
+        "author": [
+          "Cavan Scott"
+        ]
+      },
+      {
+        "title": "But What Does He Eat?",
+        "author": [
+          "S.A. Chakraborty"
+        ]
+      },
+      {
+        "title": "Beyond the Clouds",
+        "author": [
+          "Lilliam Rivera"
+        ]
+      },
+      {
+        "title": "No Time for Poetry",
+        "author": [
+          "Austin Walker"
+        ]
+      },
+      {
+        "title": "Bespin Escape",
+        "author": [
+          "Martha Wells"
+        ]
+      },
+      {
+        "title": "Faith in an Old Friend",
+        "author": [
+          "Brittany N. Williams"
+        ]
+      },
+      {
+        "title": "Due on Batuu",
+        "author": [
+          "Rob Hart"
+        ]
+      },
+      {
+        "title": "Into the Clouds",
+        "author": [
+          "Karen Strong"
+        ]
+      },
+      {
+        "title": "The Witness",
+        "author": [
+          "Adam Christopher"
+        ]
+      },
+      {
+        "title": "The Man Who Built Cloud City",
+        "author": [
+          "Alexander Freed"
+        ]
+      },
+      {
+        "title": "The Backup Backup Plan",
+        "author": [
+          "Anne Toole"
+        ]
+      },
+      {
+        "title": "Right-Hand Man",
+        "author": [
+          "Lydia Kang"
+        ]
+      },
+      {
+        "title": "The Whills Strike Back",
+        "author": [
+          "Tom Angleberger"
+        ]
+      }
+    ]
   },
   {
     "id": 64,
@@ -1679,7 +2285,9 @@
     "sort_timeline_yavin": null,
     "series": [],
     "series_order": {},
-    "canon": 1
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 65,
@@ -1700,7 +2308,6 @@
     "audio_runtime": null,
     "timeline_text": "231 BBY",
     "sort_timeline_yavin": -231,
-    "canon": 1,
     "series": [
       "The High Republic",
       "Phase I: Quest of the Jedi"
@@ -1708,7 +2315,10 @@
     "author": [
       "Cavan Scott"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 66,
@@ -1729,14 +2339,16 @@
     "audio_runtime": null,
     "timeline_text": null,
     "sort_timeline_yavin": null,
-    "canon": 0,
     "series": [
       "Visions"
     ],
     "author": [
       "Emma Mieko Candon"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Legends",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 67,
@@ -1757,14 +2369,16 @@
     "audio_runtime": null,
     "timeline_text": "231 BBY",
     "sort_timeline_yavin": -231,
-    "canon": 1,
     "series": [
       "The High Republic"
     ],
     "author": [
       "Cavan Scott"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 68,
@@ -1785,7 +2399,6 @@
     "audio_runtime": null,
     "timeline_text": null,
     "sort_timeline_yavin": null,
-    "canon": 1,
     "series": [
       "The High Republic",
       "Phase II: Light of the Jedi"
@@ -1793,7 +2406,10 @@
     "author": [
       "Various"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 69,
@@ -1814,7 +2430,6 @@
     "audio_runtime": null,
     "timeline_text": "382 BBY",
     "sort_timeline_yavin": -382,
-    "canon": 1,
     "series": [
       "The High Republic",
       "Phase II: Light of the Jedi"
@@ -1822,7 +2437,10 @@
     "author": [
       "George Mann"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 70,
@@ -1843,14 +2461,16 @@
     "audio_runtime": null,
     "timeline_text": "4 ABY",
     "sort_timeline_yavin": 4,
-    "canon": 1,
     "series": [
       "From a Certain Point of View"
     ],
     "author": [
       "Various"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 71,
@@ -1871,7 +2491,6 @@
     "audio_runtime": null,
     "timeline_text": "229 BBY—228 BBY",
     "sort_timeline_yavin": -229,
-    "canon": 1,
     "series": [
       "The High Republic",
       "Phase III: Trials of the Jedi"
@@ -1879,7 +2498,10 @@
     "author": [
       "George Mann"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 72,
@@ -1900,12 +2522,14 @@
     "audio_runtime": null,
     "timeline_text": "382 BBY—c. 377 BBY",
     "sort_timeline_yavin": -382,
-    "canon": 1,
     "series": [],
     "author": [
       "George Mann"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 73,
@@ -1926,12 +2550,14 @@
     "audio_runtime": null,
     "timeline_text": "33 BBY",
     "sort_timeline_yavin": -33,
-    "canon": 1,
     "series": [],
     "author": [
       "John Jackson Miller"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 74,
@@ -1952,7 +2578,6 @@
     "audio_runtime": null,
     "timeline_text": "228 BBY",
     "sort_timeline_yavin": -228,
-    "canon": 1,
     "series": [
       "The High Republic",
       "Phase III: Trials of the Jedi"
@@ -1960,7 +2585,10 @@
     "author": [
       "Tessa Gratton"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 75,
@@ -1981,12 +2609,14 @@
     "audio_runtime": null,
     "timeline_text": null,
     "sort_timeline_yavin": null,
-    "canon": 1,
     "series": [],
     "author": [
       "Chris Kempshall"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 76,
@@ -2007,12 +2637,14 @@
     "audio_runtime": null,
     "timeline_text": "c. 32 BBY",
     "sort_timeline_yavin": -32,
-    "canon": 1,
     "series": [],
     "author": [
       "Steven Barnes"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 77,
@@ -2033,14 +2665,16 @@
     "audio_runtime": null,
     "timeline_text": "19–18 BBY",
     "sort_timeline_yavin": -18,
-    "canon": 1,
     "series": [
       "Reign of the Empire"
     ],
     "author": [
       "Alexander Freed"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 78,
@@ -2061,12 +2695,14 @@
     "audio_runtime": null,
     "timeline_text": "160 BBY",
     "sort_timeline_yavin": -160,
-    "canon": 1,
     "series": [],
     "author": [
       "Justina Ireland"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 79,
@@ -2087,7 +2723,6 @@
     "audio_runtime": null,
     "timeline_text": "228 BBY",
     "sort_timeline_yavin": -228,
-    "canon": 1,
     "series": [
       "The High Republic",
       "Phase III: Trials of the Jedi"
@@ -2095,7 +2730,10 @@
     "author": [
       "Cavan Scott"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 80,
@@ -2116,7 +2754,6 @@
     "audio_runtime": null,
     "timeline_text": "228 BBY",
     "sort_timeline_yavin": -228,
-    "canon": 1,
     "series": [
       "The High Republic",
       "Phase III: Trials of the Jedi"
@@ -2124,7 +2761,10 @@
     "author": [
       "Charles Soule"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 81,
@@ -2145,12 +2785,14 @@
     "audio_runtime": null,
     "timeline_text": "c. 18 BBY",
     "sort_timeline_yavin": -18,
-    "canon": 1,
     "series": [],
     "author": [
       "Lamar Giles"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 82,
@@ -2171,12 +2813,14 @@
     "audio_runtime": null,
     "timeline_text": "19 BBY",
     "sort_timeline_yavin": -19,
-    "canon": 1,
     "series": [],
     "author": [
       "Adam Christopher"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 83,
@@ -2197,12 +2841,14 @@
     "audio_runtime": null,
     "timeline_text": "19 BBY - 10 BBY",
     "sort_timeline_yavin": -19,
-    "canon": 1,
     "series": [],
     "author": [
       "Mike Chen"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 84,
@@ -2223,15 +2869,22 @@
     "audio_runtime": null,
     "timeline_text": "34 ABY - 35 ABY",
     "sort_timeline_yavin": 34,
-    "canon": 1,
     "series": [],
     "author": [
       "Madeleine Roux"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
+    "id": 86,
     "title": "Myths & Fables",
+    "sort_title": "Myths & Fables",
+    "author": [
+      "George Mann"
+    ],
     "publisher": "Disney Lucasfilm Press",
     "audience": "Young Adult",
     "pub_date": "08/06/2019",
@@ -2240,23 +2893,20 @@
     "pages": null,
     "isbn": "9781368043458",
     "asin": null,
+    "audio_asin": null,
     "cover_url": "https://static.wikia.nocookie.net/starwars/images/6/6d/Myths-Fables.png/revision/latest/scale-to-width-down/500?cb=20211121170019",
     "audio_narrator": null,
     "audio_publisher": null,
     "audio_runtime": null,
-    "audio_asin": null,
-    "timeline_text": "",
+    "timeline_text": null,
     "sort_timeline_yavin": null,
-    "canon": 1,
-    "id": 86,
-    "sort_title": "Myths & Fables",
     "series": [
       "Galaxy's Edge"
     ],
-    "author": [
-      "George Mann"
-    ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Collection",
+    "stories": []
   },
   {
     "title": "Dark Legends",
@@ -2275,14 +2925,16 @@
     "audio_asin": null,
     "timeline_text": "",
     "sort_timeline_yavin": null,
-    "canon": 1,
     "id": 87,
     "sort_title": "Dark Legends",
     "series": [],
     "author": [
       "George Mann"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 88,
@@ -2309,8 +2961,10 @@
     "series": [
       "The Clone Wars"
     ],
-    "canon": 1,
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "title": "Life Day Treasury",
@@ -2329,14 +2983,16 @@
     "audio_asin": null,
     "timeline_text": "",
     "sort_timeline_yavin": null,
-    "canon": 1,
     "id": 89,
     "sort_title": "Life Day Treasury",
     "series": [],
     "author": [
       "George MannCavan Scott"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "title": "Path of Vengeance",
@@ -2359,13 +3015,15 @@
       "The High Republic",
       "Phase II: Light of the Jedi"
     ],
-    "canon": 1,
     "id": 90,
     "sort_title": "Path of Vengeance",
     "author": [
       "Cavan Scott"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 91,
@@ -2389,11 +3047,13 @@
     "series": [
       "The High Republic"
     ],
-    "canon": 1,
     "author": [
       "Various"
     ],
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 92,
@@ -2418,8 +3078,10 @@
     "timeline_text": "13 BBY – 12 BBY",
     "sort_timeline_yavin": -13,
     "series": [],
-    "canon": 1,
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "title": "Defy the Storm",
@@ -2446,10 +3108,12 @@
       "The High Republic",
       "Phase III: Trials of the Jedi"
     ],
-    "canon": 1,
     "id": 93,
     "sort_title": "Defy the Storm",
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 94,
@@ -2477,8 +3141,10 @@
       "The High Republic",
       "Phase III: Trials of the Jedi"
     ],
-    "canon": 1,
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "title": "Into the Light",
@@ -2504,10 +3170,12 @@
       "The High Republic",
       "Phase III: Trials of the Jedi"
     ],
-    "canon": 1,
     "id": 95,
     "sort_title": "Into the Light",
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "title": "The Crystal Crown",
@@ -2532,10 +3200,12 @@
     "series": [
       "The Acolyte"
     ],
-    "canon": 1,
     "id": 96,
     "sort_title": "Crystal Crown",
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 97,
@@ -2560,8 +3230,10 @@
     "timeline_text": "35 ABY",
     "sort_timeline_yavin": 35,
     "series": [],
-    "canon": 1,
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   },
   {
     "id": 98,
@@ -2586,7 +3258,9 @@
     "timeline_text": "33 ABY",
     "sort_timeline_yavin": 33,
     "series": [],
-    "canon": 1,
-    "series_order": {}
+    "series_order": {},
+    "continuity": "Canon",
+    "book_type": "Novel",
+    "stories": []
   }
 ]
