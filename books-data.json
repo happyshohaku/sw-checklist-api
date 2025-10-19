@@ -349,8 +349,10 @@
     "series": [
       "The Imperial Trilogy"
     ],
-    "canon": 1,
-    "series_order": {}
+    "series_order": {
+      "The Imperial Trilogy": 1
+    },
+    "canon": 1
   },
   {
     "id": 14,
@@ -496,6 +498,9 @@
     "id": 19,
     "title": "Last Shot",
     "sort_title": "Last Shot",
+    "author": [
+      "Daniel José Older"
+    ],
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "04/17/2018",
@@ -511,12 +516,9 @@
     "audio_runtime": 660,
     "timeline_text": "7 ABY",
     "sort_timeline_yavin": 7,
-    "canon": 1,
     "series": [],
-    "author": [
-      "Daniel José Older"
-    ],
-    "series_order": {}
+    "series_order": {},
+    "canon": 1
   },
   {
     "id": 20,
@@ -548,11 +550,14 @@
     "id": 21,
     "title": "Thrawn: Alliances",
     "sort_title": null,
+    "author": [
+      "Timothy Zahn"
+    ],
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "07/24/2018",
     "pub_date_all": "July 24, 2018 (Hardcover, eBook)\nFebruary 26, 2019 (Paperback)",
-    "pub_summary": "Grand Admiral Thrawn and Darth Vader ally against a threat to the Empire in this new novel from bestselling author Timothy Zahn.\n\n“I have sensed a disturbance in the Force.”\n\nOminous words under any circumstances, but all the more so when uttered by Emperor Palpatine. On Batuu, at the edges of the Unknown Regions, a threat to the Empire is taking root—its existence little more than a glimmer, its consequences as yet unknowable. But it is troubling enough to the Imperial leader to warrant investigation by his most powerful agents: ruthless enforcer Lord Darth Vader and brilliant strategist Grand Admiral Thrawn. Fierce rivals for the emperor’s favor, and outspoken adversaries on Imperial affairs—including the Death Star project—the formidable pair seem unlikely partners for such a crucial mission. But the Emperor knows it’s not the first time Vader and Thrawn have joined forces. And there’s more behind his royal command than either man suspects.\n\nIn what seems like a lifetime ago, General Anakin Skywalker of the Galactic Republic, and Commander Mitth’raw’nuruodo, officer of the Chiss Ascendancy, crossed paths for the first time. One on a desperate personal quest, the other with motives unknown…and undisclosed. But facing a gauntlet of dangers on a far-flung world, they forged an uneasy alliance—neither remotely aware of what their futures held in store.\n\nNow, thrust together once more, they find themselves bound again for the planet where they once fought side by side. There they will be doubly challenged—by a test of their allegiance to the Empire…and an enemy that threatens even their combined might.",
+    "pub_summary": "Grand Admiral Thrawn and Darth Vader ally against a threat to the Empire in this new novel from bestselling author Timothy Zahn.\n\n\"I have sensed a disturbance in the Force.\"\n\nOminous words under any circumstances, but all the more so when uttered by Emperor Palpatine. On Batuu, at the edges of the Unknown Regions, a threat to the Empire is taking root—its existence little more than a glimmer, its consequences as yet unknowable. But it is troubling enough to the Imperial leader to warrant investigation by his most powerful agents: ruthless enforcer Lord Darth Vader and brilliant strategist Grand Admiral Thrawn. Fierce rivals for the emperor's favor, and outspoken adversaries on Imperial affairs—including the Death Star project—the formidable pair seem unlikely partners for such a crucial mission. But the Emperor knows it's not the first time Vader and Thrawn have joined forces. And there's more behind his royal command than either man suspects.\n\nIn what seems like a lifetime ago, General Anakin Skywalker of the Galactic Republic, and Commander Mitth'raw'nuruodo, officer of the Chiss Ascendancy, crossed paths for the first time. One on a desperate personal quest, the other with motives unknown…and undisclosed. But facing a gauntlet of dangers on a far-flung world, they forged an uneasy alliance—neither remotely aware of what their futures held in store.\n\nNow, thrust together once more, they find themselves bound again for the planet where they once fought side by side. There they will be doubly challenged—by a test of their allegiance to the Empire…and an enemy that threatens even their combined might.",
     "pages": 342,
     "isbn": "9780525480488",
     "asin": "B07692QXW3",
@@ -561,16 +566,15 @@
     "audio_narrator": "Marc Thompson",
     "audio_publisher": "Random House Audio",
     "audio_runtime": 810,
-    "timeline_text": "19 BBY (Past)1 BBY (Present)",
+    "timeline_text": "19 BBY – 1 BBY",
     "sort_timeline_yavin": -19,
-    "canon": 1,
     "series": [
       "The Imperial Trilogy"
     ],
-    "author": [
-      "Timothy Zahn"
-    ],
-    "series_order": {}
+    "series_order": {
+      "The Imperial Trilogy": 2
+    },
+    "canon": 1
   },
   {
     "id": 22,
@@ -604,6 +608,9 @@
     "id": 23,
     "title": "Master & Apprentice",
     "sort_title": "Master & Apprentice",
+    "author": [
+      "Claudia Gray"
+    ],
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "04/16/2019",
@@ -617,19 +624,19 @@
     "audio_narrator": "Jonathan Davis",
     "audio_publisher": "Random House Audio",
     "audio_runtime": 690,
-    "timeline_text": "40 BBY32 BBY (Epilogue)",
+    "timeline_text": "40 BBY",
     "sort_timeline_yavin": -40,
-    "canon": 1,
     "series": [],
-    "author": [
-      "Claudia Gray"
-    ],
-    "series_order": {}
+    "series_order": {},
+    "canon": 1
   },
   {
     "id": 24,
     "title": "Alphabet Squadron",
     "sort_title": "Alphabet Squadron",
+    "author": [
+      "Alexander Freed"
+    ],
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "06/11/2019",
@@ -639,25 +646,27 @@
     "isbn": "9781984821980",
     "asin": "B07J4BKDRC",
     "audio_asin": "1984889931",
-    "cover_url": "https://static.wikia.nocookie.net/starwars/images/6/66/AlphabetSquadron-CrossoverCover.png/revision/latest/scale-to-width-down/500?cb=20190224104809",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/c/c5/Alphabet_Squadron_Patch.png/revision/latest/scale-to-width-down/500?cb=20190830015956",
     "audio_narrator": "Saskia Maarleveld",
     "audio_publisher": "Random House Audio",
     "audio_runtime": 840,
     "timeline_text": "4 ABY",
     "sort_timeline_yavin": 4,
-    "canon": 1,
     "series": [
       "Alphabet Squadron"
     ],
-    "author": [
-      "Alexander Freed"
-    ],
-    "series_order": {}
+    "series_order": {
+      "Alphabet Squadron": 1
+    },
+    "canon": 1
   },
   {
     "id": 25,
     "title": "Thrawn: Treason",
     "sort_title": "Treason",
+    "author": [
+      "Timothy Zahn"
+    ],
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "07/23/2019",
@@ -673,14 +682,13 @@
     "audio_runtime": 780,
     "timeline_text": "1 BBY",
     "sort_timeline_yavin": -1,
-    "canon": 1,
     "series": [
       "The Imperial Trilogy"
     ],
-    "author": [
-      "Timothy Zahn"
-    ],
-    "series_order": {}
+    "series_order": {
+      "The Imperial Trilogy": 3
+    },
+    "canon": 1
   },
   {
     "id": 26,
@@ -1488,7 +1496,12 @@
     "series_order": {}
   },
   {
+    "id": 58,
     "title": "Canto Bight",
+    "sort_title": "Canto Bight",
+    "author": [
+      "Various"
+    ],
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "12/05/2017",
@@ -1497,28 +1510,26 @@
     "pages": 400,
     "isbn": "9781524799533",
     "asin": null,
-    "cover_url": null,
+    "audio_asin": null,
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/0/0a/CantoBight_Final_cover.jpg/revision/latest/scale-to-width-down/500?cb=20170913192023",
     "audio_narrator": null,
     "audio_publisher": null,
     "audio_runtime": null,
-    "audio_asin": null,
     "timeline_text": "34 ABY",
     "sort_timeline_yavin": 34,
-    "canon": 1,
-    "id": 58,
-    "sort_title": "Canto Bight",
     "series": [
       "Journey to Star Wars: The Last Jedi"
     ],
-    "author": [
-      "Various"
-    ],
-    "series_order": {}
+    "series_order": {},
+    "canon": 1
   },
   {
     "id": 59,
     "title": "The Last Jedi: Expanded Edition",
     "sort_title": "Last Jedi",
+    "author": [
+      "Jason Fry"
+    ],
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "03/06/2018",
@@ -1534,15 +1545,17 @@
     "audio_runtime": null,
     "timeline_text": "34 ABY",
     "sort_timeline_yavin": 34,
-    "canon": 1,
     "series": [],
-    "author": [
-      "Jason Fry"
-    ],
-    "series_order": {}
+    "series_order": {},
+    "canon": 1
   },
   {
-    "title": "Solo: A Star Wars Story: Expanded Edition",
+    "id": 60,
+    "title": "Solo: Expanded Edition",
+    "sort_title": "Solo",
+    "author": [
+      "Mur Lafferty"
+    ],
     "publisher": "Del Rey",
     "audience": "Adult",
     "pub_date": "09/04/2018",
@@ -1551,21 +1564,16 @@
     "pages": 304,
     "isbn": "9780525619390",
     "asin": null,
-    "cover_url": null,
+    "audio_asin": null,
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/0/08/Solo-ExpandedEdition-Hardcover.jpg/revision/latest/scale-to-width-down/500?cb=20180921181254",
     "audio_narrator": null,
     "audio_publisher": null,
     "audio_runtime": null,
-    "audio_asin": null,
-    "timeline_text": "13 BBY–10 BBY",
+    "timeline_text": "13 BBY – 10 BBY",
     "sort_timeline_yavin": -13,
-    "canon": 1,
-    "id": 60,
-    "sort_title": "Solo: A Star Wars Story: Expanded Edition",
     "series": [],
-    "author": [
-      "Mur Lafferty"
-    ],
-    "series_order": {}
+    "series_order": {},
+    "canon": 1
   },
   {
     "id": 61,
@@ -1651,9 +1659,12 @@
     "id": 64,
     "title": "Doctor Aphra",
     "sort_title": "Doctor Aphra",
+    "author": [
+      "Sarah Kuhn"
+    ],
     "publisher": "Del Rey",
     "audience": "Adult",
-    "pub_date": "April 6, 2021",
+    "pub_date": "04/06/2021",
     "pub_date_all": null,
     "pub_summary": "Dr. Aphra teams up with Darth Vader himself in the original script to the audiobook production—an expanded adaptation of the critically acclaimed Marvel comics series.\n\nDr. Chelli Lona Aphra, rogue archaeologist, is in trouble again.\n\nA pioneer in the field of criminal xenoarchaeology, Aphra recognizes no law, has no fear, and possesses no impulse control. To her, the true worth of the galactic relics she discovers isn't found in a museum but in an arsenal. This viewpoint has led to a lot of misunderstandings. After her latest plan goes horribly wrong, her roguish ways are on the verge of catching up to her when suddenly Darth Vader, terror of the galaxy, swoops in with his lightsaber ignited and…saves her life?\n\nDon't get her wrong—it's not like she's ungrateful. Sure, her new boss is a lord of the Sith. And, okay, she may have just become a pawn in a deadly game being played by him and his boss, who happens to be the Galactic Emperor. And, yes, the life expectancy of anyone who disappoints Vader can be measured in seconds.\n\nBut she's back doing what she does best. She's got a ship to fly, a heist to pull, and two unorthodox but effective metal buddies: Triple-Zero, a protocol droid specializing in etiquette, customs, translation, and torture; and BT-1, a blastomech loaded with enough firepower to take down a battle cruiser. Together they might just find a way to get the job done and avoid the deadly performance review that awaits at its conclusion.\n\nJust kidding. She's doomed.",
     "pages": 304,
@@ -1666,12 +1677,9 @@
     "audio_runtime": null,
     "timeline_text": "0 ABY",
     "sort_timeline_yavin": null,
-    "canon": 1,
     "series": [],
-    "author": [
-      "Sarah Kuhn"
-    ],
-    "series_order": {}
+    "series_order": {},
+    "canon": 1
   },
   {
     "id": 65,
