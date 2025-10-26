@@ -159,7 +159,7 @@
     "timeline_text": "11 BBY – 5 ABY",
     "sort_timeline_yavin": -11,
     "series": [
-      "Journey to Star Wars: The Force Awakens"
+      "Journey to Star Wars > The Force Awakens"
     ],
     "author": [
       "Claudia Gray"
@@ -193,7 +193,7 @@
     "sort_timeline_yavin": 4,
     "series": [
       "The Aftermath Trilogy",
-      "Journey to Star Wars: The Force Awakens"
+      "Journey to Star Wars > The Force Awakens"
     ],
     "series_order": {
       "The Aftermath Trilogy": 1
@@ -493,7 +493,7 @@
     "timeline_text": "34 ABY",
     "sort_timeline_yavin": 34,
     "series": [
-      "Journey to Star Wars: The Last Jedi"
+      "Journey to Star Wars > The Last Jedi"
     ],
     "series_order": {},
     "continuity": "Canon",
@@ -520,7 +520,7 @@
     "timeline_text": "3 BBY",
     "sort_timeline_yavin": -3,
     "series": [
-      "Journey to Star Wars: The Last Jedi"
+      "Journey to Star Wars > The Last Jedi"
     ],
     "author": [
       "Claudia Gray"
@@ -818,7 +818,7 @@
     "timeline_text": "34 ABY",
     "sort_timeline_yavin": 34,
     "series": [
-      "Journey to Star Wars: The Rise of Skywalker"
+      "Journey to Star Wars > The Rise of Skywalker"
     ],
     "author": [
       "Rebecca Roanhorse"
@@ -851,7 +851,7 @@
     "timeline_text": "32 ABY",
     "sort_timeline_yavin": 32,
     "series": [
-      "Journey to Star Wars: The Rise of Skywalker"
+      "Journey to Star Wars > The Rise of Skywalker"
     ],
     "series_order": {},
     "continuity": "Canon",
@@ -1867,7 +1867,7 @@
     "timeline_text": "34 ABY",
     "sort_timeline_yavin": 34,
     "series": [
-      "Journey to Star Wars: The Last Jedi"
+      "Journey to Star Wars > The Last Jedi"
     ],
     "series_order": {},
     "continuity": "Canon",
