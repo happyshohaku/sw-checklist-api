@@ -692,7 +692,7 @@
     "isbn": "9781984821980",
     "asin": "B07J4BKDRC",
     "audio_asin": "1984889931",
-    "cover_url": "https://static.wikia.nocookie.net/starwars/images/c/c5/Alphabet_Squadron_Patch.png/revision/latest/scale-to-width-down/500?cb=20190830015956",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/6/66/AlphabetSquadron-CrossoverCover.png/revision/latest/scale-to-width-down/500?cb=20190224104809",
     "audio_narrator": "Saskia Maarleveld",
     "audio_publisher": "Random House Audio",
     "audio_runtime": 840,
@@ -701,9 +701,7 @@
     "series": [
       "Alphabet Squadron"
     ],
-    "series_order": {
-      "Alphabet Squadron": 1
-    },
+    "series_order": {},
     "continuity": "Canon",
     "book_type": "Novel",
     "stories": []
@@ -2388,7 +2386,7 @@
     "audience": "Adult",
     "pub_date": "12/06/2022",
     "pub_date_all": null,
-    "pub_summary": "EXPERIENCE THE GALAXY CENTURIES BEFORE THE STRUGGLE OF THE REBEL ALLIANCE AGAINST THE GALACTIC EMPIRE—AT THE HEIGHT OF THE JEDI ORDER!\n\nA compendium of tales from the High Republic era, told from aboard the incredible satellite station, the Starlight Beacon, collected for the first time from the pages of Star Wars Insider.\n\nAll stories are written by The New York Times' best-selling authors Cavan Scott, Charles Soule, and Justina Ireland.\n\nAlso includes in-depth interviews with the story architects behind the best-selling publishing and multimedia initiative.\n\nStories included:\n\n\"Go Together\" by Charles Soule\n\n\"First Duty\" by Cavan Scott\n\n\"Hidden Danger\" by Justina Ireland\n\n\"Past Mistakes\" by Cavan Scott\n\n\"Shadows Remain\" by Justina Ireland",
+    "pub_summary": "EXPERIENCE THE GALAXY CENTURIES BEFORE THE STRUGGLE OF THE REBEL ALLIANCE AGAINST THE GALACTIC EMPIRE—AT THE HEIGHT OF THE JEDI ORDER!\n\nA compendium of tales from the High Republic era, told from aboard the incredible satellite station, the Starlight Beacon, collected for the first time from the pages of Star Wars Insider.\n\nAll stories are written by The New York Times' best-selling authors Cavan Scott, Charles Soule, and Justina Ireland.\n\nAlso includes in-depth interviews with the story architects behind the best-selling publishing and multimedia initiative.",
     "pages": 96,
     "isbn": "9781787738652",
     "asin": null,
