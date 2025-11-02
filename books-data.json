@@ -2777,7 +2777,7 @@
     "audio_narrator": null,
     "audio_publisher": null,
     "audio_runtime": null,
-    "timeline_text": "382 BBY–c. 377 BBY",
+    "timeline_text": "382 BBY–377 BBY",
     "sort_timeline_yavin": -382,
     "series": [],
     "series_order": {},
@@ -2891,7 +2891,7 @@
     "audio_narrator": null,
     "audio_publisher": null,
     "audio_runtime": null,
-    "timeline_text": "c. 32 BBY",
+    "timeline_text": "32 BBY",
     "sort_timeline_yavin": -32,
     "series": [],
     "series_order": {},
@@ -3037,7 +3037,7 @@
     "audio_narrator": null,
     "audio_publisher": null,
     "audio_runtime": null,
-    "timeline_text": "c. 18 BBY",
+    "timeline_text": "18 BBY",
     "sort_timeline_yavin": -18,
     "series": [],
     "series_order": {},
@@ -3765,7 +3765,9 @@
     "sort_title": "Rebellion Begins"
   },
   {
-    "title": "Droids in Distress (book)",
+    "id": 103,
+    "title": "Droids in Distress",
+    "sort_title": "Droids in Distress",
     "author": [
       "Michael Kogge"
     ],
@@ -3777,21 +3779,17 @@
     "pages": 128,
     "isbn": "1484704665",
     "asin": null,
+    "audio_asin": null,
     "cover_url": "https://static.wikia.nocookie.net/starwars/images/0/01/DroidsinDistress.png/revision/latest/scale-to-width-down/500?cb=20140812010702",
     "audio_narrator": null,
     "audio_publisher": null,
     "audio_runtime": null,
-    "audio_asin": null,
     "timeline_text": "5 BBY",
     "sort_timeline_yavin": -5,
-    "series": [
-      "Star Wars Rebels chapter books"
-    ],
+    "series": [],
     "series_order": {},
     "continuity": "Canon",
     "book_type": "Novelization",
-    "stories": [],
-    "id": 103,
-    "sort_title": "Droids in Distress (book)"
+    "stories": []
   }
 ]

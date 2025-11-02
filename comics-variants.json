@@ -1,0 +1,2710 @@
+{
+  "475858": [
+    {
+      "category": "Incentive Covers",
+      "type": "Reg",
+      "name": "Regular Cover",
+      "artist": "John Cassaday",
+      "alt": "Star Wars #1 1:25 John Cassaday Teaser Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9054483.jpg?1710190138"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "DCBS",
+      "artist": "Alex Maleev",
+      "alt": "Star Wars #1 DCBS Alex Maleev Black & White Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7520730.jpg?1719873813"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Warp 9 Exclusive (Color)",
+      "artist": "Alex Maleev",
+      "alt": "Star Wars #1 Comic Pop Collectibles / Warp 9 Comics Alex Maleev Black & White Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7145047.jpg?1705710520"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Warp 9 Exclusive (B&W)",
+      "artist": "Alex Maleev",
+      "alt": "Star Wars #1 Comic Pop Collectibles / Warp 9 Comics Alex Maleev Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9167146.jpg?1705710510"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Kings Comics",
+      "artist": "Joe Quinones",
+      "alt": "Star Wars #1 Kings Comics Joe Quinones Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1316094.jpg?1719874098"
+    },
+    {
+      "category": "Reprints",
+      "type": "7th",
+      "name": "Seventh Printing Cover (Purple)",
+      "artist": "John Cassaday",
+      "alt": "Star Wars #1 7th Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9387368.jpg?1726592325"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "1:50 J. Scott Campbell Connecting Cover Variant A",
+      "artist": "J. Scott Campbell",
+      "alt": "Star Wars #1 1:50 J. Scott Campbell Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1221645.jpg?1699950780"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "1:25 John Cassaday Teaser Variant Cover",
+      "artist": "John Cassaday",
+      "alt": "Star Wars #1 Two Per Store John Cassaday Premiere Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9684004.jpg?1699950780"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Bob McLeod",
+      "alt": "Star Wars #1 1:25 Bob McLeod Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1683993.jpg?1719873731"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Wraparound Variant Cover",
+      "artist": "Joe Quesada",
+      "alt": "Star Wars #1 1:100 Joe Quesada Wraparound Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3231666.jpg?1719838630"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Wraparound Variant Sketch Cover",
+      "artist": "Joe Quesada",
+      "alt": "Star Wars #1 1:500 Joe Quesada Black & White Wraparound Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7461823.jpg?1699950780"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Alex Ross Variant Cover",
+      "artist": "Alex Ross",
+      "alt": "Star Wars #1 1:50 Alex Ross Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6806981.jpg?1719861626"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Alex Ross Sketch Variant Cover",
+      "artist": "Alex Ross",
+      "alt": "Star Wars #1 1:200 Alex Ross Sketch Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5595332.jpg?1699950780"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Sara Pichelli",
+      "alt": "Star Wars #1 1:20 Sara Pichelli Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5392270.jpg?1720259729"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Young Variant Cover",
+      "artist": "Skottie Young",
+      "alt": "Star Wars #1 Skottie Young Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9501237.jpg?1699950780"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Humorous Party Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #1 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1980574.jpg?1710621808"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Humorous Party Variant Sketch Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #1 John Tyler Christopher Humorous Party Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8674027.jpg?1710621812"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #1 One Per Store John Tyler Christopher Black & White Humorous Party Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8123618.jpg?1710188746"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Alex Ross Web Store Exclusive Cover",
+      "artist": "Alex Ross",
+      "alt": "Star Wars #1 Alex Ross Webstore Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7138824.jpg?1720252189"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "AOD Collectables Exclusive Variant Black & White Cover",
+      "artist": "Dale Keown",
+      "alt": "Star Wars #1 AOD Collectables Dale Keown Black & White Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2857663.jpg?1719861750"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "BAM! Exclusive Cover",
+      "artist": "Simone Bianchi",
+      "alt": "Star Wars #1 Bampf Collectables Mike McKone Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3228771.jpg?1719873624"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Cards, Comics & Collectibles Exclusive Cover",
+      "artist": "Frank Cho",
+      "alt": "Star Wars #1 Cards, Comics, & Collectibles Frank Cho Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1839354.jpg?1699950780"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "The Cargo Hold Exclusive Cover",
+      "artist": "J. Scott Campbell",
+      "alt": "Star Wars #1 The Cargo Hold J. Scott Campbell Black & White Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6962190.jpg?1720046839"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Forbidden Planet Exclusive Cover",
+      "artist": "Adi Granov",
+      "alt": "Star Wars #1 Forbidden Planet Adi Granov Black & White Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5673298.jpg?1719387370"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Forbidden Planet Exclusive Sketch Cover",
+      "artist": "Adi Granov",
+      "alt": "Star Wars #1 Forbidden Planet Adi Granov Special Edition Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6768007.jpg?1719873918"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Heroes & Fantasies Exclusive Cover",
+      "artist": "Daniel Acuña",
+      "alt": "Star Wars #1 Heroes & Fantasies Daniel Acuña Black & White Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1951094.jpg?1719874081"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Limited Edition Comix \"Black & White\" Cover",
+      "artist": "Mike Deodato Jr.",
+      "alt": "Star Wars #1 Limited Edition Comix Mike Deodato Jr. Black & White Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9965698.jpg?1719874105"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Loot Crate Exclusive Cover",
+      "artist": "Gabriele Dell'Otto",
+      "alt": "Star Wars #1 Loot Crate Gabriele Dell'Otto Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1522644.jpg?1710190153"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Midtown Exclusive Connecting Cover",
+      "artist": "Mark Brooks",
+      "alt": "Star Wars #1 Midtown Comics Mark Brooks Black & White Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6929463.jpg?1699950780"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Midtown Exclusive \"Black & White\" Connecting Cover",
+      "artist": "Mark Brooks",
+      "alt": "Star Wars #1 Midtown Comics Mark Brooks Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6888731.jpg?1719972000"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Mile High Comics Exclusive Cover",
+      "artist": "Humberto Ramos",
+      "alt": "Star Wars #1 Mile High Comics Humberto Ramos Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2992255.jpg?1719874236"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Third Eye Comics Exclusive Cover",
+      "artist": "Dale Keown",
+      "alt": "Star Wars #1 AOD Collectables Dale Keown Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3203888.jpg?1719902893"
+    },
+    {
+      "category": "Event Exclusives",
+      "type": "RE",
+      "name": "Tidewater ComicCon Exclusive Cover",
+      "artist": "Pascal Campion",
+      "alt": "Star Wars #1 Tidewater Comicon 2015 Pascal Campion Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5932428.jpg?1720444080"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Vault Collectibles Exclusive Cover",
+      "artist": "Amanda Conner",
+      "alt": "Star Wars #1 Vault Collectibles Amanda Conner Black & White Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3519816.jpg?1719874342"
+    },
+    {
+      "category": "Reprints",
+      "type": "2nd",
+      "name": "Second Printing Variant Cover (Black)",
+      "artist": "John Cassaday",
+      "alt": "Star Wars #1 2nd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2566425.jpg?1726592304"
+    },
+    {
+      "category": "Reprints",
+      "type": "3rd",
+      "name": "Third Printing Variant Cover (Red)",
+      "artist": "John Cassaday",
+      "alt": "Star Wars #1 3rd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6697559.jpg?1726592307"
+    },
+    {
+      "category": "Reprints",
+      "type": "4th",
+      "name": "Fourth Printing Variant Cover (Red-Purple w/2 Suns)",
+      "artist": "John Cassaday",
+      "alt": "Star Wars #1 4th Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7865640.jpg?1726592311"
+    },
+    {
+      "category": "Reprints",
+      "type": "5th",
+      "name": "Fifth Printing Variant Cover (Yellow)",
+      "artist": "John Cassaday",
+      "alt": "Star Wars #1 5th Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7332024.jpg?1726592315"
+    },
+    {
+      "category": "Reprints",
+      "type": "6th",
+      "name": "Sixth Printing Variant Cover (Green)",
+      "artist": "John Cassaday",
+      "alt": "Star Wars #1 6th Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6770138.jpg?1726592320"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars #1 Blank Variant",
+      "artist": "",
+      "alt": "Star Wars #1 Blank Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6446668.jpg?1710621802"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars #1 New York Toy Fair 2015 Hasbro Previews Photo Variant",
+      "artist": "",
+      "alt": "Star Wars #1 New York Toy Fair 2015 Hasbro Previews Photo Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9752737.jpg?1711047462"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars #1 1:15 Movie Variant",
+      "artist": "",
+      "alt": "Star Wars #1 1:15 Movie Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9602516.jpg?1719873426"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #1 Beach Ball Comics / Corner Store Comics Stan Sakai Black & White Variant",
+      "artist": "",
+      "alt": "Star Wars #1 Beach Ball Comics / Corner Store Comics Stan Sakai Black & White Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1734075.jpg?1705759626"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #1 Beach Ball Comics / Corner Store Comics Stan Sakai Variant",
+      "artist": "",
+      "alt": "Star Wars #1 Beach Ball Comics / Corner Store Comics Stan Sakai Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4612852.jpg?1705759649"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #1 Books-A-Million / 2nd & Charles Simone Bianchi Sketch Variant",
+      "artist": "",
+      "alt": "Star Wars #1 Books-A-Million / 2nd & Charles Simone Bianchi Sketch Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8303335.jpg?1719873762"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #1 Books-A-Million / 2nd & Charles Simone Bianchi Variant",
+      "artist": "",
+      "alt": "Star Wars #1 Books-A-Million / 2nd & Charles Simone Bianchi Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3426360.jpg?1719873749"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #1 BuyMeToys Jenny Frison Variant",
+      "artist": "",
+      "alt": "Star Wars #1 BuyMeToys Jenny Frison Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3862462.jpg?1751692249"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #1 ComicXposure John Tyler Christopher Black & White Variant",
+      "artist": "",
+      "alt": "Star Wars #1 ComicXposure John Tyler Christopher Black & White Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3480709.jpg?1720438479"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #1 ComicXposure John Tyler Christopher Variant",
+      "artist": "",
+      "alt": "Star Wars #1 ComicXposure John Tyler Christopher Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1523303.jpg?1699950780"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #1 DCBS Alex Maleev Variant",
+      "artist": "",
+      "alt": "Star Wars #1 DCBS Alex Maleev Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5511594.jpg?1719873829"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #1 Dynamic Forces Greg Land Black & White Variant",
+      "artist": "",
+      "alt": "Star Wars #1 Dynamic Forces Greg Land Black & White Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6141579.jpg?1705763426"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #1 Dynamic Forces Greg Land Connecting Variant",
+      "artist": "",
+      "alt": "Star Wars #1 Dynamic Forces Greg Land Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3669023.jpg?1705773309"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #1 EMP Museum Mike Del Mundo Variant",
+      "artist": "",
+      "alt": "Star Wars #1 EMP Museum Mike Del Mundo Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1179521.jpg?1705710543"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #1 Emerald City Comics Alan Davis Black & White Variant",
+      "artist": "",
+      "alt": "Star Wars #1 Emerald City Comics Alan Davis Black & White Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1586178.jpg?1699950780"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #1 Emerald City Comics Alan Davis Variant",
+      "artist": "",
+      "alt": "Star Wars #1 Emerald City Comics Alan Davis Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8058088.jpg?1699950780"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #1 Fantastico Paul Renaud Variant",
+      "artist": "",
+      "alt": "Star Wars #1 Fantastico Paul Renaud Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3976005.jpg?1699309436"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #1 Forbidden Planet Adi Granov Variant",
+      "artist": "",
+      "alt": "Star Wars #1 Forbidden Planet Adi Granov Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8387897.jpg?1722848518"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #1 Four Color Grails J. Scott Campbell Black & White Variant",
+      "artist": "",
+      "alt": "Star Wars #1 Four Color Grails J. Scott Campbell Black & White Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4171285.jpg?1699373010"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #1 GameStop Greg Horn PowerUp Rewards Variant",
+      "artist": "",
+      "alt": "Star Wars #1 GameStop Greg Horn PowerUp Rewards Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5685720.jpg?1730852308"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #1 Hastings Mico Suayan Black & White Variant",
+      "artist": "",
+      "alt": "Star Wars #1 Hastings Mico Suayan Black & White Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2614377.jpg?1719874067"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #1 Hastings Mico Suayan Variant",
+      "artist": "",
+      "alt": "Star Wars #1 Hastings Mico Suayan Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7140982.jpg?1719903041"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #1 Heroes & Fantasies Daniel Acuña Variant",
+      "artist": "",
+      "alt": "Star Wars #1 Heroes & Fantasies Daniel Acuña Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7137906.jpg?1699950780"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #1 Heroes' Haven Mike Perkins Variant",
+      "artist": "",
+      "alt": "Star Wars #1 Heroes' Haven Mike Perkins Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2691529.jpg?1719874089"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #1 Hot Topic Paul Renaud Variant",
+      "artist": "",
+      "alt": "Star Wars #1 Hot Topic Paul Renaud Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5146429.jpg?1699950780"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #1 Limited Edition Comix Mike Deodato Jr. Variant",
+      "artist": "",
+      "alt": "Star Wars #1 Limited Edition Comix Mike Deodato Jr. Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4859636.jpg?1719874137"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #1 M&M Comic Service Dave Dorman Variant",
+      "artist": "",
+      "alt": "Star Wars #1 M&M Comic Service Dave Dorman Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5244183.jpg?1706049037"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #1 Newbury Comics David Petersen Variant",
+      "artist": "",
+      "alt": "Star Wars #1 Newbury Comics David Petersen Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2980763.jpg?1720438507"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #1 Rebel Base Comics & Toys Stephanie Hans Variant",
+      "artist": "",
+      "alt": "Star Wars #1 Rebel Base Comics & Toys Stephanie Hans Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2193212.jpg?1705795460"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #1 The Cargo Hold J. Scott Campbell Variant",
+      "artist": "",
+      "alt": "Star Wars #1 The Cargo Hold J. Scott Campbell Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6510394.jpg?1719874281"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #1 ThinkGeek Pasqual Ferry Variant",
+      "artist": "",
+      "alt": "Star Wars #1 ThinkGeek Pasqual Ferry Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5583965.jpg?1719874293"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #1 Third Eye Comics Dale Keown Variant",
+      "artist": "",
+      "alt": "Star Wars #1 Third Eye Comics Dale Keown Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8890680.jpg?1699950780"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #1 Vault Collectibles Amanda Conner Variant",
+      "artist": "",
+      "alt": "Star Wars #1 Vault Collectibles Amanda Conner Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6219582.jpg?1705688410"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #1 Zapp! Comics Mike Mayhew Black & White Variant",
+      "artist": "",
+      "alt": "Star Wars #1 Zapp! Comics Mike Mayhew Black & White Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2741638.jpg?1720073562"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #1 Zapp! Comics Mike Mayhew Variant",
+      "artist": "",
+      "alt": "Star Wars #1 Zapp! Comics Mike Mayhew Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6705318.jpg?1719875375"
+    },
+    {
+      "category": "Event Exclusives",
+      "type": "Var",
+      "name": "Star Wars #1 C2E2 2015 John Tyler Christopher Black & White Action Figure Variant",
+      "artist": "",
+      "alt": "Star Wars #1 C2E2 2015 John Tyler Christopher Black & White Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1689974.jpg?1701656687"
+    },
+    {
+      "category": "Event Exclusives",
+      "type": "Var",
+      "name": "Star Wars #1 Fan Expo Dallas 2015 Salvador Larroca Fade Variant",
+      "artist": "",
+      "alt": "Star Wars #1 Fan Expo Dallas 2015 Salvador Larroca Fade Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5681295.jpg?1750704231"
+    },
+    {
+      "category": "Event Exclusives",
+      "type": "Var",
+      "name": "Star Wars #1 Fan Expo Dallas 2015 Salvador Larroca Variant",
+      "artist": "",
+      "alt": "Star Wars #1 Fan Expo Dallas 2015 Salvador Larroca Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9691488.jpg?1750704226"
+    }
+  ],
+  "478615": [
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "1:100 Sketch Variant Cover",
+      "artist": "John Cassaday",
+      "alt": "Star Wars #2 1:100 John Cassaday Black & White Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1705655.jpg?1722417672"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #2 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2067998.jpg?1722417638"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Sergio Aragonés",
+      "alt": "Star Wars #2 Sergio Aragonés Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1367425.jpg?1722417642"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "1:25 Variant Cover",
+      "artist": "Leinil Francis Yu",
+      "alt": "Star Wars #2 1:25 Leinil Francis Yu Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2702602.jpg?1722417652"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Mile High Comics Exclusive Connecting Variant Cover",
+      "artist": "Humberto Ramos",
+      "alt": "Star Wars #2 Mile High Comics Humberto Ramos Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4721857.jpg?1719861937"
+    },
+    {
+      "category": "Reprints",
+      "type": "2nd",
+      "name": "Second Printing Cover",
+      "artist": "John Cassaday & Laura Martin",
+      "alt": "Star Wars #2 2nd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8944591.jpg?1726592335"
+    },
+    {
+      "category": "Reprints",
+      "type": "3rd",
+      "name": "Third Printing Cover",
+      "artist": "John Cassaday & Laura Martin",
+      "alt": "Star Wars #2 3rd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7107003.jpg?1726592344"
+    },
+    {
+      "category": "Reprints",
+      "type": "4th",
+      "name": "Fourth Printing Cover",
+      "artist": "John Cassaday & Laura Martin",
+      "alt": "Star Wars #2 4th Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1981858.jpg?1726592348"
+    },
+    {
+      "category": "Reprints",
+      "type": "5th",
+      "name": "Fifth Printing Cover",
+      "artist": "John Cassaday & Laura Martin",
+      "alt": "Star Wars #2 5th Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6057316.jpg?1727447713"
+    },
+    {
+      "category": "Reprints",
+      "type": "6th",
+      "name": "Sixth Printing Cover",
+      "artist": "John Cassaday & Laura Martin",
+      "alt": "Star Wars #2 6th Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7501300.jpg?1727447703"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars #2 1:25 Howard Chaykin Variant",
+      "artist": "",
+      "alt": "Star Wars #2 1:25 Howard Chaykin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8967571.jpg?1722417647"
+    }
+  ],
+  "482166": [
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Leinil Francis Yu",
+      "alt": "Star Wars #3 1:25 Leinil Francis Yu Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4110834.jpg?1722438277"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Sketch Variant Cover",
+      "artist": "John Cassaday",
+      "alt": "Star Wars #3 1:100 John Cassaday Black & White Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4339327.jpg?1722444421"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #3 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6546658.jpg?1722444428"
+    },
+    {
+      "category": "Reprints",
+      "type": "2nd",
+      "name": "Second Printing Cover",
+      "artist": "John Cassaday & Laura Martin",
+      "alt": "Star Wars #3 2nd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6484204.jpg?1726592485"
+    },
+    {
+      "category": "Reprints",
+      "type": "3rd",
+      "name": "Third Printing Cover",
+      "artist": "John Cassaday & Laura Martin",
+      "alt": "Star Wars #3 3rd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2716401.jpg?1726592496"
+    },
+    {
+      "category": "Reprints",
+      "type": "4th",
+      "name": "Fourth Printing Cover",
+      "artist": "John Cassaday & Laura Martin",
+      "alt": "Star Wars #3 4th Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3276690.jpg?1726592522"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Mile High Comics Exclusive Connecting Variant Cover",
+      "artist": "Humberto Ramos",
+      "alt": "Star Wars #3 Mile High Comics Humberto Ramos Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7417303.jpg?1719847668"
+    }
+  ],
+  "486727": [
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Sketch Cover",
+      "artist": "John Cassaday",
+      "alt": "Star Wars #4 1:100 John Cassaday Black & White Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4560070.jpg?1722444389"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Giuseppe Camuncoli",
+      "alt": "Star Wars #4 1:25 Giuseppe Camuncoli Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1746449.jpg?1722444402"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #4 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3924971.jpg?1722444413"
+    },
+    {
+      "category": "Reprints",
+      "type": "2nd",
+      "name": "Second Printing Cover",
+      "artist": "John Cassaday (a) & Laura Martin (c)",
+      "alt": "Star Wars #4 2nd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2971188.jpg?1726592390"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #4 2nd & Charles / Books-A-Million Phil Noto Variant",
+      "artist": "",
+      "alt": "Star Wars #4 2nd & Charles / Books-A-Million Phil Noto Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5850669.jpg?1722324403"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #4 GameStop Nick Bradshaw Rebels Connecting Variant",
+      "artist": "",
+      "alt": "Star Wars #4 GameStop Nick Bradshaw Rebels Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1073045.jpg?1721410611"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #4 GameStop PowerUp Rewards Nick Bradshaw Empire Connecting Variant",
+      "artist": "",
+      "alt": "Star Wars #4 GameStop PowerUp Rewards Nick Bradshaw Empire Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7763534.jpg?1719652107"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #4 John Tyler Christopher Webstore C2E2 2015 Action Figure Variant",
+      "artist": "",
+      "alt": "Star Wars #4 John Tyler Christopher Webstore C2E2 2015 Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8734123.jpg?1722556505"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #4 Mile High Comics Humberto Ramos Connecting Variant",
+      "artist": "",
+      "alt": "Star Wars #4 Mile High Comics Humberto Ramos Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2628335.jpg?1719689160"
+    }
+  ],
+  "489328": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #5 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8611872.jpg?1722430448"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Sketch Variant Cover",
+      "artist": "John Cassaday",
+      "alt": "Star Wars #5 1:100 John Cassaday Black & White Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3983469.jpg?1722430448"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Mile High Comics Exclusive Connecting Variant Cover",
+      "artist": "Humberto Ramos",
+      "alt": "Star Wars #5 Mile High Comics Humberto Ramos Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2545975.jpg?1719688881"
+    },
+    {
+      "category": "Reprints",
+      "type": "2nd",
+      "name": "Second Printing Cover",
+      "artist": "John Cassaday & Laura Martin",
+      "alt": "Star Wars #5 2nd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3624308.jpg?1726592380"
+    }
+  ],
+  "490890": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #6 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1423616.jpg?1722457744"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Mile High Comics Exclusive Connecting Variant Cover",
+      "artist": "Humberto Ramos",
+      "alt": "Star Wars #6 Mile High Comics Humberto Ramos Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1195280.jpg?1719688889"
+    },
+    {
+      "category": "Reprints",
+      "type": "2nd",
+      "name": "Second Printing Cover",
+      "artist": "John Cassaday & Laura Martin",
+      "alt": "Star Wars #6 2nd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5229960.jpg?1726572592"
+    },
+    {
+      "category": "Reprints",
+      "type": "3rd",
+      "name": "Third Printing Cover",
+      "artist": "John Cassaday & Laura Martin",
+      "alt": "Star Wars #6 3rd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8467937.jpg?1726572588"
+    },
+    {
+      "category": "Event Exclusives",
+      "type": "Var",
+      "name": "Star Wars #6 Montreal Comiccon 2015 Whilce Portacio Variant",
+      "artist": "",
+      "alt": "Star Wars #6 Montreal Comiccon 2015 Whilce Portacio Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6737195.jpg?1722561771"
+    }
+  ],
+  "496399": [
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Simone Bianchi",
+      "alt": "Star Wars #7 1:25 Simone Bianchi Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4283222.jpg?1721195304"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Sketch Variant Cover",
+      "artist": "John Cassaday",
+      "alt": "Star Wars #7 1:100 John Cassaday Black & White Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6470505.jpg?1721222025"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #7 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5966628.jpg?1721195659"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Tony Moore",
+      "alt": "Star Wars #7 1:25 Tony Moore Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9658625.jpg?1721195170"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #7 John Tyler Christopher Webstore Black & White Action Figure Variant",
+      "artist": "",
+      "alt": "Star Wars #7 John Tyler Christopher Webstore Black & White Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9213328.jpg?1724427051"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #7 Mile High Comics Mike McKone Connecting Variant",
+      "artist": "",
+      "alt": "Star Wars #7 Mile High Comics Mike McKone Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8727885.jpg?1724672865"
+    },
+    {
+      "category": "Event Exclusives",
+      "type": "Var",
+      "name": "Star Wars #7 Kansas City Comic Con Kevin Nowlan Variant",
+      "artist": "",
+      "alt": "Star Wars #7 Kansas City Comic Con Kevin Nowlan Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6684251.jpg?1720618379"
+    }
+  ],
+  "497960": [
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "John Cassaday",
+      "alt": "Star Wars #8 1:50 John Cassaday Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6556687.jpg?1711564968"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #8 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1090136.jpg?1711564968"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Sketch Cover",
+      "artist": "Stuart Immonen",
+      "alt": "Star Wars #8 1:100 Stuart Immonen Sketch Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7867136.jpg?1711564968"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Mile High Exclusive Variant Cover",
+      "artist": "Mike McKone",
+      "alt": "Star Wars #8 Mile High Comics Mike McKone Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8007520.jpg?1721196868"
+    }
+  ],
+  "500309": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #9 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8365424.jpg?1721236313"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Sketch Variant Cover",
+      "artist": "Stuart Immonen",
+      "alt": "Star Wars #9 1:100 Stuart Immonen Sketch Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3336153.jpg?1722404647"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Mile High Comics Exclusive Variant Cover",
+      "artist": "Mike McKone",
+      "alt": "Star Wars #9 Mile High Comics Mike McKone Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4369701.jpg?1724744159"
+    }
+  ],
+  "502133": [
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Sketch Cover",
+      "artist": "Stuart Immonen",
+      "alt": "Star Wars #10 1:100 Stuart Immonen Sketch Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9820829.jpg?1722404959"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #10 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5083761.jpg?1721681907"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Mile High Comics Exclusive Variant Cover",
+      "artist": "Mike McKone",
+      "alt": "Star Wars #10 Mile High Comics Mike McKone Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1842159.jpg?1721681907"
+    }
+  ],
+  "504949": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #11 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4566917.jpg?1722405152"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Sketch Variant Cover",
+      "artist": "Stuart Immonen",
+      "alt": "Star Wars #11 1:100 Stuart Immonen Sketch Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4862005.jpg?1722554938"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Mile High Comics Exclusive Variant Cover",
+      "artist": "Mike McKone",
+      "alt": "Star Wars #11 Mile High Comics Mike McKone Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9164689.jpg?1721196424"
+    }
+  ],
+  "506184": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #12 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1129661.jpg?1722459793"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Sketch Variant Cover",
+      "artist": "Stuart Immonen",
+      "alt": "Star Wars #12 1:100 Stuart Immonen Sketch Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7548939.jpg?1722445397"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Mile High Comics Exclusive Variant Cover",
+      "artist": "Mike McKone",
+      "alt": "Star Wars #12 Mile High Comics Mike McKone Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6544813.jpg?1721222699"
+    }
+  ],
+  "507188": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Connecting Variant Cover C",
+      "artist": "Clay Mann",
+      "alt": "Star Wars #13 Clay Mann Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1749727.jpg?1757782773"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #13 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2694902.jpg?1757782773"
+    },
+    {
+      "category": "Reprints",
+      "type": "Var",
+      "name": "Star Wars #13 2nd Printing",
+      "artist": "",
+      "alt": "Star Wars #13 2nd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7126444.jpg?1726572635"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #13 Hastings Aleksi Briclot Connecting Variant",
+      "artist": "",
+      "alt": "Star Wars #13 Hastings Aleksi Briclot Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7201207.jpg?1757782773"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #13 Mile High Comics Katie Cook Variant",
+      "artist": "",
+      "alt": "Star Wars #13 Mile High Comics Katie Cook Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7915259.jpg?1757782773"
+    }
+  ],
+  "510504": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Connecting Variant Cover E",
+      "artist": "Clay Mann",
+      "alt": "Star Wars #14 Clay Mann Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2731171.jpg?1757782798"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #14 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5888348.jpg?1757782798"
+    },
+    {
+      "category": "Reprints",
+      "type": "2nd",
+      "name": "Second Printing Cover",
+      "artist": "Mark Brooks",
+      "alt": "Star Wars #14 2nd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6016477.jpg?1726572666"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #14 Mile High Comics Katie Cook Variant",
+      "artist": "",
+      "alt": "Star Wars #14 Mile High Comics Katie Cook Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4604233.jpg?1757782798"
+    }
+  ],
+  "511521": [
+    {
+      "category": "Incentive Covers",
+      "type": "Reg",
+      "name": "Regular Cover",
+      "artist": "Mike Mayhew",
+      "alt": "Star Wars #15 1:100 Mike Mayhew Sketch Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3539018.jpg?1733363781"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #15 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6561806.jpg?1733363781"
+    },
+    {
+      "category": "Reprints",
+      "type": "2nd",
+      "name": "Second Printing Cover",
+      "artist": "Mike Mayhew",
+      "alt": "Star Wars #15 2nd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2773804.jpg?1726572673"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #15 Mile High Comics Francesco Francavilla Variant",
+      "artist": "",
+      "alt": "Star Wars #15 Mile High Comics Francesco Francavilla Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8645480.jpg?1733363781"
+    }
+  ],
+  "516094": [
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Leinil Francis Yu",
+      "alt": "Star Wars #16 1:25 Leinil Francis Yu Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7317292.jpg?1702831772"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Sketch Variant Cover",
+      "artist": "Terry Dodson",
+      "alt": "Star Wars #16 1:100 Terry Dodson Black & White Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1857785.jpg?1702832194"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Stuart Immonen",
+      "alt": "Star Wars #16 1:25 Stuart Immonen Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1997989.jpg?1702831721"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #16 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1875872.jpg?1710701300"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #16 Mile High Comics Francesco Francavilla Variant",
+      "artist": "",
+      "alt": "Star Wars #16 Mile High Comics Francesco Francavilla Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7499564.jpg?1718023448"
+    }
+  ],
+  "521343": [
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Sketch Variant Cover",
+      "artist": "Terry Dodson",
+      "alt": "Star Wars #17 1:100 Terry Dodson Sketch Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9235032.jpg?1722421020"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Leinil Francis Yu",
+      "alt": "Star Wars #17 1:25 Leinil Francis Yu Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4740106.jpg?1722421020"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #17 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4353345.jpg?1722421020"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #17 Mile High Comics Francesco Francavilla Variant",
+      "artist": "",
+      "alt": "Star Wars #17 Mile High Comics Francesco Francavilla Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1309527.jpg?1722421020"
+    }
+  ],
+  "527157": [
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Sketch Variant Cover",
+      "artist": "Leinil Francis Yu",
+      "alt": "Star Wars #18 1:100 Leinil Francis Yu Sketch Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1174308.jpg?1722421039"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #18 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4477657.jpg?1722421039"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #18 Mile High Comics Francesco Francavilla Variant",
+      "artist": "",
+      "alt": "Star Wars #18 Mile High Comics Francesco Francavilla Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8270451.jpg?1722421039"
+    }
+  ],
+  "531901": [
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Sketch Variant Cover",
+      "artist": "Leinil Francis Yu",
+      "alt": "Star Wars #19 1:100 Leinil Francis Yu Sketch Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7594597.jpg?1722421077"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #19 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8848238.jpg?1722421077"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Mile High Comics Exclusive Variant Cover",
+      "artist": "Francesco Francavilla",
+      "alt": "Star Wars #19 Mile High Comics Francesco Francavilla Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3815077.jpg?1722421077"
+    }
+  ],
+  "535367": [
+    {
+      "category": "Incentive Covers",
+      "type": "Reg",
+      "name": "Regular Cover",
+      "artist": "Mike Mayhew",
+      "alt": "Star Wars #20 1:100 Mike Mayhew Sketch Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4179807.jpg?1753607774"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #20 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8923674.jpg?1753607774"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #20 Mile High Comics Terry Dodson Variant",
+      "artist": "",
+      "alt": "Star Wars #20 Mile High Comics Terry Dodson Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5357110.jpg?1753607774"
+    }
+  ],
+  "540085": [
+    {
+      "category": "Incentive Covers",
+      "type": "Reg",
+      "name": "Regular Cover",
+      "artist": "David Aja",
+      "alt": "Star Wars #21 1:100 David Aja Sketch Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8550472.jpg?1722421140"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #21 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5157559.jpg?1722421140"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #21 Mile High Comics Terry Dodson Variant",
+      "artist": "",
+      "alt": "Star Wars #21 Mile High Comics Terry Dodson Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8370425.jpg?1722421140"
+    }
+  ],
+  "546065": [
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Mike Deodato",
+      "alt": "Star Wars #22 1:100 Mike Deodato Jr. Sketch Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6108729.jpg?1722421179"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #22 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6658288.jpg?1722421179"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #22 Mile High Comics Terry Dodson Variant",
+      "artist": "",
+      "alt": "Star Wars #22 Mile High Comics Terry Dodson Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7831292.jpg?1722421179"
+    }
+  ],
+  "551319": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #23 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1334217.jpg?1722421204"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Sketch Variant Cover",
+      "artist": "Mike Deodato",
+      "alt": "Star Wars #23 1:100 Mike Deodato Jr. Sketch Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3828628.jpg?1722421204"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Jorge Molina",
+      "alt": "Star Wars #23 1:25 Jorge Molina Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8303523.jpg?1722421204"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #23 Mile High Comics Terry Dodson Variant",
+      "artist": "",
+      "alt": "Star Wars #23 Mile High Comics Terry Dodson Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6149714.jpg?1722421204"
+    }
+  ],
+  "555540": [
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Sketch Variant Cover",
+      "artist": "Mike Deodato",
+      "alt": "Star Wars #24 1:100 Mike Deodato Jr. Sketch Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4685883.jpg?1722421242"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #24 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2531331.jpg?1722421242"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Mile High Comics Exclusive Variant Cover",
+      "artist": "Terry Dodson",
+      "alt": "Star Wars #24 Mile High Comics Terry Dodson Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5258424.jpg?1722421242"
+    }
+  ],
+  "558975": [
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Sketch Variant Cover",
+      "artist": "Mike Deodato",
+      "alt": "Star Wars #25 1:100 Mike Deodato Jr. Sketch Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9058998.jpg?1741580186"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #25 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8076402.jpg?1741580186"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Mile High Comics Exclusive Variant Cover",
+      "artist": "Terry Dodson",
+      "alt": "Star Wars #25 Mile High Comics Terry Dodson Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7815814.jpg?1741580186"
+    }
+  ],
+  "571687": [
+    {
+      "category": "Incentive Covers",
+      "type": "Reg",
+      "name": "Regular Cover",
+      "artist": "Stuart Immonen",
+      "alt": "Star Wars #26 1:100 Stuart Immonen Sketch Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8055728.jpg?1722421361"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #26 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2839236.jpg?1722421361"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #26 John Tyler Christopher Webstore Action Figure Variant",
+      "artist": "",
+      "alt": "Star Wars #26 John Tyler Christopher Webstore Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3476290.jpg?1722421361"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #26 Mile High Comics Mike Deodato Jr. Variant",
+      "artist": "",
+      "alt": "Star Wars #26 Mile High Comics Mike Deodato Jr. Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8608340.jpg?1722421361"
+    }
+  ],
+  "578475": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "40th Anniversary Variant Cover",
+      "artist": "Ryan Stegman",
+      "alt": "Star Wars #27 Ryan Stegman Star Wars 40th Anniversary Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1898363.jpg?1722421396"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #27 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1052742.jpg?1722421396"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #27 Mile High Comics Mike Deodato Jr. Variant",
+      "artist": "",
+      "alt": "Star Wars #27 Mile High Comics Mike Deodato Jr. Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7387996.jpg?1722421396"
+    }
+  ],
+  "579324": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #28 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5351854.jpg?1722421445"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars 40th Anniversary Variant Cover",
+      "artist": "Meghan Hetrick",
+      "alt": "Star Wars #28 Meghan Hetrick Star Wars 40th Anniversary Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8613515.jpg?1722421445"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #28 Mile High Comics Mike Deodato Jr. Variant",
+      "artist": "",
+      "alt": "Star Wars #28 Mile High Comics Mike Deodato Jr. Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8332531.jpg?1722421445"
+    }
+  ],
+  "583731": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #29 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9450557.jpg?1710708949"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars 40th Anniversary Variant Cover",
+      "artist": "Kevin Wada",
+      "alt": "Star Wars #29 Kevin Wada Star Wars 40th Anniversary Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1152629.jpg?1720864668"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #29 Mile High Comics Mike Deodato Jr. Variant",
+      "artist": "",
+      "alt": "Star Wars #29 Mile High Comics Mike Deodato Jr. Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8609921.jpg?1702936028"
+    }
+  ],
+  "590807": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #30 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8654267.jpg?1722421483"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars #30 Javier Rodríguez Star Wars 40th Anniversary Variant",
+      "artist": "",
+      "alt": "Star Wars #30 Javier Rodríguez Star Wars 40th Anniversary Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5927202.jpg?1722421483"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #30 Mile High Comics Mike Deodato Jr. Variant",
+      "artist": "",
+      "alt": "Star Wars #30 Mile High Comics Mike Deodato Jr. Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6698354.jpg?1722421483"
+    }
+  ],
+  "595703": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #31 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1971925.jpg?1722421505"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars 40th Anniversary Variant Cover",
+      "artist": "Kevin Nowlan",
+      "alt": "Star Wars #31 Kevin Nowlan Star Wars 40th Anniversary Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5966658.jpg?1722421505"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #31 Mile High Comics Mike Mayhew Variant",
+      "artist": "",
+      "alt": "Star Wars #31 Mile High Comics Mike Mayhew Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1888425.jpg?1722421505"
+    }
+  ],
+  "601804": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #32 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9159039.jpg?1722421528"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Mile High Comics Exclusive Variant Cover",
+      "artist": "Mike Mayhew",
+      "alt": "Star Wars #32 Mile High Comics Mike Mayhew Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6572153.jpg?1722421528"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars #32 Will Robson Star Wars 40th Anniversary Variant",
+      "artist": "",
+      "alt": "Star Wars #32 Will Robson Star Wars 40th Anniversary Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2951358.jpg?1722421528"
+    }
+  ],
+  "606640": [
+    {
+      "category": "Retailer Exclusives",
+      "type": "Reg",
+      "name": "Regular Cover",
+      "artist": "Mike Mayhew",
+      "alt": "Star Wars #33 Mile High Comics Mike Mayhew Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7356426.jpg?1703021384"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #33 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4354137.jpg?1710713606"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars #33 David López Star Wars 40th Anniversary Variant",
+      "artist": "",
+      "alt": "Star Wars #33 David López Star Wars 40th Anniversary Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9359078.jpg?1720864847"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #33 John Tyler Christopher Webstore Action Figure Variant",
+      "artist": "",
+      "alt": "Star Wars #33 John Tyler Christopher Webstore Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6278447.jpg?1720864956"
+    },
+    {
+      "category": "Event Exclusives",
+      "type": "Var",
+      "name": "Star Wars #33 SDCC Mike Mayhew PX Previews Sketch Variant",
+      "artist": "",
+      "alt": "Star Wars #33 SDCC Mike Mayhew PX Previews Sketch Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8282872.jpg?1703003743"
+    }
+  ],
+  "615032": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #34 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4907222.jpg?1722421567"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars #34 Daniel Acuña Star Wars 40th Anniversary Variant",
+      "artist": "",
+      "alt": "Star Wars #34 Daniel Acuña Star Wars 40th Anniversary Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1988702.jpg?1722421567"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #34 Mile High Comics Phil Noto Variant",
+      "artist": "",
+      "alt": "Star Wars #34 Mile High Comics Phil Noto Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3696894.jpg?1722421567"
+    }
+  ],
+  "617853": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars 40th Anniversary Variant Cover",
+      "artist": "Amy Reeder",
+      "alt": "Star Wars #35 Amy Reeder Star Wars 40th Anniversary Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1653665.jpg?1720865005"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #35 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1066545.jpg?1710728342"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #35 Mile High Comics Phil Noto Variant",
+      "artist": "",
+      "alt": "Star Wars #35 Mile High Comics Phil Noto Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8387154.jpg?1710728342"
+    }
+  ],
+  "621678": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #36 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7747543.jpg?1722421609"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars #36 Ed McGuinness Star Wars 40th Anniversary Variant",
+      "artist": "",
+      "alt": "Star Wars #36 Ed McGuinness Star Wars 40th Anniversary Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3347443.jpg?1722421609"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #36 Mile High Comics Phil Noto Variant",
+      "artist": "",
+      "alt": "Star Wars #36 Mile High Comics Phil Noto Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6883216.jpg?1722421609"
+    }
+  ],
+  "626298": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #37 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4957276.jpg?1722421631"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars 40th Anniversary Variant Cover",
+      "artist": "Greg Smallwood",
+      "alt": "Star Wars #37 Greg Smallwood Star Wars 40th Anniversary Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6497240.jpg?1722421631"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #37 John Tyler Christopher Webstore Action Figure Variant",
+      "artist": "",
+      "alt": "Star Wars #37 John Tyler Christopher Webstore Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5806339.jpg?1711971018"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #37 Mile High Comics Phil Noto Variant",
+      "artist": "",
+      "alt": "Star Wars #37 Mile High Comics Phil Noto Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4260549.jpg?1722421631"
+    }
+  ],
+  "636386": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Michael Walsh",
+      "alt": "Star Wars #38 Michael Walsh Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7279249.jpg?1722421680"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Homage Variant Cover",
+      "artist": "Pepe Larraz",
+      "alt": "Star Wars #38 1:25 Pepe Larraz Homage Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6955319.jpg?1722421680"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars 40th Anniversary Variant Cover",
+      "artist": "Kris Anka",
+      "alt": "Star Wars #38 Kris Anka Star Wars 40th Anniversary Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3560881.jpg?1722421680"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #38 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4695984.jpg?1722421680"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "RE",
+      "name": "Comic Mint Exclusive Variant Cover",
+      "artist": "Marco Checchetto",
+      "alt": "Star Wars #38 Marco Checchetto Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6109448.jpg?1722421680"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Ebay / Jesse James Exclusive Variant Cover",
+      "artist": "Rod Reis",
+      "alt": "Star Wars #38 Jesse James Comics eBay Rod Reis Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1570672.jpg?1722421680"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Fried Pie Exclusive Variant Cover",
+      "artist": "Julian Totino Tedesco",
+      "alt": "Star Wars #38 Fried Pie Julian Totino Tedesco Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3648112.jpg?1722421680"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Mile High Comics Exclusive Variant Cover",
+      "artist": "Rahzzah",
+      "alt": "Star Wars #38 Mile High Comics Rahzzah Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7009205.jpg?1722421680"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars #38 1:50 Terry Dodson Variant",
+      "artist": "",
+      "alt": "Star Wars #38 1:50 Terry Dodson Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6124255.jpg?1722421680"
+    }
+  ],
+  "641417": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #39 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2009172.jpg?1722421769"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #39 Mile High Comics Rahzzah Variant",
+      "artist": "",
+      "alt": "Star Wars #39 Mile High Comics Rahzzah Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7841114.jpg?1722421769"
+    }
+  ],
+  "646200": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant",
+      "artist": "?",
+      "alt": "Star Wars #40 Daniel Warren Johnson Star Wars 40th Anniversary Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9518921.jpg?1722421842"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars #40 John Tyler Christopher Action Figure Variant",
+      "artist": "",
+      "alt": "Star Wars #40 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2768210.jpg?1722421842"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #40 Adi Granov Webstore Variant",
+      "artist": "",
+      "alt": "Star Wars #40 Adi Granov Webstore Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6786307.jpg?1722421842"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #40 Adi Granov Webstore Virgin Variant",
+      "artist": "",
+      "alt": "Star Wars #40 Adi Granov Webstore Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8346906.jpg?1722421842"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #40 Mile High Comics Rahzzah Variant",
+      "artist": "",
+      "alt": "Star Wars #40 Mile High Comics Rahzzah Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1840775.jpg?1722421842"
+    }
+  ],
+  "650928": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #41 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6502343.jpg?1722422008"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Galactic Icons Variant Cover (Rey, #1 of 36)",
+      "artist": "Rod Reis",
+      "alt": "Star Wars #41 Rod Reis Galactic Icons Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7919979.jpg?1722422008"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #41 Mile High Comics Rahzzah Variant",
+      "artist": "",
+      "alt": "Star Wars #41 Mile High Comics Rahzzah Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8047646.jpg?1722422008"
+    }
+  ],
+  "654062": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover (4-LOM)",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #42 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8476100.jpg?1722422051"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #42 Mile High Comics Rahzzah Variant",
+      "artist": "",
+      "alt": "Star Wars #42 Mile High Comics Rahzzah Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7629178.jpg?1722422051"
+    }
+  ],
+  "658734": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Galactic Icons Variant Cover (Poe Dameron - Resistance Fighter, #4 of 36)",
+      "artist": "Rod Reis",
+      "alt": "Star Wars #43 Rod Reis Galactic Icons Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2350460.jpg?1722422174"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover (Imperial Tie Fighter Pilot)",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #43 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3871079.jpg?1722422174"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #43 Mile High Comics Rahzzah Variant",
+      "artist": "",
+      "alt": "Star Wars #43 Mile High Comics Rahzzah Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2405698.jpg?1722422174"
+    }
+  ],
+  "662098": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Galactic Icons Variant Cover (Captain Phasma - First Order Leader, #7 of 36)",
+      "artist": "Rod Reis",
+      "alt": "Star Wars #44 Rod Reis Galactic Icons Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7586115.jpg?1722422230"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover ((Twin Pod) Cloud Car Pilot)",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #44 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9796594.jpg?1722422230"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #44 Mile High Comics Michael Walsh Variant",
+      "artist": "",
+      "alt": "Star Wars #44 Mile High Comics Michael Walsh Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5601616.jpg?1722422230"
+    }
+  ],
+  "663585": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover (Bib Fortuna)",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #45 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8167862.jpg?1748307145"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #45 Mile High Comics Paul Renaud Variant",
+      "artist": "",
+      "alt": "Star Wars #45 Mile High Comics Paul Renaud Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8680985.jpg?1748307145"
+    }
+  ],
+  "664923": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Galactic Icons Variant Cover (Han Solo - Scoundrel (#10/36))",
+      "artist": "Rod Reis",
+      "alt": "Star Wars #46 Rod Reis Galactic Icons Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1694717.jpg?1722422334"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover (Ree-Yees)",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #46 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4333703.jpg?1722422334"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #46 Mile High Comics Paul Renaud Variant",
+      "artist": "",
+      "alt": "Star Wars #46 Mile High Comics Paul Renaud Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1801501.jpg?1722422334"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #46 Wonderworld Comics John Tyler Christopher Action Figure Variant",
+      "artist": "",
+      "alt": "Star Wars #46 Wonderworld Comics John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6873360.jpg?1722422334"
+    }
+  ],
+  "668785": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Galactic Icons Variant Cover (Qi'ra - Scoundrel (#13/36))",
+      "artist": "Rod Reis",
+      "alt": "Star Wars #47 Rod Reis Galactic Icons Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3736194.jpg?1722422378"
+    },
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover (Weequay)",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #47 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2534872.jpg?1722422378"
+    }
+  ],
+  "670756": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover (Bespin Security Guard)",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #48 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3671108.jpg?1722422409"
+    }
+  ],
+  "672292": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover (Emperor's Royal Guard)",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #49 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3461253.jpg?1722422467"
+    },
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Galactic Icons Variant Cover (Sheev Palpatine - Galactic Emperor (#16/36))",
+      "artist": "Rod Reis",
+      "alt": "Star Wars #49 Rod Reis Galactic Icons Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3877023.jpg?1722422467"
+    }
+  ],
+  "675989": [
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Phil Noto",
+      "alt": "Star Wars #50 1:25 Phil Noto Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3034784.jpg?1722422549"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "David Marquez",
+      "alt": "Star Wars #50 David Marquez Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4318708.jpg?1722422549"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Galactic Icons Variant Cover (Thrawn - Grand Admiral (#19/36))",
+      "artist": "Rod Reis",
+      "alt": "Star Wars #50 Rod Reis Galactic Icons Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3949996.jpg?1722422549"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover (The Emperor)",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #50 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2418245.jpg?1722422549"
+    },
+    {
+      "category": "Reprints",
+      "type": "2nd",
+      "name": "Second Printing Variant Cover",
+      "artist": "Travis Charest",
+      "alt": "Star Wars #50 2nd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5323026.jpg?1726572444"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars #50 1:50 Terry Dodson Variant",
+      "artist": "",
+      "alt": "Star Wars #50 1:50 Terry Dodson Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4058816.jpg?1722422549"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars #50 1:100 Terry Dodson Virgin Variant",
+      "artist": "",
+      "alt": "Star Wars #50 1:100 Terry Dodson Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6988433.jpg?1722422549"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #50 ComicXposure Rahzzah Variant",
+      "artist": "",
+      "alt": "Star Wars #50 ComicXposure Rahzzah Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8152872.jpg?1722422549"
+    }
+  ],
+  "677296": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover (Chief Chirpa)",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #51 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3031529.jpg?1722422623"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #51 John Tyler Christopher Store Action Figure Variant",
+      "artist": "",
+      "alt": "Star Wars #51 John Tyler Christopher Store Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2729451.jpg?1722422623"
+    }
+  ],
+  "678541": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover (Lando Calrissian: Skiff Guard Disguise)",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #52 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2677253.jpg?1722422702"
+    },
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Galactic Icons Variant Cover (Ben Kenobi - Master Master (#22/36))",
+      "artist": "Rod Reis",
+      "alt": "Star Wars #52 Rod Reis Galactic Icons Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9645186.jpg?1722422702"
+    }
+  ],
+  "683837": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Galactic Icons Variant Cover (Kaz Kanata - Pirate Queen (#25/36))",
+      "artist": "Rod Reis",
+      "alt": "Star Wars #53 Rod Reis Galactic Icons Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4268361.jpg?1722422759"
+    },
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover (Logray (Ewok Shaman))",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #53 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8889124.jpg?1722422759"
+    }
+  ],
+  "685856": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover (Squid Head)",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #54 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1432267.jpg?1722422813"
+    }
+  ],
+  "687019": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Galactic Icons Variant Cover (Cad Bane - Bounty Hunter (#28/36))",
+      "artist": "Rod Reis",
+      "alt": "Star Wars #55 Rod Reis Galactic Icons Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1439448.jpg?1722422882"
+    },
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover (Klaatu)",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #55 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8185200.jpg?1722422882"
+    }
+  ],
+  "691392": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover (Gamorrean Guard)",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #56 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1428969.jpg?1722422934"
+    },
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Galactic Icons Variant Cover (2-1B - Medical Droid (#32/36))",
+      "artist": "Rod Reis",
+      "alt": "Star Wars #56 Rod Reis Galactic Icons Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1755577.jpg?1722422934"
+    }
+  ],
+  "692560": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover (General Madine)",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #57 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9053938.jpg?1722422994"
+    }
+  ],
+  "694145": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover (Nien Nunb)",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #58 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8214959.jpg?1722423039"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Galactic Icons Variant Cover (BB-8 - Astromech Droid (34/36))",
+      "artist": "Rod Reis",
+      "alt": "Star Wars #58 Rod Reis Galactic Icons Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1773192.jpg?1722423039"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #58 John Tyler Christopher Store Action Figure Variant",
+      "artist": "",
+      "alt": "Star Wars #58 John Tyler Christopher Store Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9496831.jpg?1722423039"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #58 John Tyler Christopher Store Negative Variant",
+      "artist": "",
+      "alt": "Star Wars #58 John Tyler Christopher Store Negative Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5378387.jpg?1722423039"
+    }
+  ],
+  "696954": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover (Biker Scout)",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #59 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7385699.jpg?1722423097"
+    },
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars #59 Leinil Francis Yu Greatest Moments Variant",
+      "artist": "",
+      "alt": "Star Wars #59 Leinil Francis Yu Greatest Moments Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2052376.jpg?1722423097"
+    }
+  ],
+  "698613": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover (Admiral Ackbar)",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #60 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6034828.jpg?1722423133"
+    }
+  ],
+  "700148": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover (Artoo-Detoo (R2-D2) with Lightsaber)",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #61 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8205203.jpg?1722423174"
+    },
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars #61 Sara Pichelli Greatest Moments Variant",
+      "artist": "",
+      "alt": "Star Wars #61 Sara Pichelli Greatest Moments Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2762984.jpg?1722423174"
+    }
+  ],
+  "702472": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Greatest Moments Variant Cover (Death and Birth, #7 of 36)",
+      "artist": "Kaare Andrews",
+      "alt": "Star Wars #62 Kaare Andrews Greatest Moments Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8122527.jpg?1722423204"
+    },
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover (Nikto)",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #62 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6207333.jpg?1722423204"
+    }
+  ],
+  "703953": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover (Klaatu: Skiff Guard Outfit)",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #63 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2640426.jpg?1722423235"
+    }
+  ],
+  "705485": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover (Princess Leia Organa: Boushh Outfit)",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #64 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3432573.jpg?1722423275"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Greatest Moments Variant Cover (Princess of Alderaan (#10/36))",
+      "artist": "Adi Granov",
+      "alt": "Star Wars #64 Adi Granov Greatest Moments Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8738372.jpg?1722423275"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #64 WonderWorld Comics John Tyler Christopher Mail-In Action Figure Variant",
+      "artist": "",
+      "alt": "Star Wars #64 WonderWorld Comics John Tyler Christopher Mail-In Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8237916.jpg?1722423275"
+    }
+  ],
+  "707523": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover (A-Wing Pilot)",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #65 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6748432.jpg?1722423328"
+    },
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars #65 Cory Smith Greatest Moments Variant",
+      "artist": "",
+      "alt": "Star Wars #65 Cory Smith Greatest Moments Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9197158.jpg?1722423328"
+    }
+  ],
+  "709210": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover (Han Solo: Trench Coat)",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #66 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4235306.jpg?1722423384"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #66 John Tyler Christopher Store Action Figure Variant",
+      "artist": "",
+      "alt": "Star Wars #66 John Tyler Christopher Store Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7294149.jpg?1722423384"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #66 John Tyler Christopher Store Negative Variant",
+      "artist": "",
+      "alt": "Star Wars #66 John Tyler Christopher Store Negative Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1691748.jpg?1722423384"
+    }
+  ],
+  "711956": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Bill Sienkiewicz",
+      "alt": "Star Wars #67 Bill Sienkiewicz Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7422271.jpg?1703090081"
+    },
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover (Teebo)",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #67 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6617176.jpg?1722423436"
+    },
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars #67 Julian Totino Tedesco Greatest Moments Variant",
+      "artist": "",
+      "alt": "Star Wars #67 Julian Totino Tedesco Greatest Moments Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9116106.jpg?1722423436"
+    }
+  ],
+  "714244": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover (EV-9D9)",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #69 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7165506.jpg?1729008106"
+    }
+  ],
+  "715318": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover (8D8)",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #70 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5440762.jpg?1729008173"
+    },
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars #70 Walt Simonson Greatest Moments Variant",
+      "artist": "",
+      "alt": "Star Wars #70 Walt Simonson Greatest Moments Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1290467.jpg?1729008173"
+    }
+  ],
+  "718134": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover (Imperial Gunner)",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #71 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5244084.jpg?1729008201"
+    },
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars #71 Terry Dodson Greatest Moments Variant",
+      "artist": "",
+      "alt": "Star Wars #71 Terry Dodson Greatest Moments Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2801849.jpg?1729008201"
+    }
+  ],
+  "721162": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover (Prune Face)",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #72 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3278325.jpg?1729008234"
+    }
+  ],
+  "723865": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover (Rancor Keeper)",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #73 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3464904.jpg?1729008259"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Greatest Moments Variant Cover (The Garbage Will Do (#28/36))",
+      "artist": "Rod Reis",
+      "alt": "Star Wars #73 Rod Reis Greatest Moments Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6740942.jpg?1729008259"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #73 John Tyler Christopher Store Action Figure Variant",
+      "artist": "",
+      "alt": "Star Wars #73 John Tyler Christopher Store Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5047895.jpg?1729008259"
+    }
+  ],
+  "727268": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover (Paploo)",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #74 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7786152.jpg?1722423828"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Greatest Moments Variant Cover (Rey's Rise (#31/36))",
+      "artist": "Pauline Voß",
+      "alt": "Star Wars #74 Pauline Voß Greatest Moments Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4130198.jpg?1722423828"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #74 John Tyler Christopher Store Action Figure Variant",
+      "artist": "",
+      "alt": "Star Wars #74 John Tyler Christopher Store Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8051355.jpg?1722423828"
+    }
+  ],
+  "728430": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover (Anakin Skywalker)",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #75 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5998034.jpg?1722423885"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars #75 Chris Sprouse Greatest Moments Variant",
+      "artist": "",
+      "alt": "Star Wars #75 Chris Sprouse Greatest Moments Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3905460.jpg?1722423885"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars #75 Greg Land Variant",
+      "artist": "",
+      "alt": "Star Wars #75 Greg Land Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9823065.jpg?1722423885"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars #75 MyComicShop eBay R.B. Silva Variant",
+      "artist": "",
+      "alt": "Star Wars #75 MyComicShop eBay R.B. Silva Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8139144.jpg?1722423885"
+    }
+  ]
+}

@@ -1,0 +1,1640 @@
+[
+  {
+    "id": 1762109455207,
+    "title": "Star Wars Vol. 1: Skywalker Strikes",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/b/b2/Star_Wars_Trade_Paperback_Volume_1_Cover.jpg/revision/latest/scale-to-width-down/100?cb=20171021190541",
+    "release_date": "10/06/2015",
+    "publisher": "Marvel Comics",
+    "isbn": "9780785192138",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 475858,
+        "order": 1,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 478615,
+        "order": 2,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 482166,
+        "order": 3,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 486727,
+        "order": 4,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 489328,
+        "order": 5,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 490890,
+        "order": 6,
+        "series_id": "79398"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._1:_Skywalker_Strikes",
+    "series_id": [
+      "79398"
+    ]
+  },
+  {
+    "id": 1762109455722,
+    "title": "Star Wars Vol. 1",
+    "type": "Hardcover",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/b/b4/StarWarsHCVol1.jpg/revision/latest/scale-to-width-down/100?cb=20201210022513",
+    "release_date": "09/20/2016",
+    "publisher": "Marvel Comics",
+    "isbn": "1302900986",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 475858,
+        "order": 1,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 478615,
+        "order": 2,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 482166,
+        "order": 3,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 486727,
+        "order": 4,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 489328,
+        "order": 5,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 490890,
+        "order": 6,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 496399,
+        "order": 7,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 497960,
+        "order": 8,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 500309,
+        "order": 9,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 502133,
+        "order": 10,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 504949,
+        "order": 11,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 506184,
+        "order": 12,
+        "series_id": "79398"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._1",
+    "series_id": [
+      "79398"
+    ]
+  },
+  {
+    "id": 1762109456231,
+    "title": "Star Wars by Jason Aaron Omnibus",
+    "type": "Omnibus",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/4/48/StarWarsbyJasonAaronOmnibus.jpg/revision/latest/scale-to-width-down/100?cb=20200703151228",
+    "release_date": "02/26/2019",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302915377",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": null,
+        "order": 1,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Special:BookSources/9781302915377",
+        "title": "Special:BookSources/9781302915377"
+      },
+      {
+        "issue_id": null,
+        "order": 2,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/February_26",
+        "title": "February 26"
+      },
+      {
+        "issue_id": null,
+        "order": 3,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/2019",
+        "title": "2019"
+      },
+      {
+        "issue_id": null,
+        "order": 4,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Marvel_Comics",
+        "title": "Marvel Comics"
+      },
+      {
+        "issue_id": null,
+        "order": 5,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Special:BookSources/9781302934095",
+        "title": "Special:BookSources/9781302934095"
+      },
+      {
+        "issue_id": null,
+        "order": 6,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/May_10",
+        "title": "May 10"
+      },
+      {
+        "issue_id": null,
+        "order": 7,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/2022",
+        "title": "2022"
+      },
+      {
+        "issue_id": null,
+        "order": 8,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Special:BookSources/9781302934101",
+        "title": "Special:BookSources/9781302934101"
+      },
+      {
+        "issue_id": null,
+        "order": 9,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Mark_Brooks",
+        "title": "Mark Brooks"
+      },
+      {
+        "issue_id": null,
+        "order": 10,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Special:BookSources/9781302934293",
+        "title": "Special:BookSources/9781302934293"
+      },
+      {
+        "issue_id": null,
+        "order": 11,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Stuart_Immonen",
+        "title": "Stuart Immonen"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_by_Jason_Aaron_Omnibus",
+    "series_id": []
+  },
+  {
+    "id": 1762109456755,
+    "title": "Star Wars Modern Era Epic Collection: Skywalker Strikes",
+    "type": "Epic Collection",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/8/88/Star_Wars_Modern_Era_Epic_Collection_Vol._1.jpg/revision/latest/scale-to-width-down/100?cb=20240806232803",
+    "release_date": "07/30/2024",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302956707",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 475858,
+        "order": 1,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 478615,
+        "order": 2,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 482166,
+        "order": 3,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 486727,
+        "order": 4,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 489328,
+        "order": 5,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 490890,
+        "order": 6,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 496399,
+        "order": 7,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 497960,
+        "order": 8,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 500309,
+        "order": 9,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 502133,
+        "order": 10,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 504949,
+        "order": 11,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 506184,
+        "order": 12,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": null,
+        "order": 13,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Vader_Down_1",
+        "title": "Vader Down 1"
+      },
+      {
+        "issue_id": null,
+        "order": 14,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Darth_Vader_(2015)_13",
+        "title": "Darth Vader (2015) 13"
+      },
+      {
+        "issue_id": 507188,
+        "order": 15,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": null,
+        "order": 16,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Darth_Vader_(2015)_14",
+        "title": "Darth Vader (2015) 14"
+      },
+      {
+        "issue_id": 510504,
+        "order": 17,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": null,
+        "order": 18,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Darth_Vader_(2015)_15",
+        "title": "Darth Vader (2015) 15"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Modern_Era_Epic_Collection:_Skywalker_Strikes",
+    "series_id": [
+      "79398"
+    ]
+  },
+  {
+    "id": 1762109457274,
+    "title": "Star Wars Vol. 2: Showdown on the Smuggler's Moon",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/e/eb/Star_Wars_Vol_2_Final_Cover.jpg/revision/latest/scale-to-width-down/100?cb=20180914055243",
+    "release_date": "01/13/2016",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302484255",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 496399,
+        "order": 1,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 497960,
+        "order": 2,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 500309,
+        "order": 3,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 502133,
+        "order": 4,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 504949,
+        "order": 5,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 506184,
+        "order": 6,
+        "series_id": "79398"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._2:_Showdown_on_the_Smuggler%27s_Moon",
+    "series_id": [
+      "79398"
+    ]
+  },
+  {
+    "id": 1762109457791,
+    "title": "Star Wars: Vader Down (trade paperback)",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/9/9b/Vader_Down_TPB_final_cover.jpg/revision/latest/scale-to-width-down/100?cb=20180212072959",
+    "release_date": "04/19/2016",
+    "publisher": "Marvel Comics",
+    "isbn": "9780785197898",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": null,
+        "order": 1,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Vader_Down_1",
+        "title": "Vader Down 1"
+      },
+      {
+        "issue_id": null,
+        "order": 2,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Darth_Vader_(2015)_13",
+        "title": "Darth Vader (2015) 13"
+      },
+      {
+        "issue_id": 507188,
+        "order": 3,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": null,
+        "order": 4,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Darth_Vader_(2015)_14",
+        "title": "Darth Vader (2015) 14"
+      },
+      {
+        "issue_id": 510504,
+        "order": 5,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": null,
+        "order": 6,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Darth_Vader_(2015)_15",
+        "title": "Darth Vader (2015) 15"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Vader_Down_(trade_paperback)",
+    "series_id": [
+      "79398"
+    ]
+  },
+  {
+    "id": 1762109458303,
+    "title": "Star Wars: Darth Vader Vol. 2",
+    "type": "Hardcover",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/d/d5/DarthVaderHC2.jpg/revision/latest/scale-to-width-down/100?cb=20171021195124",
+    "release_date": "02/28/2017",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302902209",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": null,
+        "order": 1,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Vader_Down_1",
+        "title": "Vader Down 1"
+      },
+      {
+        "issue_id": null,
+        "order": 2,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Darth_Vader_(2015)_13",
+        "title": "Darth Vader (2015) 13"
+      },
+      {
+        "issue_id": 507188,
+        "order": 3,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": null,
+        "order": 4,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Darth_Vader_(2015)_14",
+        "title": "Darth Vader (2015) 14"
+      },
+      {
+        "issue_id": 510504,
+        "order": 5,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": null,
+        "order": 6,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Darth_Vader_(2015)_15",
+        "title": "Darth Vader (2015) 15"
+      },
+      {
+        "issue_id": null,
+        "order": 7,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Darth_Vader_Annual_1",
+        "title": "Darth Vader Annual 1"
+      },
+      {
+        "issue_id": null,
+        "order": 8,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Darth_Vader_(2015)_16",
+        "title": "Darth Vader (2015) 16"
+      },
+      {
+        "issue_id": null,
+        "order": 9,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Darth_Vader_(2015)_17",
+        "title": "Darth Vader (2015) 17"
+      },
+      {
+        "issue_id": null,
+        "order": 10,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Darth_Vader_(2015)_18",
+        "title": "Darth Vader (2015) 18"
+      },
+      {
+        "issue_id": null,
+        "order": 11,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Darth_Vader_(2015)_19",
+        "title": "Darth Vader (2015) 19"
+      },
+      {
+        "issue_id": null,
+        "order": 12,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Darth_Vader_(2015)_20",
+        "title": "Darth Vader (2015) 20"
+      },
+      {
+        "issue_id": null,
+        "order": 13,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/The_Misadventures_of_Triple-Zero_and_Beetee",
+        "title": "The Misadventures of Triple-Zero and Beetee"
+      },
+      {
+        "issue_id": null,
+        "order": 14,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Darth_Vader_(2015)_21",
+        "title": "Darth Vader (2015) 21"
+      },
+      {
+        "issue_id": null,
+        "order": 15,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Darth_Vader_(2015)_22",
+        "title": "Darth Vader (2015) 22"
+      },
+      {
+        "issue_id": null,
+        "order": 16,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Darth_Vader_(2015)_23",
+        "title": "Darth Vader (2015) 23"
+      },
+      {
+        "issue_id": null,
+        "order": 17,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Darth_Vader_(2015)_24",
+        "title": "Darth Vader (2015) 24"
+      },
+      {
+        "issue_id": null,
+        "order": 18,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Darth_Vader_(2015)_25",
+        "title": "Darth Vader (2015) 25"
+      },
+      {
+        "issue_id": null,
+        "order": 19,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Coda",
+        "title": "Coda"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_Vol._2",
+    "series_id": [
+      "79398"
+    ]
+  },
+  {
+    "id": 1762109458824,
+    "title": "Star Wars Vol. 3: Rebel Jail",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/1/17/SW3RebelJailTPB.png/revision/latest/scale-to-width-down/100?cb=20160805175951",
+    "release_date": "08/16/2016",
+    "publisher": "Marvel Comics",
+    "isbn": "9780606383547",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": null,
+        "order": 1,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Annual_(2015)_1",
+        "title": "Star Wars Annual (2015) 1"
+      },
+      {
+        "issue_id": 516094,
+        "order": 2,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 521343,
+        "order": 3,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 527157,
+        "order": 4,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 531901,
+        "order": 5,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 511521,
+        "order": 6,
+        "series_id": "79398"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._3:_Rebel_Jail",
+    "series_id": [
+      "79398"
+    ]
+  },
+  {
+    "id": 1762109459336,
+    "title": "Star Wars Vol. 2",
+    "type": "Hardcover",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/f/f0/StarWarsHC2.jpg/revision/latest/scale-to-width-down/100?cb=20170614155614",
+    "release_date": "06/20/2017",
+    "publisher": "Marvel Comics",
+    "isbn": "1302903748",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": null,
+        "order": 1,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Annual_(2015)_1",
+        "title": "Star Wars Annual (2015) 1"
+      },
+      {
+        "issue_id": 511521,
+        "order": 2,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 516094,
+        "order": 3,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 521343,
+        "order": 4,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 527157,
+        "order": 5,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 531901,
+        "order": 6,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 511521,
+        "order": 7,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 535367,
+        "order": 8,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 540085,
+        "order": 9,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 546065,
+        "order": 10,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 551319,
+        "order": 11,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 555540,
+        "order": 12,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 558975,
+        "order": 13,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": null,
+        "order": 14,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Droid_Dilemma",
+        "title": "Droid Dilemma"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._2",
+    "series_id": [
+      "79398"
+    ]
+  },
+  {
+    "id": 1762109459851,
+    "title": "Star Wars Modern Era Epic Collection: Yoda's Secret War",
+    "type": "Epic Collection",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/0/04/Star_Wars_Modern_Era_Epic_Collection_Vol._2.jpg/revision/latest/scale-to-width-down/100?cb=20250308171203",
+    "release_date": "07/22/2025",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302964108",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 511521,
+        "order": 1,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 535367,
+        "order": 2,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": null,
+        "order": 3,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Annual_(2015)_1",
+        "title": "Star Wars Annual (2015) 1"
+      },
+      {
+        "issue_id": 516094,
+        "order": 4,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 521343,
+        "order": 5,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 527157,
+        "order": 6,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 531901,
+        "order": 7,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 540085,
+        "order": 8,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 546065,
+        "order": 9,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 551319,
+        "order": 10,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 555540,
+        "order": 11,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 558975,
+        "order": 12,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": null,
+        "order": 13,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Droid_Dilemma",
+        "title": "Droid Dilemma"
+      },
+      {
+        "issue_id": 558975,
+        "order": 14,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 571687,
+        "order": 15,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 578475,
+        "order": 16,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 579324,
+        "order": 17,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 583731,
+        "order": 18,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 590807,
+        "order": 19,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": null,
+        "order": 20,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Annual_(2015)_2",
+        "title": "Star Wars Annual (2015) 2"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Modern_Era_Epic_Collection:_Yoda%27s_Secret_War",
+    "series_id": [
+      "79398"
+    ]
+  },
+  {
+    "id": 1762109460364,
+    "title": "Star Wars Vol. 4: Last Flight of the Harbinger",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/b/bf/Last_Flight_of_the_Harbinger_final_cover.jpg/revision/latest/scale-to-width-down/100?cb=20201210023513",
+    "release_date": "01/17/2017",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302495800",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 535367,
+        "order": 1,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 540085,
+        "order": 2,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 546065,
+        "order": 3,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 551319,
+        "order": 4,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 555540,
+        "order": 5,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 558975,
+        "order": 6,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": null,
+        "order": 7,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Droid_Dilemma",
+        "title": "Droid Dilemma"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._4:_Last_Flight_of_the_Harbinger",
+    "series_id": [
+      "79398"
+    ]
+  },
+  {
+    "id": 1762109460880,
+    "title": "Star Wars Vol. 5: Yoda's Secret War",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/f/f3/StarWarsVol5-YodasSecretWar.jpg/revision/latest/scale-to-width-down/100?cb=20170524160812",
+    "release_date": "07/04/2017",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302499013",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 571687,
+        "order": 1,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 578475,
+        "order": 2,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 579324,
+        "order": 3,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 583731,
+        "order": 4,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 590807,
+        "order": 5,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": null,
+        "order": 6,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Annual_(2015)_2",
+        "title": "Star Wars Annual (2015) 2"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._5:_Yoda%27s_Secret_War",
+    "series_id": [
+      "79398"
+    ]
+  },
+  {
+    "id": 1762109461396,
+    "title": "Star Wars Vol. 3",
+    "type": "Hardcover",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/9/91/Star_Wars_Vol_3_final_cover.jpg/revision/latest/scale-to-width-down/100?cb=20201106122810",
+    "release_date": "07/03/2018",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302909031",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 571687,
+        "order": 1,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 578475,
+        "order": 2,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 579324,
+        "order": 3,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 583731,
+        "order": 4,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 590807,
+        "order": 5,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": null,
+        "order": 6,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Annual_(2015)_2",
+        "title": "Star Wars Annual (2015) 2"
+      },
+      {
+        "issue_id": 606640,
+        "order": 7,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 615032,
+        "order": 8,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 617853,
+        "order": 9,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 621678,
+        "order": 10,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": null,
+        "order": 11,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Annual_(2015)_3",
+        "title": "Star Wars Annual (2015) 3"
+      },
+      {
+        "issue_id": 626298,
+        "order": 12,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": null,
+        "order": 13,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/The_Sand_Will_Provide",
+        "title": "The Sand Will Provide"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._3",
+    "series_id": [
+      "79398"
+    ]
+  },
+  {
+    "id": 1762109461917,
+    "title": "Star Wars: The Screaming Citadel (trade paperback)",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/6/64/Screaming_CItadel_TPB_Final_cover.jpg/revision/latest/scale-to-width-down/100?cb=20180212134956",
+    "release_date": "10/11/2017",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302500184",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": null,
+        "order": 1,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/The_Screaming_Citadel_1",
+        "title": "The Screaming Citadel 1"
+      },
+      {
+        "issue_id": 595703,
+        "order": 2,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": null,
+        "order": 3,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Doctor_Aphra_(2016)_7",
+        "title": "Doctor Aphra (2016) 7"
+      },
+      {
+        "issue_id": 601804,
+        "order": 4,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": null,
+        "order": 5,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Doctor_Aphra_(2016)_8",
+        "title": "Doctor Aphra (2016) 8"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_The_Screaming_Citadel_(trade_paperback)",
+    "series_id": [
+      "79398"
+    ]
+  },
+  {
+    "id": 1762109462432,
+    "title": "Star Wars: Doctor Aphra Vol. 1",
+    "type": "Hardcover",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/9/91/Doctor_Aphra_Vol1_HC.jpg/revision/latest/scale-to-width-down/100?cb=20190513050933",
+    "release_date": "09/18/2018",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302913212",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": null,
+        "order": 1,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Doctor_Aphra_(2016)_1",
+        "title": "Doctor Aphra (2016) 1"
+      },
+      {
+        "issue_id": null,
+        "order": 2,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Doctor_Aphra_(2016)_2",
+        "title": "Doctor Aphra (2016) 2"
+      },
+      {
+        "issue_id": null,
+        "order": 3,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Doctor_Aphra_(2016)_3",
+        "title": "Doctor Aphra (2016) 3"
+      },
+      {
+        "issue_id": null,
+        "order": 4,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Doctor_Aphra_(2016)_4",
+        "title": "Doctor Aphra (2016) 4"
+      },
+      {
+        "issue_id": null,
+        "order": 5,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Doctor_Aphra_(2016)_5",
+        "title": "Doctor Aphra (2016) 5"
+      },
+      {
+        "issue_id": null,
+        "order": 6,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Doctor_Aphra_(2016)_6",
+        "title": "Doctor Aphra (2016) 6"
+      },
+      {
+        "issue_id": null,
+        "order": 7,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/The_Screaming_Citadel_1",
+        "title": "The Screaming Citadel 1"
+      },
+      {
+        "issue_id": 595703,
+        "order": 8,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": null,
+        "order": 9,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Doctor_Aphra_(2016)_7",
+        "title": "Doctor Aphra (2016) 7"
+      },
+      {
+        "issue_id": 601804,
+        "order": 10,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": null,
+        "order": 11,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Doctor_Aphra_(2016)_8",
+        "title": "Doctor Aphra (2016) 8"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Doctor_Aphra_Vol._1",
+    "series_id": [
+      "79398"
+    ]
+  },
+  {
+    "id": 1762109462947,
+    "title": "Star Wars Modern Era Epic Collection: The Screaming Citadel",
+    "type": "Epic Collection",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/b/b5/Doctor_Aphra_8_textless.jpg/revision/latest/scale-to-width-down/100?cb=20170321184556",
+    "release_date": "07/21/2026",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302968885",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 595703,
+        "order": 1,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 601804,
+        "order": 2,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 606640,
+        "order": 3,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 615032,
+        "order": 4,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 617853,
+        "order": 5,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 621678,
+        "order": 6,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 626298,
+        "order": 7,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 636386,
+        "order": 8,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 641417,
+        "order": 9,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 646200,
+        "order": 10,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 650928,
+        "order": 11,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 654062,
+        "order": 12,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 658734,
+        "order": 13,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": null,
+        "order": 14,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Annual_(2015)_3",
+        "title": "Star Wars Annual (2015) 3"
+      },
+      {
+        "issue_id": null,
+        "order": 15,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/The_Screaming_Citadel_1",
+        "title": "The Screaming Citadel 1"
+      },
+      {
+        "issue_id": null,
+        "order": 16,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Doctor_Aphra_(2016)_7",
+        "title": "Doctor Aphra (2016) 7"
+      },
+      {
+        "issue_id": null,
+        "order": 17,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Doctor_Aphra_(2016)_8",
+        "title": "Doctor Aphra (2016) 8"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Modern_Era_Epic_Collection:_The_Screaming_Citadel",
+    "series_id": [
+      "79398"
+    ]
+  },
+  {
+    "id": 1762109463462,
+    "title": "Star Wars Vol. 6: Out Among the Stars",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/b/b1/StarWars2015-Volume6.jpg/revision/latest/scale-to-width-down/100?cb=20171016183613",
+    "release_date": "12/05/2017",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302905538",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 606640,
+        "order": 1,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 615032,
+        "order": 2,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 617853,
+        "order": 3,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 621678,
+        "order": 4,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 626298,
+        "order": 5,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": null,
+        "order": 6,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/The_Sand_Will_Provide",
+        "title": "The Sand Will Provide"
+      },
+      {
+        "issue_id": null,
+        "order": 7,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Annual_(2015)_3",
+        "title": "Star Wars Annual (2015) 3"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._6:_Out_Among_the_Stars",
+    "series_id": [
+      "79398"
+    ]
+  },
+  {
+    "id": 1762109463982,
+    "title": "Star Wars Vol. 7: The Ashes of Jedha",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/1/10/SWVol7Cover.jpg/revision/latest/scale-to-width-down/100?cb=20180409080501",
+    "release_date": "04/03/2018",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302910525",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 636386,
+        "order": 1,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 641417,
+        "order": 2,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 646200,
+        "order": 3,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 650928,
+        "order": 4,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 654062,
+        "order": 5,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 658734,
+        "order": 6,
+        "series_id": "79398"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._7:_The_Ashes_of_Jedha",
+    "series_id": [
+      "79398"
+    ]
+  },
+  {
+    "id": 1762109464554,
+    "title": "Star Wars by Gillen & Pak Omnibus",
+    "type": "Omnibus",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/6/60/StarWarsByGillenAndPakOmnibus.jpg/revision/latest/scale-to-width-down/100?cb=20240430012657",
+    "release_date": "04/23/2024",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302955908",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": null,
+        "order": 1,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Special:BookSources/9781302955908",
+        "title": "Special:BookSources/9781302955908"
+      },
+      {
+        "issue_id": null,
+        "order": 2,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/April_23",
+        "title": "April 23"
+      },
+      {
+        "issue_id": null,
+        "order": 3,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/2024",
+        "title": "2024"
+      },
+      {
+        "issue_id": null,
+        "order": 4,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Marvel_Comics",
+        "title": "Marvel Comics"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_by_Gillen_%26_Pak_Omnibus",
+    "series_id": []
+  },
+  {
+    "id": 1762109465141,
+    "title": "Star Wars Vol. 8: Mutiny at Mon Cala",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/a/ae/StarWarsVol8-MutinyatMonCala.jpg/revision/latest/scale-to-width-down/100?cb=20180826010927",
+    "release_date": "08/07/2018",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302910532",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 662098,
+        "order": 1,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 663585,
+        "order": 2,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 664923,
+        "order": 3,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 668785,
+        "order": 4,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 670756,
+        "order": 5,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 672292,
+        "order": 6,
+        "series_id": "79398"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._8:_Mutiny_at_Mon_Cala",
+    "series_id": [
+      "79398"
+    ]
+  },
+  {
+    "id": 1762109465665,
+    "title": "Star Wars Vol. 9: Hope Dies",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/7/70/StarWarsVol9-HopeDies.jpg/revision/latest/scale-to-width-down/100?cb=20181215054703",
+    "release_date": "12/11/2018",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302507701",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 675989,
+        "order": 1,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 677296,
+        "order": 2,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 678541,
+        "order": 3,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 683837,
+        "order": 4,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 685856,
+        "order": 5,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 687019,
+        "order": 6,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": null,
+        "order": 7,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Annual_(2015)_4",
+        "title": "Star Wars Annual (2015) 4"
+      },
+      {
+        "issue_id": null,
+        "order": 8,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Shu-Torun_Lives",
+        "title": "Shu-Torun Lives"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._9:_Hope_Dies",
+    "series_id": [
+      "79398"
+    ]
+  },
+  {
+    "id": 1762109466180,
+    "title": "Star Wars Vol. 10: The Escape",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/2/24/StarWarsVol10-TheEscape.jpg/revision/latest/scale-to-width-down/100?cb=20190712010701",
+    "release_date": "04/09/2019",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302914493",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 691392,
+        "order": 1,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 692560,
+        "order": 2,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 694145,
+        "order": 3,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 696954,
+        "order": 4,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 698613,
+        "order": 5,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 700148,
+        "order": 6,
+        "series_id": "79398"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._10:_The_Escape",
+    "series_id": [
+      "79398"
+    ]
+  },
+  {
+    "id": 1762109466699,
+    "title": "Star Wars Vol. 11: The Scourging of Shu-Torun",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/e/e6/StarWarsVol11-TheScourgingofShuTorun.jpg/revision/latest/scale-to-width-down/100?cb=20190911220730",
+    "release_date": "08/20/2019",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302914509",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 702472,
+        "order": 1,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 703953,
+        "order": 2,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 705485,
+        "order": 3,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 707523,
+        "order": 4,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 709210,
+        "order": 5,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 711956,
+        "order": 6,
+        "series_id": "79398"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._11:_The_Scourging_of_Shu-Torun",
+    "series_id": [
+      "79398"
+    ]
+  },
+  {
+    "id": 1762109467217,
+    "title": "Star Wars Vol. 12: Rebels and Rogues",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/b/b2/StarWarsVol12-RebelsandRogues.jpg/revision/latest/scale-to-width-down/100?cb=20200828015923",
+    "release_date": "11/19/2019",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302914516",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 713517,
+        "order": 1,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 714244,
+        "order": 2,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 715318,
+        "order": 3,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 718134,
+        "order": 4,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 721162,
+        "order": 5,
+        "series_id": "79398"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._12:_Rebels_and_Rogues",
+    "series_id": [
+      "79398"
+    ]
+  },
+  {
+    "id": 1762109467732,
+    "title": "Star Wars Vol. 13: Rogues and Rebels",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/a/a0/StarWarsVol13-RoguesandRebels.jpg/revision/latest/scale-to-width-down/100?cb=20200828071016",
+    "release_date": "03/17/2020",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302921682",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 723865,
+        "order": 1,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 727268,
+        "order": 2,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 728430,
+        "order": 3,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": null,
+        "order": 4,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Empire_Ascendant_1",
+        "title": "Empire Ascendant 1"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._13:_Rogues_and_Rebels",
+    "series_id": [
+      "79398"
+    ]
+  }
+]
