@@ -707,6 +707,266 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8967571.jpg?1722417647"
     }
   ],
+  "479258": [
+    {
+      "category": "Retailer Exclusives",
+      "type": "Reg",
+      "name": "Regular Cover",
+      "artist": "Adi Granov",
+      "alt": "Star Wars: Darth Vader #1 ComicsPRO Adi Granov Black & White Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6644307.jpg?1710108117"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Teaser Variant Cover",
+      "artist": "John Cassaday",
+      "alt": "Star Wars: Darth Vader #1 1:25 John Cassaday Teaser Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7412355.jpg?1708003193"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Connecting Variant Cover",
+      "artist": "J. Scott Campbell",
+      "alt": "Star Wars: Darth Vader #1 1:50 J. Scott Campbell Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7513304.jpg?1708003193"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Alex Ross",
+      "alt": "Star Wars: Darth Vader #1 1:50 Alex Ross Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1428457.jpg?1710107639"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Sketch Variant Cover",
+      "artist": "Alex Ross",
+      "alt": "Star Wars: Darth Vader #1 1:200 Alex Ross Sketch Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8970033.jpg?1708003193"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Whilce Portacio",
+      "alt": "Star Wars: Darth Vader #1 1:25 Whilce Portacio Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8931758.jpg?1708003193"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Young Variant Cover",
+      "artist": "Skottie Young",
+      "alt": "Star Wars: Darth Vader #1 Skottie Young Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5067539.jpg?1708892238"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars: Darth Vader #1 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6665241.jpg?1708003193"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Mike Del Mundo",
+      "alt": "Star Wars: Darth Vader #1 1:25 Mike Del Mundo Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2217260.jpg?1708003193"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Dynamite Forces Exclusive Cover",
+      "artist": "Greg Land",
+      "alt": "Star Wars: Darth Vader #1 Dynamic Forces Greg Land Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1064212.jpg?1708667693"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Midtown Comics Exclusive Connecting Cover",
+      "artist": "?",
+      "alt": "Star Wars: Darth Vader #1 Midtown Comics Mark Brooks Black & White Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1282121.jpg?1710382443"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Midtown Comics Exclusive Connecting Sketch Cover",
+      "artist": "?",
+      "alt": "Star Wars: Darth Vader #1 Midtown Comics Mark Brooks Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1201652.jpg?1722965080"
+    },
+    {
+      "category": "Reprints",
+      "type": "2nd",
+      "name": "Second Printing Cover",
+      "artist": "Adi Granov",
+      "alt": "Star Wars: Darth Vader #1 2nd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1174993.jpg?1726592559"
+    },
+    {
+      "category": "Reprints",
+      "type": "3rd",
+      "name": "Third Printing Cover",
+      "artist": "Adi Granov",
+      "alt": "Star Wars: Darth Vader #1 3rd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3692688.jpg?1726592566"
+    },
+    {
+      "category": "Reprints",
+      "type": "4th",
+      "name": "Fourth Printing Cover",
+      "artist": "Adi Granov",
+      "alt": "Star Wars: Darth Vader #1 4th Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1877257.jpg?1726592570"
+    },
+    {
+      "category": "Reprints",
+      "type": "5th",
+      "name": "Fifth Printing Cover",
+      "artist": "Adi Granov",
+      "alt": "Star Wars: Darth Vader #1 5th Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5654633.jpg?1726592574"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Darth Vader #1 Blank Variant",
+      "artist": "",
+      "alt": "Star Wars: Darth Vader #1 Blank Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2087902.jpg?1739514241"
+    },
+    {
+      "category": "Reprints",
+      "type": "Var",
+      "name": "Star Wars: Darth Vader #1 True Believers Edition",
+      "artist": "",
+      "alt": "Star Wars: Darth Vader #1 True Believers Edition",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6271046.jpg?1708668875"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Darth Vader #1 1:15 Movie Variant",
+      "artist": "",
+      "alt": "Star Wars: Darth Vader #1 1:15 Movie Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1298369.jpg?1708003193"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: Darth Vader #1 Alex Ross Webstore Variant",
+      "artist": "",
+      "alt": "Star Wars: Darth Vader #1 Alex Ross Webstore Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7625275.jpg?1708671298"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: Darth Vader #1 Five Below Adi Granov Force Friday Variant",
+      "artist": "",
+      "alt": "Star Wars: Darth Vader #1 Five Below Adi Granov Force Friday Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4029607.jpg?1760827544"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: Darth Vader #1 GameStop Greg Horn PowerUp Rewards Variant",
+      "artist": "",
+      "alt": "Star Wars: Darth Vader #1 GameStop Greg Horn PowerUp Rewards Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9970447.jpg?1722964951"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: Darth Vader #1 GameStop Simone Bianchi Variant",
+      "artist": "",
+      "alt": "Star Wars: Darth Vader #1 GameStop Simone Bianchi Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6014962.jpg?1731442364"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: Darth Vader #1 Hastings Mico Suayan Black & White Variant",
+      "artist": "",
+      "alt": "Star Wars: Darth Vader #1 Hastings Mico Suayan Black & White Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4480294.jpg?1710108899"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: Darth Vader #1 Hastings Mico Suayan Variant",
+      "artist": "",
+      "alt": "Star Wars: Darth Vader #1 Hastings Mico Suayan Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7239845.jpg?1710108725"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: Darth Vader #1 Newbury Comics Salvador Larroca Variant",
+      "artist": "",
+      "alt": "Star Wars: Darth Vader #1 Newbury Comics Salvador Larroca Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3508713.jpg?1710917267"
+    }
+  ],
+  "480682": [
+    {
+      "category": "Reprints",
+      "type": "2nd",
+      "name": "Second Printing Cover",
+      "artist": "Adi Granov",
+      "alt": "Star Wars: Darth Vader #2 2nd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1144328.jpg?1726592538"
+    },
+    {
+      "category": "Reprints",
+      "type": "3rd",
+      "name": "Third Printing Cover",
+      "artist": "Adi Granov",
+      "alt": "Star Wars: Darth Vader #2 3rd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2364642.jpg?1726592543"
+    },
+    {
+      "category": "Reprints",
+      "type": "4th",
+      "name": "Fourth Printing Cover",
+      "artist": "Adi Granov",
+      "alt": "Star Wars: Darth Vader #2 4th Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1297666.jpg?1726592548"
+    },
+    {
+      "category": "Reprints",
+      "type": "5th",
+      "name": "Fifth Printing Cover",
+      "artist": "Adi Granov",
+      "alt": "Star Wars: Darth Vader #2 5th Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2354604.jpg?1726592555"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Darth Vader #2 1:25 Dave Dorman Variant",
+      "artist": "",
+      "alt": "Star Wars: Darth Vader #2 1:25 Dave Dorman Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7881865.jpg?1710112700"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Darth Vader #2 1:25 Salvador Larroca Variant",
+      "artist": "",
+      "alt": "Star Wars: Darth Vader #2 1:25 Salvador Larroca Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3388206.jpg?1710112922"
+    }
+  ],
   "482166": [
     {
       "category": "Incentive Covers",
@@ -763,6 +1023,132 @@
       "artist": "Humberto Ramos",
       "alt": "Star Wars #3 Mile High Comics Humberto Ramos Connecting Variant",
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7417303.jpg?1719847668"
+    }
+  ],
+  "483346": [
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Salvador Larroca",
+      "alt": "Star Wars: Darth Vader #3 1:25 Salvador Larroca Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3074384.jpg?1707998762"
+    },
+    {
+      "category": "Reprints",
+      "type": "2nd",
+      "name": "Second Printing Cover",
+      "artist": "Adi Granov",
+      "alt": "Star Wars: Darth Vader #3 2nd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8515020.jpg?1726592398"
+    },
+    {
+      "category": "Reprints",
+      "type": "3rd",
+      "name": "Third Printing Cover",
+      "artist": "Adi Granov",
+      "alt": "Star Wars: Darth Vader #3 3rd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9427594.jpg?1726592406"
+    },
+    {
+      "category": "Reprints",
+      "type": "4th",
+      "name": "Fourth Printing Cover",
+      "artist": "Adi Granov",
+      "alt": "Star Wars: Darth Vader #3 4th Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4263737.jpg?1726592479"
+    }
+  ],
+  "484899": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Skottie Young Baby Variant Cover",
+      "artist": "Skottie Young",
+      "alt": "Star Wars: Kanan – The Last Padawan #1 Skottie Young Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6038835.jpg?1726540299"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Kilian Plunkett",
+      "alt": "Star Wars: Kanan – The Last Padawan #1 1:25 Kilian Plunkett Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9907068.jpg?1726540299"
+    },
+    {
+      "category": "Reprints",
+      "type": "2nd",
+      "name": "Second Printing Cover",
+      "artist": "Mark Brooks",
+      "alt": "Star Wars: Kanan – The Last Padawan #1 2nd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2353247.jpg?1726592394"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Kanan – The Last Padawan #1 Blank Variant",
+      "artist": "",
+      "alt": "Star Wars: Kanan – The Last Padawan #1 Blank Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8393732.jpg?1739514241"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Kanan – The Last Padawan #1 1:15 Animation Variant",
+      "artist": "",
+      "alt": "Star Wars: Kanan – The Last Padawan #1 1:15 Animation Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9897712.jpg?1726540299"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: Kanan – The Last Padawan #1 Books-A-Million / 2nd & Charles Phil Noto Variant",
+      "artist": "",
+      "alt": "Star Wars: Kanan – The Last Padawan #1 Books-A-Million / 2nd & Charles Phil Noto Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9972697.jpg?1726540299"
+    }
+  ],
+  "485510": [
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "BAM!/2nd & Charles Exclusive Variant Cover",
+      "artist": "Phil Noto",
+      "alt": "Star Wars: Darth Vader #4 Books-A-Million / 2nd & Charles Phil Noto Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8257152.jpg?1714600770"
+    },
+    {
+      "category": "Reprints",
+      "type": "2nd",
+      "name": "Second Printing Cover",
+      "artist": "Adi Granov",
+      "alt": "Star Wars: Darth Vader #4 2nd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4137802.jpg?1728734622"
+    },
+    {
+      "category": "Reprints",
+      "type": "3rd",
+      "name": "Third Printing Cover",
+      "artist": "Adi Granov",
+      "alt": "Star Wars: Darth Vader #4 3rd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4746106.jpg?1728734630"
+    },
+    {
+      "category": "Reprints",
+      "type": "4th",
+      "name": "Fourth Printing Cover",
+      "artist": "Adi Granov",
+      "alt": "Star Wars: Darth Vader #4 4th Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1232250.jpg?1728734607"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Darth Vader #4 1:25 Salvador Larroca Variant",
+      "artist": "",
+      "alt": "Star Wars: Darth Vader #4 1:25 Salvador Larroca Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6545462.jpg?1707998832"
     }
   ],
   "486727": [
@@ -839,6 +1225,24 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2628335.jpg?1719689160"
     }
   ],
+  "488647": [
+    {
+      "category": "Reprints",
+      "type": "2nd",
+      "name": "Second Printing Cover",
+      "artist": "Adi Granov",
+      "alt": "Star Wars: Darth Vader #5 2nd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9694256.jpg?1726592384"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Darth Vader #5 1:25 Salvador Larroca Variant",
+      "artist": "",
+      "alt": "Star Wars: Darth Vader #5 1:25 Salvador Larroca Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2331038.jpg?1707998891"
+    }
+  ],
   "489328": [
     {
       "category": "Open Order Covers",
@@ -871,6 +1275,16 @@
       "artist": "John Cassaday & Laura Martin",
       "alt": "Star Wars #5 2nd Printing",
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3624308.jpg?1726592380"
+    }
+  ],
+  "490879": [
+    {
+      "category": "Other Covers",
+      "type": "2nd",
+      "name": "Second Printing Cover",
+      "artist": "Adi Granov",
+      "alt": "Star Wars: Darth Vader #6 2nd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3084728.jpg?1726592375"
     }
   ],
   "490890": [
@@ -913,6 +1327,26 @@
       "artist": "",
       "alt": "Star Wars #6 Montreal Comiccon 2015 Whilce Portacio Variant",
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6737195.jpg?1722561771"
+    }
+  ],
+  "493789": [
+    {
+      "category": "Other Covers",
+      "type": "Reg",
+      "name": "Regular Cover",
+      "artist": "Adi Granov",
+      "alt": "Star Wars: Darth Vader #7 SDCC 2015 Adi Granov Black & White Previews Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1728687.jpg?1722955619"
+    }
+  ],
+  "495800": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "1:25 Variant Cover",
+      "artist": "Whilce Portacio",
+      "alt": "Star Wars: Kanan – The Last Padawan #4 1:25 Whilce Portacio Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8609430.jpg?1743245654"
     }
   ],
   "496399": [
@@ -973,6 +1407,8 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6684251.jpg?1720618379"
     }
   ],
+  "496878": [],
+  "497947": [],
   "497960": [
     {
       "category": "Incentive Covers",
@@ -1007,6 +1443,16 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8007520.jpg?1721196868"
     }
   ],
+  "499742": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Adi Granov",
+      "alt": "Star Wars: Darth Vader #9 1:25 Adi Granov Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1091940.jpg?1722978742"
+    }
+  ],
   "500309": [
     {
       "category": "Open Order Covers",
@@ -1033,6 +1479,8 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4369701.jpg?1724744159"
     }
   ],
+  "501025": [],
+  "502114": [],
   "502133": [
     {
       "category": "Incentive Covers",
@@ -1059,6 +1507,8 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1842159.jpg?1721681907"
     }
   ],
+  "503557": [],
+  "504342": [],
   "504949": [
     {
       "category": "Open Order Covers",
@@ -1085,6 +1535,8 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9164689.jpg?1721196424"
     }
   ],
+  "505517": [],
+  "506171": [],
   "506184": [
     {
       "category": "Open Order Covers",
@@ -1109,6 +1561,40 @@
       "artist": "Mike McKone",
       "alt": "Star Wars #12 Mile High Comics Mike McKone Variant",
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6544813.jpg?1721222699"
+    }
+  ],
+  "506650": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Connecting Variant Cover B",
+      "artist": "Clay Mann",
+      "alt": "Star Wars: Darth Vader #13 Clay Mann Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3183561.jpg?1757782757"
+    },
+    {
+      "category": "Reprints",
+      "type": "2nd",
+      "name": "Second Printing Cover",
+      "artist": "Mark Brooks",
+      "alt": "Star Wars: Darth Vader #13 2nd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1623004.jpg?1726572630"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: Darth Vader #13 Hastings Aleksi Briclot Connecting Variant",
+      "artist": "",
+      "alt": "Star Wars: Darth Vader #13 Hastings Aleksi Briclot Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4432860.jpg?1757782757"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: Darth Vader #13 Mile High Comics Katie Cook Variant",
+      "artist": "",
+      "alt": "Star Wars: Darth Vader #13 Mile High Comics Katie Cook Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1314185.jpg?1757782757"
     }
   ],
   "507188": [
@@ -1151,6 +1637,75 @@
       "artist": "",
       "alt": "Star Wars #13 Mile High Comics Katie Cook Variant",
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7915259.jpg?1757782773"
+    }
+  ],
+  "508430": [],
+  "508888": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Connecting Variant Cover D",
+      "artist": "Clay Mann",
+      "alt": "Star Wars: Darth Vader #14 Clay Mann Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7593404.jpg?1757782786"
+    },
+    {
+      "category": "Reprints",
+      "type": "RE",
+      "name": "Mile High Comics Exclusive Variant Cover",
+      "artist": "?",
+      "alt": "Star Wars: Darth Vader #14 2nd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2243161.jpg?1726572640"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: Darth Vader #14 Mile High Comics Katie Cook Variant",
+      "artist": "",
+      "alt": "Star Wars: Darth Vader #14 Mile High Comics Katie Cook Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2728931.jpg?1757782786"
+    }
+  ],
+  "510492": [
+    {
+      "category": "Incentive Covers",
+      "type": "Reg",
+      "name": "Regular Cover",
+      "artist": "Mark Brooks",
+      "alt": "Star Wars: Darth Vader #15 1:100 Mark Brooks Sketch Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6152340.jpg?1757782831"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Francesco Francavilla",
+      "alt": "Star Wars: Darth Vader #15 1:25 Francesco Francavilla Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6341790.jpg?1757782831"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Connecting Variant Cover F",
+      "artist": "Clay Mann",
+      "alt": "Star Wars: Darth Vader #15 Clay Mann Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7637332.jpg?1757782831"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Mile High Comics Exclusive Variant Cover",
+      "artist": "Katie Cook",
+      "alt": "Star Wars: Darth Vader #15 Mile High Comics Katie Cook Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5898924.jpg?1757782831"
+    },
+    {
+      "category": "Reprints",
+      "type": "2nd",
+      "name": "Second Printing Cover",
+      "artist": "Mark Brooks",
+      "alt": "Star Wars: Darth Vader #15 2nd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7639933.jpg?1726572660"
     }
   ],
   "510504": [
@@ -1221,6 +1776,17 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8645480.jpg?1733363781"
     }
   ],
+  "512428": [],
+  "514434": [
+    {
+      "category": "Other Covers",
+      "type": "2nd",
+      "name": "Second Printing Cover",
+      "artist": "Kaare Andrews",
+      "alt": "Star Wars: Darth Vader #16 2nd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5275963.jpg?1726572709"
+    }
+  ],
   "516094": [
     {
       "category": "Incentive Covers",
@@ -1263,6 +1829,9 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7499564.jpg?1718023448"
     }
   ],
+  "516957": [],
+  "517826": [],
+  "520204": [],
   "521343": [
     {
       "category": "Incentive Covers",
@@ -1297,6 +1866,170 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1309527.jpg?1722421020"
     }
   ],
+  "522427": [],
+  "523263": [
+    {
+      "category": "Open Order Covers",
+      "type": "Reg",
+      "name": "Regular Cover",
+      "artist": "Phil Noto",
+      "alt": "Star Wars: Poe Dameron #1 Phil Noto Sketch Fade Premiere Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3040880.jpg?1761260350"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Sketch Variant Cover",
+      "artist": "Phil Noto",
+      "alt": "Star Wars: Poe Dameron #1 1:25 Phil Noto Design Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4322962.jpg?1761260350"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Design Variant Cover",
+      "artist": "Phil Noto",
+      "alt": "Star Wars: Poe Dameron #1 1:100 Phil Noto Sketch Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5152046.jpg?1761260350"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "John Cassaday",
+      "alt": "Star Wars: Poe Dameron #1 1:50 John Cassaday Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9528790.jpg?1761260350"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Sketch Cover",
+      "artist": "John Cassaday",
+      "alt": "Star Wars: Poe Dameron #1 1:200 John Cassaday Black & White Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9868582.jpg?1761260350"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars: Poe Dameron #1 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2897295.jpg?1761260350"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Black & White Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars: Poe Dameron #1 John Tyler Christopher Black & White Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7330566.jpg?1761260350"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "BB8 Variant Cover",
+      "artist": "Joe Quinones",
+      "alt": "Star Wars: Poe Dameron #1 Joe Quinones BB-8 Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8795111.jpg?1761260350"
+    },
+    {
+      "category": "Event Exclusives",
+      "type": "Var",
+      "name": "Premium Variant Cover",
+      "artist": "David Nakayama",
+      "alt": "Star Wars: Poe Dameron #1 Star Wars Celebration 2016 David Nakayama Color Splash Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2724842.jpg?1761260350"
+    },
+    {
+      "category": "Event Exclusives",
+      "type": "Var",
+      "name": "Jaxxon Party Variant Cover",
+      "artist": "David Nakayama",
+      "alt": "Star Wars: Poe Dameron #1 Star Wars Celebration 2016 David Nakayama Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4852827.jpg?1761260350"
+    },
+    {
+      "category": "Event Exclusives",
+      "type": "RE",
+      "name": "Calgary Expo Exclusive Variant Cover",
+      "artist": "Mike Del Mundo",
+      "alt": "Star Wars: Poe Dameron #1 Calgary Expo Mike Del Mundo Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8278074.jpg?1462313655"
+    },
+    {
+      "category": "Event Exclusives",
+      "type": "RE",
+      "name": "Emerald City Comicon Exclusive Variant Cover",
+      "artist": "Mike Deodato, Jr.",
+      "alt": "Star Wars: Poe Dameron #1 Emerald City Comic Con 2015 Mike Deodato Jr. Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2087036.jpg?1761260350"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Fried Pie Exclusive Variant Cover",
+      "artist": "Joe Quinones",
+      "alt": "Star Wars: Poe Dameron #1 Fried Pie Joe Quinones Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2677721.jpg?1761260350"
+    },
+    {
+      "category": "Reprints",
+      "type": "2nd",
+      "name": "Second Printing Variant Cover",
+      "artist": "Phil Noto",
+      "alt": "Star Wars: Poe Dameron #1 2nd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3743827.jpg?1726155443"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Poe Dameron #1 Blank Variant",
+      "artist": "",
+      "alt": "Star Wars: Poe Dameron #1 Blank Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6991278.jpg?1761260350"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Poe Dameron #1 Pepe Larraz Variant",
+      "artist": "",
+      "alt": "Star Wars: Poe Dameron #1 Pepe Larraz Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9971112.jpg?1761260350"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Poe Dameron #1 1:15 Movie Variant",
+      "artist": "",
+      "alt": "Star Wars: Poe Dameron #1 1:15 Movie Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3847089.jpg?1761260350"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: Poe Dameron #1 GameStop Joëlle Jones Black & White PowerUp Rewards Variant",
+      "artist": "",
+      "alt": "Star Wars: Poe Dameron #1 GameStop Joëlle Jones Black & White PowerUp Rewards Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3721322.jpg?1761260350"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: Poe Dameron #1 GameStop Joëlle Jones PowerUp Rewards Variant",
+      "artist": "",
+      "alt": "Star Wars: Poe Dameron #1 GameStop Joëlle Jones PowerUp Rewards Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4869632.jpg?1761260350"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: Poe Dameron #1 Hastings Chris Samnee Variant",
+      "artist": "",
+      "alt": "Star Wars: Poe Dameron #1 Hastings Chris Samnee Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5425299.jpg?1761260350"
+    }
+  ],
+  "525023": [],
   "527157": [
     {
       "category": "Incentive Covers",
@@ -1321,6 +2054,42 @@
       "artist": "",
       "alt": "Star Wars #18 Mile High Comics Francesco Francavilla Variant",
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8270451.jpg?1722421039"
+    }
+  ],
+  "528515": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Declan Shalvey",
+      "alt": "Star Wars: Poe Dameron #2 1:25 Declan Shalvey Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6785794.jpg?1717595132"
+    }
+  ],
+  "529654": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "The Story Thus Far... Variant Cover",
+      "artist": "Reilly Brown",
+      "alt": "Star Wars: Darth Vader #20 Reilly Brown The Story Thus Far Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1752594.jpg?1720865791"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars: Darth Vader #20 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9329846.jpg?1703269017"
+    },
+    {
+      "category": "Reprints",
+      "type": "2nd",
+      "name": "Second Printing Cover",
+      "artist": "Mark Brooks",
+      "alt": "Star Wars: Darth Vader #20 2nd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1957867.jpg?1726572716"
     }
   ],
   "531901": [
@@ -1349,6 +2118,42 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3815077.jpg?1722421077"
     }
   ],
+  "534284": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars: Darth Vader #21 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5873728.jpg?1703269126"
+    },
+    {
+      "category": "Reprints",
+      "type": "2nd",
+      "name": "Second Printing Cover",
+      "artist": "Salvador Larroca & Edgar Delgado",
+      "alt": "Star Wars: Darth Vader #21 2nd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2605408.jpg?1726572723"
+    }
+  ],
+  "534297": [
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Michael Walsh",
+      "alt": "Star Wars: Poe Dameron #3 1:25 Michael Walsh Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4811861.jpg?1717595329"
+    },
+    {
+      "category": "Reprints",
+      "type": "2nd",
+      "name": "Second Printing Cover",
+      "artist": "Phil Noto",
+      "alt": "Star Wars: Poe Dameron #3 2nd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1775670.jpg?1726155426"
+    }
+  ],
   "535367": [
     {
       "category": "Incentive Covers",
@@ -1373,6 +2178,52 @@
       "artist": "",
       "alt": "Star Wars #20 Mile High Comics Terry Dodson Variant",
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5357110.jpg?1753607774"
+    }
+  ],
+  "537937": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars: Darth Vader #22 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9639752.jpg?1703269147"
+    },
+    {
+      "category": "Reprints",
+      "type": "2nd",
+      "name": "Second Printing Cover",
+      "artist": "Salvador Larroca & Edgar Delgado",
+      "alt": "Star Wars: Darth Vader #22 2nd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8513406.jpg?1726572732"
+    }
+  ],
+  "538514": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "David Aja",
+      "alt": "Star Wars: Poe Dameron #4 1:25 David Aja Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3160027.jpg?1718926774"
+    }
+  ],
+  "540073": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars: Darth Vader #23 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5032235.jpg?1705191917"
+    },
+    {
+      "category": "Reprints",
+      "type": "2nd",
+      "name": "Second Printing Cover",
+      "artist": "Salvador Larroca & Edgar Delgado",
+      "alt": "Star Wars: Darth Vader #23 2nd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3734179.jpg?1726572739"
     }
   ],
   "540085": [
@@ -1401,6 +2252,26 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8370425.jpg?1722421140"
     }
   ],
+  "543750": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars: Darth Vader #24 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9895367.jpg?1705191856"
+    }
+  ],
+  "544990": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Cameron Stewart",
+      "alt": "Star Wars: Poe Dameron #5 1:25 Cameron Stewart Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8175470.jpg?1718926797"
+    }
+  ],
   "546065": [
     {
       "category": "Incentive Covers",
@@ -1425,6 +2296,16 @@
       "artist": "",
       "alt": "Star Wars #22 Mile High Comics Terry Dodson Variant",
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7831292.jpg?1722421179"
+    }
+  ],
+  "548581": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Mike Mayhew",
+      "alt": "Star Wars: Poe Dameron #6 1:25 Mike Mayhew Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3097750.jpg?1718926827"
     }
   ],
   "551319": [
@@ -1461,6 +2342,138 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6149714.jpg?1722421204"
     }
   ],
+  "553006": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Adi Granov",
+      "alt": "Star Wars: Darth Vader #25 Adi Granov Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1096839.jpg?1705191700"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Jamie McKelvie",
+      "alt": "Star Wars: Darth Vader #25 Jamie McKelvie Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1175668.jpg?1705191700"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Michael Cho",
+      "alt": "Star Wars: Darth Vader #25 1:50 Michael Cho Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9117637.jpg?1705191700"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Joe Quesada",
+      "alt": "Star Wars: Darth Vader #25 1:100 Joe Quesada Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4822869.jpg?1703270512"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Sketch Cover",
+      "artist": "Joe Quesada",
+      "alt": "Star Wars: Darth Vader #25 1:200 Joe Quesada Sketch Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6877874.jpg?1705191700"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Chris Samnee",
+      "alt": "Star Wars: Darth Vader #25 1:25 Chris Samnee Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5829138.jpg?1703270512"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Sara Pichelli",
+      "alt": "Star Wars: Darth Vader #25 1:25 Sara Pichelli Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5009121.jpg?1705191700"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Cliff Chiang",
+      "alt": "Star Wars: Darth Vader #25 1:25 Cliff Chiang Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1192633.jpg?1705191700"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Salvador Larroca",
+      "alt": "Star Wars: Darth Vader #25 Salvador Larroca Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9360241.jpg?1705191700"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars: Darth Vader #25 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8640610.jpg?1705191700"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Darth Vader #25 Kamome Shirahama Variant",
+      "artist": "",
+      "alt": "Star Wars: Darth Vader #25 Kamome Shirahama Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8546586.jpg?1705191700"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: Darth Vader #25 Most Good Hobby John Tyler Christopher Action Figure Sketch Variant",
+      "artist": "",
+      "alt": "Star Wars: Darth Vader #25 Most Good Hobby John Tyler Christopher Action Figure Sketch Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4285310.jpg?1720865838"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: Darth Vader #25 Most Good Hobby John Tyler Christopher Action Figure Variant",
+      "artist": "",
+      "alt": "Star Wars: Darth Vader #25 Most Good Hobby John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8053257.jpg?1705191700"
+    }
+  ],
+  "555535": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "X-Wing Variant Cover",
+      "artist": "Francesco Francavilla",
+      "alt": "Star Wars: Poe Dameron #7 Francesco Francavilla Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4123889.jpg?1718927143"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Terry Dodson",
+      "alt": "Star Wars: Poe Dameron #7 1:25 Terry Dodson Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9761067.jpg?1718927143"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Poe Dameron #7 Mike Del Mundo Variant",
+      "artist": "",
+      "alt": "Star Wars: Poe Dameron #7 Mike Del Mundo Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4771628.jpg?1718927143"
+    }
+  ],
   "555540": [
     {
       "category": "Incentive Covers",
@@ -1487,6 +2500,16 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5258424.jpg?1722421242"
     }
   ],
+  "557372": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Rod Reis",
+      "alt": "Star Wars: Poe Dameron #8 1:25 Rod Reis Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6635304.jpg?1718913121"
+    }
+  ],
   "558975": [
     {
       "category": "Incentive Covers",
@@ -1511,6 +2534,16 @@
       "artist": "Terry Dodson",
       "alt": "Star Wars #25 Mile High Comics Terry Dodson Variant",
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7815814.jpg?1741580186"
+    }
+  ],
+  "566720": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Mike Hawthorne",
+      "alt": "Star Wars: Poe Dameron #9 1:25 Mike Hawthorne Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7708321.jpg?1718913295"
     }
   ],
   "571687": [
@@ -1545,6 +2578,24 @@
       "artist": "",
       "alt": "Star Wars #26 Mile High Comics Mike Deodato Jr. Variant",
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8608340.jpg?1722421361"
+    }
+  ],
+  "575878": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars 40th Anniversary Variant Cover",
+      "artist": "Stuart Immonen",
+      "alt": "Star Wars: Poe Dameron #10 Stuart Immonen Star Wars 40th Anniversary Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6867215.jpg?1718913522"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Poe Dameron #10 1:25 Danilo Beyruth Variant",
+      "artist": "",
+      "alt": "Star Wars: Poe Dameron #10 1:25 Danilo Beyruth Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1378005.jpg?1718927900"
     }
   ],
   "578475": [
@@ -1599,6 +2650,24 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8332531.jpg?1722421445"
     }
   ],
+  "581565": [
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Reilly Brown",
+      "alt": "Star Wars: Poe Dameron #11 1:25 Reilly Brown Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7563848.jpg?1728737857"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars 40th Anniversary Variant Cover",
+      "artist": "Michael Walsh",
+      "alt": "Star Wars: Poe Dameron #11 Michael Walsh Star Wars 40th Anniversary Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8246924.jpg?1728723542"
+    }
+  ],
   "583731": [
     {
       "category": "Open Order Covers",
@@ -1623,6 +2692,24 @@
       "artist": "",
       "alt": "Star Wars #29 Mile High Comics Mike Deodato Jr. Variant",
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8609921.jpg?1702936028"
+    }
+  ],
+  "587415": [
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Bengal",
+      "alt": "Star Wars: Poe Dameron #12 1:25 Bengal Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4655461.jpg?1718913881"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Poe Dameron #12 Leinil Francis Yu Star Wars 40th Anniversary Variant",
+      "artist": "",
+      "alt": "Star Wars: Poe Dameron #12 Leinil Francis Yu Star Wars 40th Anniversary Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4665528.jpg?1718928252"
     }
   ],
   "590807": [
@@ -1651,6 +2738,16 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6698354.jpg?1722421483"
     }
   ],
+  "592605": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars: Poe Dameron #13 Jeff Dèkal Star Wars 40th Anniversary Variant",
+      "artist": "",
+      "alt": "Star Wars: Poe Dameron #13 Jeff Dèkal Star Wars 40th Anniversary Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5961626.jpg?1718914122"
+    }
+  ],
   "595703": [
     {
       "category": "Open Order Covers",
@@ -1677,6 +2774,7 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1888425.jpg?1722421505"
     }
   ],
+  "595704": [],
   "601804": [
     {
       "category": "Open Order Covers",
@@ -1701,6 +2799,16 @@
       "artist": "",
       "alt": "Star Wars #32 Will Robson Star Wars 40th Anniversary Variant",
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2951358.jpg?1722421528"
+    }
+  ],
+  "605132": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars 40th Anniversary Variant Cover",
+      "artist": "Stephanie Hans",
+      "alt": "Star Wars: Poe Dameron #16 Stephanie Hans Star Wars 40th Anniversary Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1324537.jpg?1707084893"
     }
   ],
   "606640": [
@@ -1745,6 +2853,16 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8282872.jpg?1703003743"
     }
   ],
+  "609363": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars 40th Anniversary Variant Cover",
+      "artist": "Paulina Ganucheau",
+      "alt": "Star Wars: Poe Dameron #17 Paulina Ganucheau Star Wars 40th Anniversary Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9457688.jpg?1719771682"
+    }
+  ],
   "615032": [
     {
       "category": "Open Order Covers",
@@ -1769,6 +2887,16 @@
       "artist": "",
       "alt": "Star Wars #34 Mile High Comics Phil Noto Variant",
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3696894.jpg?1722421567"
+    }
+  ],
+  "615033": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars: Poe Dameron #18 Tradd Moore Star Wars 40th Anniversary Variant",
+      "artist": "",
+      "alt": "Star Wars: Poe Dameron #18 Tradd Moore Star Wars 40th Anniversary Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7929440.jpg?1719771731"
     }
   ],
   "617853": [
@@ -1823,6 +2951,16 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6883216.jpg?1722421609"
     }
   ],
+  "622953": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars 40th Anniversary Variant Cover",
+      "artist": "Chris Samnee",
+      "alt": "Star Wars: Poe Dameron #19 Chris Samnee Star Wars 40th Anniversary Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4478883.jpg?1719771778"
+    }
+  ],
   "626298": [
     {
       "category": "Open Order Covers",
@@ -1855,6 +2993,16 @@
       "artist": "",
       "alt": "Star Wars #37 Mile High Comics Phil Noto Variant",
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4260549.jpg?1722421631"
+    }
+  ],
+  "630535": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars: Poe Dameron #20 Brian Level Star Wars 40th Anniversary Variant",
+      "artist": "",
+      "alt": "Star Wars: Poe Dameron #20 Brian Level Star Wars 40th Anniversary Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8107331.jpg?1719771883"
     }
   ],
   "636386": [
@@ -1949,6 +3097,16 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7841114.jpg?1722421769"
     }
   ],
+  "643044": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars 40th Anniversary Variant Cover",
+      "artist": "Ashley Witter",
+      "alt": "Star Wars: Poe Dameron #21 Ashley Witter Star Wars 40th Anniversary Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3877765.jpg?1719771912"
+    }
+  ],
   "646200": [
     {
       "category": "Open Order Covers",
@@ -1989,6 +3147,16 @@
       "artist": "",
       "alt": "Star Wars #40 Mile High Comics Rahzzah Variant",
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1840775.jpg?1722421842"
+    }
+  ],
+  "647955": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars: Poe Dameron #22 Mike Del Mundo Star Wars 40th Anniversary Variant",
+      "artist": "",
+      "alt": "Star Wars: Poe Dameron #22 Mike Del Mundo Star Wars 40th Anniversary Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5491050.jpg?1720865294"
     }
   ],
   "650928": [
@@ -2035,6 +3203,7 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7629178.jpg?1722422051"
     }
   ],
+  "655512": [],
   "658734": [
     {
       "category": "Open Order Covers",
@@ -2061,6 +3230,7 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2405698.jpg?1722422174"
     }
   ],
+  "660024": [],
   "662098": [
     {
       "category": "Open Order Covers",
@@ -2105,6 +3275,7 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8680985.jpg?1748307145"
     }
   ],
+  "663587": [],
   "664923": [
     {
       "category": "Open Order Covers",
@@ -2139,6 +3310,7 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6873360.jpg?1722422334"
     }
   ],
+  "666815": [],
   "668785": [
     {
       "category": "Other Covers",
@@ -2157,6 +3329,7 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2534872.jpg?1722422378"
     }
   ],
+  "670123": [],
   "670756": [
     {
       "category": "Other Covers",
@@ -2185,6 +3358,7 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3877023.jpg?1722422467"
     }
   ],
+  "674138": [],
   "675989": [
     {
       "category": "Incentive Covers",
@@ -2269,6 +3443,7 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2729451.jpg?1722422623"
     }
   ],
+  "677298": [],
   "678541": [
     {
       "category": "Other Covers",
@@ -2287,6 +3462,7 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9645186.jpg?1722422702"
     }
   ],
+  "680004": [],
   "683837": [
     {
       "category": "Other Covers",
@@ -2315,6 +3491,7 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1432267.jpg?1722422813"
     }
   ],
+  "686395": [],
   "687019": [
     {
       "category": "Other Covers",

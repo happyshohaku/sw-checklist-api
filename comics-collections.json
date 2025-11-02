@@ -1636,5 +1636,1143 @@
     "series_id": [
       "79398"
     ]
+  },
+  {
+    "id": 1762114010623,
+    "title": "Star Wars: Darth Vader Vol. 1 — Vader",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/d/d4/Star_Wars_Darth_Vader_TPB.jpg/revision/latest/scale-to-width-down/100?cb=20180204055433",
+    "release_date": "10/06/2015",
+    "publisher": "Marvel Comics",
+    "isbn": "9780785192558",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 479258,
+        "order": 1,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 480682,
+        "order": 2,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 483346,
+        "order": 3,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 485510,
+        "order": 4,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 488647,
+        "order": 5,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 490879,
+        "order": 6,
+        "series_id": "79990"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_Vol._1_%E2%80%94_Vader",
+    "series_id": [
+      "79990"
+    ]
+  },
+  {
+    "id": 1762114011329,
+    "title": "Star Wars: Darth Vader Vol. 1",
+    "type": "Hardcover",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/e/e1/Darth_Vader_Volume_1_hardcover_final_cover.jpg/revision/latest/scale-to-width-down/100?cb=20160326045112",
+    "release_date": "07/19/2016",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302901950",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 479258,
+        "order": 1,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 480682,
+        "order": 2,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 483346,
+        "order": 3,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 485510,
+        "order": 4,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 488647,
+        "order": 5,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 490879,
+        "order": 6,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 493789,
+        "order": 7,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 496878,
+        "order": 8,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 499742,
+        "order": 9,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 502114,
+        "order": 10,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 503557,
+        "order": 11,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 505517,
+        "order": 12,
+        "series_id": "79990"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_Vol._1",
+    "series_id": [
+      "79990"
+    ]
+  },
+  {
+    "id": 1762114011849,
+    "title": "Star Wars: Darth Vader by Kieron Gillen & Salvador Larroca Omnibus",
+    "type": "Omnibus",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/c/c6/Darth_Vader_Omnibus.jpg/revision/latest/scale-to-width-down/100?cb=20180102193704",
+    "release_date": "09/19/2017",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302908218",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 479258,
+        "order": 1,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 480682,
+        "order": 2,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 483346,
+        "order": 3,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 485510,
+        "order": 4,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 488647,
+        "order": 5,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 490879,
+        "order": 6,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 493789,
+        "order": 7,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 496878,
+        "order": 8,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 499742,
+        "order": 9,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 502114,
+        "order": 10,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 503557,
+        "order": 11,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 505517,
+        "order": 12,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": null,
+        "order": 13,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Vader_Down_1",
+        "title": "Vader Down 1"
+      },
+      {
+        "issue_id": 506650,
+        "order": 14,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 507188,
+        "order": 15,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 508888,
+        "order": 16,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 510504,
+        "order": 17,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 510492,
+        "order": 18,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": null,
+        "order": 19,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Darth_Vader_Annual_1",
+        "title": "Darth Vader Annual 1"
+      },
+      {
+        "issue_id": 514434,
+        "order": 20,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 517826,
+        "order": 21,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 522427,
+        "order": 22,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 525023,
+        "order": 23,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": null,
+        "order": 24,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/The_Misadventures_of_Triple-Zero_and_Beetee",
+        "title": "The Misadventures of Triple-Zero and Beetee"
+      },
+      {
+        "issue_id": 529654,
+        "order": 25,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 534284,
+        "order": 26,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 537937,
+        "order": 27,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 540073,
+        "order": 28,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 543750,
+        "order": 29,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 553006,
+        "order": 30,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": null,
+        "order": 31,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Coda",
+        "title": "Coda"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_by_Kieron_Gillen_%26_Salvador_Larroca_Omnibus",
+    "series_id": [
+      "79990",
+      "79398"
+    ]
+  },
+  {
+    "id": 1762114012362,
+    "title": "Star Wars: Darth Vader Modern Era Epic Collection: Shadows and Secrets",
+    "type": "Epic Collection",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/0/02/StarWars-DarthVader-MEEC-Vol-1.jpg/revision/latest/scale-to-width-down/100?cb=20240603051926",
+    "release_date": "11/26/2024",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302960100",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 479258,
+        "order": 1,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 480682,
+        "order": 2,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 483346,
+        "order": 3,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 485510,
+        "order": 4,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 488647,
+        "order": 5,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 490879,
+        "order": 6,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 493789,
+        "order": 7,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 496878,
+        "order": 8,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 499742,
+        "order": 9,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 502114,
+        "order": 10,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 503557,
+        "order": 11,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 505517,
+        "order": 12,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": null,
+        "order": 13,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Darth_Vader_Annual_1",
+        "title": "Darth Vader Annual 1"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_Modern_Era_Epic_Collection:_Shadows_and_Secrets",
+    "series_id": [
+      "79990"
+    ]
+  },
+  {
+    "id": 1762114012881,
+    "title": "Star Wars: Darth Vader Vol. 2 — Shadows and Secrets",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/7/78/Darth_Vader_Vol_2_final_cover.jpg/revision/latest/scale-to-width-down/100?cb=20180204060854",
+    "release_date": "01/05/2016",
+    "publisher": "Marvel Comics",
+    "isbn": "9780785192565",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 493789,
+        "order": 1,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 496878,
+        "order": 2,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 499742,
+        "order": 3,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 502114,
+        "order": 4,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 503557,
+        "order": 5,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 505517,
+        "order": 6,
+        "series_id": "79990"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_Vol._2_%E2%80%94_Shadows_and_Secrets",
+    "series_id": [
+      "79990"
+    ]
+  },
+  {
+    "id": 1762114014435,
+    "title": "Star Wars: Darth Vader Modern Era Epic Collection: Vader Down",
+    "type": "Epic Collection",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/6/6c/StarWars-DarthVader-MEEC-Vol-2.jpg/revision/latest/scale-to-width-down/100?cb=20250703011218",
+    "release_date": "11/25/2025",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302966034",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 506650,
+        "order": 1,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 508888,
+        "order": 2,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 510492,
+        "order": 3,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 514434,
+        "order": 4,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 517826,
+        "order": 5,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 522427,
+        "order": 6,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 525023,
+        "order": 7,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 529654,
+        "order": 8,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 534284,
+        "order": 9,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 537937,
+        "order": 10,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 540073,
+        "order": 11,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 543750,
+        "order": 12,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 553006,
+        "order": 13,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": null,
+        "order": 14,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Vader_Down_1",
+        "title": "Vader Down 1"
+      },
+      {
+        "issue_id": 507188,
+        "order": 15,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 510504,
+        "order": 16,
+        "series_id": "79398"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_Modern_Era_Epic_Collection:_Vader_Down",
+    "series_id": [
+      "79990",
+      "79398"
+    ]
+  },
+  {
+    "id": 1762114014950,
+    "title": "Star Wars: Darth Vader Vol. 3 — The Shu-Torun War",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/5/50/SWDarthVader3TPB.png/revision/latest/scale-to-width-down/100?cb=20160803184541",
+    "release_date": "08/09/2016",
+    "publisher": "Marvel Comics",
+    "isbn": "9780785199779",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": null,
+        "order": 1,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Darth_Vader_Annual_1",
+        "title": "Darth Vader Annual 1"
+      },
+      {
+        "issue_id": 514434,
+        "order": 2,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 517826,
+        "order": 3,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 522427,
+        "order": 4,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 525023,
+        "order": 5,
+        "series_id": "79990"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_Vol._3_%E2%80%94_The_Shu-Torun_War",
+    "series_id": [
+      "79990"
+    ]
+  },
+  {
+    "id": 1762114015466,
+    "title": "Star Wars: Darth Vader Vol. 4 — End of Games",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/9/98/SWDarthVader4TPB.png/revision/latest/scale-to-width-down/100?cb=20201210022902",
+    "release_date": "11/23/2016",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302493929",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 529654,
+        "order": 1,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": null,
+        "order": 2,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/The_Misadventures_of_Triple-Zero_and_Beetee",
+        "title": "The Misadventures of Triple-Zero and Beetee"
+      },
+      {
+        "issue_id": 534284,
+        "order": 3,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 537937,
+        "order": 4,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 540073,
+        "order": 5,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 543750,
+        "order": 6,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": 553006,
+        "order": 7,
+        "series_id": "79990"
+      },
+      {
+        "issue_id": null,
+        "order": 8,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Coda",
+        "title": "Coda"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_Vol._4_%E2%80%94_End_of_Games",
+    "series_id": [
+      "79990"
+    ]
+  },
+  {
+    "id": 1762114436801,
+    "title": "Star Wars: Kanan Vol. 1 — The Last Padawan",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/c/ce/Kanan_Volume_One_cover.jpg/revision/latest/scale-to-width-down/100?cb=20180128064300",
+    "release_date": "11/03/2015",
+    "publisher": "Marvel Comics",
+    "isbn": "9780785193661",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 484899,
+        "order": 1,
+        "series_id": "81088"
+      },
+      {
+        "issue_id": 487838,
+        "order": 2,
+        "series_id": "81088"
+      },
+      {
+        "issue_id": 491516,
+        "order": 3,
+        "series_id": "81088"
+      },
+      {
+        "issue_id": 495800,
+        "order": 4,
+        "series_id": "81088"
+      },
+      {
+        "issue_id": 497947,
+        "order": 5,
+        "series_id": "81088"
+      },
+      {
+        "issue_id": 501025,
+        "order": 6,
+        "series_id": "81088"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Kanan_Vol._1_%E2%80%94_The_Last_Padawan",
+    "series_id": [
+      "81088"
+    ]
+  },
+  {
+    "id": 1762114437327,
+    "title": "Star Wars: Kanan Omnibus",
+    "type": "Omnibus",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/8/8e/Kanan_Omnibus_hardcover.jpg/revision/latest/scale-to-width-down/100?cb=20170110040018",
+    "release_date": "12/20/2016",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302902223",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 484899,
+        "order": 1,
+        "series_id": "81088"
+      },
+      {
+        "issue_id": 487838,
+        "order": 2,
+        "series_id": "81088"
+      },
+      {
+        "issue_id": 491516,
+        "order": 3,
+        "series_id": "81088"
+      },
+      {
+        "issue_id": 495800,
+        "order": 4,
+        "series_id": "81088"
+      },
+      {
+        "issue_id": 497947,
+        "order": 5,
+        "series_id": "81088"
+      },
+      {
+        "issue_id": 501025,
+        "order": 6,
+        "series_id": "81088"
+      },
+      {
+        "issue_id": 504342,
+        "order": 7,
+        "series_id": "81088"
+      },
+      {
+        "issue_id": 506171,
+        "order": 8,
+        "series_id": "81088"
+      },
+      {
+        "issue_id": 508430,
+        "order": 9,
+        "series_id": "81088"
+      },
+      {
+        "issue_id": 512428,
+        "order": 10,
+        "series_id": "81088"
+      },
+      {
+        "issue_id": 516957,
+        "order": 11,
+        "series_id": "81088"
+      },
+      {
+        "issue_id": 520204,
+        "order": 12,
+        "series_id": "81088"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Kanan_Omnibus",
+    "series_id": [
+      "81088"
+    ]
+  },
+  {
+    "id": 1762114437849,
+    "title": "Star Wars: Kanan Modern Era Epic Collection: The Last Padawan",
+    "type": "Epic Collection",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/0/09/Kanan-ModernEraEpicCollection-Final-Cover.jpg/revision/latest/scale-to-width-down/100?cb=20250404044308",
+    "release_date": "08/26/2025",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302959470",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 484899,
+        "order": 1,
+        "series_id": "81088"
+      },
+      {
+        "issue_id": 487838,
+        "order": 2,
+        "series_id": "81088"
+      },
+      {
+        "issue_id": 491516,
+        "order": 3,
+        "series_id": "81088"
+      },
+      {
+        "issue_id": 495800,
+        "order": 4,
+        "series_id": "81088"
+      },
+      {
+        "issue_id": 497947,
+        "order": 5,
+        "series_id": "81088"
+      },
+      {
+        "issue_id": 501025,
+        "order": 6,
+        "series_id": "81088"
+      },
+      {
+        "issue_id": 504342,
+        "order": 7,
+        "series_id": "81088"
+      },
+      {
+        "issue_id": 506171,
+        "order": 8,
+        "series_id": "81088"
+      },
+      {
+        "issue_id": 508430,
+        "order": 9,
+        "series_id": "81088"
+      },
+      {
+        "issue_id": 512428,
+        "order": 10,
+        "series_id": "81088"
+      },
+      {
+        "issue_id": 516957,
+        "order": 11,
+        "series_id": "81088"
+      },
+      {
+        "issue_id": 520204,
+        "order": 12,
+        "series_id": "81088"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Kanan_Modern_Era_Epic_Collection:_The_Last_Padawan",
+    "series_id": [
+      "81088"
+    ]
+  },
+  {
+    "id": 1762114438361,
+    "title": "Star Wars: Kanan Vol. 2 — First Blood",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/e/ec/Kanan_First_Blood_TPB_final_cover.jpg/revision/latest/scale-to-width-down/100?cb=20180129050909",
+    "release_date": "05/18/2016",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302486327",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 504342,
+        "order": 1,
+        "series_id": "81088"
+      },
+      {
+        "issue_id": 506171,
+        "order": 2,
+        "series_id": "81088"
+      },
+      {
+        "issue_id": 508430,
+        "order": 3,
+        "series_id": "81088"
+      },
+      {
+        "issue_id": 512428,
+        "order": 4,
+        "series_id": "81088"
+      },
+      {
+        "issue_id": 516957,
+        "order": 5,
+        "series_id": "81088"
+      },
+      {
+        "issue_id": 520204,
+        "order": 6,
+        "series_id": "81088"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Kanan_Vol._2_%E2%80%94_First_Blood",
+    "series_id": [
+      "81088"
+    ]
+  },
+  {
+    "id": 1762114713781,
+    "title": "Star Wars: Poe Dameron Vol. 1 — Black Squadron",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/b/bf/Poedameron-vol1-final.jpg/revision/latest/scale-to-width-down/100?cb=20171015175236",
+    "release_date": "12/07/2016",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302495046",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 523263,
+        "order": 1,
+        "series_id": "89380"
+      },
+      {
+        "issue_id": 528515,
+        "order": 2,
+        "series_id": "89380"
+      },
+      {
+        "issue_id": 534297,
+        "order": 3,
+        "series_id": "89380"
+      },
+      {
+        "issue_id": 538514,
+        "order": 4,
+        "series_id": "89380"
+      },
+      {
+        "issue_id": 544990,
+        "order": 5,
+        "series_id": "89380"
+      },
+      {
+        "issue_id": 548581,
+        "order": 6,
+        "series_id": "89380"
+      },
+      {
+        "issue_id": null,
+        "order": 7,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/SaBBotage",
+        "title": "SaBBotage"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Poe_Dameron_Vol._1_%E2%80%94_Black_Squadron",
+    "series_id": [
+      "89380"
+    ]
+  },
+  {
+    "id": 1762114714290,
+    "title": "Star Wars: Poe Dameron Vol. 2 — The Gathering Storm",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/4/4b/Poedameron-vol2-final-lowres.jpg/revision/latest/scale-to-width-down/100?cb=20171003161505",
+    "release_date": "06/21/2017",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302498344",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 557372,
+        "order": 1,
+        "series_id": "89380"
+      },
+      {
+        "issue_id": 566720,
+        "order": 2,
+        "series_id": "89380"
+      },
+      {
+        "issue_id": 575878,
+        "order": 3,
+        "series_id": "89380"
+      },
+      {
+        "issue_id": 581565,
+        "order": 4,
+        "series_id": "89380"
+      },
+      {
+        "issue_id": 587415,
+        "order": 5,
+        "series_id": "89380"
+      },
+      {
+        "issue_id": 592605,
+        "order": 6,
+        "series_id": "89380"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Poe_Dameron_Vol._2_%E2%80%94_The_Gathering_Storm",
+    "series_id": [
+      "89380"
+    ]
+  },
+  {
+    "id": 1762114714816,
+    "title": "Star Wars: Poe Dameron Vol. 3 — Legend Lost",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/0/06/PoeDameron-Volume3.jpg/revision/latest/scale-to-width-down/100?cb=20171003160411",
+    "release_date": "11/14/2017",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302907426",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 555535,
+        "order": 1,
+        "series_id": "89380"
+      },
+      {
+        "issue_id": 594126,
+        "order": 2,
+        "series_id": "89380"
+      },
+      {
+        "issue_id": 595704,
+        "order": 3,
+        "series_id": "89380"
+      },
+      {
+        "issue_id": 605132,
+        "order": 4,
+        "series_id": "89380"
+      },
+      {
+        "issue_id": 609363,
+        "order": 5,
+        "series_id": "89380"
+      },
+      {
+        "issue_id": 615033,
+        "order": 6,
+        "series_id": "89380"
+      },
+      {
+        "issue_id": 622953,
+        "order": 7,
+        "series_id": "89380"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Poe_Dameron_Vol._3_%E2%80%94_Legend_Lost",
+    "series_id": [
+      "89380"
+    ]
+  },
+  {
+    "id": 1762114715327,
+    "title": "Star Wars: Poe Dameron Vol. 4 — Legend Found",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/d/d9/StarWarsPoeDameronVol4-LegendFound.png/revision/latest/scale-to-width-down/100?cb=20190213042231",
+    "release_date": "05/15/2018",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302907433",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 630535,
+        "order": 1,
+        "series_id": "89380"
+      },
+      {
+        "issue_id": 643044,
+        "order": 2,
+        "series_id": "89380"
+      },
+      {
+        "issue_id": 647955,
+        "order": 3,
+        "series_id": "89380"
+      },
+      {
+        "issue_id": 655512,
+        "order": 4,
+        "series_id": "89380"
+      },
+      {
+        "issue_id": 660024,
+        "order": 5,
+        "series_id": "89380"
+      },
+      {
+        "issue_id": 663587,
+        "order": 6,
+        "series_id": "89380"
+      },
+      {
+        "issue_id": null,
+        "order": 7,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Poe_Dameron_Annual_1",
+        "title": "Poe Dameron Annual 1"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Poe_Dameron_Vol._4_%E2%80%94_Legend_Found",
+    "series_id": [
+      "89380"
+    ]
+  },
+  {
+    "id": 1762114715849,
+    "title": "Star Wars: Poe Dameron Vol. 5 — The Spark and the Fire",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/2/21/PoeDameronVol5-TheSparkandtheFire.jpg/revision/latest/scale-to-width-down/100?cb=20181213013924",
+    "release_date": "12/04/2018",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302911706",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 666815,
+        "order": 1,
+        "series_id": "89380"
+      },
+      {
+        "issue_id": 670123,
+        "order": 2,
+        "series_id": "89380"
+      },
+      {
+        "issue_id": 674138,
+        "order": 3,
+        "series_id": "89380"
+      },
+      {
+        "issue_id": 677298,
+        "order": 4,
+        "series_id": "89380"
+      },
+      {
+        "issue_id": 680004,
+        "order": 5,
+        "series_id": "89380"
+      },
+      {
+        "issue_id": 686395,
+        "order": 6,
+        "series_id": "89380"
+      },
+      {
+        "issue_id": null,
+        "order": 7,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Poe_Dameron_Annual_2",
+        "title": "Poe Dameron Annual 2"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Poe_Dameron_Vol._5_%E2%80%94_The_Spark_and_the_Fire",
+    "series_id": [
+      "89380"
+    ]
   }
 ]
