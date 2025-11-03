@@ -3176,5 +3176,535 @@
     "series_id": [
       "96284"
     ]
+  },
+  {
+    "id": 1762205501595,
+    "title": "Star Wars: Darth Vader: Dark Lord of the Sith Vol. 1 — Imperial Machine",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/8/8e/DarthVader-DLotS-Volume1.jpg/revision/latest/scale-to-width-down/100?cb=20201120052220",
+    "release_date": "11/21/2017",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302501051",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 599878,
+        "order": 1,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 603120,
+        "order": 2,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 608240,
+        "order": 3,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 612037,
+        "order": 4,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 619620,
+        "order": 5,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 626279,
+        "order": 6,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": null,
+        "order": 7,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/No_Good_Deed...",
+        "title": "No Good Deed..."
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader:_Dark_Lord_of_the_Sith_Vol._1_%E2%80%94_Imperial_Machine",
+    "series_id": [
+      "101960"
+    ]
+  },
+  {
+    "id": 1762205502117,
+    "title": "Star Wars: Darth Vader - Dark Lord of the Sith Vol. 1",
+    "type": "Hardcover",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/8/82/SWDVDLotSVolume1.png/revision/latest/scale-to-width-down/100?cb=20201020065235",
+    "release_date": "11/06/2018",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302913601",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 599878,
+        "order": 1,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 603120,
+        "order": 2,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 608240,
+        "order": 3,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 612037,
+        "order": 4,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 619620,
+        "order": 5,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 626279,
+        "order": 6,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": null,
+        "order": 7,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/No_Good_Deed...",
+        "title": "No Good Deed..."
+      },
+      {
+        "issue_id": 634530,
+        "order": 8,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 638592,
+        "order": 9,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 644503,
+        "order": 10,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 652626,
+        "order": 11,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 660014,
+        "order": 12,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 661146,
+        "order": 13,
+        "series_id": "101960"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_-_Dark_Lord_of_the_Sith_Vol._1",
+    "series_id": [
+      "101960"
+    ]
+  },
+  {
+    "id": 1762205502634,
+    "title": "Star Wars: Darth Vader by Charles Soule Omnibus",
+    "type": "Omnibus",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/d/d6/Darth_Vader_Charles_Soule_Omnibus_final_cover.jpg/revision/latest/scale-to-width-down/100?cb=20210707012117",
+    "release_date": "12/21/2021",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302931735",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 599878,
+        "order": 1,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": null,
+        "order": 2,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/No_Good_Deed...",
+        "title": "No Good Deed..."
+      },
+      {
+        "issue_id": 603120,
+        "order": 3,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 608240,
+        "order": 4,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 612037,
+        "order": 5,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 619620,
+        "order": 6,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 626279,
+        "order": 7,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 634530,
+        "order": 8,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 638592,
+        "order": 9,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 644503,
+        "order": 10,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 652626,
+        "order": 11,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 660014,
+        "order": 12,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 661146,
+        "order": 13,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 662741,
+        "order": 14,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 665909,
+        "order": 15,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 667636,
+        "order": 16,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 669444,
+        "order": 17,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 673014,
+        "order": 18,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 676695,
+        "order": 19,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 679408,
+        "order": 20,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 680724,
+        "order": 21,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 684902,
+        "order": 22,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 689040,
+        "order": 23,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 692063,
+        "order": 24,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 693459,
+        "order": 25,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 695629,
+        "order": 26,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": null,
+        "order": 27,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Darth_Vader_Annual_2",
+        "title": "Darth Vader Annual 2"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_by_Charles_Soule_Omnibus",
+    "series_id": [
+      "101960"
+    ]
+  },
+  {
+    "id": 1762205503153,
+    "title": "Star Wars: Darth Vader: Dark Lord of the Sith Vol. 2 — Legacy's End",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/6/6e/SW_DV_DLotS_Vol2_Legacys_End.png/revision/latest/scale-to-width-down/100?cb=20180429211229",
+    "release_date": "04/24/2018",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302907457",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 634530,
+        "order": 1,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 638592,
+        "order": 2,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 644503,
+        "order": 3,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 652626,
+        "order": 4,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 660014,
+        "order": 5,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 661146,
+        "order": 6,
+        "series_id": "101960"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader:_Dark_Lord_of_the_Sith_Vol._2_%E2%80%94_Legacy%27s_End",
+    "series_id": [
+      "101960"
+    ]
+  },
+  {
+    "id": 1762205503673,
+    "title": "Star Wars: Darth Vader: Dark Lord of the Sith Vol. 3 — The Burning Seas",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/b/ba/DarthVader-DLOTS-Vol3-TheBurningSeas.jpg/revision/latest/scale-to-width-down/100?cb=20180912161717",
+    "release_date": "09/11/2018",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302910563",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 662741,
+        "order": 1,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 665909,
+        "order": 2,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 667636,
+        "order": 3,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 669444,
+        "order": 4,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 673014,
+        "order": 5,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 676695,
+        "order": 6,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": null,
+        "order": 7,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Darth_Vader_Annual_2",
+        "title": "Darth Vader Annual 2"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader:_Dark_Lord_of_the_Sith_Vol._3_%E2%80%94_The_Burning_Seas",
+    "series_id": [
+      "101960"
+    ]
+  },
+  {
+    "id": 1762205504189,
+    "title": "Star Wars: Darth Vader - Dark Lord of the Sith Vol. 2",
+    "type": "Hardcover",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/4/43/Darth_Vader_Dark_Lord_of_the_Sith_Vol_2_HC_final_cover.jpg/revision/latest/scale-to-width-down/100?cb=20201120042920",
+    "release_date": "08/11/2020",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302925451",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 662741,
+        "order": 1,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 665909,
+        "order": 2,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 667636,
+        "order": 3,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 669444,
+        "order": 4,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 673014,
+        "order": 5,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 676695,
+        "order": 6,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 679408,
+        "order": 7,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 680724,
+        "order": 8,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 684902,
+        "order": 9,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 689040,
+        "order": 10,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 692063,
+        "order": 11,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 693459,
+        "order": 12,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 695629,
+        "order": 13,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": null,
+        "order": 14,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Darth_Vader_Annual_2",
+        "title": "Darth Vader Annual 2"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_-_Dark_Lord_of_the_Sith_Vol._2",
+    "series_id": [
+      "101960"
+    ]
+  },
+  {
+    "id": 1762205504706,
+    "title": "Star Wars: Darth Vader: Dark Lord of the Sith Vol. 4 — Fortress Vader",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/f/f5/DarthVader-DLOTS-Vol4-FortressVader.jpg/revision/latest/scale-to-width-down/100?cb=20201120051851",
+    "release_date": "01/29/2019",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302910570",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 679408,
+        "order": 1,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 680724,
+        "order": 2,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 684902,
+        "order": 3,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 689040,
+        "order": 4,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 692063,
+        "order": 5,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 693459,
+        "order": 6,
+        "series_id": "101960"
+      },
+      {
+        "issue_id": 695629,
+        "order": 7,
+        "series_id": "101960"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader:_Dark_Lord_of_the_Sith_Vol._4_%E2%80%94_Fortress_Vader",
+    "series_id": [
+      "101960"
+    ]
   }
 ]

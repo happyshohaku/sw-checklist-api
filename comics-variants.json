@@ -3043,6 +3043,104 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5696523.jpg?1701206102"
     }
   ],
+  "599878": [
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Marvel Homage Variant Cover",
+      "artist": "Mark Brooks",
+      "alt": "Star Wars: Darth Vader #1 1:50 Mark Brooks Marvel Homage Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4087047.jpg?1709953931"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Adi Granov",
+      "alt": "Star Wars: Darth Vader #1 1:25 Adi Granov Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8958259.jpg?1709953931"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Young Variant Cover",
+      "artist": "Skottie Young",
+      "alt": "Star Wars: Darth Vader #1 Skottie Young Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5488180.jpg?1709953931"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Phil Noto",
+      "alt": "Star Wars: Darth Vader #1 1:20 Phil Noto Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8914246.jpg?1709953931"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover (Anakin Skywalker)",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars: Darth Vader #1 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1442558.jpg?1709953931"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Action Figure Variant Cover (Darth Vader: Anakin Skywalker)",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars: Darth Vader #1 John Tyler Christopher Webstore Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3843982.jpg?1709953931"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Legends Comics & Games + Classic Comic Con Retailer Exclusive Variant Cover (Limited to 3,000 copies)",
+      "artist": "Rod Reis",
+      "alt": "Star Wars: Darth Vader #1 Legends Comics Rod Reis Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7094198.jpg?1709953931"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Darth Vader #1 Blank Variant",
+      "artist": "",
+      "alt": "Star Wars: Darth Vader #1 Blank Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2821051.jpg?1709953931"
+    },
+    {
+      "category": "Reprints",
+      "type": "Var",
+      "name": "Star Wars: Darth Vader #1 2nd Printing",
+      "artist": "",
+      "alt": "Star Wars: Darth Vader #1 2nd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3653616.jpg?1726572748"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Darth Vader #1 1:15 Movie Variant",
+      "artist": "",
+      "alt": "Star Wars: Darth Vader #1 1:15 Movie Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5096000.jpg?1709953931"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: Darth Vader #1 Comic Sketch Art Francesco Mattina Variant",
+      "artist": "",
+      "alt": "Star Wars: Darth Vader #1 Comic Sketch Art Francesco Mattina Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1182226.jpg?1741069820"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: Darth Vader #1 Fried Pie David López Variant",
+      "artist": "",
+      "alt": "Star Wars: Darth Vader #1 Fried Pie David López Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9845435.jpg?1709953931"
+    }
+  ],
   "601804": [
     {
       "category": "Open Order Covers",
@@ -3067,6 +3165,24 @@
       "artist": "",
       "alt": "Star Wars #32 Will Robson Star Wars 40th Anniversary Variant",
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2951358.jpg?1722421528"
+    }
+  ],
+  "603120": [
+    {
+      "category": "Reprints",
+      "type": "2nd",
+      "name": "Second Printing Cover",
+      "artist": "Jim Cheung & Matthew Wilson",
+      "alt": "Star Wars: Darth Vader #2 2nd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5166491.jpg?1726572760"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Darth Vader #2 Mike Del Mundo Variant",
+      "artist": "",
+      "alt": "Star Wars: Darth Vader #2 Mike Del Mundo Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3146057.jpg?1709576316"
     }
   ],
   "605130": [
@@ -3163,6 +3279,24 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8282872.jpg?1703003743"
     }
   ],
+  "608240": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Giuseppe Camuncoli",
+      "alt": "Star Wars: Darth Vader #3 Giuseppe Camuncoli Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8954253.jpg?1709577821"
+    },
+    {
+      "category": "Reprints",
+      "type": "Var",
+      "name": "Star Wars: Darth Vader #3 2nd Printing",
+      "artist": "",
+      "alt": "Star Wars: Darth Vader #3 2nd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8325537.jpg?1726572771"
+    }
+  ],
   "608257": [
     {
       "category": "Other Covers",
@@ -3191,6 +3325,24 @@
       "artist": "Caspar Wijngaard",
       "alt": "Star Wars: Doctor Aphra #10 Caspar Wijngaard Star Wars 40th Anniversary Variant",
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7122701.jpg?1720864890"
+    }
+  ],
+  "612037": [
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Rafael Albuquerque",
+      "alt": "Star Wars: Darth Vader #4 1:25 Rafael Albuquerque Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9934435.jpg?1724437545"
+    },
+    {
+      "category": "Reprints",
+      "type": "Var",
+      "name": "Star Wars: Darth Vader #4 2nd Printing",
+      "artist": "",
+      "alt": "Star Wars: Darth Vader #4 2nd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4724804.jpg?1726572790"
     }
   ],
   "613806": [
@@ -3265,6 +3417,16 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8387154.jpg?1710728342"
     }
   ],
+  "619620": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars: Darth Vader #5 Terry Dodson Variant",
+      "artist": "",
+      "alt": "Star Wars: Darth Vader #5 Terry Dodson Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5193443.jpg?1709918215"
+    }
+  ],
   "621678": [
     {
       "category": "Open Order Covers",
@@ -3311,6 +3473,7 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4478883.jpg?1719771778"
     }
   ],
+  "626279": [],
   "626298": [
     {
       "category": "Open Order Covers",
@@ -3365,6 +3528,7 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8107331.jpg?1719771883"
     }
   ],
+  "634530": [],
   "636386": [
     {
       "category": "Open Order Covers",
@@ -3439,6 +3603,7 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6124255.jpg?1722421680"
     }
   ],
+  "638592": [],
   "638608": [
     {
       "category": "Other Covers",
@@ -3477,6 +3642,7 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3877765.jpg?1719771912"
     }
   ],
+  "644503": [],
   "646200": [
     {
       "category": "Open Order Covers",
@@ -3565,6 +3731,16 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8047646.jpg?1722422008"
     }
   ],
+  "652626": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Galactic Icons Variant Cover (Finn)",
+      "artist": "Rod Reis",
+      "alt": "Star Wars: Darth Vader #10 Rod Reis Galactic Icons Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2169854.jpg?1709901560"
+    }
+  ],
   "654062": [
     {
       "category": "Open Order Covers",
@@ -3620,6 +3796,16 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2405698.jpg?1722422174"
     }
   ],
+  "660014": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Galactic Icons Variant Cover (General Leia - Resistance Leader)",
+      "artist": "Rod Reis",
+      "alt": "Star Wars: Darth Vader #11 Rod Reis Galactic Icons Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9887975.jpg?1721427742"
+    }
+  ],
   "660024": [],
   "660671": [
     {
@@ -3631,6 +3817,7 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7495990.jpg?1715202643"
     }
   ],
+  "661146": [],
   "662098": [
     {
       "category": "Open Order Covers",
@@ -3655,6 +3842,16 @@
       "artist": "",
       "alt": "Star Wars #44 Mile High Comics Michael Walsh Variant",
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5601616.jpg?1722422230"
+    }
+  ],
+  "662741": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Galactic Icons Variant Cover (Supreme Leader Snoke - First Order Leader, #8 of 36)",
+      "artist": "Rod Reis",
+      "alt": "Star Wars: Darth Vader #13 Rod Reis Galactic Icons Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3598869.jpg?1709950512"
     }
   ],
   "663585": [
@@ -3720,7 +3917,18 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6873360.jpg?1722422334"
     }
   ],
+  "665909": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Galactic Icons Variant Cover (Chewbacca - Scoundrel, #11 of 36)",
+      "artist": "Rod Reis",
+      "alt": "Star Wars: Darth Vader #14 Rod Reis Galactic Icons Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3580609.jpg?1709932745"
+    }
+  ],
   "666815": [],
+  "667636": [],
   "667657": [
     {
       "category": "Other Covers",
@@ -3747,6 +3955,16 @@
       "artist": "John Tyler Christopher",
       "alt": "Star Wars #47 John Tyler Christopher Action Figure Variant",
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2534872.jpg?1722422378"
+    }
+  ],
+  "669444": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Galactic Icons Variant Cover (Enfys - Marauder, #14 of 36)",
+      "artist": "Rod Reis",
+      "alt": "Star Wars: Darth Vader #16 Rod Reis Galactic Icons Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4296547.jpg?1709933077"
     }
   ],
   "670123": [],
@@ -3786,6 +4004,16 @@
       "artist": "Rod Reis",
       "alt": "Star Wars #49 Rod Reis Galactic Icons Variant",
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3877023.jpg?1722422467"
+    }
+  ],
+  "673014": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Galactic Icons Variant Cover (Darth Maul - Sith Apprentice, #17 of 36)",
+      "artist": "Rod Reis",
+      "alt": "Star Wars: Darth Vader #17 Rod Reis Galactic Icons Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2279280.jpg?1709933232"
     }
   ],
   "674138": [],
@@ -3865,6 +4093,16 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8152872.jpg?1722422549"
     }
   ],
+  "676695": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Galactic Icons Variant Cover (Darth Vader - Sith Lord, #20 of 36)",
+      "artist": "Rod Reis",
+      "alt": "Star Wars: Darth Vader #18 Rod Reis Galactic Icons Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7731451.jpg?1709933380"
+    }
+  ],
   "677296": [
     {
       "category": "Open Order Covers",
@@ -3912,7 +4150,18 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9645186.jpg?1722422702"
     }
   ],
+  "679408": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Galactic Icons Variant Cover (Qui-Gon Jinn - Jedi Master, #23 of 36)",
+      "artist": "Rod Reis",
+      "alt": "Star Wars: Darth Vader #19 Rod Reis Galactic Icons Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3926477.jpg?1714598208"
+    }
+  ],
   "680004": [],
+  "680724": [],
   "680737": [
     {
       "category": "Other Covers",
@@ -3939,6 +4188,16 @@
       "artist": "John Tyler Christopher",
       "alt": "Star Wars #53 John Tyler Christopher Action Figure Variant",
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8889124.jpg?1722422759"
+    }
+  ],
+  "684902": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Galactic Icons Variant Cover (Hondo Ohnaka - Pirate, #26 of 36)",
+      "artist": "Rod Reis",
+      "alt": "Star Wars: Darth Vader #21 Rod Reis Galactic Icons Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6407354.jpg?1714598314"
     }
   ],
   "685856": [
@@ -3980,6 +4239,16 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8185200.jpg?1722422882"
     }
   ],
+  "689040": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Galactic Icons Variant Cover (Jabba the Hutt - Crime Lord, #30 of 36)",
+      "artist": "Rod Reis",
+      "alt": "Star Wars: Darth Vader #22 Rod Reis Galactic Icons Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1320436.jpg?1714598339"
+    }
+  ],
   "689877": [
     {
       "category": "Other Covers",
@@ -4008,6 +4277,16 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1755577.jpg?1722422934"
     }
   ],
+  "692063": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Galactic Icons Variant Cover (IG-88 - Bounty Hunter, #31 of 36)",
+      "artist": "Rod Reis",
+      "alt": "Star Wars: Darth Vader #23 Rod Reis Galactic Icons Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4551143.jpg?1714598371"
+    }
+  ],
   "692083": [
     {
       "category": "Other Covers",
@@ -4028,6 +4307,7 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9053938.jpg?1722422994"
     }
   ],
+  "693459": [],
   "694145": [
     {
       "category": "Open Order Covers",
@@ -4070,6 +4350,24 @@
       "artist": "Rod Reis",
       "alt": "Star Wars: Doctor Aphra #27 Rod Reis Galactic Icons Variant",
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6774976.jpg?1715202500"
+    }
+  ],
+  "695629": [
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Gabriele Dell'Otto",
+      "alt": "Star Wars: Darth Vader #25 1:25 Gabriele Dell'Otto Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9378837.jpg?1714598538"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Galactic Icons Variant Cover (C-3PO - Protocol Droid, #36 of 36)",
+      "artist": "Rod Reis",
+      "alt": "Star Wars: Darth Vader #25 Rod Reis Galactic Icons Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7785012.jpg?1714598491"
     }
   ],
   "696954": [
