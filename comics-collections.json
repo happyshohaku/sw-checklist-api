@@ -2774,5 +2774,407 @@
     "series_id": [
       "89380"
     ]
+  },
+  {
+    "id": 1762200755693,
+    "title": "Star Wars: Doctor Aphra Vol. 1 — Aphra",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/7/78/Doctoraphra-vol1-final-lowres.jpg/revision/latest/scale-to-width-down/100?cb=20190513045440",
+    "release_date": "06/20/2017",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302498337",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 563721,
+        "order": 1,
+        "series_id": "96284"
+      },
+      {
+        "issue_id": 569329,
+        "order": 2,
+        "series_id": "96284"
+      },
+      {
+        "issue_id": 576622,
+        "order": 3,
+        "series_id": "96284"
+      },
+      {
+        "issue_id": 580747,
+        "order": 4,
+        "series_id": "96284"
+      },
+      {
+        "issue_id": 585077,
+        "order": 5,
+        "series_id": "96284"
+      },
+      {
+        "issue_id": 591755,
+        "order": 6,
+        "series_id": "96284"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Doctor_Aphra_Vol._1_%E2%80%94_Aphra",
+    "series_id": [
+      "96284"
+    ]
+  },
+  {
+    "id": 1762200756731,
+    "title": "Star Wars: Doctor Aphra Omnibus Vol. 1",
+    "type": "Omnibus",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/8/8a/Doctor_Aphra_Omnibus_Vol_1_final_cover.jpg/revision/latest/scale-to-width-down/100?cb=20210323173620",
+    "release_date": "03/23/2021",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302928438",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": null,
+        "order": 1,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Special:BookSources/9781302928438",
+        "title": "Special:BookSources/9781302928438"
+      },
+      {
+        "issue_id": null,
+        "order": 2,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/March_23",
+        "title": "March 23"
+      },
+      {
+        "issue_id": null,
+        "order": 3,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/2021",
+        "title": "2021"
+      },
+      {
+        "issue_id": null,
+        "order": 4,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Marvel_Comics",
+        "title": "Marvel Comics"
+      },
+      {
+        "issue_id": null,
+        "order": 5,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Special:BookSources/9781302947941",
+        "title": "Special:BookSources/9781302947941"
+      },
+      {
+        "issue_id": null,
+        "order": 6,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/January_31",
+        "title": "January 31"
+      },
+      {
+        "issue_id": null,
+        "order": 7,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/2023",
+        "title": "2023"
+      },
+      {
+        "issue_id": null,
+        "order": 8,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Marvel_Comics",
+        "title": "Marvel Comics"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Doctor_Aphra_Omnibus_Vol._1",
+    "series_id": []
+  },
+  {
+    "id": 1762200757779,
+    "title": "Star Wars: Doctor Aphra Vol. 2: Doctor Aphra and the Enormous Profit",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/a/a0/Doctor_Aphra_volume_2_final.jpg/revision/latest/scale-to-width-down/100?cb=20190513045641",
+    "release_date": "02/06/2018",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302907631",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 608257,
+        "order": 1,
+        "series_id": "96284"
+      },
+      {
+        "issue_id": 610537,
+        "order": 2,
+        "series_id": "96284"
+      },
+      {
+        "issue_id": 613806,
+        "order": 3,
+        "series_id": "96284"
+      },
+      {
+        "issue_id": 621679,
+        "order": 4,
+        "series_id": "96284"
+      },
+      {
+        "issue_id": 628593,
+        "order": 5,
+        "series_id": "96284"
+      },
+      {
+        "issue_id": null,
+        "order": 6,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Doctor_Aphra_Annual_1",
+        "title": "Doctor Aphra Annual 1"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Doctor_Aphra_Vol._2:_Doctor_Aphra_and_the_Enormous_Profit",
+    "series_id": [
+      "96284"
+    ]
+  },
+  {
+    "id": 1762200758299,
+    "title": "Star Wars: Doctor Aphra Vol. 3: Remastered",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/9/9a/Doctor_Aphra_Vol_3_Final.jpg/revision/latest/scale-to-width-down/100?cb=20190513050133",
+    "release_date": "07/10/2018",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302911522",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 638608,
+        "order": 1,
+        "series_id": "96284"
+      },
+      {
+        "issue_id": 647954,
+        "order": 2,
+        "series_id": "96284"
+      },
+      {
+        "issue_id": 656716,
+        "order": 3,
+        "series_id": "96284"
+      },
+      {
+        "issue_id": 660671,
+        "order": 4,
+        "series_id": "96284"
+      },
+      {
+        "issue_id": 664310,
+        "order": 5,
+        "series_id": "96284"
+      },
+      {
+        "issue_id": 667657,
+        "order": 6,
+        "series_id": "96284"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Doctor_Aphra_Vol._3:_Remastered",
+    "series_id": [
+      "96284"
+    ]
+  },
+  {
+    "id": 1762200758814,
+    "title": "Star Wars: Doctor Aphra Vol. 4 — The Catastrophe Con",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/b/b6/DoctorAphra-Vol4-TheCatastropheCon.jpg/revision/latest/scale-to-width-down/100?cb=20190513050525",
+    "release_date": "01/08/2019",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302911539",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 670758,
+        "order": 1,
+        "series_id": "96284"
+      },
+      {
+        "issue_id": 675154,
+        "order": 2,
+        "series_id": "96284"
+      },
+      {
+        "issue_id": 677978,
+        "order": 3,
+        "series_id": "96284"
+      },
+      {
+        "issue_id": 680737,
+        "order": 4,
+        "series_id": "96284"
+      },
+      {
+        "issue_id": 686394,
+        "order": 5,
+        "series_id": "96284"
+      },
+      {
+        "issue_id": 689877,
+        "order": 6,
+        "series_id": "96284"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Doctor_Aphra_Vol._4_%E2%80%94_The_Catastrophe_Con",
+    "series_id": [
+      "96284"
+    ]
+  },
+  {
+    "id": 1762200759336,
+    "title": "Star Wars: Doctor Aphra Vol. 5 — Worst Among Equals",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/c/c3/DoctorAphraVol5-WorstAmongEquals.jpg/revision/latest/scale-to-width-down/100?cb=20190719031956",
+    "release_date": "06/25/2019",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302914875",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 692083,
+        "order": 1,
+        "series_id": "96284"
+      },
+      {
+        "issue_id": 694927,
+        "order": 2,
+        "series_id": "96284"
+      },
+      {
+        "issue_id": 699410,
+        "order": 3,
+        "series_id": "96284"
+      },
+      {
+        "issue_id": 701947,
+        "order": 4,
+        "series_id": "96284"
+      },
+      {
+        "issue_id": 704829,
+        "order": 5,
+        "series_id": "96284"
+      },
+      {
+        "issue_id": 706962,
+        "order": 6,
+        "series_id": "96284"
+      },
+      {
+        "issue_id": null,
+        "order": 7,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Doctor_Aphra_Annual_2",
+        "title": "Doctor Aphra Annual 2"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Doctor_Aphra_Vol._5_%E2%80%94_Worst_Among_Equals",
+    "series_id": [
+      "96284"
+    ]
+  },
+  {
+    "id": 1762200759851,
+    "title": "Star Wars: Doctor Aphra Vol. 6 — Unspeakable Rebel Superweapon",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/f/f3/Doctor_Aphra_vol_6.jpg/revision/latest/scale-to-width-down/100?cb=20200129120535",
+    "release_date": "12/10/2019",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302914882",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 708142,
+        "order": 1,
+        "series_id": "96284"
+      },
+      {
+        "issue_id": 711957,
+        "order": 2,
+        "series_id": "96284"
+      },
+      {
+        "issue_id": 713865,
+        "order": 3,
+        "series_id": "96284"
+      },
+      {
+        "issue_id": 716971,
+        "order": 4,
+        "series_id": "96284"
+      },
+      {
+        "issue_id": 719446,
+        "order": 5,
+        "series_id": "96284"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Doctor_Aphra_Vol._6_%E2%80%94_Unspeakable_Rebel_Superweapon",
+    "series_id": [
+      "96284"
+    ]
+  },
+  {
+    "id": 1762200760370,
+    "title": "Star Wars: Doctor Aphra Vol. 7 — A Rogue's End",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/4/42/DoctorAphraVol7Final.jpg/revision/latest/scale-to-width-down/100?cb=20200801195736",
+    "release_date": "02/11/2020",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302919092",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 721163,
+        "order": 1,
+        "series_id": "96284"
+      },
+      {
+        "issue_id": 726214,
+        "order": 2,
+        "series_id": "96284"
+      },
+      {
+        "issue_id": 728980,
+        "order": 3,
+        "series_id": "96284"
+      },
+      {
+        "issue_id": 730346,
+        "order": 4,
+        "series_id": "96284"
+      },
+      {
+        "issue_id": null,
+        "order": 5,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Doctor_Aphra_Annual_3",
+        "title": "Doctor Aphra Annual 3"
+      },
+      {
+        "issue_id": null,
+        "order": 6,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Epilogue",
+        "title": "Epilogue"
+      },
+      {
+        "issue_id": null,
+        "order": 7,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Empire_Ascendant_1",
+        "title": "Empire Ascendant 1"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Doctor_Aphra_Vol._7_%E2%80%94_A_Rogue%27s_End",
+    "series_id": [
+      "96284"
+    ]
   }
 ]

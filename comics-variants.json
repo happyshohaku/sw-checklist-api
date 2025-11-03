@@ -1225,6 +1225,24 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2628335.jpg?1719689160"
     }
   ],
+  "487838": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Rebels Television Show Variant Cover",
+      "artist": "Amy Beth Christenson",
+      "alt": "Star Wars: Kanan – The Last Padawan #2 1:15 Amy Beth Christenson TV Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2068303.jpg?1726540299"
+    },
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "CGI Variant Cover",
+      "artist": "CGI",
+      "alt": "Star Wars: Kanan – The Last Padawan #2 1:25 CGI Character Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4580186.jpg?1726540299"
+    }
+  ],
   "488647": [
     {
       "category": "Reprints",
@@ -1327,6 +1345,16 @@
       "artist": "",
       "alt": "Star Wars #6 Montreal Comiccon 2015 Whilce Portacio Variant",
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6737195.jpg?1722561771"
+    }
+  ],
+  "491516": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Rebels Cartoon Variant Cover",
+      "artist": "Bosco NG",
+      "alt": "Star Wars: Kanan – The Last Padawan #3 1:15 Bosco Ng TV Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8421868.jpg?1743245632"
     }
   ],
   "493789": [
@@ -2536,6 +2564,128 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7815814.jpg?1741580186"
     }
   ],
+  "563721": [
+    {
+      "category": "Incentive Covers",
+      "type": "Reg",
+      "name": "Regular Cover",
+      "artist": "Kamome Shirahama",
+      "alt": "Star Wars: Doctor Aphra #1 One Per Store Kamome Shirahama Black & White Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8884666.jpg?1721400607"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Jamie McKelvie",
+      "alt": "Star Wars: Doctor Aphra #1 1:100 Jamie McKelvie Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9553011.jpg?1721400607"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Elsa Charretier",
+      "alt": "Star Wars: Doctor Aphra #1 1:50 Elsa Charretier Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6287939.jpg?1721400607"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Droids Variant Cover",
+      "artist": "Rod Reis",
+      "alt": "Star Wars: Doctor Aphra #1 1:25 Rod Reis Droids Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3334044.jpg?1721400607"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "The Story Thus Far... Variant Cover",
+      "artist": "Salvador Larroca",
+      "alt": "Star Wars: Doctor Aphra #1 Salvador Larroca The Story Thus Far Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3250630.jpg?1721400607"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars: Doctor Aphra #1 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2707713.jpg?1721400607"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Brain Trust Exclusive Variant Cover",
+      "artist": "Ashley Witter",
+      "alt": "Star Wars: Doctor Aphra #1 Brain Trust Ashley Witter Black & White Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5239441.jpg?1721400607"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Brain Trust Exclusive Pink Variant Cover",
+      "artist": "Ashley Witter",
+      "alt": "Star Wars: Doctor Aphra #1 Brain Trust Ashley Witter Pink Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1753836.jpg?1721400607"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Brain Trust Exclusive Sketch Variant Cover",
+      "artist": "Ashley Witter",
+      "alt": "Star Wars: Doctor Aphra #1 Brain Trust Ashley Witter Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9478787.jpg?1721400607"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Frankie's Comics, Sad Lemon Comics, & 7ate9 Exclusive Variant Cover",
+      "artist": "Sara Pichelli",
+      "alt": "Star Wars: Doctor Aphra #1 Frankie's Comics / Sad Lemon Comics / 7ate9 Comics Sara Pichelli Black & White Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9602500.jpg?1721400607"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Frankie's Comics, Sad Lemon Comics, & 7ate9 Exclusive Virgin Variant Cover",
+      "artist": "Sara Pichelli",
+      "alt": "Star Wars: Doctor Aphra #1 Frankie's Comics / Sad Lemon Comics / 7ate9 Comics Sara Pichelli Dark Side Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7973453.jpg?1721400607"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Frankie's Comics, Sad Lemon Comics, & 7ate9 Exclusive Sketch Variant Cover",
+      "artist": "Sara Pichelli",
+      "alt": "Star Wars: Doctor Aphra #1 Frankie's Comics / Sad Lemon Comics / 7ate9 Comics Sara Pichelli Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8924468.jpg?1721400607"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Fried Pie Exclusive Variant Cover",
+      "artist": "Rafael Albuquerque",
+      "alt": "Star Wars: Doctor Aphra #1 Fried Pie Rafael Albuquerque Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6168967.jpg?1721400607"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Neff Box Exclusive Variant Cover",
+      "artist": "David Nakayama",
+      "alt": "Star Wars: Doctor Aphra #1 Neff Box David Nakayama Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2126266.jpg?1721400607"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Doctor Aphra #1 Blank Variant",
+      "artist": "",
+      "alt": "Star Wars: Doctor Aphra #1 Blank Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1894138.jpg?1739514241"
+    }
+  ],
   "566720": [
     {
       "category": "Other Covers",
@@ -2544,6 +2694,32 @@
       "artist": "Mike Hawthorne",
       "alt": "Star Wars: Poe Dameron #9 1:25 Mike Hawthorne Variant",
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7708321.jpg?1718913295"
+    }
+  ],
+  "569329": [
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Annie Wu",
+      "alt": "Star Wars: Doctor Aphra #2 1:50 Annie Wu Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9221607.jpg?1701200560"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Droids Variant Cover",
+      "artist": "Declan Shalvey",
+      "alt": "Star Wars: Doctor Aphra #2 1:25 Declan Shalvey Droids Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7466925.jpg?1705334008"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Dave Dorman",
+      "alt": "Star Wars: Doctor Aphra #2 Dave Dorman Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7137509.jpg?1720865153"
     }
   ],
   "571687": [
@@ -2598,6 +2774,24 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1378005.jpg?1718927900"
     }
   ],
+  "576622": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Doctor Aphra #3 Juan Giménez Star Wars 40th Anniversary Variant",
+      "artist": "",
+      "alt": "Star Wars: Doctor Aphra #3 Juan Giménez Star Wars 40th Anniversary Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3955684.jpg?1705334021"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Doctor Aphra #3 1:25 David López Droids Variant",
+      "artist": "",
+      "alt": "Star Wars: Doctor Aphra #3 1:25 David López Droids Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7932366.jpg?1705334031"
+    }
+  ],
   "578475": [
     {
       "category": "Open Order Covers",
@@ -2650,6 +2844,16 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8332531.jpg?1722421445"
     }
   ],
+  "580747": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars: Doctor Aphra #4 Pepe Larraz Star Wars 40th Anniversary Variant",
+      "artist": "",
+      "alt": "Star Wars: Doctor Aphra #4 Pepe Larraz Star Wars 40th Anniversary Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4284663.jpg?1705334039"
+    }
+  ],
   "581565": [
     {
       "category": "Incentive Covers",
@@ -2692,6 +2896,24 @@
       "artist": "",
       "alt": "Star Wars #29 Mile High Comics Mike Deodato Jr. Variant",
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8609921.jpg?1702936028"
+    }
+  ],
+  "585077": [
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Joe Quinones",
+      "alt": "Star Wars: Doctor Aphra #5 1:25 Joe Quinones Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8960227.jpg?1705334130"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Doctor Aphra #5 Marc Laming Star Wars 40th Anniversary Variant",
+      "artist": "",
+      "alt": "Star Wars: Doctor Aphra #5 Marc Laming Star Wars 40th Anniversary Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3840281.jpg?1710621798"
     }
   ],
   "587415": [
@@ -2738,6 +2960,24 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6698354.jpg?1722421483"
     }
   ],
+  "591755": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars 40th Anniversary Variant Cover",
+      "artist": "Rod Reis",
+      "alt": "Star Wars: Doctor Aphra #6 Rod Reis Star Wars 40th Anniversary Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1694017.jpg?1705334139"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Doctor Aphra #6 1:25 López Variant",
+      "artist": "",
+      "alt": "Star Wars: Doctor Aphra #6 1:25 López Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2218151.jpg?1701205896"
+    }
+  ],
   "592605": [
     {
       "category": "Other Covers",
@@ -2746,6 +2986,16 @@
       "artist": "",
       "alt": "Star Wars: Poe Dameron #13 Jeff Dèkal Star Wars 40th Anniversary Variant",
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5961626.jpg?1718914122"
+    }
+  ],
+  "594126": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars: Poe Dameron #14 David Marquez Star Wars 40th Anniversary Variant",
+      "artist": "",
+      "alt": "Star Wars: Poe Dameron #14 David Marquez Star Wars 40th Anniversary Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8031492.jpg?1719603890"
     }
   ],
   "595703": [
@@ -2775,6 +3025,24 @@
     }
   ],
   "595704": [],
+  "598388": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Doctor Aphra #7 Greg Land Star Wars 40th Anniversary Variant",
+      "artist": "",
+      "alt": "Star Wars: Doctor Aphra #7 Greg Land Star Wars 40th Anniversary Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1650737.jpg?1720864760"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: Doctor Aphra #7 Mile High Comics Exclusive Variant",
+      "artist": "",
+      "alt": "Star Wars: Doctor Aphra #7 Mile High Comics Exclusive Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5696523.jpg?1701206102"
+    }
+  ],
   "601804": [
     {
       "category": "Open Order Covers",
@@ -2799,6 +3067,48 @@
       "artist": "",
       "alt": "Star Wars #32 Will Robson Star Wars 40th Anniversary Variant",
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2951358.jpg?1722421528"
+    }
+  ],
+  "605130": [
+    {
+      "category": "Retailer Exclusives",
+      "type": "Reg",
+      "name": "Regular Cover",
+      "artist": "Marco Checchetto",
+      "alt": "Star Wars: Doctor Aphra #8 Mile High Comics Marco Checchetto Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3340161.jpg?1720864933"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars 40th Anniversary Variant Cover",
+      "artist": "Jen Bartel",
+      "alt": "Star Wars: Doctor Aphra #8 Jen Bartel Star Wars 40th Anniversary Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2486586.jpg?1720864826"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: Doctor Aphra #8 Brain Trust Ashley Witter Color Splash Variant",
+      "artist": "",
+      "alt": "Star Wars: Doctor Aphra #8 Brain Trust Ashley Witter Color Splash Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1395473.jpg?1717580433"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: Doctor Aphra #8 Brain Trust Ashley Witter Sketch Fade Variant",
+      "artist": "",
+      "alt": "Star Wars: Doctor Aphra #8 Brain Trust Ashley Witter Sketch Fade Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1146924.jpg?1717580499"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: Doctor Aphra #8 Brain Trust Ashley Witter Variant",
+      "artist": "",
+      "alt": "Star Wars: Doctor Aphra #8 Brain Trust Ashley Witter Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2180794.jpg?1717580458"
     }
   ],
   "605132": [
@@ -2853,6 +3163,16 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8282872.jpg?1703003743"
     }
   ],
+  "608257": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars: Doctor Aphra #9 Reilly Brown Star Wars 40th Anniversary Variant",
+      "artist": "",
+      "alt": "Star Wars: Doctor Aphra #9 Reilly Brown Star Wars 40th Anniversary Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1937911.jpg?1720864872"
+    }
+  ],
   "609363": [
     {
       "category": "Other Covers",
@@ -2861,6 +3181,26 @@
       "artist": "Paulina Ganucheau",
       "alt": "Star Wars: Poe Dameron #17 Paulina Ganucheau Star Wars 40th Anniversary Variant",
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9457688.jpg?1719771682"
+    }
+  ],
+  "610537": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars 40th Anniversary Variant Cover",
+      "artist": "Caspar Wijngaard",
+      "alt": "Star Wars: Doctor Aphra #10 Caspar Wijngaard Star Wars 40th Anniversary Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7122701.jpg?1720864890"
+    }
+  ],
+  "613806": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars 40th Anniversary Variant Cover",
+      "artist": "Paolo Rivera",
+      "alt": "Star Wars: Doctor Aphra #11 Paolo Rivera Star Wars 40th Anniversary Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5395499.jpg?1720864906"
     }
   ],
   "615032": [
@@ -2951,6 +3291,16 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6883216.jpg?1722421609"
     }
   ],
+  "621679": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars: Doctor Aphra #12 Nick Roche Star Wars 40th Anniversary Variant",
+      "artist": "",
+      "alt": "Star Wars: Doctor Aphra #12 Nick Roche Star Wars 40th Anniversary Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1186223.jpg?1720865045"
+    }
+  ],
   "622953": [
     {
       "category": "Other Covers",
@@ -2993,6 +3343,16 @@
       "artist": "",
       "alt": "Star Wars #37 Mile High Comics Phil Noto Variant",
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4260549.jpg?1722421631"
+    }
+  ],
+  "628593": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars 40th Anniversary Variant Cover",
+      "artist": "Rahzzah",
+      "alt": "Star Wars: Doctor Aphra #13 Rahzzah Star Wars 40th Anniversary Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1793121.jpg?1720865236"
     }
   ],
   "630535": [
@@ -3079,6 +3439,16 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6124255.jpg?1722421680"
     }
   ],
+  "638608": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars 40th Anniversary Variant Cover",
+      "artist": "Mark Brooks",
+      "alt": "Star Wars: Doctor Aphra #14 Mark Brooks Star Wars 40th Anniversary Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1042614.jpg?1720865266"
+    }
+  ],
   "641417": [
     {
       "category": "Open Order Covers",
@@ -3149,6 +3519,16 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1840775.jpg?1722421842"
     }
   ],
+  "647954": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars 40th Anniversary Variant Cover",
+      "artist": "Phil Noto",
+      "alt": "Star Wars: Doctor Aphra #15 Phil Noto Star Wars 40th Anniversary Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4108701.jpg?1720865308"
+    }
+  ],
   "647955": [
     {
       "category": "Other Covers",
@@ -3204,6 +3584,16 @@
     }
   ],
   "655512": [],
+  "656716": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Galactic Icons Variant Cover (Rose - Resistance Fighter)",
+      "artist": "Rod Reis",
+      "alt": "Star Wars: Doctor Aphra #16 Rod Reis Galactic Icons Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9098962.jpg?1715202657"
+    }
+  ],
   "658734": [
     {
       "category": "Open Order Covers",
@@ -3231,6 +3621,16 @@
     }
   ],
   "660024": [],
+  "660671": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Galactic Icons Variant Cover (Luke Skywalker - Force User, #6/36)",
+      "artist": "Rod Reis",
+      "alt": "Star Wars: Doctor Aphra #17 Rod Reis Galactic Icons Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7495990.jpg?1715202643"
+    }
+  ],
   "662098": [
     {
       "category": "Open Order Covers",
@@ -3276,6 +3676,16 @@
     }
   ],
   "663587": [],
+  "664310": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Galactic Icons Variant Cover (Kylo Ren - First Order Leader, #9/36)",
+      "artist": "Rod Reis",
+      "alt": "Star Wars: Doctor Aphra #18 Rod Reis Galactic Icons Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7533911.jpg?1715202629"
+    }
+  ],
   "664923": [
     {
       "category": "Open Order Covers",
@@ -3311,6 +3721,16 @@
     }
   ],
   "666815": [],
+  "667657": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Galactic Icons Variant Cover (Lando Calrissian - Scoundrel, #12/36)",
+      "artist": "Rod Reis",
+      "alt": "Star Wars: Doctor Aphra #19 Rod Reis Galactic Icons Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5438138.jpg?1715202618"
+    }
+  ],
   "668785": [
     {
       "category": "Other Covers",
@@ -3340,6 +3760,16 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3671108.jpg?1722422409"
     }
   ],
+  "670758": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Galactic Icons Variant Cover (Range Trooper, #15/36)",
+      "artist": "Rod Reis",
+      "alt": "Star Wars: Doctor Aphra #20 Rod Reis Galactic Icons Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1121316.jpg?1715202605"
+    }
+  ],
   "672292": [
     {
       "category": "Other Covers",
@@ -3359,6 +3789,16 @@
     }
   ],
   "674138": [],
+  "675154": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Galactic Icons Variant Cover (General Grievous - Separatist, #18/36)",
+      "artist": "Rod Reis",
+      "alt": "Star Wars: Doctor Aphra #21 Rod Reis Galactic Icons Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9846950.jpg?1715202575"
+    }
+  ],
   "675989": [
     {
       "category": "Incentive Covers",
@@ -3444,6 +3884,16 @@
     }
   ],
   "677298": [],
+  "677978": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Galactic Icons Variant Cover (Tarkin - Grand Moff, #21/36)",
+      "artist": "Rod Reis",
+      "alt": "Star Wars: Doctor Aphra #22 Rod Reis Galactic Icons Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6567367.jpg?1715202589"
+    }
+  ],
   "678541": [
     {
       "category": "Other Covers",
@@ -3463,6 +3913,16 @@
     }
   ],
   "680004": [],
+  "680737": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Galactic Icons Variant Cover (Yoda - Jedi Master, #24/36)",
+      "artist": "Rod Reis",
+      "alt": "Star Wars: Doctor Aphra #23 Rod Reis Galactic Icons Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7334365.jpg?1715202562"
+    }
+  ],
   "683837": [
     {
       "category": "Other Covers",
@@ -3491,6 +3951,16 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1432267.jpg?1722422813"
     }
   ],
+  "686394": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Galactic Icons Variant Cover (Boba Fett - Bounty Hunter, #27/36)",
+      "artist": "Rod Reis",
+      "alt": "Star Wars: Doctor Aphra #24 Rod Reis Galactic Icons Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5764118.jpg?1715202549"
+    }
+  ],
   "686395": [],
   "687019": [
     {
@@ -3510,6 +3980,16 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8185200.jpg?1722422882"
     }
   ],
+  "689877": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Galactic Icons Variant Cover (Chelli Lona Aphra - Archaeologist, #29/36)",
+      "artist": "Rod Reis",
+      "alt": "Star Wars: Doctor Aphra #25 Rod Reis Galactic Icons Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8550438.jpg?1715202535"
+    }
+  ],
   "691392": [
     {
       "category": "Other Covers",
@@ -3526,6 +4006,16 @@
       "artist": "Rod Reis",
       "alt": "Star Wars #56 Rod Reis Galactic Icons Variant",
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1755577.jpg?1722422934"
+    }
+  ],
+  "692083": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Galactic Icons Variant Cover (L3-37 - Piloting Droid, #33/36)",
+      "artist": "Rod Reis",
+      "alt": "Star Wars: Doctor Aphra #26 Rod Reis Galactic Icons Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7524133.jpg?1715202513"
     }
   ],
   "692560": [
@@ -3572,6 +4062,16 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5378387.jpg?1722423039"
     }
   ],
+  "694927": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Galactic Icons Variant Cover (R2-D2 - Astromech Droid, #35/36)",
+      "artist": "Rod Reis",
+      "alt": "Star Wars: Doctor Aphra #27 Rod Reis Galactic Icons Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6774976.jpg?1715202500"
+    }
+  ],
   "696954": [
     {
       "category": "Other Covers",
@@ -3600,6 +4100,16 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6034828.jpg?1722423133"
     }
   ],
+  "699410": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars: Doctor Aphra #28 Land Greatest Moments Variant",
+      "artist": "",
+      "alt": "Star Wars: Doctor Aphra #28 Land Greatest Moments Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8228484.jpg?1717582183"
+    }
+  ],
   "700148": [
     {
       "category": "Other Covers",
@@ -3616,6 +4126,16 @@
       "artist": "",
       "alt": "Star Wars #61 Sara Pichelli Greatest Moments Variant",
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2762984.jpg?1722423174"
+    }
+  ],
+  "701947": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars: Doctor Aphra #29 Nowlan Greatest Moments Variant",
+      "artist": "",
+      "alt": "Star Wars: Doctor Aphra #29 Nowlan Greatest Moments Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6882511.jpg?1717581603"
     }
   ],
   "702472": [
@@ -3646,6 +4166,16 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2640426.jpg?1722423235"
     }
   ],
+  "704829": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars: Doctor Aphra #30 Hughes Greatest Hits Variant",
+      "artist": "",
+      "alt": "Star Wars: Doctor Aphra #30 Hughes Greatest Hits Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4185815.jpg?1717581846"
+    }
+  ],
   "705485": [
     {
       "category": "Open Order Covers",
@@ -3672,6 +4202,16 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8237916.jpg?1722423275"
     }
   ],
+  "706962": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars: Doctor Aphra #31 Camuncoli Greatest Moments Variant",
+      "artist": "",
+      "alt": "Star Wars: Doctor Aphra #31 Camuncoli Greatest Moments Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5845281.jpg?1717582121"
+    }
+  ],
   "707523": [
     {
       "category": "Other Covers",
@@ -3688,6 +4228,16 @@
       "artist": "",
       "alt": "Star Wars #65 Cory Smith Greatest Moments Variant",
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9197158.jpg?1722423328"
+    }
+  ],
+  "708142": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars: Doctor Aphra #32 Hans Greatest Moments Variant",
+      "artist": "",
+      "alt": "Star Wars: Doctor Aphra #32 Hans Greatest Moments Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8746225.jpg?1717582055"
     }
   ],
   "709210": [
@@ -3742,6 +4292,52 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9116106.jpg?1722423436"
     }
   ],
+  "711957": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Greatest Moments Variant Cover (Lando's Deal, #17/36)",
+      "artist": "Paul Renaud",
+      "alt": "Star Wars: Doctor Aphra #33 Paul Renaud Greatest Moments Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3611236.jpg?1697135200"
+    }
+  ],
+  "713517": [
+    {
+      "category": "Other Covers",
+      "type": "Reg",
+      "name": "Regular Cover",
+      "artist": "Phil Noto",
+      "alt": "Star Wars #68 SDCC 2019 Phil Noto Black & White Previews Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1323106.jpg?1721679835"
+    },
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Greatest Moments Variant Cover (...I Know (#19/36))",
+      "artist": "Kaare Andrews",
+      "alt": "Star Wars #68 Kaare Andrews Greatest Moments Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9181766.jpg?1729007982"
+    },
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover (AT-ST Driver)",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars #68 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1893655.jpg?1729007982"
+    }
+  ],
+  "713865": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars: Doctor Aphra #34 Caspar Wijngaard Greatest Moments Variant",
+      "artist": "",
+      "alt": "Star Wars: Doctor Aphra #34 Caspar Wijngaard Greatest Moments Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5000792.jpg?1723848422"
+    }
+  ],
   "714244": [
     {
       "category": "Other Covers",
@@ -3770,6 +4366,16 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1290467.jpg?1729008173"
     }
   ],
+  "716971": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars: Doctor Aphra #35 Smallwood Greatest Moments Variant",
+      "artist": "",
+      "alt": "Star Wars: Doctor Aphra #35 Smallwood Greatest Moments Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1353105.jpg?1717582282"
+    }
+  ],
   "718134": [
     {
       "category": "Other Covers",
@@ -3788,6 +4394,16 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2801849.jpg?1729008201"
     }
   ],
+  "719446": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Greatest Moments Variant Cover (The Rancor, #26/36)",
+      "artist": "Jesus Saiz",
+      "alt": "Star Wars: Doctor Aphra #36 Jesus Saiz Greatest Moments Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6068954.jpg?1717582343"
+    }
+  ],
   "721162": [
     {
       "category": "Other Covers",
@@ -3796,6 +4412,16 @@
       "artist": "John Tyler Christopher",
       "alt": "Star Wars #72 John Tyler Christopher Action Figure Variant",
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3278325.jpg?1729008234"
+    }
+  ],
+  "721163": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Greatest Moments Variant Cover (Battle of Takodana, #29/36)",
+      "artist": "Jodie Muir",
+      "alt": "Star Wars: Doctor Aphra #37 Jodie Muir Star Wars Greatest Moments Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1059544.jpg?1697135242"
     }
   ],
   "723865": [
@@ -3822,6 +4448,16 @@
       "artist": "",
       "alt": "Star Wars #73 John Tyler Christopher Store Action Figure Variant",
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5047895.jpg?1729008259"
+    }
+  ],
+  "726214": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Greatest Moments Variant Cover (The Mighty Kylo Ren, #32/36)",
+      "artist": "Tommy Lee Edwards",
+      "alt": "Star Wars: Doctor Aphra #38 Tommy Lee Edwards Star Wars Greatest Moments Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8619227.jpg?1717582424"
     }
   ],
   "727268": [
@@ -3882,6 +4518,26 @@
       "artist": "",
       "alt": "Star Wars #75 MyComicShop eBay R.B. Silva Variant",
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8139144.jpg?1722423885"
+    }
+  ],
+  "728980": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Greatest Moments Variant Cover (Saving What We Love, #34/36)",
+      "artist": "Rahzzah",
+      "alt": "Star Wars: Doctor Aphra #39 Rahzzah Greatest Moments Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6447137.jpg?1717582731"
+    }
+  ],
+  "730346": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars: Doctor Aphra #40 Terry Dodson Greatest Moments Variant",
+      "artist": "",
+      "alt": "Star Wars: Doctor Aphra #40 Terry Dodson Greatest Moments Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5158991.jpg?1717582888"
     }
   ]
 }
