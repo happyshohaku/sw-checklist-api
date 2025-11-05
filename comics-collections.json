@@ -3706,5 +3706,549 @@
     "series_id": [
       "101960"
     ]
+  },
+  {
+    "id": 1762376196646,
+    "title": "Star Wars Vol. 1: The Destiny Path",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/3/36/Star_Wars_Vol_1_The_Destiny_Path_final_cover.jpg/revision/latest/scale-to-width-down/100?cb=20201106105920",
+    "release_date": "11/10/2020",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302920784",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 731978,
+        "order": 1,
+        "series_id": "123860"
+      },
+      {
+        "issue_id": 735530,
+        "order": 2,
+        "series_id": "123860"
+      },
+      {
+        "issue_id": 738620,
+        "order": 3,
+        "series_id": "123860"
+      },
+      {
+        "issue_id": 742378,
+        "order": 4,
+        "series_id": "123860"
+      },
+      {
+        "issue_id": 787355,
+        "order": 5,
+        "series_id": "123860"
+      },
+      {
+        "issue_id": 799953,
+        "order": 6,
+        "series_id": "123860"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._1:_The_Destiny_Path",
+    "series_id": [
+      "123860"
+    ]
+  },
+  {
+    "id": 1762376197166,
+    "title": "Star Wars Vol. 2: Operation Starlight",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/e/e7/Star_Wars_2020_Vol_2.jpg/revision/latest/scale-to-width-down/100?cb=20210406051051",
+    "release_date": "04/06/2021",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302920791",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 807576,
+        "order": 1,
+        "series_id": "123860"
+      },
+      {
+        "issue_id": 816459,
+        "order": 2,
+        "series_id": "123860"
+      },
+      {
+        "issue_id": 820738,
+        "order": 3,
+        "series_id": "123860"
+      },
+      {
+        "issue_id": 824019,
+        "order": 4,
+        "series_id": "123860"
+      },
+      {
+        "issue_id": 827515,
+        "order": 5,
+        "series_id": "123860"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._2:_Operation_Starlight",
+    "series_id": [
+      "123860"
+    ]
+  },
+  {
+    "id": 1762376197684,
+    "title": "Star Wars Vol. 3: War of the Bounty Hunters",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/f/f1/Star_Wars_Vol_3_War_of_the_Bounty_Hunters_final_cover.jpg/revision/latest/scale-to-width-down/100?cb=20211202205248",
+    "release_date": "12/28/2021",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302920807",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 836260,
+        "order": 1,
+        "series_id": "123860"
+      },
+      {
+        "issue_id": 848845,
+        "order": 2,
+        "series_id": "123860"
+      },
+      {
+        "issue_id": 861637,
+        "order": 3,
+        "series_id": "123860"
+      },
+      {
+        "issue_id": 874519,
+        "order": 4,
+        "series_id": "123860"
+      },
+      {
+        "issue_id": 880892,
+        "order": 5,
+        "series_id": "123860"
+      },
+      {
+        "issue_id": 886935,
+        "order": 6,
+        "series_id": "123860"
+      },
+      {
+        "issue_id": 892240,
+        "order": 7,
+        "series_id": "123860"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._3:_War_of_the_Bounty_Hunters",
+    "series_id": [
+      "123860"
+    ]
+  },
+  {
+    "id": 1762376198203,
+    "title": "Star Wars: War of the Bounty Hunters Omnibus",
+    "type": "Omnibus",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/0/04/War-of-the-Bounty-Hunters-Omnibus-cover.jpg/revision/latest/scale-to-width-down/100?cb=20230205053602",
+    "release_date": "12/13/2022",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302947828",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": null,
+        "order": 1,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Special:BookSources/9781302947828",
+        "title": "Special:BookSources/9781302947828"
+      },
+      {
+        "issue_id": null,
+        "order": 2,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/December_13",
+        "title": "December 13"
+      },
+      {
+        "issue_id": null,
+        "order": 3,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/2022",
+        "title": "2022"
+      },
+      {
+        "issue_id": null,
+        "order": 4,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Marvel_Comics",
+        "title": "Marvel Comics"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_War_of_the_Bounty_Hunters_Omnibus",
+    "series_id": []
+  },
+  {
+    "id": 1762376198718,
+    "title": "Star Wars Vol. 4: Crimson Reign",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/a/a8/Star-Wars-Vol4-Crimson-Reign-final-cover.jpg/revision/latest/scale-to-width-down/100?cb=20220727003533",
+    "release_date": "09/13/2022",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302926182",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 897512,
+        "order": 1,
+        "series_id": "123860"
+      },
+      {
+        "issue_id": 902531,
+        "order": 2,
+        "series_id": "123860"
+      },
+      {
+        "issue_id": 909807,
+        "order": 3,
+        "series_id": "123860"
+      },
+      {
+        "issue_id": 916408,
+        "order": 4,
+        "series_id": "123860"
+      },
+      {
+        "issue_id": 921118,
+        "order": 5,
+        "series_id": "123860"
+      },
+      {
+        "issue_id": 929654,
+        "order": 6,
+        "series_id": "123860"
+      },
+      {
+        "issue_id": 937737,
+        "order": 7,
+        "series_id": "123860"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._4:_Crimson_Reign",
+    "series_id": [
+      "123860"
+    ]
+  },
+  {
+    "id": 1762376199233,
+    "title": "Star Wars: Crimson Reign Omnibus",
+    "type": "Omnibus",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/9/98/StarWars-Crimson-Reign-Omnibus-Cover.jpg/revision/latest/scale-to-width-down/100?cb=20241221170928",
+    "release_date": "04/29/2025",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302961848",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": null,
+        "order": 1,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Special:BookSources/9781302961848",
+        "title": "Special:BookSources/9781302961848"
+      },
+      {
+        "issue_id": null,
+        "order": 2,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/April_29",
+        "title": "April 29"
+      },
+      {
+        "issue_id": null,
+        "order": 3,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/2025",
+        "title": "2025"
+      },
+      {
+        "issue_id": null,
+        "order": 4,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Marvel_Comics",
+        "title": "Marvel Comics"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Crimson_Reign_Omnibus",
+    "series_id": []
+  },
+  {
+    "id": 1762376199752,
+    "title": "Star Wars Vol. 5: The Path to Victory",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/a/ac/StarWars-Vol-5-The-Path-To-Victory-final-cover.jpg/revision/latest/scale-to-width-down/100?cb=20230716202047",
+    "release_date": "05/23/2023",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302932749",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 942709,
+        "order": 1,
+        "series_id": "123860"
+      },
+      {
+        "issue_id": 946559,
+        "order": 2,
+        "series_id": "123860"
+      },
+      {
+        "issue_id": 950793,
+        "order": 3,
+        "series_id": "123860"
+      },
+      {
+        "issue_id": 953031,
+        "order": 4,
+        "series_id": "123860"
+      },
+      {
+        "issue_id": 962852,
+        "order": 5,
+        "series_id": "123860"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._5:_The_Path_to_Victory",
+    "series_id": [
+      "123860"
+    ]
+  },
+  {
+    "id": 1762376200264,
+    "title": "Star Wars: Hidden Empire Omnibus",
+    "type": "Omnibus",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/6/6f/StarWars-HiddenEmpire-Omnibus-Final-Cover.jpg/revision/latest/scale-to-width-down/100?cb=20251025024724",
+    "release_date": "02/17/2026",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302961886",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": null,
+        "order": 1,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Special:BookSources/9781302961886",
+        "title": "Special:BookSources/9781302961886"
+      },
+      {
+        "issue_id": null,
+        "order": 2,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/February_17",
+        "title": "February 17"
+      },
+      {
+        "issue_id": null,
+        "order": 3,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/2026",
+        "title": "2026"
+      },
+      {
+        "issue_id": null,
+        "order": 4,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Marvel_Comics",
+        "title": "Marvel Comics"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Hidden_Empire_Omnibus",
+    "series_id": []
+  },
+  {
+    "id": 1762376200786,
+    "title": "Star Wars Vol. 6: Quests of the Force",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/6/6c/StarWars-Vol-6-Quests-of-the-Force-Final-Cover.jpg/revision/latest/scale-to-width-down/100?cb=20230910061042",
+    "release_date": "09/26/2023",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302948085",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 971899,
+        "order": 1,
+        "series_id": "123860"
+      },
+      {
+        "issue_id": 974098,
+        "order": 2,
+        "series_id": "123860"
+      },
+      {
+        "issue_id": 981436,
+        "order": 3,
+        "series_id": "123860"
+      },
+      {
+        "issue_id": 987261,
+        "order": 4,
+        "series_id": "123860"
+      },
+      {
+        "issue_id": 993238,
+        "order": 5,
+        "series_id": "123860"
+      },
+      {
+        "issue_id": 998579,
+        "order": 6,
+        "series_id": "123860"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._6:_Quests_of_the_Force",
+    "series_id": [
+      "123860"
+    ]
+  },
+  {
+    "id": 1762376201298,
+    "title": "Star Wars Vol. 7: Dark Droids",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/4/47/StarWars-Vol-7-Dark-Droids-Final-Cover.jpg/revision/latest/scale-to-width-down/100?cb=20240106174534",
+    "release_date": "03/05/2024",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302948092",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 1006439,
+        "order": 1,
+        "series_id": "123860"
+      },
+      {
+        "issue_id": 1011787,
+        "order": 2,
+        "series_id": "123860"
+      },
+      {
+        "issue_id": 1025166,
+        "order": 3,
+        "series_id": "123860"
+      },
+      {
+        "issue_id": 1027601,
+        "order": 4,
+        "series_id": "123860"
+      },
+      {
+        "issue_id": 1033210,
+        "order": 5,
+        "series_id": "123860"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._7:_Dark_Droids",
+    "series_id": [
+      "123860"
+    ]
+  },
+  {
+    "id": 1762376201812,
+    "title": "Star Wars Vol. 8: The Sith and the Skywalker",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/9/9d/StarWars-Vol-8-The-Sith-and-the-Skywalker-Final-Cover.jpg/revision/latest/scale-to-width-down/100?cb=20240802053752",
+    "release_date": "09/03/2024",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302954789",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 1039587,
+        "order": 1,
+        "series_id": "123860"
+      },
+      {
+        "issue_id": 1045768,
+        "order": 2,
+        "series_id": "123860"
+      },
+      {
+        "issue_id": null,
+        "order": 3,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/A_Trick_of_the_Mind",
+        "title": "A Trick of the Mind"
+      },
+      {
+        "issue_id": null,
+        "order": 4,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Revelations_(2023)_1",
+        "title": "Revelations (2023) 1"
+      },
+      {
+        "issue_id": 1047090,
+        "order": 5,
+        "series_id": "123860"
+      },
+      {
+        "issue_id": 1050576,
+        "order": 6,
+        "series_id": "123860"
+      },
+      {
+        "issue_id": 1056212,
+        "order": 7,
+        "series_id": "123860"
+      },
+      {
+        "issue_id": 1058719,
+        "order": 8,
+        "series_id": "123860"
+      },
+      {
+        "issue_id": null,
+        "order": 9,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Return_to_Echo_Base",
+        "title": "Return to Echo Base"
+      },
+      {
+        "issue_id": null,
+        "order": 10,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Free_Comic_Book_Day_2024:_Star_Wars_1",
+        "title": "Free Comic Book Day 2024: Star Wars 1"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._8:_The_Sith_and_the_Skywalker",
+    "series_id": [
+      "123860"
+    ]
+  },
+  {
+    "id": 1762376202331,
+    "title": "Star Wars Vol. 9: The Path of Light",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/b/bf/StarWars-Vol-9-The-Path-of-Light-Final-Cover.jpg/revision/latest/scale-to-width-down/100?cb=20241004042753",
+    "release_date": "12/03/2024",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302954796",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 1063235,
+        "order": 1,
+        "series_id": "123860"
+      },
+      {
+        "issue_id": 1067249,
+        "order": 2,
+        "series_id": "123860"
+      },
+      {
+        "issue_id": 1069419,
+        "order": 3,
+        "series_id": "123860"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._9:_The_Path_of_Light",
+    "series_id": [
+      "123860"
+    ]
   }
 ]
