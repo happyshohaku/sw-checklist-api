@@ -322,7 +322,7 @@
     "cover_url": "https://static.wikia.nocookie.net/starwars/images/e/eb/Star_Wars_Vol_2_Final_Cover.jpg/revision/latest/scale-to-width-down/400?cb=20180914055243",
     "release_date": "01/13/2016",
     "publisher": "Marvel Comics",
-    "isbn": "9781302484255",
+    "isbn": "9780785192145",
     "amazon_url": null,
     "contents": [
       {
@@ -549,7 +549,7 @@
     "cover_url": "https://static.wikia.nocookie.net/starwars/images/1/17/SW3RebelJailTPB.png/revision/latest/scale-to-width-down/400?cb=20160805175951",
     "release_date": "08/16/2016",
     "publisher": "Marvel Comics",
-    "isbn": "9780606383547",
+    "isbn": "9780785199830",
     "amazon_url": null,
     "contents": [
       {
@@ -806,7 +806,7 @@
     "cover_url": "https://static.wikia.nocookie.net/starwars/images/b/bf/Last_Flight_of_the_Harbinger_final_cover.jpg/revision/latest/scale-to-width-down/400?cb=20201210023513",
     "release_date": "01/17/2017",
     "publisher": "Marvel Comics",
-    "isbn": "9781302495800",
+    "isbn": "9780785199847",
     "amazon_url": null,
     "contents": [
       {
@@ -859,7 +859,7 @@
     "cover_url": "https://static.wikia.nocookie.net/starwars/images/f/f3/StarWarsVol5-YodasSecretWar.jpg/revision/latest/scale-to-width-down/400?cb=20170524160812",
     "release_date": "07/04/2017",
     "publisher": "Marvel Comics",
-    "isbn": "9781302499013",
+    "isbn": "9781302902650",
     "amazon_url": null,
     "contents": [
       {
@@ -992,7 +992,7 @@
     "cover_url": "https://static.wikia.nocookie.net/starwars/images/6/64/Screaming_CItadel_TPB_Final_cover.jpg/revision/latest/scale-to-width-down/400?cb=20180212134956",
     "release_date": "10/11/2017",
     "publisher": "Marvel Comics",
-    "isbn": "9781302500184",
+    "isbn": "9781302906788",
     "amazon_url": null,
     "contents": [
       {
@@ -2217,7 +2217,7 @@
     "cover_url": "https://static.wikia.nocookie.net/starwars/images/9/98/SWDarthVader4TPB.png/revision/latest/scale-to-width-down/400?cb=20201210022902",
     "release_date": "11/23/2016",
     "publisher": "Marvel Comics",
-    "isbn": "9781302493929",
+    "isbn": "9780785199786",
     "amazon_url": null,
     "contents": [
       {
@@ -2477,7 +2477,7 @@
     "cover_url": "https://static.wikia.nocookie.net/starwars/images/e/ec/Kanan_First_Blood_TPB_final_cover.jpg/revision/latest/scale-to-width-down/400?cb=20180129050909",
     "release_date": "05/18/2016",
     "publisher": "Marvel Comics",
-    "isbn": "9781302486327",
+    "isbn": "9780785196037",
     "amazon_url": null,
     "contents": [
       {
@@ -2524,7 +2524,7 @@
     "cover_url": "https://static.wikia.nocookie.net/starwars/images/b/bf/Poedameron-vol1-final.jpg/revision/latest/scale-to-width-down/400?cb=20171015175236",
     "release_date": "12/07/2016",
     "publisher": "Marvel Comics",
-    "isbn": "9781302495046",
+    "isbn": "9781302901103",
     "amazon_url": null,
     "contents": [
       {
@@ -2577,7 +2577,7 @@
     "cover_url": "https://static.wikia.nocookie.net/starwars/images/4/4b/Poedameron-vol2-final-lowres.jpg/revision/latest/scale-to-width-down/400?cb=20171003161505",
     "release_date": "06/21/2017",
     "publisher": "Marvel Comics",
-    "isbn": "9781302498344",
+    "isbn": "9781302901110",
     "amazon_url": null,
     "contents": [
       {
@@ -2782,7 +2782,7 @@
     "cover_url": "https://static.wikia.nocookie.net/starwars/images/7/78/Doctoraphra-vol1-final-lowres.jpg/revision/latest/scale-to-width-down/400?cb=20190513045440",
     "release_date": "06/20/2017",
     "publisher": "Marvel Comics",
-    "isbn": "9781302498337",
+    "isbn": "9781302906771",
     "amazon_url": null,
     "contents": [
       {
@@ -3184,7 +3184,7 @@
     "cover_url": "https://static.wikia.nocookie.net/starwars/images/8/8e/DarthVader-DLotS-Volume1.jpg/revision/latest/scale-to-width-down/400?cb=20201120052220",
     "release_date": "11/21/2017",
     "publisher": "Marvel Comics",
-    "isbn": "9781302501051",
+    "isbn": "9781302907440",
     "amazon_url": null,
     "contents": [
       {
@@ -6446,6 +6446,221 @@
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Legacy_of_Vader_%E2%80%93_The_Reign_of_Kylo_Ren_Vol._2",
     "series_id": [
       "162323"
+    ]
+  },
+  {
+    "id": 1762591010471,
+    "title": "Star Wars: Jedi Knights Vol. 1 – Guardians Of The Republic",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/e/ed/Jedi-Knights-Vol-1-Final-Cover.jpg/revision/latest/scale-to-width-down/100?cb=20251024045514",
+    "release_date": "11/04/2025",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302963200",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 1097719,
+        "order": 1,
+        "series_id": "162624"
+      },
+      {
+        "issue_id": 1102466,
+        "order": 2,
+        "series_id": "162624"
+      },
+      {
+        "issue_id": 1109660,
+        "order": 3,
+        "series_id": "162624"
+      },
+      {
+        "issue_id": 1114020,
+        "order": 4,
+        "series_id": "162624"
+      },
+      {
+        "issue_id": 1117441,
+        "order": 5,
+        "series_id": "162624"
+      },
+      {
+        "issue_id": null,
+        "order": 6,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/The_Moon_of_Death",
+        "title": "The Moon of Death"
+      },
+      {
+        "issue_id": null,
+        "order": 7,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Free_Comic_Book_Day_2025:_Star_Wars_1",
+        "title": "Free Comic Book Day 2025: Star Wars 1"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Jedi_Knights_Vol._1_%E2%80%93_Guardians_Of_The_Republic",
+    "series_id": [
+      "162624"
+    ]
+  },
+  {
+    "id": 1762591010990,
+    "title": "Star Wars: Jedi Knights Vol. 2 – A Higher Path",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/b/b9/Jedi-Knights-6-Textless-Cover.jpg/revision/latest/scale-to-width-down/100?cb=20250710064618",
+    "release_date": "04/14/2026",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302963217",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 1125797,
+        "order": 1,
+        "series_id": "162624"
+      },
+      {
+        "issue_id": 1131770,
+        "order": 2,
+        "series_id": "162624"
+      },
+      {
+        "issue_id": 1139087,
+        "order": 3,
+        "series_id": "162624"
+      },
+      {
+        "issue_id": null,
+        "order": 4,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Jedi_Knights_9",
+        "title": "Jedi Knights 9"
+      },
+      {
+        "issue_id": null,
+        "order": 5,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Jedi_Knights_10",
+        "title": "Jedi Knights 10"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Jedi_Knights_Vol._2_%E2%80%93_A_Higher_Path",
+    "series_id": [
+      "162624"
+    ]
+  },
+  {
+    "id": 1762608985458,
+    "title": "Star Wars: New Republic",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/5/5a/StarWars2025-1-Textless-Cover.jpg/revision/latest/scale-to-width-down/100?cb=20250412173827",
+    "release_date": "05/12/2026",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302960926",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 1108857,
+        "order": 1,
+        "series_id": "164202"
+      },
+      {
+        "issue_id": 1115835,
+        "order": 2,
+        "series_id": "164202"
+      },
+      {
+        "issue_id": 1120412,
+        "order": 3,
+        "series_id": "164202"
+      },
+      {
+        "issue_id": 1127227,
+        "order": 4,
+        "series_id": "164202"
+      },
+      {
+        "issue_id": 1133844,
+        "order": 5,
+        "series_id": "164202"
+      },
+      {
+        "issue_id": 1136129,
+        "order": 6,
+        "series_id": "164202"
+      },
+      {
+        "issue_id": 496399,
+        "order": 7,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 497960,
+        "order": 8,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": 500309,
+        "order": 9,
+        "series_id": "79398"
+      },
+      {
+        "issue_id": null,
+        "order": 10,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Past_is_Prologue",
+        "title": "Past is Prologue"
+      },
+      {
+        "issue_id": null,
+        "order": 11,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Free_Comic_Book_Day_2025:_Star_Wars_1",
+        "title": "Free Comic Book Day 2025: Star Wars 1"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_New_Republic",
+    "series_id": [
+      "164202",
+      "79398"
+    ]
+  },
+  {
+    "id": 1762635356385,
+    "title": "Star Wars: Doctor Aphra – Chaos Agent (trade paperback)",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/2/27/DA-AgenetOfChaos-TPB.jpg/revision/latest/scale-to-width-down/100?cb=20250801211914",
+    "release_date": "05/19/2026",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302963224",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 1116309,
+        "order": 1,
+        "series_id": "165088"
+      },
+      {
+        "issue_id": 1121730,
+        "order": 2,
+        "series_id": "165088"
+      },
+      {
+        "issue_id": 1128958,
+        "order": 3,
+        "series_id": "165088"
+      },
+      {
+        "issue_id": 1134946,
+        "order": 4,
+        "series_id": "165088"
+      },
+      {
+        "issue_id": 1140616,
+        "order": 5,
+        "series_id": "165088"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Doctor_Aphra_%E2%80%93_Chaos_Agent_(trade_paperback)",
+    "series_id": [
+      "165088"
     ]
   }
 ]
