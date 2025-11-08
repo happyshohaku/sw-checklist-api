@@ -4250,5 +4250,2202 @@
     "series_id": [
       "123860"
     ]
+  },
+  {
+    "id": 1762459070254,
+    "title": "Star Wars: Darth Vader Vol. 1 — Dark Heart of the Sith",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/2/20/Darth_Vader_Vol_1_Dark_Heart_of_the_Sith_final_cover.jpg/revision/latest/scale-to-width-down/100?cb=20201119083007",
+    "release_date": "11/24/2020",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302920814",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 736498,
+        "order": 1,
+        "series_id": "124821"
+      },
+      {
+        "issue_id": 740826,
+        "order": 2,
+        "series_id": "124821"
+      },
+      {
+        "issue_id": 784414,
+        "order": 3,
+        "series_id": "124821"
+      },
+      {
+        "issue_id": 791928,
+        "order": 4,
+        "series_id": "124821"
+      },
+      {
+        "issue_id": 799954,
+        "order": 5,
+        "series_id": "124821"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_Vol._1_%E2%80%94_Dark_Heart_of_the_Sith",
+    "series_id": [
+      "124821"
+    ]
+  },
+  {
+    "id": 1762459070791,
+    "title": "Star Wars: Darth Vader Vol. 2 — Into the Fire",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/f/fb/Star_Wars_Darth_Vader_Vol_2_Into_the_Fire_final_cover.jpg/revision/latest/scale-to-width-down/100?cb=20210602054811",
+    "release_date": "06/22/2021",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302920821",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 810731,
+        "order": 1,
+        "series_id": "124821"
+      },
+      {
+        "issue_id": 817700,
+        "order": 2,
+        "series_id": "124821"
+      },
+      {
+        "issue_id": 821475,
+        "order": 3,
+        "series_id": "124821"
+      },
+      {
+        "issue_id": 824439,
+        "order": 4,
+        "series_id": "124821"
+      },
+      {
+        "issue_id": 828187,
+        "order": 5,
+        "series_id": "124821"
+      },
+      {
+        "issue_id": 846080,
+        "order": 6,
+        "series_id": "124821"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_Vol._2_%E2%80%94_Into_the_Fire",
+    "series_id": [
+      "124821"
+    ]
+  },
+  {
+    "id": 1762459071308,
+    "title": "Star Wars: Darth Vader Vol. 3 — War of the Bounty Hunters",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/f/f4/Star_Wars_Darth_Vader_Vol_3_War_of_the_Bounty_Hunters_final_cover.jpg/revision/latest/scale-to-width-down/100?cb=20211202204017",
+    "release_date": "12/21/2021",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302926229",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 855597,
+        "order": 1,
+        "series_id": "124821"
+      },
+      {
+        "issue_id": 863843,
+        "order": 2,
+        "series_id": "124821"
+      },
+      {
+        "issue_id": 872863,
+        "order": 3,
+        "series_id": "124821"
+      },
+      {
+        "issue_id": 882026,
+        "order": 4,
+        "series_id": "124821"
+      },
+      {
+        "issue_id": 884818,
+        "order": 5,
+        "series_id": "124821"
+      },
+      {
+        "issue_id": 891560,
+        "order": 6,
+        "series_id": "124821"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_Vol._3_%E2%80%94_War_of_the_Bounty_Hunters",
+    "series_id": [
+      "124821"
+    ]
+  },
+  {
+    "id": 1762459072347,
+    "title": "Star Wars: Darth Vader Vol. 4 — Crimson Reign",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/5/59/StarWars-Darth-Vader-Vol-4-Crimson-Reign-Final-Cover.jpg/revision/latest/scale-to-width-down/100?cb=20220906032204",
+    "release_date": "10/18/2022",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302926236",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 896644,
+        "order": 1,
+        "series_id": "124821"
+      },
+      {
+        "issue_id": 899198,
+        "order": 2,
+        "series_id": "124821"
+      },
+      {
+        "issue_id": 906639,
+        "order": 3,
+        "series_id": "124821"
+      },
+      {
+        "issue_id": 912159,
+        "order": 4,
+        "series_id": "124821"
+      },
+      {
+        "issue_id": 916409,
+        "order": 5,
+        "series_id": "124821"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_Vol._4_%E2%80%94_Crimson_Reign",
+    "series_id": [
+      "124821"
+    ]
+  },
+  {
+    "id": 1762459073383,
+    "title": "Star Wars: Darth Vader Vol. 5 — The Shadow's Shadow",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/f/f7/SWDarthVaderVol5-TheShadowsShadow.jpg/revision/latest/scale-to-width-down/100?cb=20240411042741",
+    "release_date": "01/10/2023",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302932671",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": null,
+        "order": 1,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Special:BookSources/9781302932671",
+        "title": "Special:BookSources/9781302932671"
+      },
+      {
+        "issue_id": null,
+        "order": 2,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/January_10",
+        "title": "January 10"
+      },
+      {
+        "issue_id": null,
+        "order": 3,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/2023",
+        "title": "2023"
+      },
+      {
+        "issue_id": null,
+        "order": 4,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Marvel_Comics",
+        "title": "Marvel Comics"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_Vol._5_%E2%80%94_The_Shadow%27s_Shadow",
+    "series_id": []
+  },
+  {
+    "id": 1762459073897,
+    "title": "Star Wars: Darth Vader Vol. 6 – Return of the Handmaidens",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/b/bb/StarWars-DarthVader-Vol-6-Return-of-the-Handmaidens-Final-Cover.jpg/revision/latest/scale-to-width-down/100?cb=20240411054209",
+    "release_date": "06/27/2023",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302948108",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 951454,
+        "order": 1,
+        "series_id": "124821"
+      },
+      {
+        "issue_id": 957968,
+        "order": 2,
+        "series_id": "124821"
+      },
+      {
+        "issue_id": 963994,
+        "order": 3,
+        "series_id": "124821"
+      },
+      {
+        "issue_id": 969394,
+        "order": 4,
+        "series_id": "124821"
+      },
+      {
+        "issue_id": 978491,
+        "order": 5,
+        "series_id": "124821"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_Vol._6_%E2%80%93_Return_of_the_Handmaidens",
+    "series_id": [
+      "124821"
+    ]
+  },
+  {
+    "id": 1762459074937,
+    "title": "Star Wars: Darth Vader Vol. 7 – Unbound Force",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/4/4c/StarWars-DarthVader-Vol-7-Unbound-Force-Final-Cover.jpg/revision/latest/scale-to-width-down/100?cb=20231002043329",
+    "release_date": "10/10/2023",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302948115",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 987264,
+        "order": 1,
+        "series_id": "124821"
+      },
+      {
+        "issue_id": 988152,
+        "order": 2,
+        "series_id": "124821"
+      },
+      {
+        "issue_id": 994361,
+        "order": 3,
+        "series_id": "124821"
+      },
+      {
+        "issue_id": 1000240,
+        "order": 4,
+        "series_id": "124821"
+      },
+      {
+        "issue_id": 483346,
+        "order": 5,
+        "series_id": "79990"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_Vol._7_%E2%80%93_Unbound_Force",
+    "series_id": [
+      "124821",
+      "79990"
+    ]
+  },
+  {
+    "id": 1762459075456,
+    "title": "Star Wars: Darth Vader Vol. 8 – Dark Droids",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/f/f1/StarWars-DarthVader-Vol-8-Dark-Droids-Final-Cover.jpg/revision/latest/scale-to-width-down/100?cb=20240106174807",
+    "release_date": "04/09/2024",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302954758",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 1008946,
+        "order": 1,
+        "series_id": "124821"
+      },
+      {
+        "issue_id": 1013498,
+        "order": 2,
+        "series_id": "124821"
+      },
+      {
+        "issue_id": 1020540,
+        "order": 3,
+        "series_id": "124821"
+      },
+      {
+        "issue_id": 1028631,
+        "order": 4,
+        "series_id": "124821"
+      },
+      {
+        "issue_id": 1035964,
+        "order": 5,
+        "series_id": "124821"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_Vol._8_%E2%80%93_Dark_Droids",
+    "series_id": [
+      "124821"
+    ]
+  },
+  {
+    "id": 1762459075979,
+    "title": "Star Wars: Darth Vader Vol. 9 – Rise of the Schism Imperial",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/2/29/StarWars-DarthVader-Vol-9-Rise-of-the-Schism-Imperial-Final-Cover.jpg/revision/latest/scale-to-width-down/100?cb=20240802054038",
+    "release_date": "09/10/2024",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302954765",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": null,
+        "order": 1,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Tool_of_the_Empire",
+        "title": "Tool of the Empire"
+      },
+      {
+        "issue_id": null,
+        "order": 2,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Revelations_(2023)_1",
+        "title": "Revelations (2023) 1"
+      },
+      {
+        "issue_id": 1038983,
+        "order": 3,
+        "series_id": "124821"
+      },
+      {
+        "issue_id": 1044783,
+        "order": 4,
+        "series_id": "124821"
+      },
+      {
+        "issue_id": 1047952,
+        "order": 5,
+        "series_id": "124821"
+      },
+      {
+        "issue_id": 1051127,
+        "order": 6,
+        "series_id": "124821"
+      },
+      {
+        "issue_id": null,
+        "order": 7,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/The_Phantom_Menace_25th_Anniversary_Special_1",
+        "title": "The Phantom Menace 25th Anniversary Special 1"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_Vol._9_%E2%80%93_Rise_of_the_Schism_Imperial",
+    "series_id": [
+      "124821"
+    ]
+  },
+  {
+    "id": 1762459076531,
+    "title": "Star Wars: Darth Vader Vol. 10 – Phantoms",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/a/af/StarWars-DarthVader-Vol-10-Phantoms-Final-Cover.jpg/revision/latest/scale-to-width-down/100?cb=20241213041459",
+    "release_date": "12/31/2024",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302956189",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 1054381,
+        "order": 1,
+        "series_id": "124821"
+      },
+      {
+        "issue_id": 1059271,
+        "order": 2,
+        "series_id": "124821"
+      },
+      {
+        "issue_id": 1064206,
+        "order": 3,
+        "series_id": "124821"
+      },
+      {
+        "issue_id": 1066704,
+        "order": 4,
+        "series_id": "124821"
+      },
+      {
+        "issue_id": 1070137,
+        "order": 5,
+        "series_id": "124821"
+      },
+      {
+        "issue_id": null,
+        "order": 6,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/The_Curse_(comic_story)",
+        "title": "The Curse (comic story)"
+      },
+      {
+        "issue_id": null,
+        "order": 7,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Free_Comic_Book_Day_2024:_Star_Wars_1",
+        "title": "Free Comic Book Day 2024: Star Wars 1"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_Vol._10_%E2%80%93_Phantoms",
+    "series_id": [
+      "124821"
+    ]
+  },
+  {
+    "id": 1762497223602,
+    "title": "Star Wars: Bounty Hunters Vol. 1 — Galaxy's Deadliest",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/5/55/Bounty_Hunters_Vol_1_TPB_final_cover.jpg/revision/latest/scale-to-width-down/100?cb=20201119083425",
+    "release_date": "11/24/2020",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302920838",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 740825,
+        "order": 1,
+        "series_id": "125679"
+      },
+      {
+        "issue_id": 743450,
+        "order": 2,
+        "series_id": "125679"
+      },
+      {
+        "issue_id": 769755,
+        "order": 3,
+        "series_id": "125679"
+      },
+      {
+        "issue_id": 794940,
+        "order": 4,
+        "series_id": "125679"
+      },
+      {
+        "issue_id": 803650,
+        "order": 5,
+        "series_id": "125679"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Bounty_Hunters_Vol._1_%E2%80%94_Galaxy%27s_Deadliest",
+    "series_id": [
+      "125679"
+    ]
+  },
+  {
+    "id": 1762497224120,
+    "title": "Star Wars: Bounty Hunters Vol. 2 — Target Valance",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/0/0c/Bounty_Hunters_Vol_2_Target_Valance_final_cover.jpg/revision/latest/scale-to-width-down/100?cb=20210604224200",
+    "release_date": "06/08/2021",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302920845",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 813288,
+        "order": 1,
+        "series_id": "125679"
+      },
+      {
+        "issue_id": 819094,
+        "order": 2,
+        "series_id": "125679"
+      },
+      {
+        "issue_id": 822341,
+        "order": 3,
+        "series_id": "125679"
+      },
+      {
+        "issue_id": 826551,
+        "order": 4,
+        "series_id": "125679"
+      },
+      {
+        "issue_id": 838544,
+        "order": 5,
+        "series_id": "125679"
+      },
+      {
+        "issue_id": 842956,
+        "order": 6,
+        "series_id": "125679"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Bounty_Hunters_Vol._2_%E2%80%94_Target_Valance",
+    "series_id": [
+      "125679"
+    ]
+  },
+  {
+    "id": 1762497224639,
+    "title": "Star Wars: Bounty Hunters Vol. 3 — War of the Bounty Hunters",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/1/18/Star_Wars_Bounty_Hunters_Vol_3_War_of_the_Bounty_Hunters_final_cover.jpg/revision/latest/scale-to-width-down/100?cb=20220108161802",
+    "release_date": "01/11/2022",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302928810",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 851300,
+        "order": 1,
+        "series_id": "125679"
+      },
+      {
+        "issue_id": 858870,
+        "order": 2,
+        "series_id": "125679"
+      },
+      {
+        "issue_id": 868595,
+        "order": 3,
+        "series_id": "125679"
+      },
+      {
+        "issue_id": 877056,
+        "order": 4,
+        "series_id": "125679"
+      },
+      {
+        "issue_id": 885602,
+        "order": 5,
+        "series_id": "125679"
+      },
+      {
+        "issue_id": 892241,
+        "order": 6,
+        "series_id": "125679"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Bounty_Hunters_Vol._3_%E2%80%94_War_of_the_Bounty_Hunters",
+    "series_id": [
+      "125679"
+    ]
+  },
+  {
+    "id": 1762497225661,
+    "title": "Star Wars: Bounty Hunters Vol. 4 — Crimson Reign",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/8/8f/StarWars-Bounty-Hunters-Vol-4-Crimson-Reign-Final-Cover.jpg/revision/latest/scale-to-width-down/100?cb=20220902062437",
+    "release_date": "10/25/2022",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302933012",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 896643,
+        "order": 1,
+        "series_id": "125679"
+      },
+      {
+        "issue_id": 900398,
+        "order": 2,
+        "series_id": "125679"
+      },
+      {
+        "issue_id": 902529,
+        "order": 3,
+        "series_id": "125679"
+      },
+      {
+        "issue_id": 913174,
+        "order": 4,
+        "series_id": "125679"
+      },
+      {
+        "issue_id": 914650,
+        "order": 5,
+        "series_id": "125679"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Bounty_Hunters_Vol._4_%E2%80%94_Crimson_Reign",
+    "series_id": [
+      "125679"
+    ]
+  },
+  {
+    "id": 1762497226690,
+    "title": "Star Wars: Bounty Hunters Vol. 5 — The Raid on the Vermillion",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/0/0d/StarWars-Bounty-Hunters-Vol-5-Raid-on-the-Vermillion-Final-Cover.jpg/revision/latest/scale-to-width-down/100?cb=20221123024401",
+    "release_date": "02/14/2023",
+    "publisher": "Marvel Comics",
+    "isbn": "9780785194798",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 928440,
+        "order": 1,
+        "series_id": "125679"
+      },
+      {
+        "issue_id": 930982,
+        "order": 2,
+        "series_id": "125679"
+      },
+      {
+        "issue_id": 935778,
+        "order": 3,
+        "series_id": "125679"
+      },
+      {
+        "issue_id": 941570,
+        "order": 4,
+        "series_id": "125679"
+      },
+      {
+        "issue_id": 946721,
+        "order": 5,
+        "series_id": "125679"
+      },
+      {
+        "issue_id": 953029,
+        "order": 6,
+        "series_id": "125679"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Bounty_Hunters_Vol._5_%E2%80%94_The_Raid_on_the_Vermillion",
+    "series_id": [
+      "125679"
+    ]
+  },
+  {
+    "id": 1762497227720,
+    "title": "Star Wars: Bounty Hunters Vol. 6 — Bedlam on Bestine",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/4/43/StarWars-Bounty-Hunters-Vol-6-Bedlam-on-Bestine-Final-Cover.jpg/revision/latest/scale-to-width-down/100?cb=20230910060540",
+    "release_date": "09/19/2023",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302948016",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 960019,
+        "order": 1,
+        "series_id": "125679"
+      },
+      {
+        "issue_id": 964953,
+        "order": 2,
+        "series_id": "125679"
+      },
+      {
+        "issue_id": 971898,
+        "order": 3,
+        "series_id": "125679"
+      },
+      {
+        "issue_id": 975683,
+        "order": 4,
+        "series_id": "125679"
+      },
+      {
+        "issue_id": 982365,
+        "order": 5,
+        "series_id": "125679"
+      },
+      {
+        "issue_id": 989668,
+        "order": 6,
+        "series_id": "125679"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Bounty_Hunters_Vol._6_%E2%80%94_Bedlam_on_Bestine",
+    "series_id": [
+      "125679"
+    ]
+  },
+  {
+    "id": 1762497228231,
+    "title": "Star Wars: Bounty Hunters Vol. 7 — Dark Droids",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/1/1e/StarWars-Bounty-Hunters-Vol-7-Dark-Droids-Final-Cover.jpg/revision/latest/scale-to-width-down/100?cb=20240305223102",
+    "release_date": "04/16/2024",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302948023",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 996025,
+        "order": 1,
+        "series_id": "125679"
+      },
+      {
+        "issue_id": 1000239,
+        "order": 2,
+        "series_id": "125679"
+      },
+      {
+        "issue_id": 1010946,
+        "order": 3,
+        "series_id": "125679"
+      },
+      {
+        "issue_id": 1014898,
+        "order": 4,
+        "series_id": "125679"
+      },
+      {
+        "issue_id": 1020539,
+        "order": 5,
+        "series_id": "125679"
+      },
+      {
+        "issue_id": 1030787,
+        "order": 6,
+        "series_id": "125679"
+      },
+      {
+        "issue_id": 1034346,
+        "order": 7,
+        "series_id": "125679"
+      },
+      {
+        "issue_id": 1040945,
+        "order": 8,
+        "series_id": "125679"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Bounty_Hunters_Vol._7_%E2%80%94_Dark_Droids",
+    "series_id": [
+      "125679"
+    ]
+  },
+  {
+    "id": 1762548737099,
+    "title": "Star Wars: Doctor Aphra Vol. 1 — Fortune and Fate",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/e/ee/Doctor_Aphra_Fortune_and_Fate_final_cover.jpg/revision/latest/scale-to-width-down/100?cb=20210113053701",
+    "release_date": "01/26/2021",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302923044",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 758307,
+        "order": 1,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 781437,
+        "order": 2,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 796301,
+        "order": 3,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 805098,
+        "order": 4,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 814494,
+        "order": 5,
+        "series_id": "126644"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Doctor_Aphra_Vol._1_%E2%80%94_Fortune_and_Fate",
+    "series_id": [
+      "126644"
+    ]
+  },
+  {
+    "id": 1762548737620,
+    "title": "Star Wars: Doctor Aphra Omnibus Vol. 2",
+    "type": "Omnibus",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/c/cf/Doctor-Aphra-Omnibus-Vol-2-Cover.jpg/revision/latest/scale-to-width-down/100?cb=20230606050048",
+    "release_date": "08/29/2023",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302949990",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 758307,
+        "order": 1,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 781437,
+        "order": 2,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 796301,
+        "order": 3,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 805098,
+        "order": 4,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 814494,
+        "order": 5,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 819477,
+        "order": 6,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 825502,
+        "order": 7,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 839783,
+        "order": 8,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 844957,
+        "order": 9,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 855599,
+        "order": 10,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 866575,
+        "order": 11,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 871537,
+        "order": 12,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 882027,
+        "order": 13,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 884066,
+        "order": 14,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 889454,
+        "order": 15,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 894455,
+        "order": 16,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 901351,
+        "order": 17,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 903921,
+        "order": 18,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 912251,
+        "order": 19,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 925008,
+        "order": 20,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 933089,
+        "order": 21,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 939091,
+        "order": 22,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 943908,
+        "order": 23,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 949155,
+        "order": 24,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 952309,
+        "order": 25,
+        "series_id": "126644"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Doctor_Aphra_Omnibus_Vol._2",
+    "series_id": [
+      "126644"
+    ]
+  },
+  {
+    "id": 1762548738132,
+    "title": "Star Wars: Doctor Aphra Vol. 2 — The Engine Job",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/d/df/Star_Wars_Doctor_Aphra_Vol_2_The_Engine_Job_final_cover.jpg/revision/latest/scale-to-width-down/100?cb=20210724142410",
+    "release_date": "08/10/2021",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302923051",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 819477,
+        "order": 1,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 825502,
+        "order": 2,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 839783,
+        "order": 3,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 844957,
+        "order": 4,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 855599,
+        "order": 5,
+        "series_id": "126644"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Doctor_Aphra_Vol._2_%E2%80%94_The_Engine_Job",
+    "series_id": [
+      "126644"
+    ]
+  },
+  {
+    "id": 1762548739173,
+    "title": "Star Wars: Doctor Aphra Vol. 3 — War of the Bounty Hunters",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/c/ca/Star_Wars_Doctor_Aphra_Vol_3_War_of_the_Bounty_Hunters_final_cover.jpg/revision/latest/scale-to-width-down/100?cb=20211202205725",
+    "release_date": "12/14/2021",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302928797",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 866575,
+        "order": 1,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 871537,
+        "order": 2,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 882027,
+        "order": 3,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 884066,
+        "order": 4,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 889454,
+        "order": 5,
+        "series_id": "126644"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Doctor_Aphra_Vol._3_%E2%80%94_War_of_the_Bounty_Hunters",
+    "series_id": [
+      "126644"
+    ]
+  },
+  {
+    "id": 1762548740464,
+    "title": "Star Wars: Doctor Aphra Vol. 4 — Crimson Reign",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/1/18/StarWars-Doctor-Aphra-Vol-4-Crimson-Reign-Final-Cover.jpg/revision/latest/scale-to-width-down/100?cb=20220906032736",
+    "release_date": "10/25/2022",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302933029",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 894455,
+        "order": 1,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 901351,
+        "order": 2,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 903921,
+        "order": 3,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 912251,
+        "order": 4,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 925008,
+        "order": 5,
+        "series_id": "126644"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Doctor_Aphra_Vol._4_%E2%80%94_Crimson_Reign",
+    "series_id": [
+      "126644"
+    ]
+  },
+  {
+    "id": 1762548742489,
+    "title": "Star Wars: Doctor Aphra Vol. 5 — The Spark Eternal",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/9/9a/StarWars-Doctor-Aphra-Vol-5-The-Spark-Eternal-Final-Cover.jpg/revision/latest/scale-to-width-down/100?cb=20221213162930",
+    "release_date": "12/27/2022",
+    "publisher": "Marvel Comics",
+    "isbn": "9780785194781",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 933089,
+        "order": 1,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 939091,
+        "order": 2,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 943908,
+        "order": 3,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 949155,
+        "order": 4,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 952309,
+        "order": 5,
+        "series_id": "126644"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Doctor_Aphra_Vol._5_%E2%80%94_The_Spark_Eternal",
+    "series_id": [
+      "126644"
+    ]
+  },
+  {
+    "id": 1762548744548,
+    "title": "Star Wars: Doctor Aphra Vol. 6 — Ascendant",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/0/04/StarWars-Doctor-Aphra-Vol-6-Ascendant-Final-Cover.jpg/revision/latest/scale-to-width-down/100?cb=20230726192057",
+    "release_date": "08/01/2023",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302948030",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 955115,
+        "order": 1,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 961954,
+        "order": 2,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 966427,
+        "order": 3,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 973032,
+        "order": 4,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 982364,
+        "order": 5,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 987263,
+        "order": 6,
+        "series_id": "126644"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Doctor_Aphra_Vol._6_%E2%80%94_Ascendant",
+    "series_id": [
+      "126644"
+    ]
+  },
+  {
+    "id": 1762548745562,
+    "title": "Star Wars: Doctor Aphra – Friends & Enemies Omnibus",
+    "type": "Omnibus",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/f/f2/Doctor-Aphra-Omnibus-Friends%26Enemies-Cover.jpg/revision/latest/scale-to-width-down/100?cb=20250902053229",
+    "release_date": "12/02/2025",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302961305",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 955115,
+        "order": 1,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 961954,
+        "order": 2,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 966427,
+        "order": 3,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 973032,
+        "order": 4,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 982364,
+        "order": 5,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 987263,
+        "order": 6,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 992416,
+        "order": 7,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 997383,
+        "order": 8,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 1001999,
+        "order": 9,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 1010054,
+        "order": 10,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 1018029,
+        "order": 11,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 1026556,
+        "order": 12,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 1029693,
+        "order": 13,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 1035965,
+        "order": 14,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 1042836,
+        "order": 15,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": null,
+        "order": 16,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Tall_Tales",
+        "title": "Tall Tales"
+      },
+      {
+        "issue_id": null,
+        "order": 17,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Revelations_(2023)_1",
+        "title": "Revelations (2023) 1"
+      },
+      {
+        "issue_id": null,
+        "order": 18,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Sana_Starros_1",
+        "title": "Sana Starros 1"
+      },
+      {
+        "issue_id": null,
+        "order": 19,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Sana_Starros_2",
+        "title": "Sana Starros 2"
+      },
+      {
+        "issue_id": null,
+        "order": 20,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Sana_Starros_3",
+        "title": "Sana Starros 3"
+      },
+      {
+        "issue_id": null,
+        "order": 21,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Sana_Starros_4",
+        "title": "Sana Starros 4"
+      },
+      {
+        "issue_id": null,
+        "order": 22,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Sana_Starros_5",
+        "title": "Sana Starros 5"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Doctor_Aphra_%E2%80%93_Friends_%26_Enemies_Omnibus",
+    "series_id": [
+      "126644"
+    ]
+  },
+  {
+    "id": 1762548746565,
+    "title": "Star Wars: Doctor Aphra Vol. 7 — Dark Droids",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/6/64/StarWars-Doctor-Aphra-Vol-7-Dark-Droids-Final-Cover.jpg/revision/latest/scale-to-width-down/100?cb=20240305223534",
+    "release_date": "04/23/2024",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302948047",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 992416,
+        "order": 1,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 997383,
+        "order": 2,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 1001999,
+        "order": 3,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 1010054,
+        "order": 4,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 1018029,
+        "order": 5,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 1026556,
+        "order": 6,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 1029693,
+        "order": 7,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 1035965,
+        "order": 8,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": 1042836,
+        "order": 9,
+        "series_id": "126644"
+      },
+      {
+        "issue_id": null,
+        "order": 10,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Tall_Tales_(Revelations)",
+        "title": "Tall Tales (Revelations)"
+      },
+      {
+        "issue_id": null,
+        "order": 11,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Revelations_(2023)_1",
+        "title": "Revelations (2023) 1"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Doctor_Aphra_Vol._7_%E2%80%94_Dark_Droids",
+    "series_id": [
+      "126644"
+    ]
+  },
+  {
+    "id": 1762584778817,
+    "title": "Star Wars: The High Republic Vol. 1 – There is No Fear",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/6/6d/Star_Wars_The_High_Republic_Vol_1_There_is_No_Fear_final_cover.jpg/revision/latest/scale-to-width-down/100?cb=20210815075310",
+    "release_date": "08/24/2021",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302927530",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 824020,
+        "order": 1,
+        "series_id": "133079"
+      },
+      {
+        "issue_id": 827516,
+        "order": 2,
+        "series_id": "133079"
+      },
+      {
+        "issue_id": 832857,
+        "order": 3,
+        "series_id": "133079"
+      },
+      {
+        "issue_id": 842195,
+        "order": 4,
+        "series_id": "133079"
+      },
+      {
+        "issue_id": 848846,
+        "order": 5,
+        "series_id": "133079"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_The_High_Republic_Vol._1_%E2%80%93_There_is_No_Fear",
+    "series_id": [
+      "133079"
+    ]
+  },
+  {
+    "id": 1762584779328,
+    "title": "Star Wars: The High Republic Phase I – Light of the Jedi Omnibus",
+    "type": "Omnibus",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/0/0c/The-High-Republic-Phase-I-Omnibus-Final-Cover.jpg/revision/latest/scale-to-width-down/100?cb=20231005045015",
+    "release_date": "10/17/2023",
+    "publisher": "Marvel Comics",
+    "isbn": "9780785194880",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 824020,
+        "order": 1,
+        "series_id": "133079"
+      },
+      {
+        "issue_id": 827516,
+        "order": 2,
+        "series_id": "133079"
+      },
+      {
+        "issue_id": 832857,
+        "order": 3,
+        "series_id": "133079"
+      },
+      {
+        "issue_id": 842195,
+        "order": 4,
+        "series_id": "133079"
+      },
+      {
+        "issue_id": 848846,
+        "order": 5,
+        "series_id": "133079"
+      },
+      {
+        "issue_id": 866576,
+        "order": 6,
+        "series_id": "133079"
+      },
+      {
+        "issue_id": 874520,
+        "order": 7,
+        "series_id": "133079"
+      },
+      {
+        "issue_id": 878790,
+        "order": 8,
+        "series_id": "133079"
+      },
+      {
+        "issue_id": 882882,
+        "order": 9,
+        "series_id": "133079"
+      },
+      {
+        "issue_id": 890598,
+        "order": 10,
+        "series_id": "133079"
+      },
+      {
+        "issue_id": 894113,
+        "order": 11,
+        "series_id": "133079"
+      },
+      {
+        "issue_id": 898529,
+        "order": 12,
+        "series_id": "133079"
+      },
+      {
+        "issue_id": 903810,
+        "order": 13,
+        "series_id": "133079"
+      },
+      {
+        "issue_id": 905798,
+        "order": 14,
+        "series_id": "133079"
+      },
+      {
+        "issue_id": 909808,
+        "order": 15,
+        "series_id": "133079"
+      },
+      {
+        "issue_id": null,
+        "order": 16,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/The_High_Republic:_Trail_of_Shadows_1",
+        "title": "The High Republic: Trail of Shadows 1"
+      },
+      {
+        "issue_id": null,
+        "order": 17,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/The_High_Republic:_Trail_of_Shadows_2",
+        "title": "The High Republic: Trail of Shadows 2"
+      },
+      {
+        "issue_id": null,
+        "order": 18,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/The_High_Republic:_Trail_of_Shadows_3",
+        "title": "The High Republic: Trail of Shadows 3"
+      },
+      {
+        "issue_id": null,
+        "order": 19,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/The_High_Republic:_Trail_of_Shadows_4",
+        "title": "The High Republic: Trail of Shadows 4"
+      },
+      {
+        "issue_id": null,
+        "order": 20,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/The_High_Republic:_Trail_of_Shadows_5",
+        "title": "The High Republic: Trail of Shadows 5"
+      },
+      {
+        "issue_id": null,
+        "order": 21,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/The_High_Republic:_Eye_of_the_Storm_1",
+        "title": "The High Republic: Eye of the Storm 1"
+      },
+      {
+        "issue_id": null,
+        "order": 22,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/The_High_Republic:_Eye_of_the_Storm_2",
+        "title": "The High Republic: Eye of the Storm 2"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_The_High_Republic_Phase_I_%E2%80%93_Light_of_the_Jedi_Omnibus",
+    "series_id": [
+      "133079"
+    ]
+  },
+  {
+    "id": 1762584779848,
+    "title": "Star Wars: The High Republic Vol. 2 – The Heart of Drengir",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/9/9a/Star_Wars_The_High_Republic_Vol_2_The_Heart_of_Drengir.jpg/revision/latest/scale-to-width-down/100?cb=20211117065438",
+    "release_date": "12/07/2021",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302931421",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 866576,
+        "order": 1,
+        "series_id": "133079"
+      },
+      {
+        "issue_id": 874520,
+        "order": 2,
+        "series_id": "133079"
+      },
+      {
+        "issue_id": 878790,
+        "order": 3,
+        "series_id": "133079"
+      },
+      {
+        "issue_id": 882882,
+        "order": 4,
+        "series_id": "133079"
+      },
+      {
+        "issue_id": 890598,
+        "order": 5,
+        "series_id": "133079"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_The_High_Republic_Vol._2_%E2%80%93_The_Heart_of_Drengir",
+    "series_id": [
+      "133079"
+    ]
+  },
+  {
+    "id": 1762584780373,
+    "title": "Star Wars: The High Republic Vol. 3 – Jedi's End",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/b/be/SWTHRVol3-JedisEnd.jpg/revision/latest/scale-to-width-down/100?cb=20220402160906",
+    "release_date": "05/03/2022",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302932770",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 894113,
+        "order": 1,
+        "series_id": "133079"
+      },
+      {
+        "issue_id": 898529,
+        "order": 2,
+        "series_id": "133079"
+      },
+      {
+        "issue_id": 903810,
+        "order": 3,
+        "series_id": "133079"
+      },
+      {
+        "issue_id": 905798,
+        "order": 4,
+        "series_id": "133079"
+      },
+      {
+        "issue_id": 909808,
+        "order": 5,
+        "series_id": "133079"
+      },
+      {
+        "issue_id": null,
+        "order": 6,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/The_High_Republic:_Eye_of_the_Storm_1",
+        "title": "The High Republic: Eye of the Storm 1"
+      },
+      {
+        "issue_id": null,
+        "order": 7,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/The_High_Republic:_Eye_of_the_Storm_2",
+        "title": "The High Republic: Eye of the Storm 2"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_The_High_Republic_Vol._3_%E2%80%93_Jedi%27s_End",
+    "series_id": [
+      "133079"
+    ]
+  },
+  {
+    "id": 1762586212421,
+    "title": "Star Wars: The High Republic Phase II Vol. 1 – Balance of the Force",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/d/db/TheHighRepublic-2022-Balance-of-the-Force-Final-Cover.jpg/revision/latest/scale-to-width-down/100?cb=20230524042047",
+    "release_date": "05/02/2023",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302947026",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 950691,
+        "order": 1,
+        "series_id": "145478"
+      },
+      {
+        "issue_id": 953978,
+        "order": 2,
+        "series_id": "145478"
+      },
+      {
+        "issue_id": 961960,
+        "order": 3,
+        "series_id": "145478"
+      },
+      {
+        "issue_id": 963995,
+        "order": 4,
+        "series_id": "145478"
+      },
+      {
+        "issue_id": 969395,
+        "order": 5,
+        "series_id": "145478"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_The_High_Republic_Phase_II_Vol._1_%E2%80%93_Balance_of_the_Force",
+    "series_id": [
+      "145478"
+    ]
+  },
+  {
+    "id": 1762586212936,
+    "title": "Star Wars: The High Republic Phase II – Quest of the Jedi Omnibus",
+    "type": "Omnibus",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/0/08/The-High-Republic-Phase-II-Omnibus-Final-Cover.jpg/revision/latest/scale-to-width-down/100?cb=20240720050204",
+    "release_date": "11/12/2024",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302958497",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 950691,
+        "order": 1,
+        "series_id": "145478"
+      },
+      {
+        "issue_id": null,
+        "order": 2,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Peace_and_Unity",
+        "title": "Peace and Unity"
+      },
+      {
+        "issue_id": 953978,
+        "order": 3,
+        "series_id": "145478"
+      },
+      {
+        "issue_id": 961960,
+        "order": 4,
+        "series_id": "145478"
+      },
+      {
+        "issue_id": 963995,
+        "order": 5,
+        "series_id": "145478"
+      },
+      {
+        "issue_id": 969395,
+        "order": 6,
+        "series_id": "145478"
+      },
+      {
+        "issue_id": 975684,
+        "order": 7,
+        "series_id": "145478"
+      },
+      {
+        "issue_id": 979436,
+        "order": 8,
+        "series_id": "145478"
+      },
+      {
+        "issue_id": 982367,
+        "order": 9,
+        "series_id": "145478"
+      },
+      {
+        "issue_id": 988153,
+        "order": 10,
+        "series_id": "145478"
+      },
+      {
+        "issue_id": 991072,
+        "order": 11,
+        "series_id": "145478"
+      },
+      {
+        "issue_id": null,
+        "order": 12,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/The_High_Republic_%E2%80%94_The_Blade_1",
+        "title": "The High Republic — The Blade 1"
+      },
+      {
+        "issue_id": null,
+        "order": 13,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/The_High_Republic_%E2%80%94_The_Blade_2",
+        "title": "The High Republic — The Blade 2"
+      },
+      {
+        "issue_id": null,
+        "order": 14,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/The_High_Republic_%E2%80%94_The_Blade_3",
+        "title": "The High Republic — The Blade 3"
+      },
+      {
+        "issue_id": null,
+        "order": 15,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/The_High_Republic_%E2%80%94_The_Blade_4",
+        "title": "The High Republic — The Blade 4"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_The_High_Republic_Phase_II_%E2%80%93_Quest_of_the_Jedi_Omnibus",
+    "series_id": [
+      "145478"
+    ]
+  },
+  {
+    "id": 1762586213560,
+    "title": "Star Wars: The High Republic Phase II Vol. 2 – Battle for the Force",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/9/92/TheHighRepublic-2022-Battle-for-the-Force-Final-Cover.jpg/revision/latest/scale-to-width-down/100?cb=20230814045758",
+    "release_date": "08/22/2023",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302947033",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 975684,
+        "order": 1,
+        "series_id": "145478"
+      },
+      {
+        "issue_id": 979436,
+        "order": 2,
+        "series_id": "145478"
+      },
+      {
+        "issue_id": 982367,
+        "order": 3,
+        "series_id": "145478"
+      },
+      {
+        "issue_id": 988153,
+        "order": 4,
+        "series_id": "145478"
+      },
+      {
+        "issue_id": 991072,
+        "order": 5,
+        "series_id": "145478"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_The_High_Republic_Phase_II_Vol._2_%E2%80%93_Battle_for_the_Force",
+    "series_id": [
+      "145478"
+    ]
+  },
+  {
+    "id": 1762588737764,
+    "title": "Star Wars: The High Republic Phase III Vol. 1 – Children of the Storm",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/c/cc/TheHighRepublic-2023-Children-of-the-Storm-Final-Cover.jpg/revision/latest/scale-to-width-down/100?cb=20240511054804",
+    "release_date": "06/11/2024",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302954994",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 1028633,
+        "order": 1,
+        "series_id": "154553"
+      },
+      {
+        "issue_id": 1035966,
+        "order": 2,
+        "series_id": "154553"
+      },
+      {
+        "issue_id": 1040947,
+        "order": 3,
+        "series_id": "154553"
+      },
+      {
+        "issue_id": 1047089,
+        "order": 4,
+        "series_id": "154553"
+      },
+      {
+        "issue_id": 1048674,
+        "order": 5,
+        "series_id": "154553"
+      },
+      {
+        "issue_id": null,
+        "order": 6,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/All_the_Republic",
+        "title": "All the Republic"
+      },
+      {
+        "issue_id": null,
+        "order": 7,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Revelations_(2023)_1",
+        "title": "Revelations (2023) 1"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_The_High_Republic_Phase_III_Vol._1_%E2%80%93_Children_of_the_Storm",
+    "series_id": [
+      "154553"
+    ]
+  },
+  {
+    "id": 1762588738281,
+    "title": "Star Wars: The High Republic Phase III – Trials of the Jedi Omnibus",
+    "type": "Omnibus",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/4/43/TheHighRepublic-FearoftheJedi1-VirginCover.jpg/revision/latest/scale-to-width-down/100?cb=20250215065922",
+    "release_date": "04/21/2026",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302961329",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 1028633,
+        "order": 1,
+        "series_id": "154553"
+      },
+      {
+        "issue_id": 1035966,
+        "order": 2,
+        "series_id": "154553"
+      },
+      {
+        "issue_id": 1040947,
+        "order": 3,
+        "series_id": "154553"
+      },
+      {
+        "issue_id": 1047089,
+        "order": 4,
+        "series_id": "154553"
+      },
+      {
+        "issue_id": 1048674,
+        "order": 5,
+        "series_id": "154553"
+      },
+      {
+        "issue_id": 1051128,
+        "order": 6,
+        "series_id": "154553"
+      },
+      {
+        "issue_id": 1054382,
+        "order": 7,
+        "series_id": "154553"
+      },
+      {
+        "issue_id": 1058722,
+        "order": 8,
+        "series_id": "154553"
+      },
+      {
+        "issue_id": 1061876,
+        "order": 9,
+        "series_id": "154553"
+      },
+      {
+        "issue_id": 1066306,
+        "order": 10,
+        "series_id": "154553"
+      },
+      {
+        "issue_id": null,
+        "order": 11,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/All_the_Republic",
+        "title": "All the Republic"
+      },
+      {
+        "issue_id": null,
+        "order": 12,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Revelations_(2023)_1",
+        "title": "Revelations (2023) 1"
+      },
+      {
+        "issue_id": null,
+        "order": 13,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/The_Acolyte_-_Kelnacca_1",
+        "title": "The Acolyte - Kelnacca 1"
+      },
+      {
+        "issue_id": null,
+        "order": 14,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/The_High_Republic_%E2%80%93_Shadows_of_Starlight_1",
+        "title": "The High Republic – Shadows of Starlight 1"
+      },
+      {
+        "issue_id": null,
+        "order": 15,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/The_High_Republic_%E2%80%93_Shadows_of_Starlight_2",
+        "title": "The High Republic – Shadows of Starlight 2"
+      },
+      {
+        "issue_id": null,
+        "order": 16,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/The_High_Republic_%E2%80%93_Shadows_of_Starlight_3",
+        "title": "The High Republic – Shadows of Starlight 3"
+      },
+      {
+        "issue_id": null,
+        "order": 17,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/The_High_Republic_%E2%80%93_Shadows_of_Starlight_4",
+        "title": "The High Republic – Shadows of Starlight 4"
+      },
+      {
+        "issue_id": null,
+        "order": 18,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/The_High_Republic_%E2%80%93_Fear_of_the_Jedi_1",
+        "title": "The High Republic – Fear of the Jedi 1"
+      },
+      {
+        "issue_id": null,
+        "order": 19,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/The_High_Republic_%E2%80%93_Fear_of_the_Jedi_2",
+        "title": "The High Republic – Fear of the Jedi 2"
+      },
+      {
+        "issue_id": null,
+        "order": 20,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/The_High_Republic_%E2%80%93_Fear_of_the_Jedi_3",
+        "title": "The High Republic – Fear of the Jedi 3"
+      },
+      {
+        "issue_id": null,
+        "order": 21,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/The_High_Republic_%E2%80%93_Fear_of_the_Jedi_4",
+        "title": "The High Republic – Fear of the Jedi 4"
+      },
+      {
+        "issue_id": null,
+        "order": 22,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/The_High_Republic_%E2%80%93_Fear_of_the_Jedi_5",
+        "title": "The High Republic – Fear of the Jedi 5"
+      },
+      {
+        "issue_id": null,
+        "order": 23,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/The_High_Republic_%E2%80%93_The_Finale_1",
+        "title": "The High Republic – The Finale 1"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_The_High_Republic_Phase_III_%E2%80%93_Trials_of_the_Jedi_Omnibus",
+    "series_id": [
+      "154553"
+    ]
+  },
+  {
+    "id": 1762588738810,
+    "title": "Star Wars: The High Republic Phase III Vol. 2 – The Hunted",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/9/97/TheHighRepublic-2023-The-Hunted-Final-Cover.jpg/revision/latest/scale-to-width-down/100?cb=20241004042433",
+    "release_date": "11/19/2024",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302955007",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 1051128,
+        "order": 1,
+        "series_id": "154553"
+      },
+      {
+        "issue_id": 1054382,
+        "order": 2,
+        "series_id": "154553"
+      },
+      {
+        "issue_id": 1058722,
+        "order": 3,
+        "series_id": "154553"
+      },
+      {
+        "issue_id": 1061876,
+        "order": 4,
+        "series_id": "154553"
+      },
+      {
+        "issue_id": 1066306,
+        "order": 5,
+        "series_id": "154553"
+      },
+      {
+        "issue_id": null,
+        "order": 6,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/The_Acolyte_-_Kelnacca_1",
+        "title": "The Acolyte - Kelnacca 1"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_The_High_Republic_Phase_III_Vol._2_%E2%80%93_The_Hunted",
+    "series_id": [
+      "154553"
+    ]
+  },
+  {
+    "id": 1762590019930,
+    "title": "Star Wars: Legacy of Vader – The Reign of Kylo Ren Vol. 1",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/6/62/LegacyofVader-Vol-1-The-Rign-of-Kylo-Ren-Final-Cover.jpg/revision/latest/scale-to-width-down/100?cb=20250902151331",
+    "release_date": "10/07/2025",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302960940",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": null,
+        "order": 1,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Legacy_of_Vane%C3%A9",
+        "title": "Legacy of Vaneé"
+      },
+      {
+        "issue_id": null,
+        "order": 2,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Free_Comic_Book_Day_2025:_Star_Wars_1",
+        "title": "Free Comic Book Day 2025: Star Wars 1"
+      },
+      {
+        "issue_id": 1094616,
+        "order": 3,
+        "series_id": "162323"
+      },
+      {
+        "issue_id": 1098349,
+        "order": 4,
+        "series_id": "162323"
+      },
+      {
+        "issue_id": 1104107,
+        "order": 5,
+        "series_id": "162323"
+      },
+      {
+        "issue_id": 1111723,
+        "order": 6,
+        "series_id": "162323"
+      },
+      {
+        "issue_id": 1116818,
+        "order": 7,
+        "series_id": "162323"
+      },
+      {
+        "issue_id": 1119103,
+        "order": 8,
+        "series_id": "162323"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Legacy_of_Vader_%E2%80%93_The_Reign_of_Kylo_Ren_Vol._1",
+    "series_id": [
+      "162323"
+    ]
+  },
+  {
+    "id": 1762590020447,
+    "title": "Star Wars: Legacy of Vader – The Reign of Kylo Ren Vol. 2",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/5/52/LegacyofVader-Vol-2-Solicitation.jpg/revision/latest/scale-to-width-down/100?cb=20251102004452",
+    "release_date": "03/31/2026",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302960957",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 1124672,
+        "order": 1,
+        "series_id": "162323"
+      },
+      {
+        "issue_id": 1130269,
+        "order": 2,
+        "series_id": "162323"
+      },
+      {
+        "issue_id": 1138116,
+        "order": 3,
+        "series_id": "162323"
+      },
+      {
+        "issue_id": 1141929,
+        "order": 4,
+        "series_id": "162323"
+      },
+      {
+        "issue_id": null,
+        "order": 5,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Legacy_of_Vader_11",
+        "title": "Legacy of Vader 11"
+      },
+      {
+        "issue_id": null,
+        "order": 6,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Legacy_of_Vader_12",
+        "title": "Legacy of Vader 12"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Legacy_of_Vader_%E2%80%93_The_Reign_of_Kylo_Ren_Vol._2",
+    "series_id": [
+      "162323"
+    ]
   }
 ]
