@@ -2,7 +2,6 @@
   {
     "id": 475858,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "1",
     "issue_number_sort": 1,
     "name": "Book I, Part I: Skywalker Strikes",
@@ -44,7 +43,6 @@
   {
     "id": 502133,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "10",
     "issue_number_sort": 10,
     "name": "Book II, Part III: Showdown On the Smugglers' Moon",
@@ -79,7 +77,6 @@
   {
     "id": 504949,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "11",
     "issue_number_sort": 11,
     "name": "Book II, Part IV: Showdown On the Smugglers' Moon",
@@ -114,7 +111,6 @@
   {
     "id": 506184,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "12",
     "issue_number_sort": 12,
     "name": "Book II, Part V: Showdown On the Smugglers' Moon",
@@ -150,7 +146,6 @@
   {
     "id": 507188,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "13",
     "issue_number_sort": 13,
     "name": "Book III, Part III: Vader Down",
@@ -187,7 +182,6 @@
   {
     "id": 510504,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "14",
     "issue_number_sort": 14,
     "name": "Book III, Part V: Vader Down",
@@ -224,7 +218,6 @@
   {
     "id": 511521,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "15",
     "issue_number_sort": 15,
     "name": "From the Journals of Old Ben Kenobi",
@@ -258,7 +251,6 @@
   {
     "id": 516094,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "16",
     "issue_number_sort": 16,
     "name": "Book IV, Part I: Rebel Jail",
@@ -291,7 +283,6 @@
   {
     "id": 521343,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "17",
     "issue_number_sort": 17,
     "name": "Book IV, Part II: Rebel Jail",
@@ -322,7 +313,6 @@
   {
     "id": 527157,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "18",
     "issue_number_sort": 18,
     "name": "Book IV, Part III: Rebel Jail",
@@ -355,7 +345,6 @@
   {
     "id": 531901,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "19",
     "issue_number_sort": 19,
     "name": "Book IV, Part IV: Rebel Jail",
@@ -391,7 +380,6 @@
   {
     "id": 478615,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "2",
     "issue_number_sort": 2,
     "name": "Book I, Part II: Skywalker Strikes",
@@ -424,7 +412,6 @@
   {
     "id": 535367,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "20",
     "issue_number_sort": 20,
     "name": "From the Journals of Old Ben Kenobi",
@@ -455,7 +442,6 @@
   {
     "id": 540085,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "21",
     "issue_number_sort": 21,
     "name": "Book V, Part I: The Last Flight of the Harbinger",
@@ -487,7 +473,6 @@
   {
     "id": 546065,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "22",
     "issue_number_sort": 22,
     "name": "Book V, Part II: The Last Flight of the Harbinger",
@@ -519,7 +504,6 @@
   {
     "id": 551319,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "23",
     "issue_number_sort": 23,
     "name": "Book V, Part III: The Last Flight of the Harbinger",
@@ -561,7 +545,6 @@
   {
     "id": 555540,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "24",
     "issue_number_sort": 24,
     "name": "Book V, Part IV: The Last Flight of the Harbinger",
@@ -601,7 +584,6 @@
   {
     "id": 558975,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "25",
     "issue_number_sort": 25,
     "name": "Book V, Part V: The Last Flight of the Harbinger",
@@ -641,7 +623,6 @@
   {
     "id": 571687,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "26",
     "issue_number_sort": 26,
     "name": "Book VI, Part I: Yoda's Secret War",
@@ -682,7 +663,6 @@
   {
     "id": 578475,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "27",
     "issue_number_sort": 27,
     "name": "Book VI, Part II: Yoda's Secret War",
@@ -710,7 +690,6 @@
   {
     "id": 579324,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "28",
     "issue_number_sort": 28,
     "name": "Book VI, Part III: Yoda's Secret War",
@@ -739,7 +718,6 @@
   {
     "id": 583731,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "29",
     "issue_number_sort": 29,
     "name": "Book VI, Part IV: Yoda's Secret War",
@@ -768,7 +746,6 @@
   {
     "id": 482166,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "3",
     "issue_number_sort": 3,
     "name": "Book I, Part III: Skywalker Strikes",
@@ -801,7 +778,6 @@
   {
     "id": 590807,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "30",
     "issue_number_sort": 30,
     "name": "Book VI, Part V: Yoda's Secret War",
@@ -830,7 +806,6 @@
   {
     "id": 595703,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "31",
     "issue_number_sort": 31,
     "name": "The Screaming Citadel Book VII, Part II",
@@ -868,7 +843,6 @@
   {
     "id": 601804,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "32",
     "issue_number_sort": 32,
     "name": "The Screaming Citadel Part IV",
@@ -906,7 +880,6 @@
   {
     "id": 606640,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "33",
     "issue_number_sort": 33,
     "name": "Rebels In the Wild",
@@ -935,7 +908,6 @@
   {
     "id": 615032,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "34",
     "issue_number_sort": 34,
     "name": "The Thirteen Crates",
@@ -968,7 +940,6 @@
   {
     "id": 617853,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "35",
     "issue_number_sort": 35,
     "name": "The Hutt Run",
@@ -999,7 +970,6 @@
   {
     "id": 621678,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "36",
     "issue_number_sort": 36,
     "name": "Revenge of the Astromech",
@@ -1036,7 +1006,6 @@
   {
     "id": 626298,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "37",
     "issue_number_sort": 37,
     "name": "Imperial Pride; The Sand Will Provide",
@@ -1079,7 +1048,6 @@
   {
     "id": 636386,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "38",
     "issue_number_sort": 38,
     "name": "The Ashes of Jedha Part I",
@@ -1114,7 +1082,6 @@
   {
     "id": 641417,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "39",
     "issue_number_sort": 39,
     "name": "The Ashes of Jedha Part II",
@@ -1149,7 +1116,6 @@
   {
     "id": 486727,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "4",
     "issue_number_sort": 4,
     "name": "Book I, Part IV: Skywalker Strikes",
@@ -1189,7 +1155,6 @@
   {
     "id": 646200,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "40",
     "issue_number_sort": 40,
     "name": "The Ashes of Jedha Part III",
@@ -1223,7 +1188,6 @@
   {
     "id": 650928,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "41",
     "issue_number_sort": 41,
     "name": "The Ashes of Jedha Part IV",
@@ -1257,7 +1221,6 @@
   {
     "id": 654062,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "42",
     "issue_number_sort": 42,
     "name": "The Ashes of Jedha Part V",
@@ -1292,7 +1255,6 @@
   {
     "id": 658734,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "43",
     "issue_number_sort": 43,
     "name": "The Ashes of Jedha Part VI",
@@ -1327,7 +1289,6 @@
   {
     "id": 662098,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "44",
     "issue_number_sort": 44,
     "name": "Mutiny At Mon Cala Part I",
@@ -1361,7 +1322,6 @@
   {
     "id": 663585,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "45",
     "issue_number_sort": 45,
     "name": "Mutiny At Mon Cala Part II",
@@ -1409,7 +1369,6 @@
   {
     "id": 664923,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "46",
     "issue_number_sort": 46,
     "name": "Mutiny At Mon Cala Part III",
@@ -1443,7 +1402,6 @@
   {
     "id": 668785,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "47",
     "issue_number_sort": 47,
     "name": "Mutiny At Mon Cala Part IV",
@@ -1478,7 +1436,6 @@
   {
     "id": 670756,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "48",
     "issue_number_sort": 48,
     "name": "Mutiny At Mon Cala Part V",
@@ -1514,7 +1471,6 @@
   {
     "id": 672292,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "49",
     "issue_number_sort": 49,
     "name": "Mutiny At Mon Cala Part VI",
@@ -1549,7 +1505,6 @@
   {
     "id": 489328,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "5",
     "issue_number_sort": 5,
     "name": "Book I, Part V: Skywalker Strikes",
@@ -1581,7 +1536,6 @@
   {
     "id": 675989,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "50",
     "issue_number_sort": 50,
     "name": "Hope Dies Part I; Sho-Torun Lives",
@@ -1623,7 +1577,6 @@
   {
     "id": 677296,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "51",
     "issue_number_sort": 51,
     "name": "Hope Dies Part II",
@@ -1664,7 +1617,6 @@
   {
     "id": 678541,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "52",
     "issue_number_sort": 52,
     "name": "Hope Dies Part III",
@@ -1699,7 +1651,6 @@
   {
     "id": 683837,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "53",
     "issue_number_sort": 53,
     "name": "Hope Dies Part IV",
@@ -1734,7 +1685,6 @@
   {
     "id": 685856,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "54",
     "issue_number_sort": 54,
     "name": "Hope Dies Part V",
@@ -1770,7 +1720,6 @@
   {
     "id": 687019,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "55",
     "issue_number_sort": 55,
     "name": "Hope Dies Part VI",
@@ -1810,7 +1759,6 @@
   {
     "id": 691392,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "56",
     "issue_number_sort": 56,
     "name": "The Escape Part I",
@@ -1842,7 +1790,6 @@
   {
     "id": 692560,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "57",
     "issue_number_sort": 57,
     "name": "The Escape Part II",
@@ -1875,7 +1822,6 @@
   {
     "id": 694145,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "58",
     "issue_number_sort": 58,
     "name": "The Escape Part III",
@@ -1904,7 +1850,6 @@
   {
     "id": 696954,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "59",
     "issue_number_sort": 59,
     "name": "The Escape Part IV",
@@ -1940,7 +1885,6 @@
   {
     "id": 490890,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "6",
     "issue_number_sort": 6,
     "name": "Book I, Part VI: Skywalker Strikes",
@@ -1972,7 +1916,6 @@
   {
     "id": 698613,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "60",
     "issue_number_sort": 60,
     "name": "The Escape Part V",
@@ -2011,7 +1954,6 @@
   {
     "id": 700148,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "61",
     "issue_number_sort": 61,
     "name": "The Escape Part VI",
@@ -2050,7 +1992,6 @@
   {
     "id": 702472,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "62",
     "issue_number_sort": 62,
     "name": "The Scourging of Shu-Torun Part I",
@@ -2084,7 +2025,6 @@
   {
     "id": 703953,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "63",
     "issue_number_sort": 63,
     "name": "The Scourging of Shu-Torun Part II",
@@ -2120,7 +2060,6 @@
   {
     "id": 705485,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "64",
     "issue_number_sort": 64,
     "name": "The Scourging of Shu-Torun Part III",
@@ -2155,7 +2094,6 @@
   {
     "id": 707523,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "65",
     "issue_number_sort": 65,
     "name": "The Scourging of Shu-Torun Part IV",
@@ -2190,7 +2128,6 @@
   {
     "id": 709210,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "66",
     "issue_number_sort": 66,
     "name": "The Scourging of Shu-Torun Part V",
@@ -2225,7 +2162,6 @@
   {
     "id": 711956,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "67",
     "issue_number_sort": 67,
     "name": "The Scourging of Shu-Torun Part VI",
@@ -2260,7 +2196,6 @@
   {
     "id": 713517,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "68",
     "issue_number_sort": 68,
     "name": "Rebels and Rogues Part I",
@@ -2294,7 +2229,6 @@
   {
     "id": 714244,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "69",
     "issue_number_sort": 69,
     "name": "Rebels and Rogues Part II: The Stranger!",
@@ -2328,7 +2262,6 @@
   {
     "id": 496399,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "7",
     "issue_number_sort": 7,
     "name": "From The Journals of Old Ben Kenobi, \"The Last of His Breed\"",
@@ -2358,7 +2291,6 @@
   {
     "id": 715318,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "70",
     "issue_number_sort": 70,
     "name": "Rebels and Rogues Part III: Honeymooners?",
@@ -2392,7 +2324,6 @@
   {
     "id": 718134,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "71",
     "issue_number_sort": 71,
     "name": "Rebels and Rogues Part IV: Knight At Last?!",
@@ -2426,7 +2357,6 @@
   {
     "id": 721162,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "72",
     "issue_number_sort": 72,
     "name": "Rebels and Rogues Part V: Leia In Love?!",
@@ -2459,7 +2389,6 @@
   {
     "id": 723865,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "73",
     "issue_number_sort": 73,
     "name": "Rebels and Rogues Part VI: A New Jedi In Town!",
@@ -2494,7 +2423,6 @@
   {
     "id": 727268,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "74",
     "issue_number_sort": 74,
     "name": "Rebels and Rogues Part VII: Destination: Hoth",
@@ -2527,7 +2455,6 @@
   {
     "id": 728430,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "75",
     "issue_number_sort": 75,
     "name": "Rebels and Rogues Part VIII: Destination: Hoth",
@@ -2563,7 +2490,6 @@
   {
     "id": 497960,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "8",
     "issue_number_sort": 8,
     "name": "Book II, Part I: Showdown On the Smugglers' Moon",
@@ -2593,7 +2519,6 @@
   {
     "id": 500309,
     "series_id": "79398",
-    "series_name": "Star Wars",
     "issue_number": "9",
     "issue_number_sort": 9,
     "name": "Book II, Part II: Showdown On the Smugglers' Moon",
@@ -2631,7 +2556,6 @@
   {
     "id": 479258,
     "series_id": "79990",
-    "series_name": "Darth Vader",
     "issue_number": "1",
     "issue_number_sort": 1,
     "name": "Book I, Part I: Vader",
@@ -2679,7 +2603,6 @@
   {
     "id": 502114,
     "series_id": "79990",
-    "series_name": "Darth Vader",
     "issue_number": "10",
     "issue_number_sort": 10,
     "name": "Book II, Part IV: Shadows and Secrets",
@@ -2709,7 +2632,6 @@
   {
     "id": 503557,
     "series_id": "79990",
-    "series_name": "Darth Vader",
     "issue_number": "11",
     "issue_number_sort": 11,
     "name": "Book II, Part V: Shadows and Secrets",
@@ -2739,7 +2661,6 @@
   {
     "id": 505517,
     "series_id": "79990",
-    "series_name": "Darth Vader",
     "issue_number": "12",
     "issue_number_sort": 12,
     "name": "Book II, Part VI: Shadows and Secrets",
@@ -2774,7 +2695,6 @@
   {
     "id": 506650,
     "series_id": "79990",
-    "series_name": "Darth Vader",
     "issue_number": "13",
     "issue_number_sort": 13,
     "name": "Vader Down Part II",
@@ -2811,7 +2731,6 @@
   {
     "id": 508888,
     "series_id": "79990",
-    "series_name": "Darth Vader",
     "issue_number": "14",
     "issue_number_sort": 14,
     "name": "Vader Down Part IV",
@@ -2849,7 +2768,6 @@
   {
     "id": 510492,
     "series_id": "79990",
-    "series_name": "Darth Vader",
     "issue_number": "15",
     "issue_number_sort": 15,
     "name": "Vader Down Part VI",
@@ -2888,7 +2806,6 @@
   {
     "id": 514434,
     "series_id": "79990",
-    "series_name": "Darth Vader",
     "issue_number": "16",
     "issue_number_sort": 16,
     "name": "Book III, Part I: The Shu-Torun War",
@@ -2931,7 +2848,6 @@
   {
     "id": 517826,
     "series_id": "79990",
-    "series_name": "Darth Vader",
     "issue_number": "17",
     "issue_number_sort": 17,
     "name": "Book III, Part II: The Shu-Torun War",
@@ -2965,7 +2881,6 @@
   {
     "id": 522427,
     "series_id": "79990",
-    "series_name": "Darth Vader",
     "issue_number": "18",
     "issue_number_sort": 18,
     "name": "Book III, Part III: The Shu-Torun War",
@@ -2997,7 +2912,6 @@
   {
     "id": 525023,
     "series_id": "79990",
-    "series_name": "Darth Vader",
     "issue_number": "19",
     "issue_number_sort": 19,
     "name": "Book III, Part IV: The Shu-Torun War",
@@ -3029,7 +2943,6 @@
   {
     "id": 480682,
     "series_id": "79990",
-    "series_name": "Darth Vader",
     "issue_number": "2",
     "issue_number_sort": 2,
     "name": "Book I, Part II: Vader",
@@ -3056,7 +2969,6 @@
   {
     "id": 529654,
     "series_id": "79990",
-    "series_name": "Darth Vader",
     "issue_number": "20",
     "issue_number_sort": 20,
     "name": "Book IV, Part I: End of Games",
@@ -3087,7 +2999,6 @@
   {
     "id": 534284,
     "series_id": "79990",
-    "series_name": "Darth Vader",
     "issue_number": "21",
     "issue_number_sort": 21,
     "name": "Book IV, Part II: End of Games",
@@ -3121,7 +3032,6 @@
   {
     "id": 537937,
     "series_id": "79990",
-    "series_name": "Darth Vader",
     "issue_number": "22",
     "issue_number_sort": 22,
     "name": "Book IV, Part III: End of Games",
@@ -3156,7 +3066,6 @@
   {
     "id": 540073,
     "series_id": "79990",
-    "series_name": "Darth Vader",
     "issue_number": "23",
     "issue_number_sort": 23,
     "name": "Book IV, Part IV: End of Games",
@@ -3189,7 +3098,6 @@
   {
     "id": 543750,
     "series_id": "79990",
-    "series_name": "Darth Vader",
     "issue_number": "24",
     "issue_number_sort": 24,
     "name": "Book IV, Part V: End of Games",
@@ -3220,7 +3128,6 @@
   {
     "id": 553006,
     "series_id": "79990",
-    "series_name": "Darth Vader",
     "issue_number": "25",
     "issue_number_sort": 25,
     "name": "Book IV, Part VI: End of Games; Book IV: Coda",
@@ -3256,7 +3163,6 @@
   {
     "id": 483346,
     "series_id": "79990",
-    "series_name": "Darth Vader",
     "issue_number": "3",
     "issue_number_sort": 3,
     "name": "Book I, Part III: Vader",
@@ -3286,7 +3192,6 @@
   {
     "id": 485510,
     "series_id": "79990",
-    "series_name": "Darth Vader",
     "issue_number": "4",
     "issue_number_sort": 4,
     "name": "Book I, Part IV: Vader",
@@ -3318,7 +3223,6 @@
   {
     "id": 488647,
     "series_id": "79990",
-    "series_name": "Darth Vader",
     "issue_number": "5",
     "issue_number_sort": 5,
     "name": "Book I, Part V: Vader",
@@ -3353,7 +3257,6 @@
   {
     "id": 490879,
     "series_id": "79990",
-    "series_name": "Darth Vader",
     "issue_number": "6",
     "issue_number_sort": 6,
     "name": "Book I, Part VI: Vader",
@@ -3389,7 +3292,6 @@
   {
     "id": 493789,
     "series_id": "79990",
-    "series_name": "Darth Vader",
     "issue_number": "7",
     "issue_number_sort": 7,
     "name": "Book II, Part I: Shadows and Secrets",
@@ -3425,7 +3327,6 @@
   {
     "id": 496878,
     "series_id": "79990",
-    "series_name": "Darth Vader",
     "issue_number": "8",
     "issue_number_sort": 8,
     "name": "Book II, Part II: Shadows and Secrets",
@@ -3464,7 +3365,6 @@
   {
     "id": 499742,
     "series_id": "79990",
-    "series_name": "Darth Vader",
     "issue_number": "9",
     "issue_number_sort": 9,
     "name": "Book II, Part III: Shadows and Secrets",
@@ -3496,7 +3396,6 @@
   {
     "id": 484899,
     "series_id": "81088",
-    "series_name": "Kanan",
     "issue_number": "1",
     "issue_number_sort": 1,
     "name": "Book I, Part I The Last Padawan Chapter One: Fight",
@@ -3533,7 +3432,6 @@
   {
     "id": 512428,
     "series_id": "81088",
-    "series_name": "Kanan",
     "issue_number": "10",
     "issue_number_sort": 10,
     "name": "Book II, Part IV First Blood Chapter Four: The Mesas of Mygeeto",
@@ -3572,7 +3470,6 @@
   {
     "id": 516957,
     "series_id": "81088",
-    "series_name": "Kanan",
     "issue_number": "11",
     "issue_number_sort": 11,
     "name": "Book II, Part V First Blood Chapter Five: The Fog of War",
@@ -3610,7 +3507,6 @@
   {
     "id": 520204,
     "series_id": "81088",
-    "series_name": "Kanan",
     "issue_number": "12",
     "issue_number_sort": 12,
     "name": "Book II, Part VI First Blood Epilogue: The Ties That Binds",
@@ -3645,7 +3541,6 @@
   {
     "id": 487838,
     "series_id": "81088",
-    "series_name": "Kanan",
     "issue_number": "2",
     "issue_number_sort": 2,
     "name": "Book I, Part II The Last Padawan Chapter Two: Flight",
@@ -3679,7 +3574,6 @@
   {
     "id": 491516,
     "series_id": "81088",
-    "series_name": "Kanan",
     "issue_number": "3",
     "issue_number_sort": 3,
     "name": "Book I, Part III The Last Padawan Chapter Three: Pivot",
@@ -3707,7 +3601,6 @@
   {
     "id": 495800,
     "series_id": "81088",
-    "series_name": "Kanan",
     "issue_number": "4",
     "issue_number_sort": 4,
     "name": "Book I, Part IV The Last Padawan Chapter Four: Catch",
@@ -3738,7 +3631,6 @@
   {
     "id": 497947,
     "series_id": "81088",
-    "series_name": "Kanan",
     "issue_number": "5",
     "issue_number_sort": 5,
     "name": "Book I, Part V The Last Padawan Chapter Five: Release",
@@ -3773,7 +3665,6 @@
   {
     "id": 501025,
     "series_id": "81088",
-    "series_name": "Kanan",
     "issue_number": "6",
     "issue_number_sort": 6,
     "name": "Book I, Part VI The Last Padawan Epilogue: Haunt",
@@ -3805,7 +3696,6 @@
   {
     "id": 504342,
     "series_id": "81088",
-    "series_name": "Kanan",
     "issue_number": "7",
     "issue_number_sort": 7,
     "name": "Book II, Part I First Blood Chapter One: The Corridors of Coruscant",
@@ -3848,7 +3738,6 @@
   {
     "id": 506171,
     "series_id": "81088",
-    "series_name": "Kanan",
     "issue_number": "8",
     "issue_number_sort": 8,
     "name": "Book II, Part II First Blood Chapter Two: The Towers of the Temple",
@@ -3891,7 +3780,6 @@
   {
     "id": 508430,
     "series_id": "81088",
-    "series_name": "Kanan",
     "issue_number": "9",
     "issue_number_sort": 9,
     "name": "Book II, Part III First Blood Chapter Three: The Canyons of Kardoa",
@@ -3929,7 +3817,6 @@
   {
     "id": 523263,
     "series_id": "89380",
-    "series_name": "Star Wars: Poe Dameron",
     "issue_number": "1",
     "issue_number_sort": 1,
     "name": "Book I, Part I: Black Squadron; SaBBotage",
@@ -3964,7 +3851,6 @@
   {
     "id": 575878,
     "series_id": "89380",
-    "series_name": "Star Wars: Poe Dameron",
     "issue_number": "10",
     "issue_number_sort": 10,
     "name": "Book III, Part III: The Gathering Storm",
@@ -4001,7 +3887,6 @@
   {
     "id": 581565,
     "series_id": "89380",
-    "series_name": "Star Wars: Poe Dameron",
     "issue_number": "11",
     "issue_number_sort": 11,
     "name": "Book III, Part IV: The Gathering Storm",
@@ -4036,7 +3921,6 @@
   {
     "id": 587415,
     "series_id": "89380",
-    "series_name": "Star Wars: Poe Dameron",
     "issue_number": "12",
     "issue_number_sort": 12,
     "name": "Book III, Part V: The Gathering Storm",
@@ -4074,7 +3958,6 @@
   {
     "id": 592605,
     "series_id": "89380",
-    "series_name": "Star Wars: Poe Dameron",
     "issue_number": "13",
     "issue_number_sort": 13,
     "name": "Book III, Part VI: The Gathering Storm",
@@ -4112,7 +3995,6 @@
   {
     "id": 594126,
     "series_id": "89380",
-    "series_name": "Star Wars: Poe Dameron",
     "issue_number": "14",
     "issue_number_sort": 14,
     "name": "Book III, Part I: Legend Lost",
@@ -4147,7 +4029,6 @@
   {
     "id": 595704,
     "series_id": "89380",
-    "series_name": "Star Wars: Poe Dameron",
     "issue_number": "15",
     "issue_number_sort": 15,
     "name": "Book III, Part II: Legend Lost",
@@ -4183,7 +4064,6 @@
   {
     "id": 605132,
     "series_id": "89380",
-    "series_name": "Star Wars: Poe Dameron",
     "issue_number": "16",
     "issue_number_sort": 16,
     "name": "Book III, Part III: Legend Lost",
@@ -4215,7 +4095,6 @@
   {
     "id": 609363,
     "series_id": "89380",
-    "series_name": "Star Wars: Poe Dameron",
     "issue_number": "17",
     "issue_number_sort": 17,
     "name": "War Stories Part I",
@@ -4252,7 +4131,6 @@
   {
     "id": 615033,
     "series_id": "89380",
-    "series_name": "Star Wars: Poe Dameron",
     "issue_number": "18",
     "issue_number_sort": 18,
     "name": "War Stories Part II",
@@ -4286,7 +4164,6 @@
   {
     "id": 622953,
     "series_id": "89380",
-    "series_name": "Star Wars: Poe Dameron",
     "issue_number": "19",
     "issue_number_sort": 19,
     "name": "War Stories Part III",
@@ -4319,7 +4196,6 @@
   {
     "id": 528515,
     "series_id": "89380",
-    "series_name": "Star Wars: Poe Dameron",
     "issue_number": "2",
     "issue_number_sort": 2,
     "name": "Book I, Part II: Black Squadron",
@@ -4353,7 +4229,6 @@
   {
     "id": 630535,
     "series_id": "89380",
-    "series_name": "Star Wars: Poe Dameron",
     "issue_number": "20",
     "issue_number_sort": 20,
     "name": "Legend Found Part I",
@@ -4387,7 +4262,6 @@
   {
     "id": 643044,
     "series_id": "89380",
-    "series_name": "Star Wars: Poe Dameron",
     "issue_number": "21",
     "issue_number_sort": 21,
     "name": "Legend Found Part II",
@@ -4421,7 +4295,6 @@
   {
     "id": 647955,
     "series_id": "89380",
-    "series_name": "Star Wars: Poe Dameron",
     "issue_number": "22",
     "issue_number_sort": 22,
     "name": "Legend Found Part III",
@@ -4457,7 +4330,6 @@
   {
     "id": 655512,
     "series_id": "89380",
-    "series_name": "Star Wars: Poe Dameron",
     "issue_number": "23",
     "issue_number_sort": 23,
     "name": "Legend Found Part IV",
@@ -4494,7 +4366,6 @@
   {
     "id": 660024,
     "series_id": "89380",
-    "series_name": "Star Wars: Poe Dameron",
     "issue_number": "24",
     "issue_number_sort": 24,
     "name": "Legend Found Part V",
@@ -4528,7 +4399,6 @@
   {
     "id": 663587,
     "series_id": "89380",
-    "series_name": "Star Wars: Poe Dameron",
     "issue_number": "25",
     "issue_number_sort": 25,
     "name": "Legend Found Part V",
@@ -4560,7 +4430,6 @@
   {
     "id": 666815,
     "series_id": "89380",
-    "series_name": "Star Wars: Poe Dameron",
     "issue_number": "26",
     "issue_number_sort": 26,
     "name": "The Awakening Part I",
@@ -4594,7 +4463,6 @@
   {
     "id": 670123,
     "series_id": "89380",
-    "series_name": "Star Wars: Poe Dameron",
     "issue_number": "27",
     "issue_number_sort": 27,
     "name": "The Awakening Part II",
@@ -4630,7 +4498,6 @@
   {
     "id": 674138,
     "series_id": "89380",
-    "series_name": "Star Wars: Poe Dameron",
     "issue_number": "28",
     "issue_number_sort": 28,
     "name": "The Awakening Part III",
@@ -4672,7 +4539,6 @@
   {
     "id": 677298,
     "series_id": "89380",
-    "series_name": "Star Wars: Poe Dameron",
     "issue_number": "29",
     "issue_number_sort": 29,
     "name": "The Awakening Part IV",
@@ -4704,7 +4570,6 @@
   {
     "id": 534297,
     "series_id": "89380",
-    "series_name": "Star Wars: Poe Dameron",
     "issue_number": "3",
     "issue_number_sort": 3,
     "name": "Book I, Part III: Black Squadron",
@@ -4736,7 +4601,6 @@
   {
     "id": 680004,
     "series_id": "89380",
-    "series_name": "Star Wars: Poe Dameron",
     "issue_number": "30",
     "issue_number_sort": 30,
     "name": "The Awakening Part V",
@@ -4768,7 +4632,6 @@
   {
     "id": 686395,
     "series_id": "89380",
-    "series_name": "Star Wars: Poe Dameron",
     "issue_number": "31",
     "issue_number_sort": 31,
     "name": "The Awakening Part VI",
@@ -4809,7 +4672,6 @@
   {
     "id": 538514,
     "series_id": "89380",
-    "series_name": "Star Wars: Poe Dameron",
     "issue_number": "4",
     "issue_number_sort": 4,
     "name": "Book I, Part IV: Lockdown",
@@ -4844,7 +4706,6 @@
   {
     "id": 544990,
     "series_id": "89380",
-    "series_name": "Star Wars: Poe Dameron",
     "issue_number": "5",
     "issue_number_sort": 5,
     "name": "Book I, Part V: Lockdown",
@@ -4881,7 +4742,6 @@
   {
     "id": 548581,
     "series_id": "89380",
-    "series_name": "Star Wars: Poe Dameron",
     "issue_number": "6",
     "issue_number_sort": 6,
     "name": "Book I, Part VI: Lockdown",
@@ -4921,7 +4781,6 @@
   {
     "id": 555535,
     "series_id": "89380",
-    "series_name": "Star Wars: Poe Dameron",
     "issue_number": "7",
     "issue_number_sort": 7,
     "name": "The Gathering Storm",
@@ -4953,7 +4812,6 @@
   {
     "id": 557372,
     "series_id": "89380",
-    "series_name": "Star Wars: Poe Dameron",
     "issue_number": "8",
     "issue_number_sort": 8,
     "name": "Book III, Part I: The Gathering Storm",
@@ -4989,7 +4847,6 @@
   {
     "id": 566720,
     "series_id": "89380",
-    "series_name": "Star Wars: Poe Dameron",
     "issue_number": "9",
     "issue_number_sort": 9,
     "name": "Book III, Part II: The Gathering Storm",
@@ -5028,7 +4885,6 @@
   {
     "id": 563721,
     "series_id": "96284",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "1",
     "issue_number_sort": 1,
     "name": "Book I, Part I",
@@ -5058,7 +4914,6 @@
   {
     "id": 610537,
     "series_id": "96284",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "10",
     "issue_number_sort": 10,
     "name": "The Enormous Profit Part II",
@@ -5093,7 +4948,6 @@
   {
     "id": 613806,
     "series_id": "96284",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "11",
     "issue_number_sort": 11,
     "name": "The Enormous Profit Part III",
@@ -5128,7 +4982,6 @@
   {
     "id": 621679,
     "series_id": "96284",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "12",
     "issue_number_sort": 12,
     "name": "The Enormous Profit Part IV",
@@ -5163,7 +5016,6 @@
   {
     "id": 628593,
     "series_id": "96284",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "13",
     "issue_number_sort": 13,
     "name": "The Enormous Profit Part V",
@@ -5197,7 +5049,6 @@
   {
     "id": 638608,
     "series_id": "96284",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "14",
     "issue_number_sort": 14,
     "name": "Remastered Part I",
@@ -5227,7 +5078,6 @@
   {
     "id": 647954,
     "series_id": "96284",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "15",
     "issue_number_sort": 15,
     "name": "Remastered Part II",
@@ -5265,7 +5115,6 @@
   {
     "id": 656716,
     "series_id": "96284",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "16",
     "issue_number_sort": 16,
     "name": "Remastered Part III",
@@ -5301,7 +5150,6 @@
   {
     "id": 660671,
     "series_id": "96284",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "17",
     "issue_number_sort": 17,
     "name": "Remastered Part IV",
@@ -5334,7 +5182,6 @@
   {
     "id": 664310,
     "series_id": "96284",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "18",
     "issue_number_sort": 18,
     "name": "Remastered Part V",
@@ -5369,7 +5216,6 @@
   {
     "id": 667657,
     "series_id": "96284",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "19",
     "issue_number_sort": 19,
     "name": "Remastered Part VI",
@@ -5403,7 +5249,6 @@
   {
     "id": 569329,
     "series_id": "96284",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "2",
     "issue_number_sort": 2,
     "name": "Book I, Part II",
@@ -5434,7 +5279,6 @@
   {
     "id": 670758,
     "series_id": "96284",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "20",
     "issue_number_sort": 20,
     "name": "The Catastrophe Con Part I",
@@ -5465,7 +5309,6 @@
   {
     "id": 675154,
     "series_id": "96284",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "21",
     "issue_number_sort": 21,
     "name": "The Catastrophe Con Part II",
@@ -5497,7 +5340,6 @@
   {
     "id": 677978,
     "series_id": "96284",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "22",
     "issue_number_sort": 22,
     "name": "The Catastrophe Con Part III",
@@ -5532,7 +5374,6 @@
   {
     "id": 680737,
     "series_id": "96284",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "23",
     "issue_number_sort": 23,
     "name": "The Catastrophe Con Part IV",
@@ -5566,7 +5407,6 @@
   {
     "id": 686394,
     "series_id": "96284",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "24",
     "issue_number_sort": 24,
     "name": "The Catastrophe Con Part V",
@@ -5600,7 +5440,6 @@
   {
     "id": 689877,
     "series_id": "96284",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "25",
     "issue_number_sort": 25,
     "name": "The Catastrophe Con Part VI",
@@ -5634,7 +5473,6 @@
   {
     "id": 692083,
     "series_id": "96284",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "26",
     "issue_number_sort": 26,
     "name": "Worst Among Equals Part I",
@@ -5663,7 +5501,6 @@
   {
     "id": 694927,
     "series_id": "96284",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "27",
     "issue_number_sort": 27,
     "name": "Worst Among Equals Part II",
@@ -5699,7 +5536,6 @@
   {
     "id": 699410,
     "series_id": "96284",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "28",
     "issue_number_sort": 28,
     "name": "Worst Among Equals Part III",
@@ -5734,7 +5570,6 @@
   {
     "id": 701947,
     "series_id": "96284",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "29",
     "issue_number_sort": 29,
     "name": "Worst Among Equals Part IV",
@@ -5765,7 +5600,6 @@
   {
     "id": 576622,
     "series_id": "96284",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "3",
     "issue_number_sort": 3,
     "name": "Book I, Part III",
@@ -5796,7 +5630,6 @@
   {
     "id": 704829,
     "series_id": "96284",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "30",
     "issue_number_sort": 30,
     "name": "Worst Among Equals Part V",
@@ -5831,7 +5664,6 @@
   {
     "id": 706962,
     "series_id": "96284",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "31",
     "issue_number_sort": 31,
     "name": "Worst Among Equals Part VI",
@@ -5867,7 +5699,6 @@
   {
     "id": 708142,
     "series_id": "96284",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "32",
     "issue_number_sort": 32,
     "name": "Unspeakable Rebel Superweapon Part I",
@@ -5899,7 +5730,6 @@
   {
     "id": 711957,
     "series_id": "96284",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "33",
     "issue_number_sort": 33,
     "name": "Unspeakable Rebel Superweapon Part II",
@@ -5934,7 +5764,6 @@
   {
     "id": 713865,
     "series_id": "96284",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "34",
     "issue_number_sort": 34,
     "name": "Unspeakable Rebel Superweapon Part III",
@@ -5967,7 +5796,6 @@
   {
     "id": 716971,
     "series_id": "96284",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "35",
     "issue_number_sort": 35,
     "name": "Unspeakable Rebel Superweapon Part IV",
@@ -6000,7 +5828,6 @@
   {
     "id": 719446,
     "series_id": "96284",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "36",
     "issue_number_sort": 36,
     "name": "Unspeakable Rebel Superweapon Part V",
@@ -6034,7 +5861,6 @@
   {
     "id": 721163,
     "series_id": "96284",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "37",
     "issue_number_sort": 37,
     "name": "A Rogue's End Part I: Beneath the Dark Lord's Gaze",
@@ -6064,7 +5890,6 @@
   {
     "id": 726214,
     "series_id": "96284",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "38",
     "issue_number_sort": 38,
     "name": "A Rogue's End Part II",
@@ -6098,7 +5923,6 @@
   {
     "id": 728980,
     "series_id": "96284",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "39",
     "issue_number_sort": 39,
     "name": "A Rogue's End Part III: Destination: Hoth",
@@ -6132,7 +5956,6 @@
   {
     "id": 580747,
     "series_id": "96284",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "4",
     "issue_number_sort": 4,
     "name": "Book I, Part IV",
@@ -6164,7 +5987,6 @@
   {
     "id": 730346,
     "series_id": "96284",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "40",
     "issue_number_sort": 40,
     "name": "A Rogue's End Part IV: Destination: Hoth",
@@ -6196,7 +6018,6 @@
   {
     "id": 585077,
     "series_id": "96284",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "5",
     "issue_number_sort": 5,
     "name": "Book I, Part V",
@@ -6228,7 +6049,6 @@
   {
     "id": 591755,
     "series_id": "96284",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "6",
     "issue_number_sort": 6,
     "name": "Book I, Part VI",
@@ -6259,7 +6079,6 @@
   {
     "id": 598388,
     "series_id": "96284",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "7",
     "issue_number_sort": 7,
     "name": "The Screaming Citadel Book I, Part III",
@@ -6297,7 +6116,6 @@
   {
     "id": 605130,
     "series_id": "96284",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "8",
     "issue_number_sort": 8,
     "name": "The Screaming Citadel Book I, Part V",
@@ -6334,7 +6152,6 @@
   {
     "id": 608257,
     "series_id": "96284",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "9",
     "issue_number_sort": 9,
     "name": "The Enormous Profit Part I",
@@ -6370,7 +6187,6 @@
   {
     "id": 599878,
     "series_id": "101960",
-    "series_name": "Darth Vader",
     "issue_number": "1",
     "issue_number_sort": 1,
     "name": "The Chosen One Part I",
@@ -6399,7 +6215,6 @@
   {
     "id": 652626,
     "series_id": "101960",
-    "series_name": "Darth Vader",
     "issue_number": "10",
     "issue_number_sort": 10,
     "name": "The Dying Light Part IV",
@@ -6429,7 +6244,6 @@
   {
     "id": 660014,
     "series_id": "101960",
-    "series_name": "Darth Vader",
     "issue_number": "11",
     "issue_number_sort": 11,
     "name": "The Rule of Five Part I",
@@ -6460,7 +6274,6 @@
   {
     "id": 661146,
     "series_id": "101960",
-    "series_name": "Darth Vader",
     "issue_number": "12",
     "issue_number_sort": 12,
     "name": "The Rule of Five Part II",
@@ -6489,7 +6302,6 @@
   {
     "id": 662741,
     "series_id": "101960",
-    "series_name": "Darth Vader",
     "issue_number": "13",
     "issue_number_sort": 13,
     "name": "Burning Seas Part I",
@@ -6528,7 +6340,6 @@
   {
     "id": 665909,
     "series_id": "101960",
-    "series_name": "Darth Vader",
     "issue_number": "14",
     "issue_number_sort": 14,
     "name": "Burning Seas Part II",
@@ -6573,7 +6384,6 @@
   {
     "id": 667636,
     "series_id": "101960",
-    "series_name": "Darth Vader",
     "issue_number": "15",
     "issue_number_sort": 15,
     "name": "Burning Seas Part III",
@@ -6611,7 +6421,6 @@
   {
     "id": 669444,
     "series_id": "101960",
-    "series_name": "Darth Vader",
     "issue_number": "16",
     "issue_number_sort": 16,
     "name": "Burning Seas Part IV",
@@ -6652,7 +6461,6 @@
   {
     "id": 673014,
     "series_id": "101960",
-    "series_name": "Darth Vader",
     "issue_number": "17",
     "issue_number_sort": 17,
     "name": "Burning Seas Part V",
@@ -6686,7 +6494,6 @@
   {
     "id": 676695,
     "series_id": "101960",
-    "series_name": "Darth Vader",
     "issue_number": "18",
     "issue_number_sort": 18,
     "name": "Bad Ground",
@@ -6713,7 +6520,6 @@
   {
     "id": 679408,
     "series_id": "101960",
-    "series_name": "Darth Vader",
     "issue_number": "19",
     "issue_number_sort": 19,
     "name": "Fortress Vader Part I",
@@ -6747,7 +6553,6 @@
   {
     "id": 603120,
     "series_id": "101960",
-    "series_name": "Darth Vader",
     "issue_number": "2",
     "issue_number_sort": 2,
     "name": "The Chosen One Part II",
@@ -6774,7 +6579,6 @@
   {
     "id": 680724,
     "series_id": "101960",
-    "series_name": "Darth Vader",
     "issue_number": "20",
     "issue_number_sort": 20,
     "name": "Fortress Vader Part II",
@@ -6805,7 +6609,6 @@
   {
     "id": 684902,
     "series_id": "101960",
-    "series_name": "Darth Vader",
     "issue_number": "21",
     "issue_number_sort": 21,
     "name": "Fortress Vader Part III",
@@ -6831,7 +6634,6 @@
   {
     "id": 689040,
     "series_id": "101960",
-    "series_name": "Darth Vader",
     "issue_number": "22",
     "issue_number_sort": 22,
     "name": "Fortress Vader Part IV",
@@ -6859,7 +6661,6 @@
   {
     "id": 692063,
     "series_id": "101960",
-    "series_name": "Darth Vader",
     "issue_number": "23",
     "issue_number_sort": 23,
     "name": "Fortress Vader Part V",
@@ -6886,7 +6687,6 @@
   {
     "id": 693459,
     "series_id": "101960",
-    "series_name": "Darth Vader",
     "issue_number": "24",
     "issue_number_sort": 24,
     "name": "Fortress Vader Part VI",
@@ -6912,7 +6712,6 @@
   {
     "id": 695629,
     "series_id": "101960",
-    "series_name": "Darth Vader",
     "issue_number": "25",
     "issue_number_sort": 25,
     "name": "Fortress Vader Part VII",
@@ -6958,7 +6757,6 @@
   {
     "id": 608240,
     "series_id": "101960",
-    "series_name": "Darth Vader",
     "issue_number": "3",
     "issue_number_sort": 3,
     "name": "The Chosen One Part III",
@@ -6985,7 +6783,6 @@
   {
     "id": 612037,
     "series_id": "101960",
-    "series_name": "Darth Vader",
     "issue_number": "4",
     "issue_number_sort": 4,
     "name": "The Chosen One Part IV",
@@ -7012,7 +6809,6 @@
   {
     "id": 619620,
     "series_id": "101960",
-    "series_name": "Darth Vader",
     "issue_number": "5",
     "issue_number_sort": 5,
     "name": "The Chosen One Part V",
@@ -7044,7 +6840,6 @@
   {
     "id": 626279,
     "series_id": "101960",
-    "series_name": "Darth Vader",
     "issue_number": "6",
     "issue_number_sort": 6,
     "name": "The Chosen One Part VI",
@@ -7078,7 +6873,6 @@
   {
     "id": 634530,
     "series_id": "101960",
-    "series_name": "Darth Vader",
     "issue_number": "7",
     "issue_number_sort": 7,
     "name": "The Dying Light Part I",
@@ -7111,7 +6905,6 @@
   {
     "id": 638592,
     "series_id": "101960",
-    "series_name": "Darth Vader",
     "issue_number": "8",
     "issue_number_sort": 8,
     "name": "The Dying Light Part II",
@@ -7141,7 +6934,6 @@
   {
     "id": 644503,
     "series_id": "101960",
-    "series_name": "Darth Vader",
     "issue_number": "9",
     "issue_number_sort": 9,
     "name": "The Dying Light Part III",
@@ -7170,7 +6962,6 @@
   {
     "id": 731978,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "1",
     "issue_number_sort": 1,
     "name": "The Destiny Path Part I",
@@ -7210,7 +7001,6 @@
   {
     "id": 824019,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "10",
     "issue_number_sort": 10,
     "name": "Operation Starlight Part II: The Rebel Code",
@@ -7251,7 +7041,6 @@
   {
     "id": 827515,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "11",
     "issue_number_sort": 11,
     "name": "Operation Starlight Part III: The Last Hope",
@@ -7293,7 +7082,6 @@
   {
     "id": 836260,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "12",
     "issue_number_sort": 12,
     "name": "Operation Starlight Part IV: Reflections of the Lost",
@@ -7331,7 +7119,6 @@
   {
     "id": 848845,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "13",
     "issue_number_sort": 13,
     "name": "War of the Bounty Hunters Prelude: The Hunt for Han Solo",
@@ -7363,7 +7150,6 @@
   {
     "id": 861637,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "14",
     "issue_number_sort": 14,
     "name": "War of the Bounty Hunters: Save Solo",
@@ -7399,7 +7185,6 @@
   {
     "id": 874519,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "15",
     "issue_number_sort": 15,
     "name": "War of the Bounty Hunters: Friends and Enemies",
@@ -7442,7 +7227,6 @@
   {
     "id": 880892,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "16",
     "issue_number_sort": 16,
     "name": "War of the Bounty Hunters: Missing in Action",
@@ -7477,7 +7261,6 @@
   {
     "id": 886935,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "17",
     "issue_number_sort": 17,
     "name": "War of the Bounty Hunters: The Chase",
@@ -7511,7 +7294,6 @@
   {
     "id": 892240,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "18",
     "issue_number_sort": 18,
     "name": "War of the Bounty Hunters: Collision Course",
@@ -7548,7 +7330,6 @@
   {
     "id": 897512,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "19",
     "issue_number_sort": 19,
     "name": "Dangerous Turn",
@@ -7585,7 +7366,6 @@
   {
     "id": 735530,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "2",
     "issue_number_sort": 2,
     "name": "The Destiny Path Part II",
@@ -7628,7 +7408,6 @@
   {
     "id": 902531,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "20",
     "issue_number_sort": 20,
     "name": "Dangerous Lessons",
@@ -7663,7 +7442,6 @@
   {
     "id": 909807,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "21",
     "issue_number_sort": 21,
     "name": "Trapped on a Star Destroyer",
@@ -7699,7 +7477,6 @@
   {
     "id": 916408,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "22",
     "issue_number_sort": 22,
     "name": "The Last Division",
@@ -7756,7 +7533,6 @@
   {
     "id": 921118,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "23",
     "issue_number_sort": 23,
     "name": "The Dawn Alliance",
@@ -7792,7 +7568,6 @@
   {
     "id": 929654,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "24",
     "issue_number_sort": 24,
     "name": "The Final Hunt",
@@ -7825,7 +7600,6 @@
   {
     "id": 937737,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "25",
     "issue_number_sort": 25,
     "name": "The Lesson; The Lesson; See You Around, Kid; A Eulogy for Snap",
@@ -7861,7 +7635,6 @@
   {
     "id": 942709,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "26",
     "issue_number_sort": 26,
     "name": "The Path to Victory",
@@ -7906,7 +7679,6 @@
   {
     "id": 946559,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "27",
     "issue_number_sort": 27,
     "name": "The Good People",
@@ -7943,7 +7715,6 @@
   {
     "id": 950793,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "28",
     "issue_number_sort": 28,
     "name": "The Calculus of Loss",
@@ -7977,7 +7748,6 @@
   {
     "id": 953031,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "29",
     "issue_number_sort": 29,
     "name": "A Little Break",
@@ -8008,7 +7778,6 @@
   {
     "id": 738620,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "3",
     "issue_number_sort": 3,
     "name": "The Destiny Path Part III",
@@ -8043,7 +7812,6 @@
   {
     "id": 962852,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "30",
     "issue_number_sort": 30,
     "name": "No-Space",
@@ -8076,7 +7844,6 @@
   {
     "id": 971899,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "31",
     "issue_number_sort": 31,
     "name": "The Kezarat Colony",
@@ -8109,7 +7876,6 @@
   {
     "id": 974098,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "32",
     "issue_number_sort": 32,
     "name": "A Little Broken",
@@ -8141,7 +7907,6 @@
   {
     "id": 981436,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "33",
     "issue_number_sort": 33,
     "name": "Escape From No-Space",
@@ -8176,7 +7941,6 @@
   {
     "id": 987261,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "34",
     "issue_number_sort": 34,
     "name": "A Fractured Alliance",
@@ -8206,7 +7970,6 @@
   {
     "id": 993238,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "35",
     "issue_number_sort": 35,
     "name": "In the Clutches of Dr. Cuata",
@@ -8238,7 +8001,6 @@
   {
     "id": 998579,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "36",
     "issue_number_sort": 36,
     "name": "The Trial Run ",
@@ -8274,7 +8036,6 @@
   {
     "id": 1006439,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "37",
     "issue_number_sort": 37,
     "name": "Lobot Lost ",
@@ -8308,7 +8069,6 @@
   {
     "id": 1011787,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "38",
     "issue_number_sort": 38,
     "name": "Tatooine Treason",
@@ -8341,7 +8101,6 @@
   {
     "id": 1025166,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "39",
     "issue_number_sort": 39,
     "name": "Hostile Hybroid",
@@ -8380,7 +8139,6 @@
   {
     "id": 742378,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "4",
     "issue_number_sort": 4,
     "name": "The Destiny Path Part IV",
@@ -8416,7 +8174,6 @@
   {
     "id": 1027601,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "40",
     "issue_number_sort": 40,
     "name": "Droid Disaster",
@@ -8449,7 +8206,6 @@
   {
     "id": 1033210,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "41",
     "issue_number_sort": 41,
     "name": "Lando Lost",
@@ -8482,7 +8238,6 @@
   {
     "id": 1039587,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "42",
     "issue_number_sort": 42,
     "name": "The Sith and The Skywalker",
@@ -8511,7 +8266,6 @@
   {
     "id": 1045768,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "43",
     "issue_number_sort": 43,
     "name": "The Healing Force",
@@ -8545,7 +8299,6 @@
   {
     "id": 1047090,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "44",
     "issue_number_sort": 44,
     "name": "The Trial of Lando Calrissian, Part 1: Opening Arguments ",
@@ -8587,7 +8340,6 @@
   {
     "id": 1050576,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "45",
     "issue_number_sort": 45,
     "name": "The Trial of Lando Calrissian, Part 2: Witness Testimony",
@@ -8633,7 +8385,6 @@
   {
     "id": 1056212,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "46",
     "issue_number_sort": 46,
     "name": "The Trial of Lando Calrissian, Part 3: Deliberations",
@@ -8669,7 +8420,6 @@
   {
     "id": 1058719,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "47",
     "issue_number_sort": 47,
     "name": "The Trial of Lando Calrissian, Part 4: Sentencing",
@@ -8710,7 +8460,6 @@
   {
     "id": 1063235,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "48",
     "issue_number_sort": 48,
     "name": "The Path of Darkness",
@@ -8745,7 +8494,6 @@
   {
     "id": 1067249,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "49",
     "issue_number_sort": 49,
     "name": "The Path of Light",
@@ -8780,7 +8528,6 @@
   {
     "id": 787355,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "5",
     "issue_number_sort": 5,
     "name": "The Destiny Path Part V",
@@ -8814,7 +8561,6 @@
   {
     "id": 1069419,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "50",
     "issue_number_sort": 50,
     "name": "The Path of Hope",
@@ -8851,7 +8597,6 @@
   {
     "id": 799953,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "6",
     "issue_number_sort": 6,
     "name": "The Destiny Path Part VI",
@@ -8893,7 +8638,6 @@
   {
     "id": 807576,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "7",
     "issue_number_sort": 7,
     "name": "The Will of Tarkin Part I",
@@ -8927,7 +8671,6 @@
   {
     "id": 816459,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "8",
     "issue_number_sort": 8,
     "name": "The Will of Tarkin Part II: Prey",
@@ -8965,7 +8708,6 @@
   {
     "id": 820738,
     "series_id": "123860",
-    "series_name": "Star Wars",
     "issue_number": "9",
     "issue_number_sort": 9,
     "name": "Operation Starlight Part I: The Ancient Relic",
@@ -9004,7 +8746,6 @@
   {
     "id": 736498,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "1",
     "issue_number_sort": 1,
     "name": "Dark Heart of the Sith Part I",
@@ -9043,7 +8784,6 @@
   {
     "id": 828187,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "10",
     "issue_number_sort": 10,
     "name": "Into the Fire Part V: The Red Horror",
@@ -9076,7 +8816,6 @@
   {
     "id": 846080,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "11",
     "issue_number_sort": 11,
     "name": "Into the Fire Part VI: Exegol",
@@ -9108,7 +8847,6 @@
   {
     "id": 855597,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "12",
     "issue_number_sort": 12,
     "name": "War of the Bounty Hunters Prelude: Into the Trap",
@@ -9154,7 +8892,6 @@
   {
     "id": 863843,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "13",
     "issue_number_sort": 13,
     "name": "War of the Bounty Hunters: Sound of Metal",
@@ -9189,7 +8926,6 @@
   {
     "id": 872863,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "14",
     "issue_number_sort": 14,
     "name": "War of the Bounty Hunters: The Blade Behind the Curtain",
@@ -9226,7 +8962,6 @@
   {
     "id": 882026,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "15",
     "issue_number_sort": 15,
     "name": "War of the Bounty Hunters: The Assassin's Choice",
@@ -9254,7 +8989,6 @@
   {
     "id": 884818,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "16",
     "issue_number_sort": 16,
     "name": "War of the Bounty Hunters: Target Skywalker",
@@ -9292,7 +9026,6 @@
   {
     "id": 891560,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "17",
     "issue_number_sort": 17,
     "name": "War of the Bounty Hunters: Just Rewards",
@@ -9330,7 +9063,6 @@
   {
     "id": 896644,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "18",
     "issue_number_sort": 18,
     "name": "Red Revenge!",
@@ -9366,7 +9098,6 @@
   {
     "id": 899198,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "19",
     "issue_number_sort": 19,
     "name": "Dark Order",
@@ -9406,7 +9137,6 @@
   {
     "id": 740826,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "2",
     "issue_number_sort": 2,
     "name": "Dark Heart of the Sith Part II",
@@ -9438,7 +9168,6 @@
   {
     "id": 906639,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "20",
     "issue_number_sort": 20,
     "name": "Queen's Shadow Returns",
@@ -9478,7 +9207,6 @@
   {
     "id": 912159,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "21",
     "issue_number_sort": 21,
     "name": "Return Of The Handmaiden",
@@ -9515,7 +9243,6 @@
   {
     "id": 916409,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "22",
     "issue_number_sort": 22,
     "name": "Crimson Havoc",
@@ -9550,7 +9277,6 @@
   {
     "id": 928441,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "23",
     "issue_number_sort": 23,
     "name": "The Shadow's Shadow",
@@ -9589,7 +9315,6 @@
   {
     "id": 933092,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "24",
     "issue_number_sort": 24,
     "name": "Old Friends",
@@ -9628,7 +9353,6 @@
   {
     "id": 937742,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "25",
     "issue_number_sort": 25,
     "name": "No Calm Before the Storm",
@@ -9661,7 +9385,6 @@
   {
     "id": 943909,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "26",
     "issue_number_sort": 26,
     "name": "Into The Sand",
@@ -9710,7 +9433,6 @@
   {
     "id": 948114,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "27",
     "issue_number_sort": 27,
     "name": "The Queen's Heart",
@@ -9744,7 +9466,6 @@
   {
     "id": 951454,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "28",
     "issue_number_sort": 28,
     "name": "The Shadow in the Fire!",
@@ -9779,7 +9500,6 @@
   {
     "id": 957968,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "29",
     "issue_number_sort": 29,
     "name": "Techno Re(union)",
@@ -9814,7 +9534,6 @@
   {
     "id": 784414,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "3",
     "issue_number_sort": 3,
     "name": "Dark Heart of the Sith Part III",
@@ -9854,7 +9573,6 @@
   {
     "id": 963994,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "30",
     "issue_number_sort": 30,
     "name": "All Her Shadows",
@@ -9889,7 +9607,6 @@
   {
     "id": 969394,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "31",
     "issue_number_sort": 31,
     "name": "The Tambor Gambit",
@@ -9926,7 +9643,6 @@
   {
     "id": 978491,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "32",
     "issue_number_sort": 32,
     "name": "Handmaiden No More?",
@@ -9964,7 +9680,6 @@
   {
     "id": 987264,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "33",
     "issue_number_sort": 33,
     "name": "Unbound Force Part I",
@@ -10000,7 +9715,6 @@
   {
     "id": 988152,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "34",
     "issue_number_sort": 34,
     "name": "Unbound Force Part II",
@@ -10038,7 +9752,6 @@
   {
     "id": 994361,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "35",
     "issue_number_sort": 35,
     "name": "Target Aphra",
@@ -10076,7 +9789,6 @@
   {
     "id": 1000240,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "36",
     "issue_number_sort": 36,
     "name": "Target Aphra Part II",
@@ -10111,7 +9823,6 @@
   {
     "id": 1008946,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "37",
     "issue_number_sort": 37,
     "name": "Curse of the Jedi, Scourge of the Droids",
@@ -10148,7 +9859,6 @@
   {
     "id": 1013498,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "38",
     "issue_number_sort": 38,
     "name": "Executor Extirpatus",
@@ -10184,7 +9894,6 @@
   {
     "id": 1020540,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "39",
     "issue_number_sort": 39,
     "name": "Cruclble of Hate",
@@ -10221,7 +9930,6 @@
   {
     "id": 791928,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "4",
     "issue_number_sort": 4,
     "name": "Dark Heart of the Sith Part IV",
@@ -10260,7 +9968,6 @@
   {
     "id": 1028631,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "40",
     "issue_number_sort": 40,
     "name": "The Master's Trial",
@@ -10292,7 +9999,6 @@
   {
     "id": 1035964,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "41",
     "issue_number_sort": 41,
     "name": "More Machine Than Man",
@@ -10328,7 +10034,6 @@
   {
     "id": 1038983,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "42",
     "issue_number_sort": 42,
     "name": "Rise of the Schism Imperial",
@@ -10366,7 +10071,6 @@
   {
     "id": 1044783,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "43",
     "issue_number_sort": 43,
     "name": "The Root of Treason ",
@@ -10402,7 +10106,6 @@
   {
     "id": 1047952,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "44",
     "issue_number_sort": 44,
     "name": "Soldiers for the Schism",
@@ -10439,7 +10142,6 @@
   {
     "id": 1051127,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "45",
     "issue_number_sort": 45,
     "name": "The Martyrium of Frozen Tears",
@@ -10480,7 +10182,6 @@
   {
     "id": 1054381,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "46",
     "issue_number_sort": 46,
     "name": "The Razing of Exegol Part 1",
@@ -10516,7 +10217,6 @@
   {
     "id": 1059271,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "47",
     "issue_number_sort": 47,
     "name": "The Razing of Exegol, Part 2",
@@ -10558,7 +10258,6 @@
   {
     "id": 1064206,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "48",
     "issue_number_sort": 48,
     "name": "Son of Vader",
@@ -10597,7 +10296,6 @@
   {
     "id": 1066704,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "49",
     "issue_number_sort": 49,
     "name": "Rule of Two",
@@ -10639,7 +10337,6 @@
   {
     "id": 799954,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "5",
     "issue_number_sort": 5,
     "name": "Dark Heart of the Sith Part V",
@@ -10676,7 +10373,6 @@
   {
     "id": 1070137,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "50",
     "issue_number_sort": 50,
     "name": "Terminus",
@@ -10725,7 +10421,6 @@
   {
     "id": 810731,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "6",
     "issue_number_sort": 6,
     "name": "Into the Fire Part I: The Punishment",
@@ -10762,7 +10457,6 @@
   {
     "id": 817700,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "7",
     "issue_number_sort": 7,
     "name": "Into the Fire Part II: The Assassin",
@@ -10793,7 +10487,6 @@
   {
     "id": 821475,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "8",
     "issue_number_sort": 8,
     "name": "Into the Fire Part III: The Eye",
@@ -10825,7 +10518,6 @@
   {
     "id": 824439,
     "series_id": "124821",
-    "series_name": "Star Wars: Darth Vader",
     "issue_number": "9",
     "issue_number_sort": 9,
     "name": "Into the Fire Part IV: The Assassin Returns",
@@ -10856,7 +10548,6 @@
   {
     "id": 740825,
     "series_id": "125679",
-    "series_name": "Star Wars: Bounty Hunters",
     "issue_number": "1",
     "issue_number_sort": 1,
     "name": "Galaxy's Deadliest Part 1: Ghosts of Corellia",
@@ -10895,7 +10586,6 @@
   {
     "id": 838544,
     "series_id": "125679",
-    "series_name": "Star Wars: Bounty Hunters",
     "issue_number": "10",
     "issue_number_sort": 10,
     "name": "The Terminus Gauntlet Part 3: A Desperate Gambit",
@@ -10930,7 +10620,6 @@
   {
     "id": 842956,
     "series_id": "125679",
-    "series_name": "Star Wars: Bounty Hunters",
     "issue_number": "11",
     "issue_number_sort": 11,
     "name": "The Great Hunt of Malastare",
@@ -10961,7 +10650,6 @@
   {
     "id": 851300,
     "series_id": "125679",
-    "series_name": "Star Wars: Bounty Hunters",
     "issue_number": "12",
     "issue_number_sort": 12,
     "name": "War of the Bounty Hunters Prelude: \"Target Solo\"",
@@ -10997,7 +10685,6 @@
   {
     "id": 858870,
     "series_id": "125679",
-    "series_name": "Star Wars: Bounty Hunters",
     "issue_number": "13",
     "issue_number_sort": 13,
     "name": "War of the Bounty Hunters: \"Showdown On Smuggler's Moon\"",
@@ -11031,7 +10718,6 @@
   {
     "id": 868595,
     "series_id": "125679",
-    "series_name": "Star Wars: Bounty Hunters",
     "issue_number": "14",
     "issue_number_sort": 14,
     "name": "War of the Bounty Hunters: \"The Following\"",
@@ -11068,7 +10754,6 @@
   {
     "id": 877056,
     "series_id": "125679",
-    "series_name": "Star Wars: Bounty Hunters",
     "issue_number": "15",
     "issue_number_sort": 15,
     "name": "War of the Bounty Hunters: \"The Gathering\"",
@@ -11105,7 +10790,6 @@
   {
     "id": 885602,
     "series_id": "125679",
-    "series_name": "Star Wars: Bounty Hunters",
     "issue_number": "16",
     "issue_number_sort": 16,
     "name": "War of the Bounty Hunters: Shadow Soldiers",
@@ -11145,7 +10829,6 @@
   {
     "id": 892241,
     "series_id": "125679",
-    "series_name": "Star Wars: Bounty Hunters",
     "issue_number": "17",
     "issue_number_sort": 17,
     "name": "War of the Bounty Hunters: Last Stand",
@@ -11183,7 +10866,6 @@
   {
     "id": 896643,
     "series_id": "125679",
-    "series_name": "Star Wars: Bounty Hunters",
     "issue_number": "18",
     "issue_number_sort": 18,
     "name": "The Galaxy's Greatest!",
@@ -11221,7 +10903,6 @@
   {
     "id": 900398,
     "series_id": "125679",
-    "series_name": "Star Wars: Bounty Hunters",
     "issue_number": "19",
     "issue_number_sort": 19,
     "name": "Flight of the Dark Squadron",
@@ -11259,7 +10940,6 @@
   {
     "id": 743450,
     "series_id": "125679",
-    "series_name": "Star Wars: Bounty Hunters",
     "issue_number": "2",
     "issue_number_sort": 2,
     "name": "Galaxy's Deadliest Part 2: Sorrow of the Syndicates",
@@ -11293,7 +10973,6 @@
   {
     "id": 902529,
     "series_id": "125679",
-    "series_name": "Star Wars: Bounty Hunters",
     "issue_number": "20",
     "issue_number_sort": 20,
     "name": "With Friends Like These...",
@@ -11330,7 +11009,6 @@
   {
     "id": 913174,
     "series_id": "125679",
-    "series_name": "Star Wars: Bounty Hunters",
     "issue_number": "21",
     "issue_number_sort": 21,
     "name": "The Corellia Gambit",
@@ -11373,7 +11051,6 @@
   {
     "id": 914650,
     "series_id": "125679",
-    "series_name": "Star Wars: Bounty Hunters",
     "issue_number": "22",
     "issue_number_sort": 22,
     "name": "Chaos in Coronet City",
@@ -11411,7 +11088,6 @@
   {
     "id": 928440,
     "series_id": "125679",
-    "series_name": "Star Wars: Bounty Hunters",
     "issue_number": "23",
     "issue_number_sort": 23,
     "name": "A Clear and Present Dengar",
@@ -11448,7 +11124,6 @@
   {
     "id": 930982,
     "series_id": "125679",
-    "series_name": "Star Wars: Bounty Hunters",
     "issue_number": "24",
     "issue_number_sort": 24,
     "name": "Raid on the Vermillion, Part One",
@@ -11495,7 +11170,6 @@
   {
     "id": 935778,
     "series_id": "125679",
-    "series_name": "Star Wars: Bounty Hunters",
     "issue_number": "25",
     "issue_number_sort": 25,
     "name": "Raid on the Vermillion, Part Two",
@@ -11534,7 +11208,6 @@
   {
     "id": 941570,
     "series_id": "125679",
-    "series_name": "Star Wars: Bounty Hunters",
     "issue_number": "26",
     "issue_number_sort": 26,
     "name": "Raid on the Vermillion, Part Three",
@@ -11578,7 +11251,6 @@
   {
     "id": 946721,
     "series_id": "125679",
-    "series_name": "Star Wars: Bounty Hunters",
     "issue_number": "27",
     "issue_number_sort": 27,
     "name": "Havoc at the Accretion Disco, Part One",
@@ -11611,7 +11283,6 @@
   {
     "id": 953029,
     "series_id": "125679",
-    "series_name": "Star Wars: Bounty Hunters",
     "issue_number": "28",
     "issue_number_sort": 28,
     "name": "Havoc at the Accretion Disco, Part Two",
@@ -11650,7 +11321,6 @@
   {
     "id": 960019,
     "series_id": "125679",
-    "series_name": "Star Wars: Bounty Hunters",
     "issue_number": "29",
     "issue_number_sort": 29,
     "name": "Bedlam On Bestine, Part One",
@@ -11687,7 +11357,6 @@
   {
     "id": 769755,
     "series_id": "125679",
-    "series_name": "Star Wars: Bounty Hunters",
     "issue_number": "3",
     "issue_number_sort": 3,
     "name": "Galaxy's Deadliest Part 3: As the Scorekeeper Wills",
@@ -11723,7 +11392,6 @@
   {
     "id": 964953,
     "series_id": "125679",
-    "series_name": "Star Wars: Bounty Hunters",
     "issue_number": "30",
     "issue_number_sort": 30,
     "name": "Bedlam On Bestine, Part Two",
@@ -11763,7 +11431,6 @@
   {
     "id": 971898,
     "series_id": "125679",
-    "series_name": "Star Wars: Bounty Hunters",
     "issue_number": "31",
     "issue_number_sort": 31,
     "name": "Bedlam on Bestine, Part Three",
@@ -11804,7 +11471,6 @@
   {
     "id": 975683,
     "series_id": "125679",
-    "series_name": "Star Wars: Bounty Hunters",
     "issue_number": "32",
     "issue_number_sort": 32,
     "name": "The Lost Findsmen",
@@ -11839,7 +11505,6 @@
   {
     "id": 982365,
     "series_id": "125679",
-    "series_name": "Star Wars: Bounty Hunters",
     "issue_number": "33",
     "issue_number_sort": 33,
     "name": "In the Crosshairs of Inferno Squad, Part I",
@@ -11877,7 +11542,6 @@
   {
     "id": 989668,
     "series_id": "125679",
-    "series_name": "Star Wars: Bounty Hunters",
     "issue_number": "34",
     "issue_number_sort": 34,
     "name": "In the Crosshairs of Inferno Squad, Part II",
@@ -11915,7 +11579,6 @@
   {
     "id": 996025,
     "series_id": "125679",
-    "series_name": "Star Wars: Bounty Hunters",
     "issue_number": "35",
     "issue_number_sort": 35,
     "name": "Target: Fett",
@@ -11957,7 +11620,6 @@
   {
     "id": 1000239,
     "series_id": "125679",
-    "series_name": "Star Wars: Bounty Hunters",
     "issue_number": "36",
     "issue_number_sort": 36,
     "name": "A Perilous Bargain",
@@ -11996,7 +11658,6 @@
   {
     "id": 1010946,
     "series_id": "125679",
-    "series_name": "Star Wars: Bounty Hunters",
     "issue_number": "37",
     "issue_number_sort": 37,
     "name": "The Path of the Righteous, Part 1",
@@ -12038,7 +11699,6 @@
   {
     "id": 1014898,
     "series_id": "125679",
-    "series_name": "Star Wars: Bounty Hunters",
     "issue_number": "38",
     "issue_number_sort": 38,
     "name": "The Path of the Righteous, Part 2",
@@ -12079,7 +11739,6 @@
   {
     "id": 1020539,
     "series_id": "125679",
-    "series_name": "Star Wars: Bounty Hunters",
     "issue_number": "39",
     "issue_number_sort": 39,
     "name": "The Path of The Righteous, Part 3",
@@ -12119,7 +11778,6 @@
   {
     "id": 794940,
     "series_id": "125679",
-    "series_name": "Star Wars: Bounty Hunters",
     "issue_number": "4",
     "issue_number_sort": 4,
     "name": "Galaxy's Deadliest Part 4: Hunter's Mutiny",
@@ -12153,7 +11811,6 @@
   {
     "id": 1030787,
     "series_id": "125679",
-    "series_name": "Star Wars: Bounty Hunters",
     "issue_number": "40",
     "issue_number_sort": 40,
     "name": "The Path of The Righteous, Part 4",
@@ -12196,7 +11853,6 @@
   {
     "id": 1034346,
     "series_id": "125679",
-    "series_name": "Star Wars: Bounty Hunters",
     "issue_number": "41",
     "issue_number_sort": 41,
     "name": "The Path of The Righteous, Part 5",
@@ -12234,7 +11890,6 @@
   {
     "id": 1040945,
     "series_id": "125679",
-    "series_name": "Star Wars: Bounty Hunters",
     "issue_number": "42",
     "issue_number_sort": 42,
     "name": "The Secret Weapon",
@@ -12293,7 +11948,6 @@
   {
     "id": 803650,
     "series_id": "125679",
-    "series_name": "Star Wars: Bounty Hunters",
     "issue_number": "5",
     "issue_number_sort": 5,
     "name": "Galaxy's Deadliest Part 5: The High Cost of Revenge",
@@ -12325,7 +11979,6 @@
   {
     "id": 813288,
     "series_id": "125679",
-    "series_name": "Star Wars: Bounty Hunters",
     "issue_number": "6",
     "issue_number_sort": 6,
     "name": "Target Valance Part 1: Zuckuss and 4-LOM",
@@ -12356,7 +12009,6 @@
   {
     "id": 819094,
     "series_id": "125679",
-    "series_name": "Star Wars: Bounty Hunters",
     "issue_number": "7",
     "issue_number_sort": 7,
     "name": "Target Valance Part 2: Collateral Damage",
@@ -12388,7 +12040,6 @@
   {
     "id": 822341,
     "series_id": "125679",
-    "series_name": "Star Wars: Bounty Hunters",
     "issue_number": "8",
     "issue_number_sort": 8,
     "name": "The Terminus Gauntlet Part 1: Moving Target",
@@ -12426,7 +12077,6 @@
   {
     "id": 826551,
     "series_id": "125679",
-    "series_name": "Star Wars: Bounty Hunters",
     "issue_number": "9",
     "issue_number_sort": 9,
     "name": "The Terminus Gauntlet Part 2: Squadron of One",
@@ -12462,7 +12112,6 @@
   {
     "id": 758307,
     "series_id": "126644",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "1",
     "issue_number_sort": 1,
     "name": "Fortune and Fate Part 1: The Rings of Vaace",
@@ -12499,7 +12148,6 @@
   {
     "id": 855599,
     "series_id": "126644",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "10",
     "issue_number_sort": 10,
     "name": "War of the Bounty Hunters Prelude: The Invitation",
@@ -12535,7 +12183,6 @@
   {
     "id": 866575,
     "series_id": "126644",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "11",
     "issue_number_sort": 11,
     "name": "War of the Bounty Hunters: The Wreckage",
@@ -12573,7 +12220,6 @@
   {
     "id": 871537,
     "series_id": "126644",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "12",
     "issue_number_sort": 12,
     "name": "War of the Bounty Hunters: Party Tricks",
@@ -12615,7 +12261,6 @@
   {
     "id": 882027,
     "series_id": "126644",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "13",
     "issue_number_sort": 13,
     "name": "War of the Bounty Hunters: Guest of Honor",
@@ -12652,7 +12297,6 @@
   {
     "id": 884066,
     "series_id": "126644",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "14",
     "issue_number_sort": 14,
     "name": "War of the Bounty Hunters: Repeat Offenders",
@@ -12685,7 +12329,6 @@
   {
     "id": 889454,
     "series_id": "126644",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "15",
     "issue_number_sort": 15,
     "name": "War of the Bounty Hunters: Party Favors",
@@ -12719,7 +12362,6 @@
   {
     "id": 894455,
     "series_id": "126644",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "16",
     "issue_number_sort": 16,
     "name": "Resurrections",
@@ -12761,7 +12403,6 @@
   {
     "id": 901351,
     "series_id": "126644",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "17",
     "issue_number_sort": 17,
     "name": "Evocations",
@@ -12795,7 +12436,6 @@
   {
     "id": 903921,
     "series_id": "126644",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "18",
     "issue_number_sort": 18,
     "name": "Conjurations",
@@ -12833,7 +12473,6 @@
   {
     "id": 912251,
     "series_id": "126644",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "19",
     "issue_number_sort": 19,
     "name": "Ascension",
@@ -12873,7 +12512,6 @@
   {
     "id": 781437,
     "series_id": "126644",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "2",
     "issue_number_sort": 2,
     "name": "Fortune and Fate Part 2: Haunted",
@@ -12909,7 +12547,6 @@
   {
     "id": 925008,
     "series_id": "126644",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "20",
     "issue_number_sort": 20,
     "name": "Eternity",
@@ -12940,7 +12577,6 @@
   {
     "id": 933089,
     "series_id": "126644",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "21",
     "issue_number_sort": 21,
     "name": "Desperate Measures",
@@ -12994,7 +12630,6 @@
   {
     "id": 939091,
     "series_id": "126644",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "22",
     "issue_number_sort": 22,
     "name": "Echoes",
@@ -13031,7 +12666,6 @@
   {
     "id": 943908,
     "series_id": "126644",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "23",
     "issue_number_sort": 23,
     "name": "Machinations",
@@ -13072,7 +12706,6 @@
   {
     "id": 949155,
     "series_id": "126644",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "24",
     "issue_number_sort": 24,
     "name": "Descent",
@@ -13109,7 +12742,6 @@
   {
     "id": 952309,
     "series_id": "126644",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "25",
     "issue_number_sort": 25,
     "name": "Desolation!",
@@ -13151,7 +12783,6 @@
   {
     "id": 955115,
     "series_id": "126644",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "26",
     "issue_number_sort": 26,
     "name": "Friends and Enemies",
@@ -13187,7 +12818,6 @@
   {
     "id": 961954,
     "series_id": "126644",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "27",
     "issue_number_sort": 27,
     "name": "Control Issues",
@@ -13227,7 +12857,6 @@
   {
     "id": 966427,
     "series_id": "126644",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "28",
     "issue_number_sort": 28,
     "name": "Code of Honor!",
@@ -13270,7 +12899,6 @@
   {
     "id": 973032,
     "series_id": "126644",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "29",
     "issue_number_sort": 29,
     "name": "Balance",
@@ -13311,7 +12939,6 @@
   {
     "id": 796301,
     "series_id": "126644",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "3",
     "issue_number_sort": 3,
     "name": "Fortune and Fate Part 3: Turnabout",
@@ -13347,7 +12974,6 @@
   {
     "id": 982364,
     "series_id": "126644",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "30",
     "issue_number_sort": 30,
     "name": "Shatter",
@@ -13386,7 +13012,6 @@
   {
     "id": 987263,
     "series_id": "126644",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "31",
     "issue_number_sort": 31,
     "name": "All Made One",
@@ -13422,7 +13047,6 @@
   {
     "id": 992416,
     "series_id": "126644",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "32",
     "issue_number_sort": 32,
     "name": "Ripple Effect",
@@ -13455,7 +13079,6 @@
   {
     "id": 997383,
     "series_id": "126644",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "33",
     "issue_number_sort": 33,
     "name": "Dead Ringer",
@@ -13486,7 +13109,6 @@
   {
     "id": 1001999,
     "series_id": "126644",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "34",
     "issue_number_sort": 34,
     "name": "Resonance ",
@@ -13518,7 +13140,6 @@
   {
     "id": 1010054,
     "series_id": "126644",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "35",
     "issue_number_sort": 35,
     "name": "Mad Methods",
@@ -13555,7 +13176,6 @@
   {
     "id": 1018029,
     "series_id": "126644",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "36",
     "issue_number_sort": 36,
     "name": "Action and Apprehension",
@@ -13589,7 +13209,6 @@
   {
     "id": 1026556,
     "series_id": "126644",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "37",
     "issue_number_sort": 37,
     "name": "Flesh Resolved",
@@ -13631,7 +13250,6 @@
   {
     "id": 1029693,
     "series_id": "126644",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "38",
     "issue_number_sort": 38,
     "name": "Truth To Liars",
@@ -13668,7 +13286,6 @@
   {
     "id": 1035965,
     "series_id": "126644",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "39",
     "issue_number_sort": 39,
     "name": "Above All",
@@ -13711,7 +13328,6 @@
   {
     "id": 805098,
     "series_id": "126644",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "4",
     "issue_number_sort": 4,
     "name": "Fortune and Fate Part 4: The Deal",
@@ -13747,7 +13363,6 @@
   {
     "id": 1042836,
     "series_id": "126644",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "40",
     "issue_number_sort": 40,
     "name": "Night as Day",
@@ -13791,7 +13406,6 @@
   {
     "id": 814494,
     "series_id": "126644",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "5",
     "issue_number_sort": 5,
     "name": "Fortune and Fate Part 5: Power Play",
@@ -13832,7 +13446,6 @@
   {
     "id": 819477,
     "series_id": "126644",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "6",
     "issue_number_sort": 6,
     "name": "The Engine Job Part 1: Headhunted",
@@ -13868,7 +13481,6 @@
   {
     "id": 825502,
     "series_id": "126644",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "7",
     "issue_number_sort": 7,
     "name": "The Engine Job Part 2: The Offer",
@@ -13904,7 +13516,6 @@
   {
     "id": 839783,
     "series_id": "126644",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "8",
     "issue_number_sort": 8,
     "name": "The Engine Job Part 3: Old Wounds",
@@ -13936,7 +13547,6 @@
   {
     "id": 844957,
     "series_id": "126644",
-    "series_name": "Star Wars: Doctor Aphra",
     "issue_number": "9",
     "issue_number_sort": 9,
     "name": "The Engine Job Part 4: Impossibilities",
@@ -13968,7 +13578,6 @@
   {
     "id": 824020,
     "series_id": "133079",
-    "series_name": "Star Wars: The High Republic",
     "issue_number": "1",
     "issue_number_sort": 1,
     "name": "There Is No Fear Chapter One \"Trial By Ordeal\"",
@@ -14003,7 +13612,6 @@
   {
     "id": 890598,
     "series_id": "133079",
-    "series_name": "Star Wars: The High Republic",
     "issue_number": "10",
     "issue_number_sort": 10,
     "name": "The Shadow of the Nihil Chapter 2: Out of Balance, Out of Time",
@@ -14038,7 +13646,6 @@
   {
     "id": 894113,
     "series_id": "133079",
-    "series_name": "Star Wars: The High Republic",
     "issue_number": "11",
     "issue_number_sort": 11,
     "name": "Jedi's End, Chapter 1: Only Fear",
@@ -14071,7 +13678,6 @@
   {
     "id": 898529,
     "series_id": "133079",
-    "series_name": "Star Wars: The High Republic",
     "issue_number": "12",
     "issue_number_sort": 12,
     "name": "Jedi's End, Chapter 2: The Spirit of Disunity",
@@ -14103,7 +13709,6 @@
   {
     "id": 903810,
     "series_id": "133079",
-    "series_name": "Star Wars: The High Republic",
     "issue_number": "13",
     "issue_number_sort": 13,
     "name": " Jedi's End, Chapter 3: The Battle of No-Space",
@@ -14134,7 +13739,6 @@
   {
     "id": 905798,
     "series_id": "133079",
-    "series_name": "Star Wars: The High Republic",
     "issue_number": "14",
     "issue_number_sort": 14,
     "name": "Jedi's End, Chapter 4: The Edge of Destruction",
@@ -14167,7 +13771,6 @@
   {
     "id": 909808,
     "series_id": "133079",
-    "series_name": "Star Wars: The High Republic",
     "issue_number": "15",
     "issue_number_sort": 15,
     "name": "Jedi's End, Chapter 5: The Fall",
@@ -14208,7 +13811,6 @@
   {
     "id": 827516,
     "series_id": "133079",
-    "series_name": "Star Wars: The High Republic",
     "issue_number": "2",
     "issue_number_sort": 2,
     "name": "There Is No Fear Chapter II: Tomb in Space",
@@ -14241,7 +13843,6 @@
   {
     "id": 832857,
     "series_id": "133079",
-    "series_name": "Star Wars: The High Republic",
     "issue_number": "3",
     "issue_number_sort": 3,
     "name": "There Is No Fear Chapter III: Down Below",
@@ -14275,7 +13876,6 @@
   {
     "id": 842195,
     "series_id": "133079",
-    "series_name": "Star Wars: The High Republic",
     "issue_number": "4",
     "issue_number_sort": 4,
     "name": "There Is No Fear Chapter IV: Song of the Drengir",
@@ -14310,7 +13910,6 @@
   {
     "id": 848846,
     "series_id": "133079",
-    "series_name": "Star Wars: The High Republic",
     "issue_number": "5",
     "issue_number_sort": 5,
     "name": "There Is No Fear Chapter V: Attack of the Hutts",
@@ -14345,7 +13944,6 @@
   {
     "id": 866576,
     "series_id": "133079",
-    "series_name": "Star Wars: The High Republic",
     "issue_number": "6",
     "issue_number_sort": 6,
     "name": "Heart of the Drengir Chapter I: The Galaxy Unites",
@@ -14379,7 +13977,6 @@
   {
     "id": 874520,
     "series_id": "133079",
-    "series_name": "Star Wars: The High Republic",
     "issue_number": "7",
     "issue_number_sort": 7,
     "name": "Heart of the Drengir Chapter II: Of Sith and Shadows",
@@ -14411,7 +14008,6 @@
   {
     "id": 878790,
     "series_id": "133079",
-    "series_name": "Star Wars: The High Republic",
     "issue_number": "8",
     "issue_number_sort": 8,
     "name": "Heart of the Drengir Chapter III: The Root of Terror",
@@ -14448,7 +14044,6 @@
   {
     "id": 882882,
     "series_id": "133079",
-    "series_name": "Star Wars: The High Republic",
     "issue_number": "9",
     "issue_number_sort": 9,
     "name": "The Shadow of the Nihil Chapter I: Jedi No More",
@@ -14485,7 +14080,6 @@
   {
     "id": 950691,
     "series_id": "145478",
-    "series_name": "Star Wars: The High Republic",
     "issue_number": "1",
     "issue_number_sort": 1,
     "name": "Balance of the Force - Chapter I: The Pilgrim Moon; Peace and Unity",
@@ -14523,7 +14117,6 @@
   {
     "id": 991072,
     "series_id": "145478",
-    "series_name": "Star Wars: The High Republic",
     "issue_number": "10",
     "issue_number_sort": 10,
     "name": "Battle for the Force Chapter V: Lure of the Dark Side",
@@ -14563,7 +14156,6 @@
   {
     "id": 953978,
     "series_id": "145478",
-    "series_name": "Star Wars: The High Republic",
     "issue_number": "2",
     "issue_number_sort": 2,
     "name": "Balance of the Force - Chapter II: Tey Sirrek",
@@ -14596,7 +14188,6 @@
   {
     "id": 961960,
     "series_id": "145478",
-    "series_name": "Star Wars: The High Republic",
     "issue_number": "3",
     "issue_number_sort": 3,
     "name": "Balance of the Force Chapter III: Tey Sirrek",
@@ -14627,7 +14218,6 @@
   {
     "id": 963995,
     "series_id": "145478",
-    "series_name": "Star Wars: The High Republic",
     "issue_number": "4",
     "issue_number_sort": 4,
     "name": "Balance of the Force Chapter IV: The Herald of the Open Hand",
@@ -14667,7 +14257,6 @@
   {
     "id": 969395,
     "series_id": "145478",
-    "series_name": "Star Wars: The High Republic",
     "issue_number": "5",
     "issue_number_sort": 5,
     "name": "Balance of the Force Chapter V: Falling Down",
@@ -14708,7 +14297,6 @@
   {
     "id": 975684,
     "series_id": "145478",
-    "series_name": "Star Wars: The High Republic",
     "issue_number": "6",
     "issue_number_sort": 6,
     "name": "Battle for the Force Chapter I: The Day the Statue Fell",
@@ -14746,7 +14334,6 @@
   {
     "id": 979436,
     "series_id": "145478",
-    "series_name": "Star Wars: The High Republic",
     "issue_number": "7",
     "issue_number_sort": 7,
     "name": "Battle for the Force Chapter II: The Siege of Enlightenment",
@@ -14786,7 +14373,6 @@
   {
     "id": 982367,
     "series_id": "145478",
-    "series_name": "Star Wars: The High Republic",
     "issue_number": "8",
     "issue_number_sort": 8,
     "name": "Battle for the Force Chapter III: Dunes of Blood",
@@ -14825,7 +14411,6 @@
   {
     "id": 988153,
     "series_id": "145478",
-    "series_name": "Star Wars: The High Republic",
     "issue_number": "9",
     "issue_number_sort": 9,
     "name": "Battle for the Force Chapter IV: The Hand of Siberus",
@@ -14861,7 +14446,6 @@
   {
     "id": 1028633,
     "series_id": "154553",
-    "series_name": "Star Wars: The High Republic",
     "issue_number": "1",
     "issue_number_sort": 1,
     "name": "Children of the Storm, Chapter 1: Now and Forever",
@@ -14899,7 +14483,6 @@
   {
     "id": 1066306,
     "series_id": "154553",
-    "series_name": "Star Wars: The High Republic",
     "issue_number": "10",
     "issue_number_sort": 10,
     "name": "The Hunted, Chapter 6: Jedi Lost and Found",
@@ -14932,7 +14515,6 @@
   {
     "id": 1035966,
     "series_id": "154553",
-    "series_name": "Star Wars: The High Republic",
     "issue_number": "2",
     "issue_number_sort": 2,
     "name": "Children of the Storm, Chapter 2: Sins of the Past",
@@ -14970,7 +14552,6 @@
   {
     "id": 1040947,
     "series_id": "154553",
-    "series_name": "Star Wars: The High Republic",
     "issue_number": "3",
     "issue_number_sort": 3,
     "name": "Children of the Storm, Chapter 3: The Taking of Ataraxia ",
@@ -15005,7 +14586,6 @@
   {
     "id": 1047089,
     "series_id": "154553",
-    "series_name": "Star Wars: The High Republic",
     "issue_number": "4",
     "issue_number_sort": 4,
     "name": "Children of the Storm, Chapter 4: Into the Occlusion Zone",
@@ -15037,7 +14617,6 @@
   {
     "id": 1048674,
     "series_id": "154553",
-    "series_name": "Star Wars: The High Republic",
     "issue_number": "5",
     "issue_number_sort": 5,
     "name": "Children of the Storm, Chapter 5: Monster & Apprentice ",
@@ -15071,7 +14650,6 @@
   {
     "id": 1051128,
     "series_id": "154553",
-    "series_name": "Star Wars: The High Republic",
     "issue_number": "6",
     "issue_number_sort": 6,
     "name": "The Hunted, Chapter 2: Back to the Light",
@@ -15108,7 +14686,6 @@
   {
     "id": 1054382,
     "series_id": "154553",
-    "series_name": "Star Wars: The High Republic",
     "issue_number": "7",
     "issue_number_sort": 7,
     "name": "The Hunted, Chapter 3: Balm of the Luminous",
@@ -15144,7 +14721,6 @@
   {
     "id": 1058722,
     "series_id": "154553",
-    "series_name": "Star Wars: The High Republic",
     "issue_number": "8",
     "issue_number_sort": 8,
     "name": "The Hunted, Chapter 4: Baron Boolan",
@@ -15180,7 +14756,6 @@
   {
     "id": 1061876,
     "series_id": "154553",
-    "series_name": "Star Wars: The High Republic",
     "issue_number": "9",
     "issue_number_sort": 9,
     "name": "The Hunted, Chapter 5: Death on Shingcu Station",
@@ -15216,7 +14791,6 @@
   {
     "id": 1094616,
     "series_id": "162323",
-    "series_name": "Star Wars: Legacy of Vader",
     "issue_number": "1",
     "issue_number_sort": 1,
     "name": "Reign of Kylo Ren, Part 1",
@@ -15249,7 +14823,6 @@
   {
     "id": 1141929,
     "series_id": "162323",
-    "series_name": "Star Wars: Legacy of Vader",
     "issue_number": "10",
     "issue_number_sort": 10,
     "name": "Reign of Kylo Ren, Part 10",
@@ -15276,7 +14849,6 @@
   {
     "id": 1098349,
     "series_id": "162323",
-    "series_name": "Star Wars: Legacy of Vader",
     "issue_number": "2",
     "issue_number_sort": 2,
     "name": "Reign of Kylo Ren, Part 2",
@@ -15312,7 +14884,6 @@
   {
     "id": 1104107,
     "series_id": "162323",
-    "series_name": "Star Wars: Legacy of Vader",
     "issue_number": "3",
     "issue_number_sort": 3,
     "name": "Reign of Kylo Ren, Part 3",
@@ -15343,7 +14914,6 @@
   {
     "id": 1111723,
     "series_id": "162323",
-    "series_name": "Star Wars: Legacy of Vader",
     "issue_number": "4",
     "issue_number_sort": 4,
     "name": "Reign of Kylo Ren, Part 4",
@@ -15374,7 +14944,6 @@
   {
     "id": 1116818,
     "series_id": "162323",
-    "series_name": "Star Wars: Legacy of Vader",
     "issue_number": "5",
     "issue_number_sort": 5,
     "name": "Reign of Kylo Ren, Part 5",
@@ -15402,7 +14971,6 @@
   {
     "id": 1119103,
     "series_id": "162323",
-    "series_name": "Star Wars: Legacy of Vader",
     "issue_number": "6",
     "issue_number_sort": 6,
     "name": "Reign of Kylo Ren, Part 6",
@@ -15432,7 +15000,6 @@
   {
     "id": 1124672,
     "series_id": "162323",
-    "series_name": "Star Wars: Legacy of Vader",
     "issue_number": "7",
     "issue_number_sort": 7,
     "name": "Reign of Kylo Ren, Part 7",
@@ -15461,7 +15028,6 @@
   {
     "id": 1130269,
     "series_id": "162323",
-    "series_name": "Star Wars: Legacy of Vader",
     "issue_number": "8",
     "issue_number_sort": 8,
     "name": "Reign of Kylo Ren, Part 8",
@@ -15497,7 +15063,6 @@
   {
     "id": 1138116,
     "series_id": "162323",
-    "series_name": "Star Wars: Legacy of Vader",
     "issue_number": "9",
     "issue_number_sort": 9,
     "name": "Reign of Kylo Ren, Part 9",
@@ -15524,7 +15089,6 @@
   {
     "id": 1097719,
     "series_id": "162624",
-    "series_name": "Star Wars: Jedi Knights",
     "issue_number": "1",
     "issue_number_sort": 1,
     "name": "The Invasion of Syrinx Prime",
@@ -15562,7 +15126,6 @@
   {
     "id": 1102466,
     "series_id": "162624",
-    "series_name": "Star Wars: Jedi Knights",
     "issue_number": "2",
     "issue_number_sort": 2,
     "name": "The Deepest Cut",
@@ -15597,7 +15160,6 @@
   {
     "id": 1109660,
     "series_id": "162624",
-    "series_name": "Star Wars: Jedi Knights",
     "issue_number": "3",
     "issue_number_sort": 3,
     "name": "Planet of Monsters",
@@ -15626,7 +15188,6 @@
   {
     "id": 1114020,
     "series_id": "162624",
-    "series_name": "Star Wars: Jedi Knights",
     "issue_number": "4",
     "issue_number_sort": 4,
     "name": "The Phaedra Gambit",
@@ -15659,7 +15220,6 @@
   {
     "id": 1117441,
     "series_id": "162624",
-    "series_name": "Star Wars: Jedi Knights",
     "issue_number": "5",
     "issue_number_sort": 5,
     "name": "Before the Fall",
@@ -15686,7 +15246,6 @@
   {
     "id": 1125797,
     "series_id": "162624",
-    "series_name": "Star Wars: Jedi Knights",
     "issue_number": "6",
     "issue_number_sort": 6,
     "name": "Sinsara",
@@ -15714,7 +15273,6 @@
   {
     "id": 1131770,
     "series_id": "162624",
-    "series_name": "Star Wars: Jedi Knights",
     "issue_number": "7",
     "issue_number_sort": 7,
     "name": "A Necessary Evil",
@@ -15743,7 +15301,6 @@
   {
     "id": 1139087,
     "series_id": "162624",
-    "series_name": "Star Wars: Jedi Knights",
     "issue_number": "8",
     "issue_number_sort": 8,
     "name": "Through Youngling Eyes",
@@ -15770,7 +15327,6 @@
   {
     "id": 1108857,
     "series_id": "164202",
-    "series_name": "Star Wars",
     "issue_number": "1",
     "issue_number_sort": 1,
     "name": "Out of the Darkness",
@@ -15811,7 +15367,6 @@
   {
     "id": 1115835,
     "series_id": "164202",
-    "series_name": "Star Wars",
     "issue_number": "2",
     "issue_number_sort": 2,
     "name": "Smoke",
@@ -15840,7 +15395,6 @@
   {
     "id": 1120412,
     "series_id": "164202",
-    "series_name": "Star Wars",
     "issue_number": "3",
     "issue_number_sort": 3,
     "name": null,
@@ -15873,7 +15427,6 @@
   {
     "id": 1127227,
     "series_id": "164202",
-    "series_name": "Star Wars",
     "issue_number": "4",
     "issue_number_sort": 4,
     "name": "Shock and Awe",
@@ -15908,7 +15461,6 @@
   {
     "id": 1133844,
     "series_id": "164202",
-    "series_name": "Star Wars",
     "issue_number": "5",
     "issue_number_sort": 5,
     "name": "Into the Past",
@@ -15940,7 +15492,6 @@
   {
     "id": 1136129,
     "series_id": "164202",
-    "series_name": "Star Wars",
     "issue_number": "6",
     "issue_number_sort": 6,
     "name": "Revolution",
@@ -15975,7 +15526,6 @@
   {
     "id": 1762613205295,
     "series_id": "162323",
-    "series_name": "Legacy of Vader",
     "issue_number": "11",
     "issue_number_sort": 11,
     "name": "Star Wars: Legacy of Vader",
@@ -15999,7 +15549,6 @@
   {
     "id": 1762613205296,
     "series_id": "162323",
-    "series_name": "Legacy of Vader",
     "issue_number": "12",
     "issue_number_sort": 12,
     "name": "Star Wars: Legacy of Vader",
@@ -16023,7 +15572,6 @@
   {
     "id": 1762613416598,
     "series_id": "162624",
-    "series_name": "Jedi Knights",
     "issue_number": "9",
     "issue_number_sort": 9,
     "name": "Star Wars: Jedi Knights",
@@ -16047,7 +15595,6 @@
   {
     "id": 1762613416599,
     "series_id": "162624",
-    "series_name": "Jedi Knights",
     "issue_number": "10",
     "issue_number_sort": 10,
     "name": "Star Wars: Jedi Knights",
@@ -16071,7 +15618,6 @@
   {
     "id": 1762614986872,
     "series_id": "164202",
-    "series_name": "Star Wars",
     "issue_number": "7",
     "issue_number_sort": 7,
     "name": "Star Wars",
@@ -16095,7 +15641,6 @@
   {
     "id": 1762614986874,
     "series_id": "164202",
-    "series_name": "Star Wars",
     "issue_number": "8",
     "issue_number_sort": 8,
     "name": "Star Wars",
@@ -16119,7 +15664,6 @@
   {
     "id": 1762614986875,
     "series_id": "164202",
-    "series_name": "Star Wars",
     "issue_number": "9",
     "issue_number_sort": 9,
     "name": "Star Wars",
@@ -16143,14 +15687,50 @@
   {
     "id": 1116309,
     "series_id": "165088",
-    "series_name": "Star Wars: Doctor Aphra: Chaos Agent",
     "issue_number": "1",
     "issue_number_sort": 1,
     "name": "Welcome to the Daggers",
     "aliases": null,
     "deck": null,
-    "creators": [],
-    "upc": null,
+    "creators": [
+      {
+        "name": "Cherish Chen",
+        "role": "Writer"
+      },
+      {
+        "name": "Gabriel Guzman",
+        "role": "Artist"
+      },
+      {
+        "name": "Michael Atiyeh",
+        "role": "Colorist"
+      },
+      {
+        "name": "Joe Caramagna",
+        "role": "Letterer"
+      },
+      {
+        "name": "Drew Baumgartner",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mikey J. Basso",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Grace Orriss",
+        "role": "Associate Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
+      }
+    ],
+    "upc": "75960621107400111",
     "cover_date": "2025-08-01",
     "store_date": "2025-06-18",
     "story_arcs": [],
@@ -16171,14 +15751,50 @@
   {
     "id": 1121730,
     "series_id": "165088",
-    "series_name": "Star Wars: Doctor Aphra: Chaos Agent",
     "issue_number": "2",
     "issue_number_sort": 2,
     "name": "The Elusive Collector of Aargau",
     "aliases": null,
     "deck": null,
-    "creators": [],
-    "upc": null,
+    "creators": [
+      {
+        "name": "Cherish Chen",
+        "role": "Writer"
+      },
+      {
+        "name": "Gabriel Guzman",
+        "role": "Artist"
+      },
+      {
+        "name": "Michael Atiyeh",
+        "role": "Colorist"
+      },
+      {
+        "name": "Joe Caramagna",
+        "role": "Letterer"
+      },
+      {
+        "name": "Drew Baumgartner",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mikey J. Basso",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Grace Orriss",
+        "role": "Associate Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
+      }
+    ],
+    "upc": "75960621107400211",
     "cover_date": "2025-09-01",
     "store_date": "2025-07-23",
     "story_arcs": [],
@@ -16198,14 +15814,26 @@
   {
     "id": 1128958,
     "series_id": "165088",
-    "series_name": "Star Wars: Doctor Aphra: Chaos Agent",
     "issue_number": "3",
     "issue_number_sort": 3,
     "name": "Luck be a Totem",
     "aliases": null,
     "deck": null,
-    "creators": [],
-    "upc": null,
+    "creators": [
+      {
+        "name": "Drew Baumgartner",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mikey J. Basso",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      }
+    ],
+    "upc": "75960621107400311",
     "cover_date": "2025-10-01",
     "store_date": "2025-08-27",
     "story_arcs": [],
@@ -16225,14 +15853,26 @@
   {
     "id": 1134946,
     "series_id": "165088",
-    "series_name": "Star Wars: Doctor Aphra: Chaos Agent",
     "issue_number": "4",
     "issue_number_sort": 4,
     "name": "Turning Point",
     "aliases": null,
     "deck": null,
-    "creators": [],
-    "upc": null,
+    "creators": [
+      {
+        "name": "Drew Baumgartner",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mikey J. Basso",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      }
+    ],
+    "upc": "75960621107400411",
     "cover_date": "2025-11-01",
     "store_date": "2025-09-24",
     "story_arcs": [],
@@ -16253,14 +15893,26 @@
   {
     "id": 1140616,
     "series_id": "165088",
-    "series_name": "Star Wars: Doctor Aphra: Chaos Agent",
     "issue_number": "5",
     "issue_number_sort": 5,
     "name": "Aeturna at Last",
     "aliases": null,
     "deck": null,
-    "creators": [],
-    "upc": null,
+    "creators": [
+      {
+        "name": "Drew Baumgartner",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mikey J. Basso",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      }
+    ],
+    "upc": "75960621107400511",
     "cover_date": "2025-12-01",
     "store_date": "2025-10-29",
     "story_arcs": [],
@@ -16277,5 +15929,673 @@
     "league_id": "2553163",
     "league_url": "https://leagueofcomicgeeks.com/comic/2553163/star-wars-doctor-aphra-chaos-agent-5",
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Doctor_Aphra_%E2%80%93_Chaos_Agent_5"
+  },
+  {
+    "id": 481612,
+    "series_id": "80455",
+    "issue_number": "1",
+    "issue_number_sort": 1,
+    "name": "Part I",
+    "aliases": null,
+    "deck": null,
+    "creators": [
+      {
+        "name": "Mark Waid",
+        "role": "Writer"
+      },
+      {
+        "name": "Terry Dodson",
+        "role": "Penciller"
+      },
+      {
+        "name": "Rachel Dodson",
+        "role": "Inker"
+      },
+      {
+        "name": "Jordie Bellaire",
+        "role": "Colorist"
+      },
+      {
+        "name": "Joe Caramagna",
+        "role": "Letterer"
+      },
+      {
+        "name": "Charles Beacham",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Jordan D. White",
+        "role": "Editor"
+      },
+      {
+        "name": "Jennifer Heddle",
+        "role": "Senior Editor"
+      },
+      {
+        "name": "Mike Marts",
+        "role": "Executive Editor"
+      },
+      {
+        "name": "C. B. Cebulski",
+        "role": "Executive Editor"
+      }
+    ],
+    "upc": "75960608142400111",
+    "cover_date": "2015-05-31",
+    "store_date": "2015-03-04",
+    "story_arcs": [],
+    "characters": [
+      "Admiral Ackbar",
+      "Bob Hudsol",
+      "C-3PO",
+      "Chewbacca",
+      "Evaan Verlaine",
+      "General Dodonna",
+      "Han Solo",
+      "Luke Skywalker",
+      "Princess Leia",
+      "R2-D2",
+      "Wedge Antilles"
+    ],
+    "description_full": "<p><em>When Princess Leia Organa was captured by the Empire as a Rebel spy, she never betrayed her convictions, even in the face of the complete destruction of her home world, Alderaan. When her rescue came, she grabbed a blaster and joined the fight, escaping back to the Rebel Alliance and helping strike the biggest blow against the Empire—the destruction of the Death Star. But in the aftermath of that victory, the question remains...what is a princess without a world?</em></p><p><em>Writer Mark Waid (Daredevil, S.H.I.E.L.D.) and artist Terry Dodson (Avengers &amp; X-Men: Axis, Uncanny X-Men) bring us a story of Leia’s quest to help her people and find her place in the galaxy.</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Terry Dodson &amp; Rachel Dodson</td><td>1</td></tr><tr><td>Var</td><td>Teaser Variant Cover</td><td>John Cassaday</td><td>7</td></tr><tr><td>Var</td><td>Connecting Variant Cover C</td><td>J. Scott Campbell</td><td>8</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Alex Ross</td><td>9</td></tr><tr><td>Var</td><td>Variant Sketch Cover</td><td>Alex Ross</td><td>10</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Mark Brooks</td><td>11</td></tr><tr><td>Var</td><td>Young Variant Cover</td><td>Skottie Young</td><td>12</td></tr><tr><td>Var</td><td>Action Figure Variant Cover</td><td>John Tyler Christopher</td><td>13</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Butch Guice</td><td>14</td></tr><tr><td>Var</td><td>Movie Variant Cover</td><td>Photo</td><td>15</td></tr><tr><td>Var</td><td>Blank Variant Cover</td><td>None</td><td>16</td></tr><tr><td>RE</td><td>Emerald City Comicon Exclusive Variant Cover</td><td>Adi Granov</td><td>3</td></tr><tr><td>RE</td><td>Emerald City Comicon Exclusive Sketch Variant Cover</td><td>Adi Granov</td><td>4</td></tr><tr><td>RE</td><td>Midtown Comics Exclusive Connecting Variant Cover</td><td>Mark Brooks</td><td>5</td></tr><tr><td>RE</td><td>Midtown Comics Exclusive Connecting Variant Sketch Cover</td><td>Mark Brooks</td><td>6</td></tr><tr><td>2nd</td><td>Second Printing Cover</td><td>Terry Dodson &amp; Rachel Dodson</td><td>2</td></tr></tbody></table>",
+    "description": "<p><em>When Princess Leia Organa was captured by the Empire as a Rebel spy, she never betrayed her convictions, even in the face of the complete destruction of her home world, Alderaan. When her rescue came, she grabbed a blaster and joined the fight, escaping back to the Rebel Alliance and helping strike the biggest blow against the Empire—the destruction of the Death Star. But in the aftermath of that victory, the question remains...what is a princess without a world?</em></p><p><em>Writer Mark Waid (Daredevil, S.H.I.E.L.D.) and artist Terry Dodson (Avengers &amp; X-Men: Axis, Uncanny X-Men) bring us a story of Leia’s quest to help her people and find her place in the galaxy.</em></p>",
+    "description_covers": "<h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Terry Dodson &amp; Rachel Dodson</td><td>1</td></tr><tr><td>Var</td><td>Teaser Variant Cover</td><td>John Cassaday</td><td>7</td></tr><tr><td>Var</td><td>Connecting Variant Cover C</td><td>J. Scott Campbell</td><td>8</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Alex Ross</td><td>9</td></tr><tr><td>Var</td><td>Variant Sketch Cover</td><td>Alex Ross</td><td>10</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Mark Brooks</td><td>11</td></tr><tr><td>Var</td><td>Young Variant Cover</td><td>Skottie Young</td><td>12</td></tr><tr><td>Var</td><td>Action Figure Variant Cover</td><td>John Tyler Christopher</td><td>13</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Butch Guice</td><td>14</td></tr><tr><td>Var</td><td>Movie Variant Cover</td><td>Photo</td><td>15</td></tr><tr><td>Var</td><td>Blank Variant Cover</td><td>None</td><td>16</td></tr><tr><td>RE</td><td>Emerald City Comicon Exclusive Variant Cover</td><td>Adi Granov</td><td>3</td></tr><tr><td>RE</td><td>Emerald City Comicon Exclusive Sketch Variant Cover</td><td>Adi Granov</td><td>4</td></tr><tr><td>RE</td><td>Midtown Comics Exclusive Connecting Variant Cover</td><td>Mark Brooks</td><td>5</td></tr><tr><td>RE</td><td>Midtown Comics Exclusive Connecting Variant Sketch Cover</td><td>Mark Brooks</td><td>6</td></tr><tr><td>2nd</td><td>Second Printing Cover</td><td>Terry Dodson &amp; Rachel Dodson</td><td>2</td></tr></tbody></table>",
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/4426846-01.jpg",
+    "league_id": "6294267",
+    "league_url": "https://leagueofcomicgeeks.com/comic/6294267/star-wars-princess-leia-1",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Princess_Leia_1"
+  },
+  {
+    "id": 482691,
+    "series_id": "80455",
+    "issue_number": "2",
+    "issue_number_sort": 2,
+    "name": "Part II",
+    "aliases": null,
+    "deck": null,
+    "creators": [
+      {
+        "name": "Mark Waid",
+        "role": "Writer"
+      },
+      {
+        "name": "Terry Dodson",
+        "role": "Penciller"
+      },
+      {
+        "name": "Rachel Dodson",
+        "role": "Inker"
+      },
+      {
+        "name": "Jordie Bellaire",
+        "role": "Colorist"
+      },
+      {
+        "name": "Joe Caramagna",
+        "role": "Letterer"
+      },
+      {
+        "name": "Heather Antos",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Charles Beacham",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Jordan D. White",
+        "role": "Editor"
+      },
+      {
+        "name": "Jennifer Heddle",
+        "role": "Senior Editor"
+      },
+      {
+        "name": "Mike Marts",
+        "role": "Executive Editor"
+      },
+      {
+        "name": "C. B. Cebulski",
+        "role": "Executive Editor"
+      }
+    ],
+    "upc": "75960608142400211",
+    "cover_date": "2015-05-31",
+    "store_date": "2015-03-18",
+    "story_arcs": [],
+    "characters": [
+      "Evaan Verlaine",
+      "Padmé Amidala",
+      "Pareece",
+      "Princess Leia",
+      "R2-D2",
+      "Senator Bail Organa"
+    ],
+    "description_full": "<p><em>When Princess Leia Organa was captured by the Empire as a Rebel spy, she never betrayed her convictions, even in the face of the complete destruction of her home world, Alderaan. When her rescue came, she grabbed a blaster and joined the fight, escaping back to the Rebel Alliance and helping strike the biggest blow against the Empire—the destruction of the Death Star. But in the aftermath of that victory, the question remains...what is a princess without a world?</em></p><p><em>Writer Mark Waid (Daredevil, S.H.I.E.L.D.) and artist Terry Dodson (Avengers &amp; X-Men: Axis, Uncanny X-Men) bring us a story of Leia’s quest to help her people and find her place in the galaxy.</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Terry Dodson &amp; Rachel Dodson</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Alex Maleev</td><td>4</td></tr><tr><td>2nd</td><td>Second Printing Cover</td><td>Terry Dodson &amp; Rachel Dodson</td><td>3</td></tr><tr><td>3rd</td><td>Third Printing Cover</td><td>Terry Dodson &amp; Rachel Dodson</td><td>2</td></tr></tbody></table>",
+    "description": "<p><em>When Princess Leia Organa was captured by the Empire as a Rebel spy, she never betrayed her convictions, even in the face of the complete destruction of her home world, Alderaan. When her rescue came, she grabbed a blaster and joined the fight, escaping back to the Rebel Alliance and helping strike the biggest blow against the Empire—the destruction of the Death Star. But in the aftermath of that victory, the question remains...what is a princess without a world?</em></p><p><em>Writer Mark Waid (Daredevil, S.H.I.E.L.D.) and artist Terry Dodson (Avengers &amp; X-Men: Axis, Uncanny X-Men) bring us a story of Leia’s quest to help her people and find her place in the galaxy.</em></p>",
+    "description_covers": "<h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Terry Dodson &amp; Rachel Dodson</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Alex Maleev</td><td>4</td></tr><tr><td>2nd</td><td>Second Printing Cover</td><td>Terry Dodson &amp; Rachel Dodson</td><td>3</td></tr><tr><td>3rd</td><td>Third Printing Cover</td><td>Terry Dodson &amp; Rachel Dodson</td><td>2</td></tr></tbody></table>",
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/4452892-02.jpg",
+    "league_id": "5206193",
+    "league_url": "https://leagueofcomicgeeks.com/comic/5206193/star-wars-princess-leia-2",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Princess_Leia_2"
+  },
+  {
+    "id": 487212,
+    "series_id": "80455",
+    "issue_number": "3",
+    "issue_number_sort": 3,
+    "name": "Part III",
+    "aliases": null,
+    "deck": null,
+    "creators": [
+      {
+        "name": "Mark Waid",
+        "role": "Writer"
+      },
+      {
+        "name": "Terry Dodson",
+        "role": "Penciller"
+      },
+      {
+        "name": "Rachel Dodson",
+        "role": "Inker"
+      },
+      {
+        "name": "Jordie Bellaire",
+        "role": "Colorist"
+      },
+      {
+        "name": "Joe Caramagna",
+        "role": "Letterer"
+      },
+      {
+        "name": "Heather Antos",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Jordan D. White",
+        "role": "Editor"
+      },
+      {
+        "name": "Jennifer Heddle",
+        "role": "Senior Editor"
+      },
+      {
+        "name": "Mike Marts",
+        "role": "Executive Editor"
+      },
+      {
+        "name": "C. B. Cebulski",
+        "role": "Executive Editor"
+      }
+    ],
+    "upc": "75960608142400311",
+    "cover_date": "2015-06-30",
+    "store_date": "2015-04-29",
+    "story_arcs": [],
+    "characters": [
+      "Evaan Verlaine",
+      "Jora",
+      "Pareece",
+      "Princess Leia",
+      "R2-D2"
+    ],
+    "description_full": "<p><em>Leia’s mission leads to the underground world of Sullust!</em></p><p><em>The Empire’s forces are on her trail and gaining!</em></p><p><em>Join the galaxy’s toughest Princess on a quest to save her people!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Terry Dodson</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Francesco Francavilla</td><td>2</td></tr><tr><td>RE</td><td>BAM! and 2nd &amp; Charles Exclusive Cover</td><td>Phil Noto</td><td>3</td></tr><tr><td>RE</td><td>Mile High Comics Exclusive Cover, Limited to 3000</td><td>Gabriele Dell'Otto</td><td>4</td></tr></tbody></table>",
+    "description": "<p><em>Leia’s mission leads to the underground world of Sullust!</em></p><p><em>The Empire’s forces are on her trail and gaining!</em></p><p><em>Join the galaxy’s toughest Princess on a quest to save her people!</em></p>",
+    "description_covers": "<h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Terry Dodson</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Francesco Francavilla</td><td>2</td></tr><tr><td>RE</td><td>BAM! and 2nd &amp; Charles Exclusive Cover</td><td>Phil Noto</td><td>3</td></tr><tr><td>RE</td><td>Mile High Comics Exclusive Cover, Limited to 3000</td><td>Gabriele Dell'Otto</td><td>4</td></tr></tbody></table>",
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/4532228-03.jpg",
+    "league_id": "5175571",
+    "league_url": "https://leagueofcomicgeeks.com/comic/5175571/star-wars-princess-leia-3",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Princess_Leia_3"
+  },
+  {
+    "id": 490886,
+    "series_id": "80455",
+    "issue_number": "4",
+    "issue_number_sort": 4,
+    "name": "Part IV",
+    "aliases": null,
+    "deck": null,
+    "creators": [
+      {
+        "name": "Mark Waid",
+        "role": "Writer"
+      },
+      {
+        "name": "Terry Dodson",
+        "role": "Penciller"
+      },
+      {
+        "name": "Rachel Dodson",
+        "role": "Inker"
+      },
+      {
+        "name": "Jordie Bellaire",
+        "role": "Colorist"
+      },
+      {
+        "name": "Joe Caramagna",
+        "role": "Letterer"
+      },
+      {
+        "name": "Heather Antos",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Jordan D. White",
+        "role": "Editor"
+      },
+      {
+        "name": "Jennifer Heddle",
+        "role": "Senior Editor"
+      },
+      {
+        "name": "C. B. Cebulski",
+        "role": "Executive Editor"
+      }
+    ],
+    "upc": "75960608142400411",
+    "cover_date": "2015-08-31",
+    "store_date": "2015-06-03",
+    "story_arcs": [],
+    "characters": [
+      "Beon Beonel",
+      "Evaan Verlaine",
+      "Jora",
+      "Nien Nunb",
+      "Pareece",
+      "Princess Leia",
+      "R2-D2"
+    ],
+    "description_full": "<p><em>The Empire is rounding up fugitive Alderaanians...</em></p><p><em>...that doesn’t sit well with their Princess.</em></p><p><em>But what can one woman do against an Empire?</em></p>",
+    "description": "<p><em>The Empire is rounding up fugitive Alderaanians...</em></p><p><em>...that doesn’t sit well with their Princess.</em></p><p><em>But what can one woman do against an Empire?</em></p>",
+    "description_covers": null,
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/4600551-04.jpg",
+    "league_id": "5515927",
+    "league_url": "https://leagueofcomicgeeks.com/comic/5515927/star-wars-princess-leia-4",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Princess_Leia_4"
+  },
+  {
+    "id": 493795,
+    "series_id": "80455",
+    "issue_number": "5",
+    "issue_number_sort": 5,
+    "name": "Part V",
+    "aliases": null,
+    "deck": null,
+    "creators": [
+      {
+        "name": "Mark Waid",
+        "role": "Writer"
+      },
+      {
+        "name": "Terry Dodson",
+        "role": "Penciller"
+      },
+      {
+        "name": "Rachel Dodson",
+        "role": "Inker"
+      },
+      {
+        "name": "Jordie Bellaire",
+        "role": "Colorist"
+      },
+      {
+        "name": "Joe Caramagna",
+        "role": "Letterer"
+      },
+      {
+        "name": "Heather Antos",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Jordan D. White",
+        "role": "Editor"
+      },
+      {
+        "name": "Jennifer Heddle",
+        "role": "Senior Editor"
+      },
+      {
+        "name": "C. B. Cebulski",
+        "role": "Executive Editor"
+      }
+    ],
+    "upc": "75960608142400511",
+    "cover_date": "2015-09-30",
+    "store_date": "2015-07-01",
+    "story_arcs": [],
+    "characters": [
+      "Beon Beonel",
+      "C-3PO",
+      "Chewbacca",
+      "Evaan Verlaine",
+      "Han Solo",
+      "Jora",
+      "Luke Skywalker",
+      "Pareece",
+      "Princess Leia",
+      "R2-D2"
+    ],
+    "description_full": "<p><em>LAST STAND IN THE NAME OF ALDERAAN!</em></p><p><em>The rebel Princess leads her people against the Empire!</em></p><p><em>The conclusion to Leia’s most personal mission!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Terry Dodson &amp; Rachel Dodson</td><td>1</td></tr><tr><td>RE</td><td>Mile High Comics Exclusive Cover</td><td>Gabriele Dell'Otto</td><td>2</td></tr></tbody></table>",
+    "description": "<p><em>LAST STAND IN THE NAME OF ALDERAAN!</em></p><p><em>The rebel Princess leads her people against the Empire!</em></p><p><em>The conclusion to Leia’s most personal mission!</em></p>",
+    "description_covers": "<h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Terry Dodson &amp; Rachel Dodson</td><td>1</td></tr><tr><td>RE</td><td>Mile High Comics Exclusive Cover</td><td>Gabriele Dell'Otto</td><td>2</td></tr></tbody></table>",
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/4657341-05.jpg",
+    "league_id": "4640044",
+    "league_url": "https://leagueofcomicgeeks.com/comic/4640044/star-wars-princess-leia-5",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Princess_Leia_5"
+  },
+  {
+    "id": 494322,
+    "series_id": "83142",
+    "issue_number": "1",
+    "issue_number_sort": 1,
+    "name": "Part I",
+    "aliases": null,
+    "deck": null,
+    "creators": [
+      {
+        "name": "Charles Soule",
+        "role": "Writer"
+      },
+      {
+        "name": "Alex Maleev",
+        "role": "Artist"
+      },
+      {
+        "name": "Paul Mounts",
+        "role": "Colorist"
+      },
+      {
+        "name": "Joe Caramagna",
+        "role": "Letterer"
+      },
+      {
+        "name": "Heather Antos",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Jordan D. White",
+        "role": "Editor"
+      },
+      {
+        "name": "Frank Parisi",
+        "role": "Senior Editor"
+      },
+      {
+        "name": "C. B. Cebulski",
+        "role": "Executive Editor"
+      }
+    ],
+    "upc": "75960608143100111",
+    "cover_date": "2015-09-30",
+    "store_date": "2015-07-08",
+    "story_arcs": [],
+    "characters": [
+      "Emperor Palpatine",
+      "Korin Pers",
+      "Lando Calrissian",
+      "Lobot",
+      "Mas Amedda",
+      "Ssaria",
+      "Toren"
+    ],
+    "description_full": "<p><em>You know him...you love him...now, join him for his biggest caper as master of charm Lando Calrissian gets his very own comic book! Before he joined the rebellion, before he ran Cloud City, Lando made his way in the galaxy getting by on some swindles, some swagger, and a smile. Lobot at his side, Lando has a plan to steal a very valuable ship...but has he bitten off more than he can chew? Writer Charles Soule (DEATH OF WOLVERINE, INHUMAN, SHE-HULK) and artist Alex Maleev (DAREDEVIL, SPIDER-WOMAN, MOON KNIGHT) bring us the tale of a scoundrel in his natural element-trouble!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Alex Maleev &amp; Edgar Delgado</td><td>1</td></tr><tr><td>Var</td><td>Blank Variant Cover</td><td>None</td><td>2</td></tr><tr><td>Var</td><td>Variant Cover</td><td>John Cassaday</td><td>3</td></tr><tr><td>Var</td><td>Action Figure Variant Cover</td><td>John Tyler Christopher</td><td>4</td></tr><tr><td>Var</td><td>Movie Variant Cover</td><td>Photo</td><td>5</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Alex Ross</td><td>6</td></tr><tr><td>Var</td><td>Variant Sketch Cover</td><td>Alex Ross</td><td>7</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Greg Land</td><td>8</td></tr><tr><td>Var</td><td>Young Variant Cover</td><td>Skottie Young</td><td>9</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Leinil Francis Yu</td><td>10</td></tr><tr><td>RE</td><td>San Diego Comic-Con Exclusive Sketch Variant Cover</td><td>Skottie Young</td><td>11</td></tr></tbody></table>",
+    "description": "<p><em>You know him...you love him...now, join him for his biggest caper as master of charm Lando Calrissian gets his very own comic book! Before he joined the rebellion, before he ran Cloud City, Lando made his way in the galaxy getting by on some swindles, some swagger, and a smile. Lobot at his side, Lando has a plan to steal a very valuable ship...but has he bitten off more than he can chew? Writer Charles Soule (DEATH OF WOLVERINE, INHUMAN, SHE-HULK) and artist Alex Maleev (DAREDEVIL, SPIDER-WOMAN, MOON KNIGHT) bring us the tale of a scoundrel in his natural element-trouble!</em></p>",
+    "description_covers": "<h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Alex Maleev &amp; Edgar Delgado</td><td>1</td></tr><tr><td>Var</td><td>Blank Variant Cover</td><td>None</td><td>2</td></tr><tr><td>Var</td><td>Variant Cover</td><td>John Cassaday</td><td>3</td></tr><tr><td>Var</td><td>Action Figure Variant Cover</td><td>John Tyler Christopher</td><td>4</td></tr><tr><td>Var</td><td>Movie Variant Cover</td><td>Photo</td><td>5</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Alex Ross</td><td>6</td></tr><tr><td>Var</td><td>Variant Sketch Cover</td><td>Alex Ross</td><td>7</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Greg Land</td><td>8</td></tr><tr><td>Var</td><td>Young Variant Cover</td><td>Skottie Young</td><td>9</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Leinil Francis Yu</td><td>10</td></tr><tr><td>RE</td><td>San Diego Comic-Con Exclusive Sketch Variant Cover</td><td>Skottie Young</td><td>11</td></tr></tbody></table>",
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/4670593-01.jpg",
+    "league_id": "1789228",
+    "league_url": "https://leagueofcomicgeeks.com/comic/1789228/star-wars-lando-1",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Lando_1"
+  },
+  {
+    "id": 497391,
+    "series_id": "83142",
+    "issue_number": "2",
+    "issue_number_sort": 2,
+    "name": "Part II",
+    "aliases": null,
+    "deck": null,
+    "creators": [
+      {
+        "name": "Charles Soule",
+        "role": "Writer"
+      },
+      {
+        "name": "Alex Maleev",
+        "role": "Artist"
+      },
+      {
+        "name": "Paul Mounts",
+        "role": "Colorist"
+      },
+      {
+        "name": "Joe Caramagna",
+        "role": "Letterer"
+      },
+      {
+        "name": "Heather Antos",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Jordan D. White",
+        "role": "Editor"
+      },
+      {
+        "name": "Frank Parisi",
+        "role": "Senior Editor"
+      },
+      {
+        "name": "C. B. Cebulski",
+        "role": "Executive Editor"
+      }
+    ],
+    "upc": "75960608143100211",
+    "cover_date": "2015-10-31",
+    "store_date": "2015-08-12",
+    "story_arcs": [],
+    "characters": [
+      "Chanath Cha",
+      "Korin Pers",
+      "Lando Calrissian",
+      "Lobot"
+    ],
+    "description_full": "<p><em>Lando has made off with one of the most expensive ships in the galaxy...</em></p><p><em>But now, one of the most deadly, effective trackers around is on his tail.</em></p><p><em>Get swindled by the smoothest talker in space!</em></p><p><em> </em></p>",
+    "description": "<p><em>Lando has made off with one of the most expensive ships in the galaxy...</em></p><p><em>But now, one of the most deadly, effective trackers around is on his tail.</em></p><p><em>Get swindled by the smoothest talker in space!</em></p><p><em> </em></p>",
+    "description_covers": null,
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/4739570-02.jpg",
+    "league_id": "2745762",
+    "league_url": "https://leagueofcomicgeeks.com/comic/2745762/star-wars-lando-2",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Lando_2"
+  },
+  {
+    "id": 498389,
+    "series_id": "83142",
+    "issue_number": "3",
+    "issue_number_sort": 3,
+    "name": "Part III",
+    "aliases": null,
+    "deck": null,
+    "creators": [
+      {
+        "name": "Charles Soule",
+        "role": "Writer"
+      },
+      {
+        "name": "Alex Maleev",
+        "role": "Artist"
+      },
+      {
+        "name": "Paul Mounts",
+        "role": "Colorist"
+      },
+      {
+        "name": "Joe Caramagna",
+        "role": "Letterer"
+      },
+      {
+        "name": "Heather Antos",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Jordan D. White",
+        "role": "Editor"
+      },
+      {
+        "name": "Frank Parisi",
+        "role": "Senior Editor"
+      },
+      {
+        "name": "C. B. Cebulski",
+        "role": "Executive Editor"
+      }
+    ],
+    "upc": "75960608143100311",
+    "cover_date": "2015-10-31",
+    "store_date": "2015-08-26",
+    "story_arcs": [],
+    "characters": [
+      "Chanath Cha",
+      "Korin Pers",
+      "Lando Calrissian",
+      "Lobot"
+    ],
+    "description_full": "<p><em>Lando has made off with one of the most expensive ships in the galaxy...</em></p><p><em>But now, one of the most deadly, effective trackers around is on his tail.</em></p><p><em>Get swindled by the smoothest talker in space!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Alex Maleev</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Mike Mayhew</td><td>3</td></tr><tr><td>2nd</td><td>Second Printing Cover</td><td>Alex Maleev</td><td>2</td></tr></tbody></table>",
+    "description": "<p><em>Lando has made off with one of the most expensive ships in the galaxy...</em></p><p><em>But now, one of the most deadly, effective trackers around is on his tail.</em></p><p><em>Get swindled by the smoothest talker in space!</em></p>",
+    "description_covers": "<h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Alex Maleev</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Mike Mayhew</td><td>3</td></tr><tr><td>2nd</td><td>Second Printing Cover</td><td>Alex Maleev</td><td>2</td></tr></tbody></table>",
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/4765991-03.jpg",
+    "league_id": "8022158",
+    "league_url": "https://leagueofcomicgeeks.com/comic/8022158/star-wars-lando-3",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Lando_3"
+  },
+  {
+    "id": 500305,
+    "series_id": "83142",
+    "issue_number": "4",
+    "issue_number_sort": 4,
+    "name": "Part IV",
+    "aliases": null,
+    "deck": null,
+    "creators": [
+      {
+        "name": "Charles Soule",
+        "role": "Writer"
+      },
+      {
+        "name": "Alex Maleev",
+        "role": "Artist"
+      },
+      {
+        "name": "Paul Mounts",
+        "role": "Colorist"
+      },
+      {
+        "name": "Joe Caramagna",
+        "role": "Letterer"
+      },
+      {
+        "name": "Heather Antos",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Jordan D. White",
+        "role": "Editor"
+      },
+      {
+        "name": "Frank Parisi",
+        "role": "Senior Editor"
+      },
+      {
+        "name": "C. B. Cebulski",
+        "role": "Executive Editor"
+      }
+    ],
+    "upc": "75960608143100411",
+    "cover_date": "2015-11-30",
+    "store_date": "2015-09-16",
+    "story_arcs": [],
+    "characters": [
+      "Chanath Cha",
+      "Korin Pers",
+      "Lando Calrissian",
+      "Lobot"
+    ],
+    "description_full": "<p><em>Lando has made off with one of the most expensive ships in the galaxy...</em></p><p><em>But now, one of the most deadly, effective trackers around is on his tail.</em></p><p><em>Get swindled by the smoothest talker in space!</em></p>",
+    "description": "<p><em>Lando has made off with one of the most expensive ships in the galaxy...</em></p><p><em>But now, one of the most deadly, effective trackers around is on his tail.</em></p><p><em>Get swindled by the smoothest talker in space!</em></p>",
+    "description_covers": null,
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/4802841-04.jpg",
+    "league_id": "2100057",
+    "league_url": "https://leagueofcomicgeeks.com/comic/2100057/star-wars-lando-4",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Lando_4"
+  },
+  {
+    "id": 502121,
+    "series_id": "83142",
+    "issue_number": "5",
+    "issue_number_sort": 5,
+    "name": "Part V",
+    "aliases": null,
+    "deck": null,
+    "creators": [
+      {
+        "name": "Charles Soule",
+        "role": "Writer"
+      },
+      {
+        "name": "Alex Maleev",
+        "role": "Artist"
+      },
+      {
+        "name": "Paul Mounts",
+        "role": "Colorist"
+      },
+      {
+        "name": "Joe Caramagna",
+        "role": "Letterer"
+      },
+      {
+        "name": "Heather Antos",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Jordan D. White",
+        "role": "Editor"
+      },
+      {
+        "name": "Frank Parisi",
+        "role": "Senior Editor"
+      },
+      {
+        "name": "C. B. Cebulski",
+        "role": "Executive Editor"
+      }
+    ],
+    "upc": "75960608143100511",
+    "cover_date": "2015-11-30",
+    "store_date": "2015-10-07",
+    "story_arcs": [],
+    "characters": [
+      "Chanath Cha",
+      "Korin Pers",
+      "Lando Calrissian",
+      "Lobot"
+    ],
+    "description_full": "<p><em>It began as the heist of a lifetime...now it's a fight to survive!</em></p><p><em>When Lando and took this gig, it seemed like an easy payday...</em></p><p><em>But with this conclusion, they will never be the same.</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Alex Maleev</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Mike Deodato</td><td>2</td></tr></tbody></table>",
+    "description": "<p><em>It began as the heist of a lifetime...now it's a fight to survive!</em></p><p><em>When Lando and took this gig, it seemed like an easy payday...</em></p><p><em>But with this conclusion, they will never be the same.</em></p>",
+    "description_covers": "<h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Alex Maleev</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Mike Deodato</td><td>2</td></tr></tbody></table>",
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/4838877-05.jpg",
+    "league_id": "9531990",
+    "league_url": "https://leagueofcomicgeeks.com/comic/9531990/star-wars-lando-5",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Lando_5"
   }
 ]

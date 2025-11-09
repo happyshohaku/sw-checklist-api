@@ -253,5 +253,35 @@
     "description": null,
     "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11/110017/9757115-wwww.jpg",
     "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-165088/"
+  },
+  {
+    "id": 80455,
+    "name": "Princess Leia",
+    "aliases": null,
+    "publisher": "Marvel",
+    "start_year": "2015",
+    "issue_count": 5,
+    "first_issue": "1",
+    "last_issue": "5",
+    "description": "<p>Five issue mini-series.</p><h4>Collected Editions</h4><ul><li><a href=\"/journey-to-star-wars-the-force-awakens-shattered-e/4050-86107/\" data-ref-id=\"4050-86107\">Journey to Star Wars: The Force Awakens - Shattered Empire</a> (#1)</li><li><a href=\"https://comicvine.gamespot.com/star-wars-heroes-for-a-new-hope/4050-95438/\" data-ref-id=\"4050-95438\">Star Wars: Heroes For A New Hope</a></li><li><a href=\"/star-wars-princess-leia/4050-85788/\" data-ref-id=\"4050-85788\">Star Wars: Princess Leia</a></li></ul><h4>Non-U.S. Collected Editions</h4><ul><li><a href=\"https://comicvine.gamespot.com/princesa-leia/4050-104759/\" data-ref-id=\"4050-104759\">Princesa Leia</a></li></ul><p>Translated into <a href=\"https://comicvine.gamespot.com/star-wars-princesa-leia/4050-104755/\" data-ref-id=\"4050-104755\">Spanish</a>.</p>",
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/4426846-01.jpg",
+    "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-80455/",
+    "type": "Miniseries",
+    "timeline": "0 ABY"
+  },
+  {
+    "id": 83142,
+    "name": "Lando",
+    "aliases": null,
+    "publisher": "Marvel",
+    "start_year": "2015",
+    "issue_count": 5,
+    "first_issue": "1",
+    "last_issue": "5",
+    "description": "<p>Five issue mini-series.</p><h4>Collected Editions</h4><ul><li><a href=\"https://comicvine.gamespot.com/star-wars-heroes-for-a-new-hope/4050-95438/\" data-ref-id=\"4050-95438\">Star Wars: Heroes For A New Hope</a></li><li><a href=\"/star-wars-lando/4050-87450/\" data-ref-id=\"4050-87450\">Star Wars: Lando</a></li></ul><p>Translated into <a href=\"https://comicvine.gamespot.com/star-wars-lando/4050-106251/\" data-ref-id=\"4050-106251\">Spanish</a>.</p>",
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/4670593-01.jpg",
+    "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-83142/",
+    "type": "Miniseries",
+    "timeline": "0 ABY"
   }
 ]

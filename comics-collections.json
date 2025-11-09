@@ -6662,5 +6662,145 @@
     "series_id": [
       "165088"
     ]
+  },
+  {
+    "id": 1762671448552,
+    "title": "Star Wars: Lando (trade paperback)",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/f/f2/Star_Wars_Lando_TPB_final_cover.jpg/revision/latest/scale-to-width-down/100?cb=20160109033725",
+    "release_date": "01/19/2016",
+    "publisher": "Marvel Comics",
+    "isbn": "9780785193197",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 494322,
+        "order": 1,
+        "series_id": "83142"
+      },
+      {
+        "issue_id": 497391,
+        "order": 2,
+        "series_id": "83142"
+      },
+      {
+        "issue_id": 498389,
+        "order": 3,
+        "series_id": "83142"
+      },
+      {
+        "issue_id": 500305,
+        "order": 4,
+        "series_id": "83142"
+      },
+      {
+        "issue_id": 502121,
+        "order": 5,
+        "series_id": "83142"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Lando_(trade_paperback)",
+    "series_id": [
+      "83142"
+    ]
+  },
+  {
+    "id": 1762671449067,
+    "title": "Star Wars: Heroes For a New Hope",
+    "type": "Hardcover",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/e/e6/Heroes_for_a_New_Hope_cover.jpg/revision/latest/scale-to-width-down/100?cb=20201210023121",
+    "release_date": "11/15/2016",
+    "publisher": "Marvel Comics",
+    "isbn": "1302902237",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 481612,
+        "order": 1,
+        "series_id": "80455"
+      },
+      {
+        "issue_id": 482691,
+        "order": 2,
+        "series_id": "80455"
+      },
+      {
+        "issue_id": 487212,
+        "order": 3,
+        "series_id": "80455"
+      },
+      {
+        "issue_id": 490886,
+        "order": 4,
+        "series_id": "80455"
+      },
+      {
+        "issue_id": 493795,
+        "order": 5,
+        "series_id": "80455"
+      },
+      {
+        "issue_id": 494322,
+        "order": 6,
+        "series_id": "83142"
+      },
+      {
+        "issue_id": 497391,
+        "order": 7,
+        "series_id": "83142"
+      },
+      {
+        "issue_id": 498389,
+        "order": 8,
+        "series_id": "83142"
+      },
+      {
+        "issue_id": 500305,
+        "order": 9,
+        "series_id": "83142"
+      },
+      {
+        "issue_id": 502121,
+        "order": 10,
+        "series_id": "83142"
+      },
+      {
+        "issue_id": null,
+        "order": 11,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Chewbacca_(2015)_1",
+        "title": "Chewbacca (2015) 1"
+      },
+      {
+        "issue_id": null,
+        "order": 12,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Chewbacca_(2015)_2",
+        "title": "Chewbacca (2015) 2"
+      },
+      {
+        "issue_id": null,
+        "order": 13,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Chewbacca_(2015)_3",
+        "title": "Chewbacca (2015) 3"
+      },
+      {
+        "issue_id": null,
+        "order": 14,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Chewbacca_(2015)_4",
+        "title": "Chewbacca (2015) 4"
+      },
+      {
+        "issue_id": null,
+        "order": 15,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Chewbacca_(2015)_5",
+        "title": "Chewbacca (2015) 5"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Heroes_For_a_New_Hope",
+    "series_id": [
+      "80455",
+      "83142"
+    ]
   }
 ]

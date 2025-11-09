@@ -967,6 +967,192 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3388206.jpg?1710112922"
     }
   ],
+  "481612": [
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Teaser Variant Cover",
+      "artist": "John Cassaday",
+      "alt": "Star Wars: Princess Leia #1 1:25 John Cassaday Teaser Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2698621.jpg?1708668924"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Connecting Variant Cover C",
+      "artist": "J. Scott Campbell",
+      "alt": "Star Wars: Princess Leia #1 1:50 J. Scott Campbell Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8031060.jpg?1709243270"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Alex Ross",
+      "alt": "Star Wars: Princess Leia #1 1:50 Alex Ross Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2846012.jpg?1708631763"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Sketch Cover",
+      "artist": "Alex Ross",
+      "alt": "Star Wars: Princess Leia #1 1:200 Alex Ross Sketch Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1823553.jpg?1708631763"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Mark Brooks",
+      "alt": "Star Wars: Princess Leia #1 1:50 Mark Brooks Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7689206.jpg?1708631763"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Young Variant Cover",
+      "artist": "Skottie Young",
+      "alt": "Star Wars: Princess Leia #1 Skottie Young Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2426151.jpg?1708899109"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars: Princess Leia #1 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4891380.jpg?1708666292"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Butch Guice",
+      "alt": "Star Wars: Princess Leia #1 1:25 Butch Guice Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4241438.jpg?1708666710"
+    },
+    {
+      "category": "Event Exclusives",
+      "type": "RE",
+      "name": "Emerald City Comicon Exclusive Variant Cover",
+      "artist": "Adi Granov",
+      "alt": "Star Wars: Princess Leia #1 C2E2 2015 / Emerald City Comic Con 2015 Adi Granov Black & White Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5418533.jpg?1708670564"
+    },
+    {
+      "category": "Event Exclusives",
+      "type": "RE",
+      "name": "Emerald City Comicon Exclusive Sketch Variant Cover",
+      "artist": "Adi Granov",
+      "alt": "Star Wars: Princess Leia #1 C2E2 2015 / Emerald City Comic Con 2015 Adi Granov Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9325893.jpg?1708670363"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Midtown Comics Exclusive Connecting Variant Cover",
+      "artist": "Mark Brooks",
+      "alt": "Star Wars: Princess Leia #1 Midtown Comics Mark Brooks Black & White Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1536012.jpg?1708670769"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Midtown Comics Exclusive Connecting Variant Sketch Cover",
+      "artist": "Mark Brooks",
+      "alt": "Star Wars: Princess Leia #1 Midtown Comics Mark Brooks Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9783627.jpg?1708670634"
+    },
+    {
+      "category": "Reprints",
+      "type": "2nd",
+      "name": "Second Printing Cover",
+      "artist": "Terry Dodson & Rachel Dodson",
+      "alt": "Star Wars: Princess Leia #1 2nd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5974998.jpg?1726592532"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Princess Leia #1 Blank Variant",
+      "artist": "",
+      "alt": "Star Wars: Princess Leia #1 Blank Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6175226.jpg?1739514241"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Princess Leia #1 1:15 Movie Variant",
+      "artist": "",
+      "alt": "Star Wars: Princess Leia #1 1:15 Movie Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8921286.jpg?1708631763"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: Princess Leia #1 Alex Ross Webstore Variant",
+      "artist": "",
+      "alt": "Star Wars: Princess Leia #1 Alex Ross Webstore Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4936301.jpg?1708668120"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: Princess Leia #1 Books-A-Million / 2nd & Charles Amanda Conner Black & White Variant",
+      "artist": "",
+      "alt": "Star Wars: Princess Leia #1 Books-A-Million / 2nd & Charles Amanda Conner Black & White Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4584613.jpg?1711411512"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: Princess Leia #1 Books-A-Million / 2nd & Charles Amanda Conner Variant",
+      "artist": "",
+      "alt": "Star Wars: Princess Leia #1 Books-A-Million / 2nd & Charles Amanda Conner Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6271185.jpg?1711411498"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: Princess Leia #1 Dynamic Forces Greg Land Connecting Variant",
+      "artist": "",
+      "alt": "Star Wars: Princess Leia #1 Dynamic Forces Greg Land Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4540942.jpg?1708704502"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: Princess Leia #1 GameStop Greg Horn PowerUp Rewards Variant",
+      "artist": "",
+      "alt": "Star Wars: Princess Leia #1 GameStop Greg Horn PowerUp Rewards Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8670525.jpg?1730587393"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: Princess Leia #1 Hastings Mico Suayan Black & White Variant",
+      "artist": "",
+      "alt": "Star Wars: Princess Leia #1 Hastings Mico Suayan Black & White Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1632477.jpg?1708945024"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: Princess Leia #1 Hastings Mico Suayan Variant",
+      "artist": "",
+      "alt": "Star Wars: Princess Leia #1 Hastings Mico Suayan Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8702293.jpg?1709193272"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: Princess Leia #1 Mile High Comics Gabriele Dell'Otto Variant",
+      "artist": "",
+      "alt": "Star Wars: Princess Leia #1 Mile High Comics Gabriele Dell'Otto Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1486582.jpg?1708631763"
+    }
+  ],
   "482166": [
     {
       "category": "Incentive Covers",
@@ -1023,6 +1209,40 @@
       "artist": "Humberto Ramos",
       "alt": "Star Wars #3 Mile High Comics Humberto Ramos Connecting Variant",
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7417303.jpg?1719847668"
+    }
+  ],
+  "482691": [
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Alex Maleev",
+      "alt": "Star Wars: Princess Leia #2 1:25 Alex Maleev Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4479631.jpg?1729291189"
+    },
+    {
+      "category": "Reprints",
+      "type": "2nd",
+      "name": "Second Printing Cover",
+      "artist": "Terry Dodson & Rachel Dodson",
+      "alt": "Star Wars: Princess Leia #2 2nd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5354956.jpg?1729292873"
+    },
+    {
+      "category": "Reprints",
+      "type": "3rd",
+      "name": "Third Printing Cover",
+      "artist": "Terry Dodson & Rachel Dodson",
+      "alt": "Star Wars: Princess Leia #2 3rd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9768911.jpg?1729292741"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: Princess Leia #2 Mile High Comics Gabriele Dell'Otto Variant",
+      "artist": "",
+      "alt": "Star Wars: Princess Leia #2 Mile High Comics Gabriele Dell'Otto Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3733207.jpg?1708614586"
     }
   ],
   "483346": [
@@ -1225,6 +1445,40 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2628335.jpg?1719689160"
     }
   ],
+  "487212": [
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Francesco Francavilla",
+      "alt": "Star Wars: Princess Leia #3 1:25 Francesco Francavilla Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9142357.jpg?1729287335"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "BAM! and 2nd & Charles Exclusive Cover",
+      "artist": "Phil Noto",
+      "alt": "Star Wars: Princess Leia #3 Books-A-Million / 2nd & Charles Phil Noto Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7318790.jpg?1711379771"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Mile High Comics Exclusive Cover, Limited to 3000",
+      "artist": "Gabriele Dell'Otto",
+      "alt": "Star Wars: Princess Leia #3 Mile High Comics Gabriele Dell'Otto Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2844462.jpg?1708631939"
+    },
+    {
+      "category": "Reprints",
+      "type": "Var",
+      "name": "Star Wars: Princess Leia #3 2nd Printing",
+      "artist": "",
+      "alt": "Star Wars: Princess Leia #3 2nd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9336106.jpg?1729971825"
+    }
+  ],
   "487838": [
     {
       "category": "Other Covers",
@@ -1305,6 +1559,16 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3084728.jpg?1726592375"
     }
   ],
+  "490886": [
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: Princess Leia #4 Mile High Comics Gabriele Dell'Otto Variant",
+      "artist": "",
+      "alt": "Star Wars: Princess Leia #4 Mile High Comics Gabriele Dell'Otto Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3018018.jpg?1736776260"
+    }
+  ],
   "490890": [
     {
       "category": "Open Order Covers",
@@ -1365,6 +1629,130 @@
       "artist": "Adi Granov",
       "alt": "Star Wars: Darth Vader #7 SDCC 2015 Adi Granov Black & White Previews Variant",
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1728687.jpg?1722955619"
+    }
+  ],
+  "493795": [
+    {
+      "category": "Retailer Exclusives",
+      "type": "RE",
+      "name": "Mile High Comics Exclusive Cover",
+      "artist": "Gabriele Dell'Otto",
+      "alt": "Star Wars: Princess Leia #5 Mile High Comics Gabriele Dell'Otto Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8241614.jpg?1708632046"
+    }
+  ],
+  "494322": [
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "John Cassaday",
+      "alt": "Star Wars: Lando #1 1:50 John Cassaday Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5592731.jpg?1758893215"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars: Lando #1 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6269298.jpg?1758893215"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Alex Ross",
+      "alt": "Star Wars: Lando #1 1:50 Alex Ross Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3501979.jpg?1758893215"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Sketch Cover",
+      "artist": "Alex Ross",
+      "alt": "Star Wars: Lando #1 1:200 Alex Ross Sketch Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6939259.jpg?1758893215"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Greg Land",
+      "alt": "Star Wars: Lando #1 1:20 Greg Land Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4128472.jpg?1758893215"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Young Variant Cover",
+      "artist": "Skottie Young",
+      "alt": "Star Wars: Lando #1 Skottie Young Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3764637.jpg?1758893215"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Leinil Francis Yu",
+      "alt": "Star Wars: Lando #1 1:25 Leinil Francis Yu Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6356958.jpg?1758893215"
+    },
+    {
+      "category": "Event Exclusives",
+      "type": "RE",
+      "name": "San Diego Comic-Con Exclusive Sketch Variant Cover",
+      "artist": "Skottie Young",
+      "alt": "Star Wars: Lando #1 SDCC 2015 Skottie Young Black & White Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5918557.jpg?1758893215"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Lando #1 Blank Variant",
+      "artist": "",
+      "alt": "Star Wars: Lando #1 Blank Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4147554.jpg?1758893215"
+    },
+    {
+      "category": "Reprints",
+      "type": "Var",
+      "name": "Star Wars: Lando #1 2nd Printing",
+      "artist": "",
+      "alt": "Star Wars: Lando #1 2nd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6540954.jpg?1726572596"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Lando #1 1:15 Movie Variant",
+      "artist": "",
+      "alt": "Star Wars: Lando #1 1:15 Movie Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5316444.jpg?1758893215"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: Lando #1 Charles Soule / Alex Maleev Webstore Variant",
+      "artist": "",
+      "alt": "Star Wars: Lando #1 Charles Soule / Alex Maleev Webstore Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8036603.jpg?1758893215"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: Lando #1 Newbury Comics Mike Mayhew Variant",
+      "artist": "",
+      "alt": "Star Wars: Lando #1 Newbury Comics Mike Mayhew Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5525675.jpg?1758893215"
+    },
+    {
+      "category": "Event Exclusives",
+      "type": "Var",
+      "name": "Star Wars: Lando #1 SDCC 2015 Topps Vintage Trading Card Variant",
+      "artist": "",
+      "alt": "Star Wars: Lando #1 SDCC 2015 Topps Vintage Trading Card Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2103482.jpg?1758893215"
     }
   ],
   "495800": [
@@ -1436,6 +1824,7 @@
     }
   ],
   "496878": [],
+  "497391": [],
   "497947": [],
   "497960": [
     {
@@ -1471,6 +1860,24 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8007520.jpg?1721196868"
     }
   ],
+  "498389": [
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Mike Mayhew",
+      "alt": "Star Wars: Lando #3 1:25 Mike Mayhew Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6320182.jpg?1710693454"
+    },
+    {
+      "category": "Reprints",
+      "type": "2nd",
+      "name": "Second Printing Cover",
+      "artist": "Alex Maleev",
+      "alt": "Star Wars: Lando #3 2nd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6911227.jpg?1726572603"
+    }
+  ],
   "499742": [
     {
       "category": "Other Covers",
@@ -1481,6 +1888,7 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1091940.jpg?1722978742"
     }
   ],
+  "500305": [],
   "500309": [
     {
       "category": "Open Order Covers",
@@ -1509,6 +1917,16 @@
   ],
   "501025": [],
   "502114": [],
+  "502121": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Mike Deodato",
+      "alt": "Star Wars: Lando #5 1:25 Mike Deodato Jr. Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3687205.jpg?1712137625"
+    }
+  ],
   "502133": [
     {
       "category": "Incentive Covers",
