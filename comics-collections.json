@@ -12,38 +12,38 @@
       {
         "issue_id": 475858,
         "order": 1,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 478615,
         "order": 2,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 482166,
         "order": 3,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 486727,
         "order": 4,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 489328,
         "order": 5,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 490890,
         "order": 6,
-        "series_id": "79398"
+        "series_id": 79398
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._1:_Skywalker_Strikes",
     "series_id": [
-      "79398"
+      79398
     ]
   },
   {
@@ -59,68 +59,68 @@
       {
         "issue_id": 475858,
         "order": 1,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 478615,
         "order": 2,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 482166,
         "order": 3,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 486727,
         "order": 4,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 489328,
         "order": 5,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 490890,
         "order": 6,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 496399,
         "order": 7,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 497960,
         "order": 8,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 500309,
         "order": 9,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 502133,
         "order": 10,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 504949,
         "order": 11,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 506184,
         "order": 12,
-        "series_id": "79398"
+        "series_id": 79398
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._1",
     "series_id": [
-      "79398"
+      79398
     ]
   },
   {
@@ -217,62 +217,62 @@
       {
         "issue_id": 475858,
         "order": 1,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 478615,
         "order": 2,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 482166,
         "order": 3,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 486727,
         "order": 4,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 489328,
         "order": 5,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 490890,
         "order": 6,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 496399,
         "order": 7,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 497960,
         "order": 8,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 500309,
         "order": 9,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 502133,
         "order": 10,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 504949,
         "order": 11,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 506184,
         "order": 12,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": null,
@@ -289,7 +289,7 @@
       {
         "issue_id": 507188,
         "order": 15,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": null,
@@ -300,7 +300,7 @@
       {
         "issue_id": 510504,
         "order": 17,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": null,
@@ -312,7 +312,7 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Modern_Era_Epic_Collection:_Skywalker_Strikes",
     "series_id": [
-      "79398"
+      79398
     ]
   },
   {
@@ -328,43 +328,43 @@
       {
         "issue_id": 496399,
         "order": 1,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 497960,
         "order": 2,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 500309,
         "order": 3,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 502133,
         "order": 4,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 504949,
         "order": 5,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 506184,
         "order": 6,
-        "series_id": "79398"
+        "series_id": 79398
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._2:_Showdown_on_the_Smuggler%27s_Moon",
     "series_id": [
-      "79398"
+      79398
     ]
   },
   {
     "id": 1762109457791,
-    "title": "Star Wars: Vader Down (trade paperback)",
+    "title": "Star Wars: Vader Down",
     "type": "Trade Paperback",
     "cover_url": "https://static.wikia.nocookie.net/starwars/images/9/9b/Vader_Down_TPB_final_cover.jpg/revision/latest/scale-to-width-down/400?cb=20180212072959",
     "release_date": "04/19/2016",
@@ -387,7 +387,7 @@
       {
         "issue_id": 507188,
         "order": 3,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": null,
@@ -398,7 +398,7 @@
       {
         "issue_id": 510504,
         "order": 5,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": null,
@@ -410,7 +410,7 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Vader_Down_(trade_paperback)",
     "series_id": [
-      "79398"
+      79398
     ]
   },
   {
@@ -438,7 +438,7 @@
       {
         "issue_id": 507188,
         "order": 3,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": null,
@@ -449,7 +449,7 @@
       {
         "issue_id": 510504,
         "order": 5,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": null,
@@ -539,7 +539,7 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_Vol._2",
     "series_id": [
-      "79398"
+      79398
     ]
   },
   {
@@ -561,33 +561,33 @@
       {
         "issue_id": 516094,
         "order": 2,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 521343,
         "order": 3,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 527157,
         "order": 4,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 531901,
         "order": 5,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 511521,
         "order": 6,
-        "series_id": "79398"
+        "series_id": 79398
       }
     ],
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._3:_Rebel_Jail",
     "series_id": [
-      "79398"
+      79398
     ]
   },
   {
@@ -609,62 +609,62 @@
       {
         "issue_id": 511521,
         "order": 2,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 516094,
         "order": 3,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 521343,
         "order": 4,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 527157,
         "order": 5,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 531901,
         "order": 6,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 511521,
         "order": 7,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 535367,
         "order": 8,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 540085,
         "order": 9,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 546065,
         "order": 10,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 551319,
         "order": 11,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 555540,
         "order": 12,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 558975,
         "order": 13,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": null,
@@ -676,7 +676,7 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._2",
     "series_id": [
-      "79398"
+      79398
     ]
   },
   {
@@ -692,12 +692,12 @@
       {
         "issue_id": 511521,
         "order": 1,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 535367,
         "order": 2,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": null,
@@ -708,47 +708,47 @@
       {
         "issue_id": 516094,
         "order": 4,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 521343,
         "order": 5,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 527157,
         "order": 6,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 531901,
         "order": 7,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 540085,
         "order": 8,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 546065,
         "order": 9,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 551319,
         "order": 10,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 555540,
         "order": 11,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 558975,
         "order": 12,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": null,
@@ -759,32 +759,32 @@
       {
         "issue_id": 558975,
         "order": 14,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 571687,
         "order": 15,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 578475,
         "order": 16,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 579324,
         "order": 17,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 583731,
         "order": 18,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 590807,
         "order": 19,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": null,
@@ -796,7 +796,7 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Modern_Era_Epic_Collection:_Yoda%27s_Secret_War",
     "series_id": [
-      "79398"
+      79398
     ]
   },
   {
@@ -812,32 +812,32 @@
       {
         "issue_id": 535367,
         "order": 1,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 540085,
         "order": 2,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 546065,
         "order": 3,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 551319,
         "order": 4,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 555540,
         "order": 5,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 558975,
         "order": 6,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": null,
@@ -849,7 +849,7 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._4:_Last_Flight_of_the_Harbinger",
     "series_id": [
-      "79398"
+      79398
     ]
   },
   {
@@ -865,27 +865,27 @@
       {
         "issue_id": 571687,
         "order": 1,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 578475,
         "order": 2,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 579324,
         "order": 3,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 583731,
         "order": 4,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 590807,
         "order": 5,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": null,
@@ -897,7 +897,7 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._5:_Yoda%27s_Secret_War",
     "series_id": [
-      "79398"
+      79398
     ]
   },
   {
@@ -913,27 +913,27 @@
       {
         "issue_id": 571687,
         "order": 1,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 578475,
         "order": 2,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 579324,
         "order": 3,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 583731,
         "order": 4,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 590807,
         "order": 5,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": null,
@@ -944,22 +944,22 @@
       {
         "issue_id": 606640,
         "order": 7,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 615032,
         "order": 8,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 617853,
         "order": 9,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 621678,
         "order": 10,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": null,
@@ -970,7 +970,7 @@
       {
         "issue_id": 626298,
         "order": 12,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": null,
@@ -982,12 +982,12 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._3",
     "series_id": [
-      "79398"
+      79398
     ]
   },
   {
     "id": 1762109461917,
-    "title": "Star Wars: The Screaming Citadel (trade paperback)",
+    "title": "Star Wars: The Screaming Citadel",
     "type": "Trade Paperback",
     "cover_url": "https://static.wikia.nocookie.net/starwars/images/6/64/Screaming_CItadel_TPB_Final_cover.jpg/revision/latest/scale-to-width-down/400?cb=20180212134956",
     "release_date": "10/11/2017",
@@ -1004,7 +1004,7 @@
       {
         "issue_id": 595703,
         "order": 2,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": null,
@@ -1015,7 +1015,7 @@
       {
         "issue_id": 601804,
         "order": 4,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": null,
@@ -1027,7 +1027,7 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_The_Screaming_Citadel_(trade_paperback)",
     "series_id": [
-      "79398"
+      79398
     ]
   },
   {
@@ -1085,7 +1085,7 @@
       {
         "issue_id": 595703,
         "order": 8,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": null,
@@ -1096,7 +1096,7 @@
       {
         "issue_id": 601804,
         "order": 10,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": null,
@@ -1108,7 +1108,7 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Doctor_Aphra_Vol._1",
     "series_id": [
-      "79398"
+      79398
     ]
   },
   {
@@ -1124,67 +1124,67 @@
       {
         "issue_id": 595703,
         "order": 1,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 601804,
         "order": 2,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 606640,
         "order": 3,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 615032,
         "order": 4,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 617853,
         "order": 5,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 621678,
         "order": 6,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 626298,
         "order": 7,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 636386,
         "order": 8,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 641417,
         "order": 9,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 646200,
         "order": 10,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 650928,
         "order": 11,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 654062,
         "order": 12,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 658734,
         "order": 13,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": null,
@@ -1214,7 +1214,7 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Modern_Era_Epic_Collection:_The_Screaming_Citadel",
     "series_id": [
-      "79398"
+      79398
     ]
   },
   {
@@ -1230,27 +1230,27 @@
       {
         "issue_id": 606640,
         "order": 1,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 615032,
         "order": 2,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 617853,
         "order": 3,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 621678,
         "order": 4,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 626298,
         "order": 5,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": null,
@@ -1268,7 +1268,7 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._6:_Out_Among_the_Stars",
     "series_id": [
-      "79398"
+      79398
     ]
   },
   {
@@ -1284,38 +1284,38 @@
       {
         "issue_id": 636386,
         "order": 1,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 641417,
         "order": 2,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 646200,
         "order": 3,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 650928,
         "order": 4,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 654062,
         "order": 5,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 658734,
         "order": 6,
-        "series_id": "79398"
+        "series_id": 79398
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._7:_The_Ashes_of_Jedha",
     "series_id": [
-      "79398"
+      79398
     ]
   },
   {
@@ -1370,38 +1370,38 @@
       {
         "issue_id": 662098,
         "order": 1,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 663585,
         "order": 2,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 664923,
         "order": 3,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 668785,
         "order": 4,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 670756,
         "order": 5,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 672292,
         "order": 6,
-        "series_id": "79398"
+        "series_id": 79398
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._8:_Mutiny_at_Mon_Cala",
     "series_id": [
-      "79398"
+      79398
     ]
   },
   {
@@ -1417,32 +1417,32 @@
       {
         "issue_id": 675989,
         "order": 1,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 677296,
         "order": 2,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 678541,
         "order": 3,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 683837,
         "order": 4,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 685856,
         "order": 5,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 687019,
         "order": 6,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": null,
@@ -1460,7 +1460,7 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._9:_Hope_Dies",
     "series_id": [
-      "79398"
+      79398
     ]
   },
   {
@@ -1476,38 +1476,38 @@
       {
         "issue_id": 691392,
         "order": 1,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 692560,
         "order": 2,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 694145,
         "order": 3,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 696954,
         "order": 4,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 698613,
         "order": 5,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 700148,
         "order": 6,
-        "series_id": "79398"
+        "series_id": 79398
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._10:_The_Escape",
     "series_id": [
-      "79398"
+      79398
     ]
   },
   {
@@ -1523,38 +1523,38 @@
       {
         "issue_id": 702472,
         "order": 1,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 703953,
         "order": 2,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 705485,
         "order": 3,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 707523,
         "order": 4,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 709210,
         "order": 5,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 711956,
         "order": 6,
-        "series_id": "79398"
+        "series_id": 79398
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._11:_The_Scourging_of_Shu-Torun",
     "series_id": [
-      "79398"
+      79398
     ]
   },
   {
@@ -1570,33 +1570,33 @@
       {
         "issue_id": 713517,
         "order": 1,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 714244,
         "order": 2,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 715318,
         "order": 3,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 718134,
         "order": 4,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 721162,
         "order": 5,
-        "series_id": "79398"
+        "series_id": 79398
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._12:_Rebels_and_Rogues",
     "series_id": [
-      "79398"
+      79398
     ]
   },
   {
@@ -1612,17 +1612,17 @@
       {
         "issue_id": 723865,
         "order": 1,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 727268,
         "order": 2,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 728430,
         "order": 3,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": null,
@@ -1634,7 +1634,7 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._13:_Rogues_and_Rebels",
     "series_id": [
-      "79398"
+      79398
     ]
   },
   {
@@ -1650,38 +1650,38 @@
       {
         "issue_id": 479258,
         "order": 1,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 480682,
         "order": 2,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 483346,
         "order": 3,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 485510,
         "order": 4,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 488647,
         "order": 5,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 490879,
         "order": 6,
-        "series_id": "79990"
+        "series_id": 79990
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_Vol._1_%E2%80%94_Vader",
     "series_id": [
-      "79990"
+      79990
     ]
   },
   {
@@ -1697,68 +1697,68 @@
       {
         "issue_id": 479258,
         "order": 1,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 480682,
         "order": 2,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 483346,
         "order": 3,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 485510,
         "order": 4,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 488647,
         "order": 5,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 490879,
         "order": 6,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 493789,
         "order": 7,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 496878,
         "order": 8,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 499742,
         "order": 9,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 502114,
         "order": 10,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 503557,
         "order": 11,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 505517,
         "order": 12,
-        "series_id": "79990"
+        "series_id": 79990
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_Vol._1",
     "series_id": [
-      "79990"
+      79990
     ]
   },
   {
@@ -1774,62 +1774,62 @@
       {
         "issue_id": 479258,
         "order": 1,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 480682,
         "order": 2,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 483346,
         "order": 3,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 485510,
         "order": 4,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 488647,
         "order": 5,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 490879,
         "order": 6,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 493789,
         "order": 7,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 496878,
         "order": 8,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 499742,
         "order": 9,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 502114,
         "order": 10,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 503557,
         "order": 11,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 505517,
         "order": 12,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": null,
@@ -1840,27 +1840,27 @@
       {
         "issue_id": 506650,
         "order": 14,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 507188,
         "order": 15,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 508888,
         "order": 16,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 510504,
         "order": 17,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 510492,
         "order": 18,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": null,
@@ -1871,22 +1871,22 @@
       {
         "issue_id": 514434,
         "order": 20,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 517826,
         "order": 21,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 522427,
         "order": 22,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 525023,
         "order": 23,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": null,
@@ -1897,32 +1897,32 @@
       {
         "issue_id": 529654,
         "order": 25,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 534284,
         "order": 26,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 537937,
         "order": 27,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 540073,
         "order": 28,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 543750,
         "order": 29,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 553006,
         "order": 30,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": null,
@@ -1934,8 +1934,8 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_by_Kieron_Gillen_%26_Salvador_Larroca_Omnibus",
     "series_id": [
-      "79990",
-      "79398"
+      79990,
+      79398
     ]
   },
   {
@@ -1951,62 +1951,62 @@
       {
         "issue_id": 479258,
         "order": 1,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 480682,
         "order": 2,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 483346,
         "order": 3,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 485510,
         "order": 4,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 488647,
         "order": 5,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 490879,
         "order": 6,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 493789,
         "order": 7,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 496878,
         "order": 8,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 499742,
         "order": 9,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 502114,
         "order": 10,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 503557,
         "order": 11,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 505517,
         "order": 12,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": null,
@@ -2018,7 +2018,7 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_Modern_Era_Epic_Collection:_Shadows_and_Secrets",
     "series_id": [
-      "79990"
+      79990
     ]
   },
   {
@@ -2034,38 +2034,38 @@
       {
         "issue_id": 493789,
         "order": 1,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 496878,
         "order": 2,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 499742,
         "order": 3,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 502114,
         "order": 4,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 503557,
         "order": 5,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 505517,
         "order": 6,
-        "series_id": "79990"
+        "series_id": 79990
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_Vol._2_%E2%80%94_Shadows_and_Secrets",
     "series_id": [
-      "79990"
+      79990
     ]
   },
   {
@@ -2081,67 +2081,67 @@
       {
         "issue_id": 506650,
         "order": 1,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 508888,
         "order": 2,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 510492,
         "order": 3,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 514434,
         "order": 4,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 517826,
         "order": 5,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 522427,
         "order": 6,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 525023,
         "order": 7,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 529654,
         "order": 8,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 534284,
         "order": 9,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 537937,
         "order": 10,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 540073,
         "order": 11,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 543750,
         "order": 12,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 553006,
         "order": 13,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": null,
@@ -2152,19 +2152,19 @@
       {
         "issue_id": 507188,
         "order": 15,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 510504,
         "order": 16,
-        "series_id": "79398"
+        "series_id": 79398
       }
     ],
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_Modern_Era_Epic_Collection:_Vader_Down",
     "series_id": [
-      "79990",
-      "79398"
+      79990,
+      79398
     ]
   },
   {
@@ -2186,28 +2186,28 @@
       {
         "issue_id": 514434,
         "order": 2,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 517826,
         "order": 3,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 522427,
         "order": 4,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 525023,
         "order": 5,
-        "series_id": "79990"
+        "series_id": 79990
       }
     ],
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_Vol._3_%E2%80%94_The_Shu-Torun_War",
     "series_id": [
-      "79990"
+      79990
     ]
   },
   {
@@ -2223,7 +2223,7 @@
       {
         "issue_id": 529654,
         "order": 1,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": null,
@@ -2234,27 +2234,27 @@
       {
         "issue_id": 534284,
         "order": 3,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 537937,
         "order": 4,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 540073,
         "order": 5,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 543750,
         "order": 6,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": 553006,
         "order": 7,
-        "series_id": "79990"
+        "series_id": 79990
       },
       {
         "issue_id": null,
@@ -2266,7 +2266,7 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_Vol._4_%E2%80%94_End_of_Games",
     "series_id": [
-      "79990"
+      79990
     ]
   },
   {
@@ -2282,38 +2282,38 @@
       {
         "issue_id": 484899,
         "order": 1,
-        "series_id": "81088"
+        "series_id": 81088
       },
       {
         "issue_id": 487838,
         "order": 2,
-        "series_id": "81088"
+        "series_id": 81088
       },
       {
         "issue_id": 491516,
         "order": 3,
-        "series_id": "81088"
+        "series_id": 81088
       },
       {
         "issue_id": 495800,
         "order": 4,
-        "series_id": "81088"
+        "series_id": 81088
       },
       {
         "issue_id": 497947,
         "order": 5,
-        "series_id": "81088"
+        "series_id": 81088
       },
       {
         "issue_id": 501025,
         "order": 6,
-        "series_id": "81088"
+        "series_id": 81088
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Kanan_Vol._1_%E2%80%94_The_Last_Padawan",
     "series_id": [
-      "81088"
+      81088
     ]
   },
   {
@@ -2329,68 +2329,68 @@
       {
         "issue_id": 484899,
         "order": 1,
-        "series_id": "81088"
+        "series_id": 81088
       },
       {
         "issue_id": 487838,
         "order": 2,
-        "series_id": "81088"
+        "series_id": 81088
       },
       {
         "issue_id": 491516,
         "order": 3,
-        "series_id": "81088"
+        "series_id": 81088
       },
       {
         "issue_id": 495800,
         "order": 4,
-        "series_id": "81088"
+        "series_id": 81088
       },
       {
         "issue_id": 497947,
         "order": 5,
-        "series_id": "81088"
+        "series_id": 81088
       },
       {
         "issue_id": 501025,
         "order": 6,
-        "series_id": "81088"
+        "series_id": 81088
       },
       {
         "issue_id": 504342,
         "order": 7,
-        "series_id": "81088"
+        "series_id": 81088
       },
       {
         "issue_id": 506171,
         "order": 8,
-        "series_id": "81088"
+        "series_id": 81088
       },
       {
         "issue_id": 508430,
         "order": 9,
-        "series_id": "81088"
+        "series_id": 81088
       },
       {
         "issue_id": 512428,
         "order": 10,
-        "series_id": "81088"
+        "series_id": 81088
       },
       {
         "issue_id": 516957,
         "order": 11,
-        "series_id": "81088"
+        "series_id": 81088
       },
       {
         "issue_id": 520204,
         "order": 12,
-        "series_id": "81088"
+        "series_id": 81088
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Kanan_Omnibus",
     "series_id": [
-      "81088"
+      81088
     ]
   },
   {
@@ -2406,68 +2406,68 @@
       {
         "issue_id": 484899,
         "order": 1,
-        "series_id": "81088"
+        "series_id": 81088
       },
       {
         "issue_id": 487838,
         "order": 2,
-        "series_id": "81088"
+        "series_id": 81088
       },
       {
         "issue_id": 491516,
         "order": 3,
-        "series_id": "81088"
+        "series_id": 81088
       },
       {
         "issue_id": 495800,
         "order": 4,
-        "series_id": "81088"
+        "series_id": 81088
       },
       {
         "issue_id": 497947,
         "order": 5,
-        "series_id": "81088"
+        "series_id": 81088
       },
       {
         "issue_id": 501025,
         "order": 6,
-        "series_id": "81088"
+        "series_id": 81088
       },
       {
         "issue_id": 504342,
         "order": 7,
-        "series_id": "81088"
+        "series_id": 81088
       },
       {
         "issue_id": 506171,
         "order": 8,
-        "series_id": "81088"
+        "series_id": 81088
       },
       {
         "issue_id": 508430,
         "order": 9,
-        "series_id": "81088"
+        "series_id": 81088
       },
       {
         "issue_id": 512428,
         "order": 10,
-        "series_id": "81088"
+        "series_id": 81088
       },
       {
         "issue_id": 516957,
         "order": 11,
-        "series_id": "81088"
+        "series_id": 81088
       },
       {
         "issue_id": 520204,
         "order": 12,
-        "series_id": "81088"
+        "series_id": 81088
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Kanan_Modern_Era_Epic_Collection:_The_Last_Padawan",
     "series_id": [
-      "81088"
+      81088
     ]
   },
   {
@@ -2483,38 +2483,38 @@
       {
         "issue_id": 504342,
         "order": 1,
-        "series_id": "81088"
+        "series_id": 81088
       },
       {
         "issue_id": 506171,
         "order": 2,
-        "series_id": "81088"
+        "series_id": 81088
       },
       {
         "issue_id": 508430,
         "order": 3,
-        "series_id": "81088"
+        "series_id": 81088
       },
       {
         "issue_id": 512428,
         "order": 4,
-        "series_id": "81088"
+        "series_id": 81088
       },
       {
         "issue_id": 516957,
         "order": 5,
-        "series_id": "81088"
+        "series_id": 81088
       },
       {
         "issue_id": 520204,
         "order": 6,
-        "series_id": "81088"
+        "series_id": 81088
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Kanan_Vol._2_%E2%80%94_First_Blood",
     "series_id": [
-      "81088"
+      81088
     ]
   },
   {
@@ -2530,32 +2530,32 @@
       {
         "issue_id": 523263,
         "order": 1,
-        "series_id": "89380"
+        "series_id": 89380
       },
       {
         "issue_id": 528515,
         "order": 2,
-        "series_id": "89380"
+        "series_id": 89380
       },
       {
         "issue_id": 534297,
         "order": 3,
-        "series_id": "89380"
+        "series_id": 89380
       },
       {
         "issue_id": 538514,
         "order": 4,
-        "series_id": "89380"
+        "series_id": 89380
       },
       {
         "issue_id": 544990,
         "order": 5,
-        "series_id": "89380"
+        "series_id": 89380
       },
       {
         "issue_id": 548581,
         "order": 6,
-        "series_id": "89380"
+        "series_id": 89380
       },
       {
         "issue_id": null,
@@ -2567,7 +2567,7 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Poe_Dameron_Vol._1_%E2%80%94_Black_Squadron",
     "series_id": [
-      "89380"
+      89380
     ]
   },
   {
@@ -2583,38 +2583,38 @@
       {
         "issue_id": 557372,
         "order": 1,
-        "series_id": "89380"
+        "series_id": 89380
       },
       {
         "issue_id": 566720,
         "order": 2,
-        "series_id": "89380"
+        "series_id": 89380
       },
       {
         "issue_id": 575878,
         "order": 3,
-        "series_id": "89380"
+        "series_id": 89380
       },
       {
         "issue_id": 581565,
         "order": 4,
-        "series_id": "89380"
+        "series_id": 89380
       },
       {
         "issue_id": 587415,
         "order": 5,
-        "series_id": "89380"
+        "series_id": 89380
       },
       {
         "issue_id": 592605,
         "order": 6,
-        "series_id": "89380"
+        "series_id": 89380
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Poe_Dameron_Vol._2_%E2%80%94_The_Gathering_Storm",
     "series_id": [
-      "89380"
+      89380
     ]
   },
   {
@@ -2630,43 +2630,43 @@
       {
         "issue_id": 555535,
         "order": 1,
-        "series_id": "89380"
+        "series_id": 89380
       },
       {
         "issue_id": 594126,
         "order": 2,
-        "series_id": "89380"
+        "series_id": 89380
       },
       {
         "issue_id": 595704,
         "order": 3,
-        "series_id": "89380"
+        "series_id": 89380
       },
       {
         "issue_id": 605132,
         "order": 4,
-        "series_id": "89380"
+        "series_id": 89380
       },
       {
         "issue_id": 609363,
         "order": 5,
-        "series_id": "89380"
+        "series_id": 89380
       },
       {
         "issue_id": 615033,
         "order": 6,
-        "series_id": "89380"
+        "series_id": 89380
       },
       {
         "issue_id": 622953,
         "order": 7,
-        "series_id": "89380"
+        "series_id": 89380
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Poe_Dameron_Vol._3_%E2%80%94_Legend_Lost",
     "series_id": [
-      "89380"
+      89380
     ]
   },
   {
@@ -2682,32 +2682,32 @@
       {
         "issue_id": 630535,
         "order": 1,
-        "series_id": "89380"
+        "series_id": 89380
       },
       {
         "issue_id": 643044,
         "order": 2,
-        "series_id": "89380"
+        "series_id": 89380
       },
       {
         "issue_id": 647955,
         "order": 3,
-        "series_id": "89380"
+        "series_id": 89380
       },
       {
         "issue_id": 655512,
         "order": 4,
-        "series_id": "89380"
+        "series_id": 89380
       },
       {
         "issue_id": 660024,
         "order": 5,
-        "series_id": "89380"
+        "series_id": 89380
       },
       {
         "issue_id": 663587,
         "order": 6,
-        "series_id": "89380"
+        "series_id": 89380
       },
       {
         "issue_id": null,
@@ -2719,7 +2719,7 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Poe_Dameron_Vol._4_%E2%80%94_Legend_Found",
     "series_id": [
-      "89380"
+      89380
     ]
   },
   {
@@ -2735,32 +2735,32 @@
       {
         "issue_id": 666815,
         "order": 1,
-        "series_id": "89380"
+        "series_id": 89380
       },
       {
         "issue_id": 670123,
         "order": 2,
-        "series_id": "89380"
+        "series_id": 89380
       },
       {
         "issue_id": 674138,
         "order": 3,
-        "series_id": "89380"
+        "series_id": 89380
       },
       {
         "issue_id": 677298,
         "order": 4,
-        "series_id": "89380"
+        "series_id": 89380
       },
       {
         "issue_id": 680004,
         "order": 5,
-        "series_id": "89380"
+        "series_id": 89380
       },
       {
         "issue_id": 686395,
         "order": 6,
-        "series_id": "89380"
+        "series_id": 89380
       },
       {
         "issue_id": null,
@@ -2772,7 +2772,7 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Poe_Dameron_Vol._5_%E2%80%94_The_Spark_and_the_Fire",
     "series_id": [
-      "89380"
+      89380
     ]
   },
   {
@@ -2788,38 +2788,38 @@
       {
         "issue_id": 563721,
         "order": 1,
-        "series_id": "96284"
+        "series_id": 96284
       },
       {
         "issue_id": 569329,
         "order": 2,
-        "series_id": "96284"
+        "series_id": 96284
       },
       {
         "issue_id": 576622,
         "order": 3,
-        "series_id": "96284"
+        "series_id": 96284
       },
       {
         "issue_id": 580747,
         "order": 4,
-        "series_id": "96284"
+        "series_id": 96284
       },
       {
         "issue_id": 585077,
         "order": 5,
-        "series_id": "96284"
+        "series_id": 96284
       },
       {
         "issue_id": 591755,
         "order": 6,
-        "series_id": "96284"
+        "series_id": 96284
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Doctor_Aphra_Vol._1_%E2%80%94_Aphra",
     "series_id": [
-      "96284"
+      96284
     ]
   },
   {
@@ -2898,27 +2898,27 @@
       {
         "issue_id": 608257,
         "order": 1,
-        "series_id": "96284"
+        "series_id": 96284
       },
       {
         "issue_id": 610537,
         "order": 2,
-        "series_id": "96284"
+        "series_id": 96284
       },
       {
         "issue_id": 613806,
         "order": 3,
-        "series_id": "96284"
+        "series_id": 96284
       },
       {
         "issue_id": 621679,
         "order": 4,
-        "series_id": "96284"
+        "series_id": 96284
       },
       {
         "issue_id": 628593,
         "order": 5,
-        "series_id": "96284"
+        "series_id": 96284
       },
       {
         "issue_id": null,
@@ -2930,7 +2930,7 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Doctor_Aphra_Vol._2:_Doctor_Aphra_and_the_Enormous_Profit",
     "series_id": [
-      "96284"
+      96284
     ]
   },
   {
@@ -2946,38 +2946,38 @@
       {
         "issue_id": 638608,
         "order": 1,
-        "series_id": "96284"
+        "series_id": 96284
       },
       {
         "issue_id": 647954,
         "order": 2,
-        "series_id": "96284"
+        "series_id": 96284
       },
       {
         "issue_id": 656716,
         "order": 3,
-        "series_id": "96284"
+        "series_id": 96284
       },
       {
         "issue_id": 660671,
         "order": 4,
-        "series_id": "96284"
+        "series_id": 96284
       },
       {
         "issue_id": 664310,
         "order": 5,
-        "series_id": "96284"
+        "series_id": 96284
       },
       {
         "issue_id": 667657,
         "order": 6,
-        "series_id": "96284"
+        "series_id": 96284
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Doctor_Aphra_Vol._3:_Remastered",
     "series_id": [
-      "96284"
+      96284
     ]
   },
   {
@@ -2993,38 +2993,38 @@
       {
         "issue_id": 670758,
         "order": 1,
-        "series_id": "96284"
+        "series_id": 96284
       },
       {
         "issue_id": 675154,
         "order": 2,
-        "series_id": "96284"
+        "series_id": 96284
       },
       {
         "issue_id": 677978,
         "order": 3,
-        "series_id": "96284"
+        "series_id": 96284
       },
       {
         "issue_id": 680737,
         "order": 4,
-        "series_id": "96284"
+        "series_id": 96284
       },
       {
         "issue_id": 686394,
         "order": 5,
-        "series_id": "96284"
+        "series_id": 96284
       },
       {
         "issue_id": 689877,
         "order": 6,
-        "series_id": "96284"
+        "series_id": 96284
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Doctor_Aphra_Vol._4_%E2%80%94_The_Catastrophe_Con",
     "series_id": [
-      "96284"
+      96284
     ]
   },
   {
@@ -3040,32 +3040,32 @@
       {
         "issue_id": 692083,
         "order": 1,
-        "series_id": "96284"
+        "series_id": 96284
       },
       {
         "issue_id": 694927,
         "order": 2,
-        "series_id": "96284"
+        "series_id": 96284
       },
       {
         "issue_id": 699410,
         "order": 3,
-        "series_id": "96284"
+        "series_id": 96284
       },
       {
         "issue_id": 701947,
         "order": 4,
-        "series_id": "96284"
+        "series_id": 96284
       },
       {
         "issue_id": 704829,
         "order": 5,
-        "series_id": "96284"
+        "series_id": 96284
       },
       {
         "issue_id": 706962,
         "order": 6,
-        "series_id": "96284"
+        "series_id": 96284
       },
       {
         "issue_id": null,
@@ -3077,7 +3077,7 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Doctor_Aphra_Vol._5_%E2%80%94_Worst_Among_Equals",
     "series_id": [
-      "96284"
+      96284
     ]
   },
   {
@@ -3093,33 +3093,33 @@
       {
         "issue_id": 708142,
         "order": 1,
-        "series_id": "96284"
+        "series_id": 96284
       },
       {
         "issue_id": 711957,
         "order": 2,
-        "series_id": "96284"
+        "series_id": 96284
       },
       {
         "issue_id": 713865,
         "order": 3,
-        "series_id": "96284"
+        "series_id": 96284
       },
       {
         "issue_id": 716971,
         "order": 4,
-        "series_id": "96284"
+        "series_id": 96284
       },
       {
         "issue_id": 719446,
         "order": 5,
-        "series_id": "96284"
+        "series_id": 96284
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Doctor_Aphra_Vol._6_%E2%80%94_Unspeakable_Rebel_Superweapon",
     "series_id": [
-      "96284"
+      96284
     ]
   },
   {
@@ -3135,22 +3135,22 @@
       {
         "issue_id": 721163,
         "order": 1,
-        "series_id": "96284"
+        "series_id": 96284
       },
       {
         "issue_id": 726214,
         "order": 2,
-        "series_id": "96284"
+        "series_id": 96284
       },
       {
         "issue_id": 728980,
         "order": 3,
-        "series_id": "96284"
+        "series_id": 96284
       },
       {
         "issue_id": 730346,
         "order": 4,
-        "series_id": "96284"
+        "series_id": 96284
       },
       {
         "issue_id": null,
@@ -3174,7 +3174,7 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Doctor_Aphra_Vol._7_%E2%80%94_A_Rogue%27s_End",
     "series_id": [
-      "96284"
+      96284
     ]
   },
   {
@@ -3190,32 +3190,32 @@
       {
         "issue_id": 599878,
         "order": 1,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 603120,
         "order": 2,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 608240,
         "order": 3,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 612037,
         "order": 4,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 619620,
         "order": 5,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 626279,
         "order": 6,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": null,
@@ -3227,7 +3227,7 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader:_Dark_Lord_of_the_Sith_Vol._1_%E2%80%94_Imperial_Machine",
     "series_id": [
-      "101960"
+      101960
     ]
   },
   {
@@ -3243,32 +3243,32 @@
       {
         "issue_id": 599878,
         "order": 1,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 603120,
         "order": 2,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 608240,
         "order": 3,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 612037,
         "order": 4,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 619620,
         "order": 5,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 626279,
         "order": 6,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": null,
@@ -3279,38 +3279,38 @@
       {
         "issue_id": 634530,
         "order": 8,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 638592,
         "order": 9,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 644503,
         "order": 10,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 652626,
         "order": 11,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 660014,
         "order": 12,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 661146,
         "order": 13,
-        "series_id": "101960"
+        "series_id": 101960
       }
     ],
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_-_Dark_Lord_of_the_Sith_Vol._1",
     "series_id": [
-      "101960"
+      101960
     ]
   },
   {
@@ -3326,7 +3326,7 @@
       {
         "issue_id": 599878,
         "order": 1,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": null,
@@ -3337,122 +3337,122 @@
       {
         "issue_id": 603120,
         "order": 3,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 608240,
         "order": 4,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 612037,
         "order": 5,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 619620,
         "order": 6,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 626279,
         "order": 7,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 634530,
         "order": 8,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 638592,
         "order": 9,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 644503,
         "order": 10,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 652626,
         "order": 11,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 660014,
         "order": 12,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 661146,
         "order": 13,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 662741,
         "order": 14,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 665909,
         "order": 15,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 667636,
         "order": 16,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 669444,
         "order": 17,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 673014,
         "order": 18,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 676695,
         "order": 19,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 679408,
         "order": 20,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 680724,
         "order": 21,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 684902,
         "order": 22,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 689040,
         "order": 23,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 692063,
         "order": 24,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 693459,
         "order": 25,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 695629,
         "order": 26,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": null,
@@ -3464,7 +3464,7 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_by_Charles_Soule_Omnibus",
     "series_id": [
-      "101960"
+      101960
     ]
   },
   {
@@ -3480,38 +3480,38 @@
       {
         "issue_id": 634530,
         "order": 1,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 638592,
         "order": 2,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 644503,
         "order": 3,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 652626,
         "order": 4,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 660014,
         "order": 5,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 661146,
         "order": 6,
-        "series_id": "101960"
+        "series_id": 101960
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader:_Dark_Lord_of_the_Sith_Vol._2_%E2%80%94_Legacy%27s_End",
     "series_id": [
-      "101960"
+      101960
     ]
   },
   {
@@ -3527,32 +3527,32 @@
       {
         "issue_id": 662741,
         "order": 1,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 665909,
         "order": 2,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 667636,
         "order": 3,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 669444,
         "order": 4,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 673014,
         "order": 5,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 676695,
         "order": 6,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": null,
@@ -3564,7 +3564,7 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader:_Dark_Lord_of_the_Sith_Vol._3_%E2%80%94_The_Burning_Seas",
     "series_id": [
-      "101960"
+      101960
     ]
   },
   {
@@ -3580,67 +3580,67 @@
       {
         "issue_id": 662741,
         "order": 1,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 665909,
         "order": 2,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 667636,
         "order": 3,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 669444,
         "order": 4,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 673014,
         "order": 5,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 676695,
         "order": 6,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 679408,
         "order": 7,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 680724,
         "order": 8,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 684902,
         "order": 9,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 689040,
         "order": 10,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 692063,
         "order": 11,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 693459,
         "order": 12,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 695629,
         "order": 13,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": null,
@@ -3652,7 +3652,7 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_-_Dark_Lord_of_the_Sith_Vol._2",
     "series_id": [
-      "101960"
+      101960
     ]
   },
   {
@@ -3668,43 +3668,43 @@
       {
         "issue_id": 679408,
         "order": 1,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 680724,
         "order": 2,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 684902,
         "order": 3,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 689040,
         "order": 4,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 692063,
         "order": 5,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 693459,
         "order": 6,
-        "series_id": "101960"
+        "series_id": 101960
       },
       {
         "issue_id": 695629,
         "order": 7,
-        "series_id": "101960"
+        "series_id": 101960
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader:_Dark_Lord_of_the_Sith_Vol._4_%E2%80%94_Fortress_Vader",
     "series_id": [
-      "101960"
+      101960
     ]
   },
   {
@@ -3720,38 +3720,38 @@
       {
         "issue_id": 731978,
         "order": 1,
-        "series_id": "123860"
+        "series_id": 123860
       },
       {
         "issue_id": 735530,
         "order": 2,
-        "series_id": "123860"
+        "series_id": 123860
       },
       {
         "issue_id": 738620,
         "order": 3,
-        "series_id": "123860"
+        "series_id": 123860
       },
       {
         "issue_id": 742378,
         "order": 4,
-        "series_id": "123860"
+        "series_id": 123860
       },
       {
         "issue_id": 787355,
         "order": 5,
-        "series_id": "123860"
+        "series_id": 123860
       },
       {
         "issue_id": 799953,
         "order": 6,
-        "series_id": "123860"
+        "series_id": 123860
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._1:_The_Destiny_Path",
     "series_id": [
-      "123860"
+      123860
     ]
   },
   {
@@ -3767,33 +3767,33 @@
       {
         "issue_id": 807576,
         "order": 1,
-        "series_id": "123860"
+        "series_id": 123860
       },
       {
         "issue_id": 816459,
         "order": 2,
-        "series_id": "123860"
+        "series_id": 123860
       },
       {
         "issue_id": 820738,
         "order": 3,
-        "series_id": "123860"
+        "series_id": 123860
       },
       {
         "issue_id": 824019,
         "order": 4,
-        "series_id": "123860"
+        "series_id": 123860
       },
       {
         "issue_id": 827515,
         "order": 5,
-        "series_id": "123860"
+        "series_id": 123860
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._2:_Operation_Starlight",
     "series_id": [
-      "123860"
+      123860
     ]
   },
   {
@@ -3809,43 +3809,43 @@
       {
         "issue_id": 836260,
         "order": 1,
-        "series_id": "123860"
+        "series_id": 123860
       },
       {
         "issue_id": 848845,
         "order": 2,
-        "series_id": "123860"
+        "series_id": 123860
       },
       {
         "issue_id": 861637,
         "order": 3,
-        "series_id": "123860"
+        "series_id": 123860
       },
       {
         "issue_id": 874519,
         "order": 4,
-        "series_id": "123860"
+        "series_id": 123860
       },
       {
         "issue_id": 880892,
         "order": 5,
-        "series_id": "123860"
+        "series_id": 123860
       },
       {
         "issue_id": 886935,
         "order": 6,
-        "series_id": "123860"
+        "series_id": 123860
       },
       {
         "issue_id": 892240,
         "order": 7,
-        "series_id": "123860"
+        "series_id": 123860
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._3:_War_of_the_Bounty_Hunters",
     "series_id": [
-      "123860"
+      123860
     ]
   },
   {
@@ -3900,43 +3900,43 @@
       {
         "issue_id": 897512,
         "order": 1,
-        "series_id": "123860"
+        "series_id": 123860
       },
       {
         "issue_id": 902531,
         "order": 2,
-        "series_id": "123860"
+        "series_id": 123860
       },
       {
         "issue_id": 909807,
         "order": 3,
-        "series_id": "123860"
+        "series_id": 123860
       },
       {
         "issue_id": 916408,
         "order": 4,
-        "series_id": "123860"
+        "series_id": 123860
       },
       {
         "issue_id": 921118,
         "order": 5,
-        "series_id": "123860"
+        "series_id": 123860
       },
       {
         "issue_id": 929654,
         "order": 6,
-        "series_id": "123860"
+        "series_id": 123860
       },
       {
         "issue_id": 937737,
         "order": 7,
-        "series_id": "123860"
+        "series_id": 123860
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._4:_Crimson_Reign",
     "series_id": [
-      "123860"
+      123860
     ]
   },
   {
@@ -3991,33 +3991,33 @@
       {
         "issue_id": 942709,
         "order": 1,
-        "series_id": "123860"
+        "series_id": 123860
       },
       {
         "issue_id": 946559,
         "order": 2,
-        "series_id": "123860"
+        "series_id": 123860
       },
       {
         "issue_id": 950793,
         "order": 3,
-        "series_id": "123860"
+        "series_id": 123860
       },
       {
         "issue_id": 953031,
         "order": 4,
-        "series_id": "123860"
+        "series_id": 123860
       },
       {
         "issue_id": 962852,
         "order": 5,
-        "series_id": "123860"
+        "series_id": 123860
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._5:_The_Path_to_Victory",
     "series_id": [
-      "123860"
+      123860
     ]
   },
   {
@@ -4072,38 +4072,38 @@
       {
         "issue_id": 971899,
         "order": 1,
-        "series_id": "123860"
+        "series_id": 123860
       },
       {
         "issue_id": 974098,
         "order": 2,
-        "series_id": "123860"
+        "series_id": 123860
       },
       {
         "issue_id": 981436,
         "order": 3,
-        "series_id": "123860"
+        "series_id": 123860
       },
       {
         "issue_id": 987261,
         "order": 4,
-        "series_id": "123860"
+        "series_id": 123860
       },
       {
         "issue_id": 993238,
         "order": 5,
-        "series_id": "123860"
+        "series_id": 123860
       },
       {
         "issue_id": 998579,
         "order": 6,
-        "series_id": "123860"
+        "series_id": 123860
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._6:_Quests_of_the_Force",
     "series_id": [
-      "123860"
+      123860
     ]
   },
   {
@@ -4119,33 +4119,33 @@
       {
         "issue_id": 1006439,
         "order": 1,
-        "series_id": "123860"
+        "series_id": 123860
       },
       {
         "issue_id": 1011787,
         "order": 2,
-        "series_id": "123860"
+        "series_id": 123860
       },
       {
         "issue_id": 1025166,
         "order": 3,
-        "series_id": "123860"
+        "series_id": 123860
       },
       {
         "issue_id": 1027601,
         "order": 4,
-        "series_id": "123860"
+        "series_id": 123860
       },
       {
         "issue_id": 1033210,
         "order": 5,
-        "series_id": "123860"
+        "series_id": 123860
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._7:_Dark_Droids",
     "series_id": [
-      "123860"
+      123860
     ]
   },
   {
@@ -4161,12 +4161,12 @@
       {
         "issue_id": 1039587,
         "order": 1,
-        "series_id": "123860"
+        "series_id": 123860
       },
       {
         "issue_id": 1045768,
         "order": 2,
-        "series_id": "123860"
+        "series_id": 123860
       },
       {
         "issue_id": null,
@@ -4183,22 +4183,22 @@
       {
         "issue_id": 1047090,
         "order": 5,
-        "series_id": "123860"
+        "series_id": 123860
       },
       {
         "issue_id": 1050576,
         "order": 6,
-        "series_id": "123860"
+        "series_id": 123860
       },
       {
         "issue_id": 1056212,
         "order": 7,
-        "series_id": "123860"
+        "series_id": 123860
       },
       {
         "issue_id": 1058719,
         "order": 8,
-        "series_id": "123860"
+        "series_id": 123860
       },
       {
         "issue_id": null,
@@ -4216,7 +4216,7 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._8:_The_Sith_and_the_Skywalker",
     "series_id": [
-      "123860"
+      123860
     ]
   },
   {
@@ -4232,23 +4232,23 @@
       {
         "issue_id": 1063235,
         "order": 1,
-        "series_id": "123860"
+        "series_id": 123860
       },
       {
         "issue_id": 1067249,
         "order": 2,
-        "series_id": "123860"
+        "series_id": 123860
       },
       {
         "issue_id": 1069419,
         "order": 3,
-        "series_id": "123860"
+        "series_id": 123860
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._9:_The_Path_of_Light",
     "series_id": [
-      "123860"
+      123860
     ]
   },
   {
@@ -4264,33 +4264,33 @@
       {
         "issue_id": 736498,
         "order": 1,
-        "series_id": "124821"
+        "series_id": 124821
       },
       {
         "issue_id": 740826,
         "order": 2,
-        "series_id": "124821"
+        "series_id": 124821
       },
       {
         "issue_id": 784414,
         "order": 3,
-        "series_id": "124821"
+        "series_id": 124821
       },
       {
         "issue_id": 791928,
         "order": 4,
-        "series_id": "124821"
+        "series_id": 124821
       },
       {
         "issue_id": 799954,
         "order": 5,
-        "series_id": "124821"
+        "series_id": 124821
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_Vol._1_%E2%80%94_Dark_Heart_of_the_Sith",
     "series_id": [
-      "124821"
+      124821
     ]
   },
   {
@@ -4306,38 +4306,38 @@
       {
         "issue_id": 810731,
         "order": 1,
-        "series_id": "124821"
+        "series_id": 124821
       },
       {
         "issue_id": 817700,
         "order": 2,
-        "series_id": "124821"
+        "series_id": 124821
       },
       {
         "issue_id": 821475,
         "order": 3,
-        "series_id": "124821"
+        "series_id": 124821
       },
       {
         "issue_id": 824439,
         "order": 4,
-        "series_id": "124821"
+        "series_id": 124821
       },
       {
         "issue_id": 828187,
         "order": 5,
-        "series_id": "124821"
+        "series_id": 124821
       },
       {
         "issue_id": 846080,
         "order": 6,
-        "series_id": "124821"
+        "series_id": 124821
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_Vol._2_%E2%80%94_Into_the_Fire",
     "series_id": [
-      "124821"
+      124821
     ]
   },
   {
@@ -4353,38 +4353,38 @@
       {
         "issue_id": 855597,
         "order": 1,
-        "series_id": "124821"
+        "series_id": 124821
       },
       {
         "issue_id": 863843,
         "order": 2,
-        "series_id": "124821"
+        "series_id": 124821
       },
       {
         "issue_id": 872863,
         "order": 3,
-        "series_id": "124821"
+        "series_id": 124821
       },
       {
         "issue_id": 882026,
         "order": 4,
-        "series_id": "124821"
+        "series_id": 124821
       },
       {
         "issue_id": 884818,
         "order": 5,
-        "series_id": "124821"
+        "series_id": 124821
       },
       {
         "issue_id": 891560,
         "order": 6,
-        "series_id": "124821"
+        "series_id": 124821
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_Vol._3_%E2%80%94_War_of_the_Bounty_Hunters",
     "series_id": [
-      "124821"
+      124821
     ]
   },
   {
@@ -4400,33 +4400,33 @@
       {
         "issue_id": 896644,
         "order": 1,
-        "series_id": "124821"
+        "series_id": 124821
       },
       {
         "issue_id": 899198,
         "order": 2,
-        "series_id": "124821"
+        "series_id": 124821
       },
       {
         "issue_id": 906639,
         "order": 3,
-        "series_id": "124821"
+        "series_id": 124821
       },
       {
         "issue_id": 912159,
         "order": 4,
-        "series_id": "124821"
+        "series_id": 124821
       },
       {
         "issue_id": 916409,
         "order": 5,
-        "series_id": "124821"
+        "series_id": 124821
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_Vol._4_%E2%80%94_Crimson_Reign",
     "series_id": [
-      "124821"
+      124821
     ]
   },
   {
@@ -4481,33 +4481,33 @@
       {
         "issue_id": 951454,
         "order": 1,
-        "series_id": "124821"
+        "series_id": 124821
       },
       {
         "issue_id": 957968,
         "order": 2,
-        "series_id": "124821"
+        "series_id": 124821
       },
       {
         "issue_id": 963994,
         "order": 3,
-        "series_id": "124821"
+        "series_id": 124821
       },
       {
         "issue_id": 969394,
         "order": 4,
-        "series_id": "124821"
+        "series_id": 124821
       },
       {
         "issue_id": 978491,
         "order": 5,
-        "series_id": "124821"
+        "series_id": 124821
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_Vol._6_%E2%80%93_Return_of_the_Handmaidens",
     "series_id": [
-      "124821"
+      124821
     ]
   },
   {
@@ -4523,34 +4523,34 @@
       {
         "issue_id": 987264,
         "order": 1,
-        "series_id": "124821"
+        "series_id": 124821
       },
       {
         "issue_id": 988152,
         "order": 2,
-        "series_id": "124821"
+        "series_id": 124821
       },
       {
         "issue_id": 994361,
         "order": 3,
-        "series_id": "124821"
+        "series_id": 124821
       },
       {
         "issue_id": 1000240,
         "order": 4,
-        "series_id": "124821"
+        "series_id": 124821
       },
       {
         "issue_id": 483346,
         "order": 5,
-        "series_id": "79990"
+        "series_id": 79990
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_Vol._7_%E2%80%93_Unbound_Force",
     "series_id": [
-      "124821",
-      "79990"
+      124821,
+      79990
     ]
   },
   {
@@ -4566,33 +4566,33 @@
       {
         "issue_id": 1008946,
         "order": 1,
-        "series_id": "124821"
+        "series_id": 124821
       },
       {
         "issue_id": 1013498,
         "order": 2,
-        "series_id": "124821"
+        "series_id": 124821
       },
       {
         "issue_id": 1020540,
         "order": 3,
-        "series_id": "124821"
+        "series_id": 124821
       },
       {
         "issue_id": 1028631,
         "order": 4,
-        "series_id": "124821"
+        "series_id": 124821
       },
       {
         "issue_id": 1035964,
         "order": 5,
-        "series_id": "124821"
+        "series_id": 124821
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_Vol._8_%E2%80%93_Dark_Droids",
     "series_id": [
-      "124821"
+      124821
     ]
   },
   {
@@ -4620,22 +4620,22 @@
       {
         "issue_id": 1038983,
         "order": 3,
-        "series_id": "124821"
+        "series_id": 124821
       },
       {
         "issue_id": 1044783,
         "order": 4,
-        "series_id": "124821"
+        "series_id": 124821
       },
       {
         "issue_id": 1047952,
         "order": 5,
-        "series_id": "124821"
+        "series_id": 124821
       },
       {
         "issue_id": 1051127,
         "order": 6,
-        "series_id": "124821"
+        "series_id": 124821
       },
       {
         "issue_id": null,
@@ -4647,7 +4647,7 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_Vol._9_%E2%80%93_Rise_of_the_Schism_Imperial",
     "series_id": [
-      "124821"
+      124821
     ]
   },
   {
@@ -4663,27 +4663,27 @@
       {
         "issue_id": 1054381,
         "order": 1,
-        "series_id": "124821"
+        "series_id": 124821
       },
       {
         "issue_id": 1059271,
         "order": 2,
-        "series_id": "124821"
+        "series_id": 124821
       },
       {
         "issue_id": 1064206,
         "order": 3,
-        "series_id": "124821"
+        "series_id": 124821
       },
       {
         "issue_id": 1066704,
         "order": 4,
-        "series_id": "124821"
+        "series_id": 124821
       },
       {
         "issue_id": 1070137,
         "order": 5,
-        "series_id": "124821"
+        "series_id": 124821
       },
       {
         "issue_id": null,
@@ -4701,7 +4701,7 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader_Vol._10_%E2%80%93_Phantoms",
     "series_id": [
-      "124821"
+      124821
     ]
   },
   {
@@ -4717,33 +4717,33 @@
       {
         "issue_id": 740825,
         "order": 1,
-        "series_id": "125679"
+        "series_id": 125679
       },
       {
         "issue_id": 743450,
         "order": 2,
-        "series_id": "125679"
+        "series_id": 125679
       },
       {
         "issue_id": 769755,
         "order": 3,
-        "series_id": "125679"
+        "series_id": 125679
       },
       {
         "issue_id": 794940,
         "order": 4,
-        "series_id": "125679"
+        "series_id": 125679
       },
       {
         "issue_id": 803650,
         "order": 5,
-        "series_id": "125679"
+        "series_id": 125679
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Bounty_Hunters_Vol._1_%E2%80%94_Galaxy%27s_Deadliest",
     "series_id": [
-      "125679"
+      125679
     ]
   },
   {
@@ -4759,38 +4759,38 @@
       {
         "issue_id": 813288,
         "order": 1,
-        "series_id": "125679"
+        "series_id": 125679
       },
       {
         "issue_id": 819094,
         "order": 2,
-        "series_id": "125679"
+        "series_id": 125679
       },
       {
         "issue_id": 822341,
         "order": 3,
-        "series_id": "125679"
+        "series_id": 125679
       },
       {
         "issue_id": 826551,
         "order": 4,
-        "series_id": "125679"
+        "series_id": 125679
       },
       {
         "issue_id": 838544,
         "order": 5,
-        "series_id": "125679"
+        "series_id": 125679
       },
       {
         "issue_id": 842956,
         "order": 6,
-        "series_id": "125679"
+        "series_id": 125679
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Bounty_Hunters_Vol._2_%E2%80%94_Target_Valance",
     "series_id": [
-      "125679"
+      125679
     ]
   },
   {
@@ -4806,38 +4806,38 @@
       {
         "issue_id": 851300,
         "order": 1,
-        "series_id": "125679"
+        "series_id": 125679
       },
       {
         "issue_id": 858870,
         "order": 2,
-        "series_id": "125679"
+        "series_id": 125679
       },
       {
         "issue_id": 868595,
         "order": 3,
-        "series_id": "125679"
+        "series_id": 125679
       },
       {
         "issue_id": 877056,
         "order": 4,
-        "series_id": "125679"
+        "series_id": 125679
       },
       {
         "issue_id": 885602,
         "order": 5,
-        "series_id": "125679"
+        "series_id": 125679
       },
       {
         "issue_id": 892241,
         "order": 6,
-        "series_id": "125679"
+        "series_id": 125679
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Bounty_Hunters_Vol._3_%E2%80%94_War_of_the_Bounty_Hunters",
     "series_id": [
-      "125679"
+      125679
     ]
   },
   {
@@ -4853,33 +4853,33 @@
       {
         "issue_id": 896643,
         "order": 1,
-        "series_id": "125679"
+        "series_id": 125679
       },
       {
         "issue_id": 900398,
         "order": 2,
-        "series_id": "125679"
+        "series_id": 125679
       },
       {
         "issue_id": 902529,
         "order": 3,
-        "series_id": "125679"
+        "series_id": 125679
       },
       {
         "issue_id": 913174,
         "order": 4,
-        "series_id": "125679"
+        "series_id": 125679
       },
       {
         "issue_id": 914650,
         "order": 5,
-        "series_id": "125679"
+        "series_id": 125679
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Bounty_Hunters_Vol._4_%E2%80%94_Crimson_Reign",
     "series_id": [
-      "125679"
+      125679
     ]
   },
   {
@@ -4895,38 +4895,38 @@
       {
         "issue_id": 928440,
         "order": 1,
-        "series_id": "125679"
+        "series_id": 125679
       },
       {
         "issue_id": 930982,
         "order": 2,
-        "series_id": "125679"
+        "series_id": 125679
       },
       {
         "issue_id": 935778,
         "order": 3,
-        "series_id": "125679"
+        "series_id": 125679
       },
       {
         "issue_id": 941570,
         "order": 4,
-        "series_id": "125679"
+        "series_id": 125679
       },
       {
         "issue_id": 946721,
         "order": 5,
-        "series_id": "125679"
+        "series_id": 125679
       },
       {
         "issue_id": 953029,
         "order": 6,
-        "series_id": "125679"
+        "series_id": 125679
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Bounty_Hunters_Vol._5_%E2%80%94_The_Raid_on_the_Vermillion",
     "series_id": [
-      "125679"
+      125679
     ]
   },
   {
@@ -4942,38 +4942,38 @@
       {
         "issue_id": 960019,
         "order": 1,
-        "series_id": "125679"
+        "series_id": 125679
       },
       {
         "issue_id": 964953,
         "order": 2,
-        "series_id": "125679"
+        "series_id": 125679
       },
       {
         "issue_id": 971898,
         "order": 3,
-        "series_id": "125679"
+        "series_id": 125679
       },
       {
         "issue_id": 975683,
         "order": 4,
-        "series_id": "125679"
+        "series_id": 125679
       },
       {
         "issue_id": 982365,
         "order": 5,
-        "series_id": "125679"
+        "series_id": 125679
       },
       {
         "issue_id": 989668,
         "order": 6,
-        "series_id": "125679"
+        "series_id": 125679
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Bounty_Hunters_Vol._6_%E2%80%94_Bedlam_on_Bestine",
     "series_id": [
-      "125679"
+      125679
     ]
   },
   {
@@ -4989,48 +4989,48 @@
       {
         "issue_id": 996025,
         "order": 1,
-        "series_id": "125679"
+        "series_id": 125679
       },
       {
         "issue_id": 1000239,
         "order": 2,
-        "series_id": "125679"
+        "series_id": 125679
       },
       {
         "issue_id": 1010946,
         "order": 3,
-        "series_id": "125679"
+        "series_id": 125679
       },
       {
         "issue_id": 1014898,
         "order": 4,
-        "series_id": "125679"
+        "series_id": 125679
       },
       {
         "issue_id": 1020539,
         "order": 5,
-        "series_id": "125679"
+        "series_id": 125679
       },
       {
         "issue_id": 1030787,
         "order": 6,
-        "series_id": "125679"
+        "series_id": 125679
       },
       {
         "issue_id": 1034346,
         "order": 7,
-        "series_id": "125679"
+        "series_id": 125679
       },
       {
         "issue_id": 1040945,
         "order": 8,
-        "series_id": "125679"
+        "series_id": 125679
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Bounty_Hunters_Vol._7_%E2%80%94_Dark_Droids",
     "series_id": [
-      "125679"
+      125679
     ]
   },
   {
@@ -5046,33 +5046,33 @@
       {
         "issue_id": 758307,
         "order": 1,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 781437,
         "order": 2,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 796301,
         "order": 3,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 805098,
         "order": 4,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 814494,
         "order": 5,
-        "series_id": "126644"
+        "series_id": 126644
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Doctor_Aphra_Vol._1_%E2%80%94_Fortune_and_Fate",
     "series_id": [
-      "126644"
+      126644
     ]
   },
   {
@@ -5088,133 +5088,133 @@
       {
         "issue_id": 758307,
         "order": 1,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 781437,
         "order": 2,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 796301,
         "order": 3,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 805098,
         "order": 4,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 814494,
         "order": 5,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 819477,
         "order": 6,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 825502,
         "order": 7,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 839783,
         "order": 8,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 844957,
         "order": 9,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 855599,
         "order": 10,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 866575,
         "order": 11,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 871537,
         "order": 12,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 882027,
         "order": 13,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 884066,
         "order": 14,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 889454,
         "order": 15,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 894455,
         "order": 16,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 901351,
         "order": 17,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 903921,
         "order": 18,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 912251,
         "order": 19,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 925008,
         "order": 20,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 933089,
         "order": 21,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 939091,
         "order": 22,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 943908,
         "order": 23,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 949155,
         "order": 24,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 952309,
         "order": 25,
-        "series_id": "126644"
+        "series_id": 126644
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Doctor_Aphra_Omnibus_Vol._2",
     "series_id": [
-      "126644"
+      126644
     ]
   },
   {
@@ -5230,33 +5230,33 @@
       {
         "issue_id": 819477,
         "order": 1,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 825502,
         "order": 2,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 839783,
         "order": 3,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 844957,
         "order": 4,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 855599,
         "order": 5,
-        "series_id": "126644"
+        "series_id": 126644
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Doctor_Aphra_Vol._2_%E2%80%94_The_Engine_Job",
     "series_id": [
-      "126644"
+      126644
     ]
   },
   {
@@ -5272,33 +5272,33 @@
       {
         "issue_id": 866575,
         "order": 1,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 871537,
         "order": 2,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 882027,
         "order": 3,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 884066,
         "order": 4,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 889454,
         "order": 5,
-        "series_id": "126644"
+        "series_id": 126644
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Doctor_Aphra_Vol._3_%E2%80%94_War_of_the_Bounty_Hunters",
     "series_id": [
-      "126644"
+      126644
     ]
   },
   {
@@ -5314,33 +5314,33 @@
       {
         "issue_id": 894455,
         "order": 1,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 901351,
         "order": 2,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 903921,
         "order": 3,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 912251,
         "order": 4,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 925008,
         "order": 5,
-        "series_id": "126644"
+        "series_id": 126644
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Doctor_Aphra_Vol._4_%E2%80%94_Crimson_Reign",
     "series_id": [
-      "126644"
+      126644
     ]
   },
   {
@@ -5356,33 +5356,33 @@
       {
         "issue_id": 933089,
         "order": 1,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 939091,
         "order": 2,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 943908,
         "order": 3,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 949155,
         "order": 4,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 952309,
         "order": 5,
-        "series_id": "126644"
+        "series_id": 126644
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Doctor_Aphra_Vol._5_%E2%80%94_The_Spark_Eternal",
     "series_id": [
-      "126644"
+      126644
     ]
   },
   {
@@ -5398,38 +5398,38 @@
       {
         "issue_id": 955115,
         "order": 1,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 961954,
         "order": 2,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 966427,
         "order": 3,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 973032,
         "order": 4,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 982364,
         "order": 5,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 987263,
         "order": 6,
-        "series_id": "126644"
+        "series_id": 126644
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Doctor_Aphra_Vol._6_%E2%80%94_Ascendant",
     "series_id": [
-      "126644"
+      126644
     ]
   },
   {
@@ -5445,77 +5445,77 @@
       {
         "issue_id": 955115,
         "order": 1,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 961954,
         "order": 2,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 966427,
         "order": 3,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 973032,
         "order": 4,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 982364,
         "order": 5,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 987263,
         "order": 6,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 992416,
         "order": 7,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 997383,
         "order": 8,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 1001999,
         "order": 9,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 1010054,
         "order": 10,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 1018029,
         "order": 11,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 1026556,
         "order": 12,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 1029693,
         "order": 13,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 1035965,
         "order": 14,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 1042836,
         "order": 15,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": null,
@@ -5563,7 +5563,7 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Doctor_Aphra_%E2%80%93_Friends_%26_Enemies_Omnibus",
     "series_id": [
-      "126644"
+      126644
     ]
   },
   {
@@ -5579,47 +5579,47 @@
       {
         "issue_id": 992416,
         "order": 1,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 997383,
         "order": 2,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 1001999,
         "order": 3,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 1010054,
         "order": 4,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 1018029,
         "order": 5,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 1026556,
         "order": 6,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 1029693,
         "order": 7,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 1035965,
         "order": 8,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": 1042836,
         "order": 9,
-        "series_id": "126644"
+        "series_id": 126644
       },
       {
         "issue_id": null,
@@ -5637,7 +5637,7 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Doctor_Aphra_Vol._7_%E2%80%94_Dark_Droids",
     "series_id": [
-      "126644"
+      126644
     ]
   },
   {
@@ -5653,33 +5653,33 @@
       {
         "issue_id": 824020,
         "order": 1,
-        "series_id": "133079"
+        "series_id": 133079
       },
       {
         "issue_id": 827516,
         "order": 2,
-        "series_id": "133079"
+        "series_id": 133079
       },
       {
         "issue_id": 832857,
         "order": 3,
-        "series_id": "133079"
+        "series_id": 133079
       },
       {
         "issue_id": 842195,
         "order": 4,
-        "series_id": "133079"
+        "series_id": 133079
       },
       {
         "issue_id": 848846,
         "order": 5,
-        "series_id": "133079"
+        "series_id": 133079
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_The_High_Republic_Vol._1_%E2%80%93_There_is_No_Fear",
     "series_id": [
-      "133079"
+      133079
     ]
   },
   {
@@ -5695,77 +5695,77 @@
       {
         "issue_id": 824020,
         "order": 1,
-        "series_id": "133079"
+        "series_id": 133079
       },
       {
         "issue_id": 827516,
         "order": 2,
-        "series_id": "133079"
+        "series_id": 133079
       },
       {
         "issue_id": 832857,
         "order": 3,
-        "series_id": "133079"
+        "series_id": 133079
       },
       {
         "issue_id": 842195,
         "order": 4,
-        "series_id": "133079"
+        "series_id": 133079
       },
       {
         "issue_id": 848846,
         "order": 5,
-        "series_id": "133079"
+        "series_id": 133079
       },
       {
         "issue_id": 866576,
         "order": 6,
-        "series_id": "133079"
+        "series_id": 133079
       },
       {
         "issue_id": 874520,
         "order": 7,
-        "series_id": "133079"
+        "series_id": 133079
       },
       {
         "issue_id": 878790,
         "order": 8,
-        "series_id": "133079"
+        "series_id": 133079
       },
       {
         "issue_id": 882882,
         "order": 9,
-        "series_id": "133079"
+        "series_id": 133079
       },
       {
         "issue_id": 890598,
         "order": 10,
-        "series_id": "133079"
+        "series_id": 133079
       },
       {
         "issue_id": 894113,
         "order": 11,
-        "series_id": "133079"
+        "series_id": 133079
       },
       {
         "issue_id": 898529,
         "order": 12,
-        "series_id": "133079"
+        "series_id": 133079
       },
       {
         "issue_id": 903810,
         "order": 13,
-        "series_id": "133079"
+        "series_id": 133079
       },
       {
         "issue_id": 905798,
         "order": 14,
-        "series_id": "133079"
+        "series_id": 133079
       },
       {
         "issue_id": 909808,
         "order": 15,
-        "series_id": "133079"
+        "series_id": 133079
       },
       {
         "issue_id": null,
@@ -5813,7 +5813,7 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_The_High_Republic_Phase_I_%E2%80%93_Light_of_the_Jedi_Omnibus",
     "series_id": [
-      "133079"
+      133079
     ]
   },
   {
@@ -5829,33 +5829,33 @@
       {
         "issue_id": 866576,
         "order": 1,
-        "series_id": "133079"
+        "series_id": 133079
       },
       {
         "issue_id": 874520,
         "order": 2,
-        "series_id": "133079"
+        "series_id": 133079
       },
       {
         "issue_id": 878790,
         "order": 3,
-        "series_id": "133079"
+        "series_id": 133079
       },
       {
         "issue_id": 882882,
         "order": 4,
-        "series_id": "133079"
+        "series_id": 133079
       },
       {
         "issue_id": 890598,
         "order": 5,
-        "series_id": "133079"
+        "series_id": 133079
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_The_High_Republic_Vol._2_%E2%80%93_The_Heart_of_Drengir",
     "series_id": [
-      "133079"
+      133079
     ]
   },
   {
@@ -5871,27 +5871,27 @@
       {
         "issue_id": 894113,
         "order": 1,
-        "series_id": "133079"
+        "series_id": 133079
       },
       {
         "issue_id": 898529,
         "order": 2,
-        "series_id": "133079"
+        "series_id": 133079
       },
       {
         "issue_id": 903810,
         "order": 3,
-        "series_id": "133079"
+        "series_id": 133079
       },
       {
         "issue_id": 905798,
         "order": 4,
-        "series_id": "133079"
+        "series_id": 133079
       },
       {
         "issue_id": 909808,
         "order": 5,
-        "series_id": "133079"
+        "series_id": 133079
       },
       {
         "issue_id": null,
@@ -5909,7 +5909,7 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_The_High_Republic_Vol._3_%E2%80%93_Jedi%27s_End",
     "series_id": [
-      "133079"
+      133079
     ]
   },
   {
@@ -5925,33 +5925,33 @@
       {
         "issue_id": 950691,
         "order": 1,
-        "series_id": "145478"
+        "series_id": 145478
       },
       {
         "issue_id": 953978,
         "order": 2,
-        "series_id": "145478"
+        "series_id": 145478
       },
       {
         "issue_id": 961960,
         "order": 3,
-        "series_id": "145478"
+        "series_id": 145478
       },
       {
         "issue_id": 963995,
         "order": 4,
-        "series_id": "145478"
+        "series_id": 145478
       },
       {
         "issue_id": 969395,
         "order": 5,
-        "series_id": "145478"
+        "series_id": 145478
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_The_High_Republic_Phase_II_Vol._1_%E2%80%93_Balance_of_the_Force",
     "series_id": [
-      "145478"
+      145478
     ]
   },
   {
@@ -5967,7 +5967,7 @@
       {
         "issue_id": 950691,
         "order": 1,
-        "series_id": "145478"
+        "series_id": 145478
       },
       {
         "issue_id": null,
@@ -5978,47 +5978,47 @@
       {
         "issue_id": 953978,
         "order": 3,
-        "series_id": "145478"
+        "series_id": 145478
       },
       {
         "issue_id": 961960,
         "order": 4,
-        "series_id": "145478"
+        "series_id": 145478
       },
       {
         "issue_id": 963995,
         "order": 5,
-        "series_id": "145478"
+        "series_id": 145478
       },
       {
         "issue_id": 969395,
         "order": 6,
-        "series_id": "145478"
+        "series_id": 145478
       },
       {
         "issue_id": 975684,
         "order": 7,
-        "series_id": "145478"
+        "series_id": 145478
       },
       {
         "issue_id": 979436,
         "order": 8,
-        "series_id": "145478"
+        "series_id": 145478
       },
       {
         "issue_id": 982367,
         "order": 9,
-        "series_id": "145478"
+        "series_id": 145478
       },
       {
         "issue_id": 988153,
         "order": 10,
-        "series_id": "145478"
+        "series_id": 145478
       },
       {
         "issue_id": 991072,
         "order": 11,
-        "series_id": "145478"
+        "series_id": 145478
       },
       {
         "issue_id": null,
@@ -6048,7 +6048,7 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_The_High_Republic_Phase_II_%E2%80%93_Quest_of_the_Jedi_Omnibus",
     "series_id": [
-      "145478"
+      145478
     ]
   },
   {
@@ -6064,33 +6064,33 @@
       {
         "issue_id": 975684,
         "order": 1,
-        "series_id": "145478"
+        "series_id": 145478
       },
       {
         "issue_id": 979436,
         "order": 2,
-        "series_id": "145478"
+        "series_id": 145478
       },
       {
         "issue_id": 982367,
         "order": 3,
-        "series_id": "145478"
+        "series_id": 145478
       },
       {
         "issue_id": 988153,
         "order": 4,
-        "series_id": "145478"
+        "series_id": 145478
       },
       {
         "issue_id": 991072,
         "order": 5,
-        "series_id": "145478"
+        "series_id": 145478
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_The_High_Republic_Phase_II_Vol._2_%E2%80%93_Battle_for_the_Force",
     "series_id": [
-      "145478"
+      145478
     ]
   },
   {
@@ -6106,27 +6106,27 @@
       {
         "issue_id": 1028633,
         "order": 1,
-        "series_id": "154553"
+        "series_id": 154553
       },
       {
         "issue_id": 1035966,
         "order": 2,
-        "series_id": "154553"
+        "series_id": 154553
       },
       {
         "issue_id": 1040947,
         "order": 3,
-        "series_id": "154553"
+        "series_id": 154553
       },
       {
         "issue_id": 1047089,
         "order": 4,
-        "series_id": "154553"
+        "series_id": 154553
       },
       {
         "issue_id": 1048674,
         "order": 5,
-        "series_id": "154553"
+        "series_id": 154553
       },
       {
         "issue_id": null,
@@ -6144,7 +6144,7 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_The_High_Republic_Phase_III_Vol._1_%E2%80%93_Children_of_the_Storm",
     "series_id": [
-      "154553"
+      154553
     ]
   },
   {
@@ -6160,52 +6160,52 @@
       {
         "issue_id": 1028633,
         "order": 1,
-        "series_id": "154553"
+        "series_id": 154553
       },
       {
         "issue_id": 1035966,
         "order": 2,
-        "series_id": "154553"
+        "series_id": 154553
       },
       {
         "issue_id": 1040947,
         "order": 3,
-        "series_id": "154553"
+        "series_id": 154553
       },
       {
         "issue_id": 1047089,
         "order": 4,
-        "series_id": "154553"
+        "series_id": 154553
       },
       {
         "issue_id": 1048674,
         "order": 5,
-        "series_id": "154553"
+        "series_id": 154553
       },
       {
         "issue_id": 1051128,
         "order": 6,
-        "series_id": "154553"
+        "series_id": 154553
       },
       {
         "issue_id": 1054382,
         "order": 7,
-        "series_id": "154553"
+        "series_id": 154553
       },
       {
         "issue_id": 1058722,
         "order": 8,
-        "series_id": "154553"
+        "series_id": 154553
       },
       {
         "issue_id": 1061876,
         "order": 9,
-        "series_id": "154553"
+        "series_id": 154553
       },
       {
         "issue_id": 1066306,
         "order": 10,
-        "series_id": "154553"
+        "series_id": 154553
       },
       {
         "issue_id": null,
@@ -6289,7 +6289,7 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_The_High_Republic_Phase_III_%E2%80%93_Trials_of_the_Jedi_Omnibus",
     "series_id": [
-      "154553"
+      154553
     ]
   },
   {
@@ -6305,27 +6305,27 @@
       {
         "issue_id": 1051128,
         "order": 1,
-        "series_id": "154553"
+        "series_id": 154553
       },
       {
         "issue_id": 1054382,
         "order": 2,
-        "series_id": "154553"
+        "series_id": 154553
       },
       {
         "issue_id": 1058722,
         "order": 3,
-        "series_id": "154553"
+        "series_id": 154553
       },
       {
         "issue_id": 1061876,
         "order": 4,
-        "series_id": "154553"
+        "series_id": 154553
       },
       {
         "issue_id": 1066306,
         "order": 5,
-        "series_id": "154553"
+        "series_id": 154553
       },
       {
         "issue_id": null,
@@ -6337,7 +6337,7 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_The_High_Republic_Phase_III_Vol._2_%E2%80%93_The_Hunted",
     "series_id": [
-      "154553"
+      154553
     ]
   },
   {
@@ -6365,38 +6365,38 @@
       {
         "issue_id": 1094616,
         "order": 3,
-        "series_id": "162323"
+        "series_id": 162323
       },
       {
         "issue_id": 1098349,
         "order": 4,
-        "series_id": "162323"
+        "series_id": 162323
       },
       {
         "issue_id": 1104107,
         "order": 5,
-        "series_id": "162323"
+        "series_id": 162323
       },
       {
         "issue_id": 1111723,
         "order": 6,
-        "series_id": "162323"
+        "series_id": 162323
       },
       {
         "issue_id": 1116818,
         "order": 7,
-        "series_id": "162323"
+        "series_id": 162323
       },
       {
         "issue_id": 1119103,
         "order": 8,
-        "series_id": "162323"
+        "series_id": 162323
       }
     ],
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Legacy_of_Vader_%E2%80%93_The_Reign_of_Kylo_Ren_Vol._1",
     "series_id": [
-      "162323"
+      162323
     ]
   },
   {
@@ -6412,22 +6412,22 @@
       {
         "issue_id": 1124672,
         "order": 1,
-        "series_id": "162323"
+        "series_id": 162323
       },
       {
         "issue_id": 1130269,
         "order": 2,
-        "series_id": "162323"
+        "series_id": 162323
       },
       {
         "issue_id": 1138116,
         "order": 3,
-        "series_id": "162323"
+        "series_id": 162323
       },
       {
         "issue_id": 1141929,
         "order": 4,
-        "series_id": "162323"
+        "series_id": 162323
       },
       {
         "issue_id": null,
@@ -6445,7 +6445,7 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Legacy_of_Vader_%E2%80%93_The_Reign_of_Kylo_Ren_Vol._2",
     "series_id": [
-      "162323"
+      162323
     ]
   },
   {
@@ -6461,27 +6461,27 @@
       {
         "issue_id": 1097719,
         "order": 1,
-        "series_id": "162624"
+        "series_id": 162624
       },
       {
         "issue_id": 1102466,
         "order": 2,
-        "series_id": "162624"
+        "series_id": 162624
       },
       {
         "issue_id": 1109660,
         "order": 3,
-        "series_id": "162624"
+        "series_id": 162624
       },
       {
         "issue_id": 1114020,
         "order": 4,
-        "series_id": "162624"
+        "series_id": 162624
       },
       {
         "issue_id": 1117441,
         "order": 5,
-        "series_id": "162624"
+        "series_id": 162624
       },
       {
         "issue_id": null,
@@ -6499,7 +6499,7 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Jedi_Knights_Vol._1_%E2%80%93_Guardians_Of_The_Republic",
     "series_id": [
-      "162624"
+      162624
     ]
   },
   {
@@ -6515,17 +6515,17 @@
       {
         "issue_id": 1125797,
         "order": 1,
-        "series_id": "162624"
+        "series_id": 162624
       },
       {
         "issue_id": 1131770,
         "order": 2,
-        "series_id": "162624"
+        "series_id": 162624
       },
       {
         "issue_id": 1139087,
         "order": 3,
-        "series_id": "162624"
+        "series_id": 162624
       },
       {
         "issue_id": null,
@@ -6543,7 +6543,7 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Jedi_Knights_Vol._2_%E2%80%93_A_Higher_Path",
     "series_id": [
-      "162624"
+      162624
     ]
   },
   {
@@ -6559,47 +6559,47 @@
       {
         "issue_id": 1108857,
         "order": 1,
-        "series_id": "164202"
+        "series_id": 164202
       },
       {
         "issue_id": 1115835,
         "order": 2,
-        "series_id": "164202"
+        "series_id": 164202
       },
       {
         "issue_id": 1120412,
         "order": 3,
-        "series_id": "164202"
+        "series_id": 164202
       },
       {
         "issue_id": 1127227,
         "order": 4,
-        "series_id": "164202"
+        "series_id": 164202
       },
       {
         "issue_id": 1133844,
         "order": 5,
-        "series_id": "164202"
+        "series_id": 164202
       },
       {
         "issue_id": 1136129,
         "order": 6,
-        "series_id": "164202"
+        "series_id": 164202
       },
       {
         "issue_id": 496399,
         "order": 7,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 497960,
         "order": 8,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": 500309,
         "order": 9,
-        "series_id": "79398"
+        "series_id": 79398
       },
       {
         "issue_id": null,
@@ -6617,13 +6617,13 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_New_Republic",
     "series_id": [
-      "164202",
-      "79398"
+      164202,
+      79398
     ]
   },
   {
     "id": 1762635356385,
-    "title": "Star Wars: Doctor Aphra – Chaos Agent (trade paperback)",
+    "title": "Star Wars: Doctor Aphra – Chaos Agent",
     "type": "Trade Paperback",
     "cover_url": "https://static.wikia.nocookie.net/starwars/images/2/27/DA-AgenetOfChaos-TPB.jpg/revision/latest/scale-to-width-down/100?cb=20250801211914",
     "release_date": "05/19/2026",
@@ -6634,38 +6634,38 @@
       {
         "issue_id": 1116309,
         "order": 1,
-        "series_id": "165088"
+        "series_id": 165088
       },
       {
         "issue_id": 1121730,
         "order": 2,
-        "series_id": "165088"
+        "series_id": 165088
       },
       {
         "issue_id": 1128958,
         "order": 3,
-        "series_id": "165088"
+        "series_id": 165088
       },
       {
         "issue_id": 1134946,
         "order": 4,
-        "series_id": "165088"
+        "series_id": 165088
       },
       {
         "issue_id": 1140616,
         "order": 5,
-        "series_id": "165088"
+        "series_id": 165088
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Doctor_Aphra_%E2%80%93_Chaos_Agent_(trade_paperback)",
     "series_id": [
-      "165088"
+      165088
     ]
   },
   {
     "id": 1762671448552,
-    "title": "Star Wars: Lando (trade paperback)",
+    "title": "Star Wars: Lando",
     "type": "Trade Paperback",
     "cover_url": "https://static.wikia.nocookie.net/starwars/images/f/f2/Star_Wars_Lando_TPB_final_cover.jpg/revision/latest/scale-to-width-down/100?cb=20160109033725",
     "release_date": "01/19/2016",
@@ -6676,33 +6676,33 @@
       {
         "issue_id": 494322,
         "order": 1,
-        "series_id": "83142"
+        "series_id": 83142
       },
       {
         "issue_id": 497391,
         "order": 2,
-        "series_id": "83142"
+        "series_id": 83142
       },
       {
         "issue_id": 498389,
         "order": 3,
-        "series_id": "83142"
+        "series_id": 83142
       },
       {
         "issue_id": 500305,
         "order": 4,
-        "series_id": "83142"
+        "series_id": 83142
       },
       {
         "issue_id": 502121,
         "order": 5,
-        "series_id": "83142"
+        "series_id": 83142
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Lando_(trade_paperback)",
     "series_id": [
-      "83142"
+      83142
     ]
   },
   {
@@ -6718,52 +6718,52 @@
       {
         "issue_id": 481612,
         "order": 1,
-        "series_id": "80455"
+        "series_id": 80455
       },
       {
         "issue_id": 482691,
         "order": 2,
-        "series_id": "80455"
+        "series_id": 80455
       },
       {
         "issue_id": 487212,
         "order": 3,
-        "series_id": "80455"
+        "series_id": 80455
       },
       {
         "issue_id": 490886,
         "order": 4,
-        "series_id": "80455"
+        "series_id": 80455
       },
       {
         "issue_id": 493795,
         "order": 5,
-        "series_id": "80455"
+        "series_id": 80455
       },
       {
         "issue_id": 494322,
         "order": 6,
-        "series_id": "83142"
+        "series_id": 83142
       },
       {
         "issue_id": 497391,
         "order": 7,
-        "series_id": "83142"
+        "series_id": 83142
       },
       {
         "issue_id": 498389,
         "order": 8,
-        "series_id": "83142"
+        "series_id": 83142
       },
       {
         "issue_id": 500305,
         "order": 9,
-        "series_id": "83142"
+        "series_id": 83142
       },
       {
         "issue_id": 502121,
         "order": 10,
-        "series_id": "83142"
+        "series_id": 83142
       },
       {
         "issue_id": null,
@@ -6799,8 +6799,694 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Heroes_For_a_New_Hope",
     "series_id": [
-      "80455",
-      "83142"
+      80455,
+      83142
+    ]
+  },
+  {
+    "id": 1762876785876,
+    "title": "Star Wars: Shattered Empire",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/2/24/ShatteredEmpireTPB.png/revision/latest/scale-to-width-down/100?cb=20180131012551",
+    "release_date": "11/17/2015",
+    "publisher": "Marvel Comics",
+    "isbn": "9780785197812",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 499744,
+        "order": 1,
+        "series_id": 84432
+      },
+      {
+        "issue_id": 502120,
+        "order": 2,
+        "series_id": 84432
+      },
+      {
+        "issue_id": 502864,
+        "order": 3,
+        "series_id": 84432
+      },
+      {
+        "issue_id": 503560,
+        "order": 4,
+        "series_id": 84432
+      },
+      {
+        "issue_id": 481612,
+        "order": 5,
+        "series_id": 80455
+      },
+      {
+        "issue_id": 475858,
+        "order": 6,
+        "series_id": 79398
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Shattered_Empire_(trade_paperback)",
+    "series_id": [
+      84432,
+      80455,
+      79398
+    ]
+  },
+  {
+    "id": 1762876786404,
+    "title": "Star Wars: Shattered Empire",
+    "type": "Hardcover",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/0/0d/Shattered_Empire_hardcover_cover.jpg/revision/latest/scale-to-width-down/100?cb=20160326052235",
+    "release_date": "09/13/2016",
+    "publisher": "Marvel Comics",
+    "isbn": "1302902105",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 499744,
+        "order": 1,
+        "series_id": 84432
+      },
+      {
+        "issue_id": 502120,
+        "order": 2,
+        "series_id": 84432
+      },
+      {
+        "issue_id": 502864,
+        "order": 3,
+        "series_id": 84432
+      },
+      {
+        "issue_id": 503560,
+        "order": 4,
+        "series_id": 84432
+      },
+      {
+        "issue_id": null,
+        "order": 5,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Special:_C-3PO_1",
+        "title": "Star Wars Special: C-3PO 1"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Shattered_Empire_(hardcover)",
+    "series_id": [
+      84432
+    ]
+  },
+  {
+    "id": 1762876983458,
+    "title": "Star Wars: Chewbacca",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/4/40/Chewbacca_TPB_final_cover.jpg/revision/latest/scale-to-width-down/100?cb=20160307211501",
+    "release_date": "02/24/2016",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302484514",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 502857,
+        "order": 1,
+        "series_id": 85275
+      },
+      {
+        "issue_id": 504335,
+        "order": 2,
+        "series_id": 85275
+      },
+      {
+        "issue_id": 505516,
+        "order": 3,
+        "series_id": 85275
+      },
+      {
+        "issue_id": 506649,
+        "order": 4,
+        "series_id": 85275
+      },
+      {
+        "issue_id": 509699,
+        "order": 5,
+        "series_id": 85275
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Chewbacca_(Marvel_TPB)",
+    "series_id": [
+      85275
+    ]
+  },
+  {
+    "id": 1762877172811,
+    "title": "Star Wars: Obi-Wan and Anakin",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/0/0e/StarWarsObiWanAndAnakin-TPB.jpg/revision/latest/scale-to-width-down/100?cb=20170525141551",
+    "release_date": "07/19/2016",
+    "publisher": "Marvel Comics",
+    "isbn": "9780785196792",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 509706,
+        "order": 1,
+        "series_id": 86986
+      },
+      {
+        "issue_id": 513653,
+        "order": 2,
+        "series_id": 86986
+      },
+      {
+        "issue_id": 521340,
+        "order": 3,
+        "series_id": 86986
+      },
+      {
+        "issue_id": 526064,
+        "order": 4,
+        "series_id": 86986
+      },
+      {
+        "issue_id": 531896,
+        "order": 5,
+        "series_id": 86986
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Obi-Wan_and_Anakin_(trade_paperback)",
+    "series_id": [
+      86986
+    ]
+  },
+  {
+    "id": 1762877339865,
+    "title": "Star Wars: Han Solo",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/b/ba/SWHanSoloTPB.png/revision/latest/scale-to-width-down/100?cb=20201210023931",
+    "release_date": "01/03/2017",
+    "publisher": "Marvel Comics",
+    "isbn": "9780785193210",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 535354,
+        "order": 1,
+        "series_id": 91286
+      },
+      {
+        "issue_id": 538508,
+        "order": 2,
+        "series_id": 91286
+      },
+      {
+        "issue_id": 547279,
+        "order": 3,
+        "series_id": 91286
+      },
+      {
+        "issue_id": 553010,
+        "order": 4,
+        "series_id": 91286
+      },
+      {
+        "issue_id": 558968,
+        "order": 5,
+        "series_id": 91286
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Han_Solo_(trade_paperback)",
+    "series_id": [
+      91286
+    ]
+  },
+  {
+    "id": 1762877340376,
+    "title": "Star Wars: Han Solo",
+    "type": "Hardcover",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/9/92/Han_Solo_Omnibus_Final.jpg/revision/latest/scale-to-width-down/100?cb=20180121003627",
+    "release_date": "05/15/2018",
+    "publisher": "Marvel Comics",
+    "isbn": "978-1-302-91210-9",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 535354,
+        "order": 1,
+        "series_id": 91286
+      },
+      {
+        "issue_id": 538508,
+        "order": 2,
+        "series_id": 91286
+      },
+      {
+        "issue_id": 547279,
+        "order": 3,
+        "series_id": 91286
+      },
+      {
+        "issue_id": 553010,
+        "order": 4,
+        "series_id": 91286
+      },
+      {
+        "issue_id": 558968,
+        "order": 5,
+        "series_id": 91286
+      },
+      {
+        "issue_id": 497960,
+        "order": 6,
+        "series_id": 79398
+      },
+      {
+        "issue_id": 500309,
+        "order": 7,
+        "series_id": 79398
+      },
+      {
+        "issue_id": 502133,
+        "order": 8,
+        "series_id": 79398
+      },
+      {
+        "issue_id": 504949,
+        "order": 9,
+        "series_id": 79398
+      },
+      {
+        "issue_id": 506184,
+        "order": 10,
+        "series_id": 79398
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Han_Solo_(hardcover)",
+    "series_id": [
+      91286,
+      79398
+    ]
+  },
+  {
+    "id": 1762877515376,
+    "title": "Star Wars: The Force Awakens Adaptation",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/7/74/TFAAdaptation-Hardcover.jpg/revision/latest/scale-to-width-down/100?cb=20170122102334",
+    "release_date": "12/07/2016",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302495053",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 537247,
+        "order": 1,
+        "series_id": 91772
+      },
+      {
+        "issue_id": 541219,
+        "order": 2,
+        "series_id": 91772
+      },
+      {
+        "issue_id": 546066,
+        "order": 3,
+        "series_id": 91772
+      },
+      {
+        "issue_id": 549526,
+        "order": 4,
+        "series_id": 91772
+      },
+      {
+        "issue_id": 553022,
+        "order": 5,
+        "series_id": 91772
+      },
+      {
+        "issue_id": 557377,
+        "order": 6,
+        "series_id": 91772
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_The_Force_Awakens_Adaptation_(trade_paperback)",
+    "series_id": [
+      91772
+    ]
+  },
+  {
+    "id": 1762878191240,
+    "title": "Star Wars: Darth Maul",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/c/c4/Darth_maul_TPB_solitation.jpg/revision/latest/scale-to-width-down/100?cb=20180119040612",
+    "release_date": "09/05/2017",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302499716",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 579311,
+        "order": 1,
+        "series_id": 98517
+      },
+      {
+        "issue_id": 588559,
+        "order": 2,
+        "series_id": 98517
+      },
+      {
+        "issue_id": 593273,
+        "order": 3,
+        "series_id": 98517
+      },
+      {
+        "issue_id": 603141,
+        "order": 4,
+        "series_id": 98517
+      },
+      {
+        "issue_id": 609362,
+        "order": 5,
+        "series_id": 98517
+      },
+      {
+        "issue_id": null,
+        "order": 6,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Probe_Droid_Problem",
+        "title": "Probe Droid Problem"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Maul_(Marvel_TPB)",
+    "series_id": [
+      98517
+    ]
+  },
+  {
+    "id": 1762878901444,
+    "title": "Star Wars: Rogue One Adaptation",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/4/4f/Rogue_One_comic_TPB_cover.jpg/revision/latest/scale-to-width-down/100?cb=20171015180416",
+    "release_date": "11/28/2017",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302501150",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 590808,
+        "order": 1,
+        "series_id": 100597
+      },
+      {
+        "issue_id": 594127,
+        "order": 2,
+        "series_id": 100597
+      },
+      {
+        "issue_id": 599879,
+        "order": 3,
+        "series_id": 100597
+      },
+      {
+        "issue_id": 606641,
+        "order": 4,
+        "series_id": 100597
+      },
+      {
+        "issue_id": 612052,
+        "order": 5,
+        "series_id": 100597
+      },
+      {
+        "issue_id": 619641,
+        "order": 6,
+        "series_id": 100597
+      },
+      {
+        "issue_id": null,
+        "order": 7,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Rogue_One_-_Cassian_%26_K-2SO_Special_1",
+        "title": "Rogue One - Cassian & K-2SO Special 1"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Rogue_One_Adaptation_(trade_paperback)",
+    "series_id": [
+      100597
+    ]
+  },
+  {
+    "id": 1762879194840,
+    "title": "Star Wars: Jedi of the Republic – Mace Windu",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/e/e7/SWJedioftheRepublicMaceWindu-TPB.jpg/revision/latest/scale-to-width-down/100?cb=20180312122709",
+    "release_date": "02/27/2018",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302909413",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 617854,
+        "order": 1,
+        "series_id": 103834
+      },
+      {
+        "issue_id": 625327,
+        "order": 2,
+        "series_id": 103834
+      },
+      {
+        "issue_id": 632505,
+        "order": 3,
+        "series_id": 103834
+      },
+      {
+        "issue_id": 643043,
+        "order": 4,
+        "series_id": 103834
+      },
+      {
+        "issue_id": 649746,
+        "order": 5,
+        "series_id": 103834
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Jedi_of_the_Republic_%E2%80%93_Mace_Windu_(trade_paperback)",
+    "series_id": [
+      103834
+    ]
+  },
+  {
+    "id": 1762879751828,
+    "title": "Star Wars: Captain Phasma",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/3/35/CaptainPhasma-TPB.jpg/revision/latest/scale-to-width-down/100?cb=20180203053228",
+    "release_date": "11/14/2017",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302501068",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 619630,
+        "order": 1,
+        "series_id": 104062
+      },
+      {
+        "issue_id": 622943,
+        "order": 2,
+        "series_id": 104062
+      },
+      {
+        "issue_id": 626287,
+        "order": 3,
+        "series_id": 104062
+      },
+      {
+        "issue_id": 630526,
+        "order": 4,
+        "series_id": 104062
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Captain_Phasma_(trade_paperback)",
+    "series_id": [
+      104062
+    ]
+  },
+  {
+    "id": 1762879752347,
+    "title": "Star Wars: Captain Phasma",
+    "type": "Hardcover",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/0/08/CaptainPhasmaHC.jpg/revision/latest/scale-to-width-down/100?cb=20180514141434",
+    "release_date": "07/17/2018",
+    "publisher": "Marvel Comics",
+    "isbn": "9780785194545",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 619630,
+        "order": 1,
+        "series_id": 104062
+      },
+      {
+        "issue_id": 622943,
+        "order": 2,
+        "series_id": 104062
+      },
+      {
+        "issue_id": 626287,
+        "order": 3,
+        "series_id": 104062
+      },
+      {
+        "issue_id": 630526,
+        "order": 4,
+        "series_id": 104062
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Captain_Phasma_(hardcover)",
+    "series_id": [
+      104062
+    ]
+  },
+  {
+    "id": 1762880451036,
+    "title": "Star Wars: Thrawn",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/d/db/StarWarsThrawn-TPB.png/revision/latest/scale-to-width-down/100?cb=20180912153101",
+    "release_date": "09/11/2018",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302911560",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 660025,
+        "order": 1,
+        "series_id": 108758
+      },
+      {
+        "issue_id": 662754,
+        "order": 2,
+        "series_id": 108758
+      },
+      {
+        "issue_id": 665922,
+        "order": 3,
+        "series_id": 108758
+      },
+      {
+        "issue_id": 669460,
+        "order": 4,
+        "series_id": 108758
+      },
+      {
+        "issue_id": 673033,
+        "order": 5,
+        "series_id": 108758
+      },
+      {
+        "issue_id": 676710,
+        "order": 6,
+        "series_id": 108758
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Thrawn_(trade_paperback)",
+    "series_id": [
+      108758
+    ]
+  },
+  {
+    "id": 1762881098021,
+    "title": "Star Wars: The Last Jedi Adaptation",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/2/29/TheLastJediAdaptation-TPB.jpg/revision/latest/scale-to-width-down/100?cb=20181106212041",
+    "release_date": "11/06/2018",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302912017",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 669459,
+        "order": 1,
+        "series_id": 110763
+      },
+      {
+        "issue_id": 670759,
+        "order": 2,
+        "series_id": 110763
+      },
+      {
+        "issue_id": 672293,
+        "order": 3,
+        "series_id": 110763
+      },
+      {
+        "issue_id": 675991,
+        "order": 4,
+        "series_id": 110763
+      },
+      {
+        "issue_id": 678542,
+        "order": 5,
+        "series_id": 110763
+      },
+      {
+        "issue_id": 684919,
+        "order": 6,
+        "series_id": 110763
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_The_Last_Jedi_Adaptation_(trade_paperback)",
+    "series_id": [
+      110763
+    ]
+  },
+  {
+    "id": 1762882586411,
+    "title": "Star Wars: Lando - Double or Nothing",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/7/7a/Lando-DoubleorNothing-TPB.jpg/revision/latest/scale-to-width-down/100?cb=20201210021539",
+    "release_date": "11/06/2018",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302911645",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 671340,
+        "order": 1,
+        "series_id": 111154
+      },
+      {
+        "issue_id": 675155,
+        "order": 2,
+        "series_id": 111154
+      },
+      {
+        "issue_id": 677979,
+        "order": 3,
+        "series_id": 111154
+      },
+      {
+        "issue_id": 682665,
+        "order": 4,
+        "series_id": 111154
+      },
+      {
+        "issue_id": 685858,
+        "order": 5,
+        "series_id": 111154
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Lando_-_Double_or_Nothing_(trade_paperback)",
+    "series_id": [
+      111154
     ]
   }
 ]
