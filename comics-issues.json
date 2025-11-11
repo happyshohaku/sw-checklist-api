@@ -5040,6 +5040,26 @@
       {
         "name": "Joe Caramagna",
         "role": "Letterer"
+      },
+      {
+        "name": "Charles Beacham",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Jordan D. White",
+        "role": "Editor"
+      },
+      {
+        "name": "Jennifer Heddle",
+        "role": "Senior Editor"
+      },
+      {
+        "name": "Mike Marts",
+        "role": "Executive Editor"
+      },
+      {
+        "name": "C. B. Cebulski",
+        "role": "Executive Editor"
       }
     ],
     "upc": "75960608124000111",
@@ -5865,6 +5885,14 @@
       {
         "name": "C. B. Cebulski",
         "role": "Executive Editor"
+      },
+      {
+        "name": "Mike Norton",
+        "role": "Artist"
+      },
+      {
+        "name": "David Curiel",
+        "role": "Colorist"
       }
     ],
     "upc": "75960608124002011",
@@ -6189,6 +6217,14 @@
       {
         "name": "C. B. Cebulski",
         "role": "Executive Editor"
+      },
+      {
+        "name": "Max Fiumara",
+        "role": "Artist"
+      },
+      {
+        "name": "Dave Stewart",
+        "role": "Colorist"
       }
     ],
     "upc": "75960608124002511",

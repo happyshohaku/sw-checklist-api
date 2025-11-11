@@ -13,7 +13,7 @@
     "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-79398/",
     "type": "Series",
     "timeline": "0 ABY–2 ABY",
-    "last_variant_scrape": "2025-11-11T17:58:50.307Z"
+    "last_variant_scrape": "2025-11-11T19:51:59.732Z"
   },
   {
     "id": 79990,
@@ -28,7 +28,8 @@
     "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/4383684-01.jpg",
     "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-79990/",
     "type": "Series",
-    "timeline": "0 ABY"
+    "timeline": "0 ABY",
+    "last_variant_scrape": "2025-11-11T19:58:36.899Z"
   },
   {
     "id": 81088,
