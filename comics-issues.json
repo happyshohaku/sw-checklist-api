@@ -7594,6 +7594,22 @@
       {
         "name": "Jordie Bellaire",
         "role": "Colorist"
+      },
+      {
+        "name": "Heather Antos",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Jordan D. White",
+        "role": "Editor"
+      },
+      {
+        "name": "C. B. Cebulski",
+        "role": "Executive Editor"
+      },
+      {
+        "name": "Frank Parisi",
+        "role": "Senior Editor"
       }
     ],
     "upc": "75960608458600111",
@@ -9689,6 +9705,14 @@
       {
         "name": "C. B. Cebulski",
         "role": "Executive Editor"
+      },
+      {
+        "name": "Salvador Larroca",
+        "role": "Artist"
+      },
+      {
+        "name": "Edgar Delgado",
+        "role": "Colorist"
       }
     ],
     "upc": "75960608629000111",
@@ -12463,6 +12487,22 @@
       {
         "name": "Jordie Bellaire",
         "role": "Colorist"
+      },
+      {
+        "name": "Heather Antos",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Jordan D. White",
+        "role": "Editor"
+      },
+      {
+        "name": "Frank Parisi",
+        "role": "Senior Editor"
+      },
+      {
+        "name": "C. B. Cebulski",
+        "role": "Executive Editor"
       }
     ],
     "upc": "75960608666500111",
@@ -15358,6 +15398,30 @@
       {
         "name": "Giuseppe Camuncoli",
         "role": "Penciller"
+      },
+      {
+        "name": "Rachelle Rosenberg",
+        "role": "Colorist"
+      },
+      {
+        "name": "Mikey J. Basso",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Danny Khazem",
+        "role": "Associate Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
+      },
+      {
+        "name": "Guru-eFX",
+        "role": "Colorist"
       }
     ],
     "upc": "75960609600802511",
@@ -17279,6 +17343,26 @@
       {
         "name": "Rachelle Rosenberg",
         "role": "Colorist"
+      },
+      {
+        "name": "Mikey J. Basso",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Grace Orriss",
+        "role": "Associate Editor"
+      },
+      {
+        "name": "Danny Khazem",
+        "role": "Associate Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
       }
     ],
     "upc": "75960609600805011",
@@ -20728,6 +20812,34 @@
       },
       {
         "name": "Federico Blee",
+        "role": "Colorist"
+      },
+      {
+        "name": "Mikey J. Basso",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Grace Orriss",
+        "role": "Associate Editor"
+      },
+      {
+        "name": "Danny Khazem",
+        "role": "Associate Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
+      },
+      {
+        "name": "Frank William",
+        "role": "Colorist"
+      },
+      {
+        "name": "Guru-eFX",
         "role": "Colorist"
       }
     ],
