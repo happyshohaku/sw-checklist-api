@@ -7488,5 +7488,133 @@
     "series_id": [
       111154
     ]
+  },
+  {
+    "id": 1764838683888,
+    "title": "Star Wars Vol. 9: Hope Dies",
+    "type": "Trade Paperback",
+    "cover_url": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "release_date": "12/11/2018",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302910549",
+    "amazon_url": null,
+    "contents": [],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_Vol._9:_Hope_Dies",
+    "series_id": [
+      79398
+    ]
+  },
+  {
+    "id": 1764838726091,
+    "title": "Star Wars: Princess Leia (trade paperback)",
+    "type": "Trade Paperback",
+    "cover_url": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "release_date": "11/03/2015",
+    "publisher": "Marvel Comics",
+    "isbn": "9780785193173",
+    "amazon_url": null,
+    "contents": [],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Princess_Leia_(trade_paperback)",
+    "series_id": [
+      80455
+    ]
+  },
+  {
+    "id": 1764839354841,
+    "title": "Star Wars: Captain Phasma (trade paperback)",
+    "type": "Trade Paperback",
+    "cover_url": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "release_date": "11/14/2017",
+    "publisher": "Marvel Comics",
+    "isbn": "9780785194552",
+    "amazon_url": null,
+    "contents": [],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Captain_Phasma_(trade_paperback)",
+    "series_id": [
+      104062
+    ]
+  },
+  {
+    "id": 1764840294232,
+    "title": "Star Wars: Chewbacca (Marvel TPB)",
+    "type": "Trade Paperback",
+    "cover_url": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "release_date": "02/24/2016",
+    "publisher": "Marvel Comics",
+    "isbn": "9780785193203",
+    "amazon_url": null,
+    "contents": [],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Chewbacca_(Marvel_TPB)",
+    "series_id": [
+      85275
+    ]
+  },
+  {
+    "id": 1764840296324,
+    "title": "Color Your Own Star Wars: Han Solo",
+    "type": "Trade Paperback",
+    "cover_url": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "release_date": "05/01/2018",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302912093",
+    "amazon_url": null,
+    "contents": [],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Color_Your_Own_Star_Wars:_Han_Solo",
+    "series_id": [
+      91286
+    ]
+  },
+  {
+    "id": 1764840297180,
+    "title": "Star Wars: The Force Awakens Adaptation (trade paperback)",
+    "type": "Hardcover",
+    "cover_url": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "release_date": "12/07/2016",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302901783",
+    "amazon_url": null,
+    "contents": [],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_The_Force_Awakens_Adaptation_(trade_paperback)",
+    "series_id": [
+      91772
+    ]
+  },
+  {
+    "id": 1764840298184,
+    "title": "Star Wars: Darth Maul (Marvel TPB)",
+    "type": "Trade Paperback",
+    "cover_url": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "release_date": "09/05/2017",
+    "publisher": "Marvel Comics",
+    "isbn": "9780785195894",
+    "amazon_url": null,
+    "contents": [],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Darth_Maul_(Marvel_TPB)",
+    "series_id": [
+      98517
+    ]
+  },
+  {
+    "id": 1764840299524,
+    "title": "Star Wars: Rogue One Adaptation (trade paperback)",
+    "type": "Hardcover",
+    "cover_url": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "release_date": "11/28/2017",
+    "publisher": "Marvel Comics",
+    "isbn": "9780785194576",
+    "amazon_url": null,
+    "contents": [],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Rogue_One_Adaptation_(trade_paperback)",
+    "series_id": [
+      100597
+    ]
   }
 ]
