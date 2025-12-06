@@ -36011,7 +36011,7 @@
   },
   {
     "id": 1764837654089,
-    "series_id": "164202",
+    "series_id": 164202,
     "issue_number": "10",
     "issue_number_sort": 10,
     "name": "Star Wars",
@@ -36034,7 +36034,7 @@
   },
   {
     "id": 688326,
-    "series_id": "114269",
+    "series_id": 114269,
     "issue_number": "1",
     "issue_number_sort": 1,
     "name": "Part I",
@@ -36106,7 +36106,7 @@
   },
   {
     "id": 692555,
-    "series_id": "114269",
+    "series_id": 114269,
     "issue_number": "2",
     "issue_number_sort": 2,
     "name": "Part II",
@@ -36185,7 +36185,7 @@
   },
   {
     "id": 695659,
-    "series_id": "114269",
+    "series_id": 114269,
     "issue_number": "3",
     "issue_number_sort": 3,
     "name": "Part III",
@@ -36266,7 +36266,7 @@
   },
   {
     "id": 699407,
-    "series_id": "114269",
+    "series_id": 114269,
     "issue_number": "4",
     "issue_number_sort": 4,
     "name": "Part IV",
@@ -36340,7 +36340,7 @@
   },
   {
     "id": 701323,
-    "series_id": "114269",
+    "series_id": 114269,
     "issue_number": "5",
     "issue_number_sort": 5,
     "name": "Part V",
@@ -36414,7 +36414,7 @@
   },
   {
     "id": 703951,
-    "series_id": "114269",
+    "series_id": 114269,
     "issue_number": "6",
     "issue_number_sort": 6,
     "name": "Part VI",
@@ -36495,7 +36495,7 @@
   },
   {
     "id": 705482,
-    "series_id": "114269",
+    "series_id": 114269,
     "issue_number": "7",
     "issue_number_sort": 7,
     "name": "Part VII",
@@ -36564,7 +36564,7 @@
   },
   {
     "id": 691393,
-    "series_id": "115082",
+    "series_id": 115082,
     "issue_number": "1",
     "issue_number_sort": 1,
     "name": "Part I",
@@ -36629,7 +36629,7 @@
   },
   {
     "id": 694928,
-    "series_id": "115082",
+    "series_id": 115082,
     "issue_number": "2",
     "issue_number_sort": 2,
     "name": "Part II",
@@ -36693,7 +36693,7 @@
   },
   {
     "id": 696368,
-    "series_id": "115082",
+    "series_id": 115082,
     "issue_number": "3",
     "issue_number_sort": 3,
     "name": "Part III",
@@ -36756,7 +36756,7 @@
   },
   {
     "id": 700687,
-    "series_id": "115082",
+    "series_id": 115082,
     "issue_number": "4",
     "issue_number_sort": 4,
     "name": "Part IV",
@@ -36823,7 +36823,7 @@
   },
   {
     "id": 703066,
-    "series_id": "115082",
+    "series_id": 115082,
     "issue_number": "5",
     "issue_number_sort": 5,
     "name": "Part V",
@@ -36889,7 +36889,7 @@
   },
   {
     "id": 702475,
-    "series_id": "117473",
+    "series_id": 117473,
     "issue_number": "1",
     "issue_number_sort": 1,
     "name": "Part 1 of 5",
@@ -36943,7 +36943,7 @@
   },
   {
     "id": 704830,
-    "series_id": "117473",
+    "series_id": 117473,
     "issue_number": "2",
     "issue_number_sort": 2,
     "name": "Part 2 of 5: Unacceptable",
@@ -36997,7 +36997,7 @@
   },
   {
     "id": 706965,
-    "series_id": "117473",
+    "series_id": 117473,
     "issue_number": "3",
     "issue_number_sort": 3,
     "name": "Part 3 of 5: Tall, Dark and Handsome",
@@ -37055,7 +37055,7 @@
   },
   {
     "id": 710118,
-    "series_id": "117473",
+    "series_id": 117473,
     "issue_number": "4",
     "issue_number_sort": 4,
     "name": "Part 4 of 5: Hotshot",
@@ -37109,7 +37109,7 @@
   },
   {
     "id": 711331,
-    "series_id": "117473",
+    "series_id": 117473,
     "issue_number": "5",
     "issue_number_sort": 5,
     "name": "Part 5 of 5: You Can Run...",
@@ -37163,7 +37163,7 @@
   },
   {
     "id": 706420,
-    "series_id": "118396",
+    "series_id": 118396,
     "issue_number": "1",
     "issue_number_sort": 1,
     "name": "The Shadow Falls Part 1 of 5",
@@ -37235,7 +37235,7 @@
   },
   {
     "id": 709214,
-    "series_id": "118396",
+    "series_id": 118396,
     "issue_number": "2",
     "issue_number_sort": 2,
     "name": "The Shadow Falls Part 2 of 5",
@@ -37306,7 +37306,7 @@
   },
   {
     "id": 711958,
-    "series_id": "118396",
+    "series_id": 118396,
     "issue_number": "3",
     "issue_number_sort": 3,
     "name": "The Shadow Falls Part 3 of 5",
@@ -37373,7 +37373,7 @@
   },
   {
     "id": 713866,
-    "series_id": "118396",
+    "series_id": 118396,
     "issue_number": "4",
     "issue_number_sort": 4,
     "name": "The Shadow Falls Part 4 of 5",
@@ -37437,7 +37437,7 @@
   },
   {
     "id": 716973,
-    "series_id": "118396",
+    "series_id": 118396,
     "issue_number": "5",
     "issue_number_sort": 5,
     "name": "The Shadow Falls Part 5 of 5",
@@ -37503,7 +37503,7 @@
   },
   {
     "id": 706963,
-    "series_id": "118532",
+    "series_id": 118532,
     "issue_number": "1",
     "issue_number_sort": 1,
     "name": "Part 1 of 5: Baiting the Hook",
@@ -37571,7 +37571,7 @@
   },
   {
     "id": 709727,
-    "series_id": "118532",
+    "series_id": 118532,
     "issue_number": "2",
     "issue_number_sort": 2,
     "name": "Part 2 of 5: Shoot First, Questions Later",
@@ -37632,7 +37632,7 @@
   },
   {
     "id": 712550,
-    "series_id": "118532",
+    "series_id": 118532,
     "issue_number": "3",
     "issue_number_sort": 3,
     "name": "Part 3 of 5: Honor Among Thieves",
@@ -37691,7 +37691,7 @@
   },
   {
     "id": 714674,
-    "series_id": "118532",
+    "series_id": 118532,
     "issue_number": "4",
     "issue_number_sort": 4,
     "name": "Part 4 of 5: The Betrayal of Khashyun",
@@ -37748,7 +37748,7 @@
   },
   {
     "id": 717532,
-    "series_id": "118532",
+    "series_id": 118532,
     "issue_number": "5",
     "issue_number_sort": 5,
     "name": "Part 5 of 5: A Double-Edged Sword",
@@ -37807,7 +37807,7 @@
   },
   {
     "id": 721785,
-    "series_id": "121899",
+    "series_id": 121899,
     "issue_number": "1",
     "issue_number_sort": 1,
     "name": "Part I: An Old Hope",
@@ -37875,7 +37875,7 @@
   },
   {
     "id": 723115,
-    "series_id": "121899",
+    "series_id": 121899,
     "issue_number": "2",
     "issue_number_sort": 2,
     "name": "Part II: Troubled Waters",
@@ -37941,7 +37941,7 @@
   },
   {
     "id": 723860,
-    "series_id": "121899",
+    "series_id": 121899,
     "issue_number": "3",
     "issue_number_sort": 3,
     "name": "Part III: Dark Side of the Moon",
@@ -38008,7 +38008,7 @@
   },
   {
     "id": 725251,
-    "series_id": "121899",
+    "series_id": 121899,
     "issue_number": "4",
     "issue_number_sort": 4,
     "name": "Part IV: A Rising Tide",
@@ -38075,7 +38075,7 @@
   },
   {
     "id": 700149,
-    "series_id": "116987",
+    "series_id": 116987,
     "issue_number": "1",
     "issue_number_sort": 1,
     "name": "The Sacrifice",
@@ -38150,7 +38150,7 @@
   },
   {
     "id": 700686,
-    "series_id": "117082",
+    "series_id": 117082,
     "issue_number": "1",
     "issue_number_sort": 1,
     "name": "The Cost",

@@ -7630,27 +7630,27 @@
       {
         "issue_id": 691393,
         "order": 1,
-        "series_id": "115082"
+        "series_id": 115082
       },
       {
         "issue_id": 694928,
         "order": 2,
-        "series_id": "115082"
+        "series_id": 115082
       },
       {
         "issue_id": 696368,
         "order": 3,
-        "series_id": "115082"
+        "series_id": 115082
       },
       {
         "issue_id": 700687,
         "order": 4,
-        "series_id": "115082"
+        "series_id": 115082
       },
       {
         "issue_id": 703066,
         "order": 5,
-        "series_id": "115082"
+        "series_id": 115082
       },
       {
         "issue_id": null,
@@ -7662,7 +7662,7 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Han_Solo_%E2%80%94_Imperial_Cadet_(trade_paperback)",
     "series_id": [
-      "115082"
+      115082
     ]
   },
   {
@@ -7678,43 +7678,43 @@
       {
         "issue_id": 688326,
         "order": 1,
-        "series_id": "114269"
+        "series_id": 114269
       },
       {
         "issue_id": 692555,
         "order": 2,
-        "series_id": "114269"
+        "series_id": 114269
       },
       {
         "issue_id": 695659,
         "order": 3,
-        "series_id": "114269"
+        "series_id": 114269
       },
       {
         "issue_id": 699407,
         "order": 4,
-        "series_id": "114269"
+        "series_id": 114269
       },
       {
         "issue_id": 701323,
         "order": 5,
-        "series_id": "114269"
+        "series_id": 114269
       },
       {
         "issue_id": 703951,
         "order": 6,
-        "series_id": "114269"
+        "series_id": 114269
       },
       {
         "issue_id": 705482,
         "order": 7,
-        "series_id": "114269"
+        "series_id": 114269
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story_Adaptation_(trade_paperback)",
     "series_id": [
-      "114269"
+      114269
     ]
   },
   {
@@ -7730,33 +7730,33 @@
       {
         "issue_id": 702475,
         "order": 1,
-        "series_id": "117473"
+        "series_id": 117473
       },
       {
         "issue_id": 704830,
         "order": 2,
-        "series_id": "117473"
+        "series_id": 117473
       },
       {
         "issue_id": 706965,
         "order": 3,
-        "series_id": "117473"
+        "series_id": 117473
       },
       {
         "issue_id": 710118,
         "order": 4,
-        "series_id": "117473"
+        "series_id": 117473
       },
       {
         "issue_id": 711331,
         "order": 5,
-        "series_id": "117473"
+        "series_id": 117473
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Vader_-_Dark_Visions_(trade_paperback)",
     "series_id": [
-      "117473"
+      117473
     ]
   },
   {
@@ -7772,33 +7772,33 @@
       {
         "issue_id": 706420,
         "order": 1,
-        "series_id": "118396"
+        "series_id": 118396
       },
       {
         "issue_id": 709214,
         "order": 2,
-        "series_id": "118396"
+        "series_id": 118396
       },
       {
         "issue_id": 711958,
         "order": 3,
-        "series_id": "118396"
+        "series_id": 118396
       },
       {
         "issue_id": 713866,
         "order": 4,
-        "series_id": "118396"
+        "series_id": 118396
       },
       {
         "issue_id": 716973,
         "order": 5,
-        "series_id": "118396"
+        "series_id": 118396
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_TIE_Fighter_(trade_paperback)",
     "series_id": [
-      "118396"
+      118396
     ]
   },
   {
@@ -7814,33 +7814,33 @@
       {
         "issue_id": 706963,
         "order": 1,
-        "series_id": "118532"
+        "series_id": 118532
       },
       {
         "issue_id": 709727,
         "order": 2,
-        "series_id": "118532"
+        "series_id": 118532
       },
       {
         "issue_id": 712550,
         "order": 3,
-        "series_id": "118532"
+        "series_id": 118532
       },
       {
         "issue_id": 714674,
         "order": 4,
-        "series_id": "118532"
+        "series_id": 118532
       },
       {
         "issue_id": 717532,
         "order": 5,
-        "series_id": "118532"
+        "series_id": 118532
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Galaxy%27s_Edge_(trade_paperback)",
     "series_id": [
-      "118532"
+      118532
     ]
   },
   {
@@ -7856,28 +7856,28 @@
       {
         "issue_id": 721785,
         "order": 1,
-        "series_id": "121899"
+        "series_id": 121899
       },
       {
         "issue_id": 723115,
         "order": 2,
-        "series_id": "121899"
+        "series_id": 121899
       },
       {
         "issue_id": 723860,
         "order": 3,
-        "series_id": "121899"
+        "series_id": 121899
       },
       {
         "issue_id": 725251,
         "order": 4,
-        "series_id": "121899"
+        "series_id": 121899
       }
     ],
     "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Journey_to_Star_Wars:_The_Rise_of_Skywalker_%E2%80%94_Allegiance",
     "series_id": [
-      "121899"
+      121899
     ]
   },
   {
@@ -7905,7 +7905,7 @@
       {
         "issue_id": 700149,
         "order": 3,
-        "series_id": "116987"
+        "series_id": 116987
       },
       {
         "issue_id": null,
@@ -7941,7 +7941,6 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Age_of_Republic_%E2%80%94_Heroes",
     "series_id": [
-      "116987",
       1764993490077
     ]
   },
@@ -7970,7 +7969,7 @@
       {
         "issue_id": 700149,
         "order": 3,
-        "series_id": "116987"
+        "series_id": 116987
       },
       {
         "issue_id": null,
@@ -8012,7 +8011,6 @@
     "has_unmatched_issues": true,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Age_of_Republic_(hardcover)",
     "series_id": [
-      "116987",
       1764993490077
     ]
   },
