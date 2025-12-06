@@ -9965,6 +9965,47 @@
       "event": null
     }
   ],
+  "694926": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Design Variant Cover",
+      "artist": "Iain McCaig",
+      "alt": "Star Wars: Age of Republic – Darth Maul #1 Iain McCaig Concept Design Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5129262.jpg?1734779443"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Republic – Darth Maul #1 Luke Ross Variant",
+      "artist": "Luke Ross",
+      "alt": "Star Wars: Age of Republic – Darth Maul #1 Luke Ross Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5348440.jpg?1734779443"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Republic – Darth Maul #1 Mike McKone Puzzle Piece Connecting Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Republic – Darth Maul #1 Mike McKone Puzzle Piece Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9668131.jpg?1734779443",
+      "variant_type": [
+        "Connecting"
+      ]
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Republic – Darth Maul #1 1:10 Movie Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Republic – Darth Maul #1 1:10 Movie Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9601481.jpg?1734779443",
+      "ratio": "1:10",
+      "variant_type": [
+        "Movie"
+      ]
+    }
+  ],
   "694927": [
     {
       "category": "Other Covers",
@@ -10185,6 +10226,58 @@
       ]
     }
   ],
+  "700686": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Republic – Count Dooku #1 Dermot Power Concept Design Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Republic – Count Dooku #1 Dermot Power Concept Design Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1924885.jpg?1734779459"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Republic – Count Dooku #1 Mike McKone Puzzle Piece Connecting Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Republic – Count Dooku #1 Mike McKone Puzzle Piece Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1966993.jpg?1734779459",
+      "variant_type": [
+        "Connecting"
+      ]
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Republic – Count Dooku #1 1:10 Movie Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Republic – Count Dooku #1 1:10 Movie Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8741792.jpg?1734779459",
+      "ratio": "1:10",
+      "variant_type": [
+        "Movie"
+      ]
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: Age of Republic – Count Dooku #1 John Tyler Christopher Webstore Action Figure Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Republic – Count Dooku #1 John Tyler Christopher Webstore Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3337791.jpg?1734779459",
+      "variant_type": [
+        "Action Figure"
+      ]
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: Age of Republic – Count Dooku #1 John Tyler Christopher Webstore Negative Space Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Republic – Count Dooku #1 John Tyler Christopher Webstore Negative Space Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9747153.jpg?1734779459"
+    }
+  ],
   "700687": [
     {
       "category": "Other Covers",
@@ -10290,6 +10383,47 @@
       "alt": "Star Wars: Vader – Dark Visions #1 1:50 Giuseppe Camuncoli Variant",
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5152491.jpg?1734778420",
       "ratio": "1:50"
+    }
+  ],
+  "703065": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Concept Design Variant Cover",
+      "artist": "Warren Fu",
+      "alt": "Star Wars: Age of Republic – General Grievous #1 Warren Fu Concept Design Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2525489.jpg?1734779468"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Republic – General Grievous #1 Mike McKone Puzzle Piece Connecting Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Republic – General Grievous #1 Mike McKone Puzzle Piece Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1352753.jpg?1734779468",
+      "variant_type": [
+        "Connecting"
+      ]
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Republic – General Grievous #1 Pepe Larraz Greatest Moments Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Republic – General Grievous #1 Pepe Larraz Greatest Moments Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8825539.jpg?1734779468"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Republic – General Grievous #1 1:10 Movie Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Republic – General Grievous #1 1:10 Movie Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1727738.jpg?1734779468",
+      "ratio": "1:10",
+      "variant_type": [
+        "Movie"
+      ]
     }
   ],
   "703066": [

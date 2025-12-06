@@ -1,0 +1,2385 @@
+[
+  {
+    "id": 161904,
+    "name": "Aggadeen",
+    "real_name": null,
+    "aliases": null,
+    "deck": "Officer in the Galactic Empire. He was promoted to the rank of Overseer until the Rebel Alliance destroyed a weapons factory under his command. Vader would execute him for his failure.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11129/111293013/7313693-download%20%2814%29.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 475858,
+    "issue_count": 5
+  },
+  {
+    "id": 6335,
+    "name": "C-3PO",
+    "real_name": "C-3PO",
+    "aliases": [
+      "See-Threepio\r",
+      "Goldenrod"
+    ],
+    "deck": "A protocol droid built by Anakin Skywalker. He has been in multiple adventures, almost always with his friend R2-D2 by his side.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/10/101435/4368650-droids%20dark%20horse%20comics.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 17616,
+    "issue_count": 1010
+  },
+  {
+    "id": 6334,
+    "name": "Chewbacca",
+    "real_name": "Chewbacca",
+    "aliases": [
+      "Chewie"
+    ],
+    "deck": "Chewbacca is the co-pilot of the Millennium Falcon and friend of Han Solo. He is a hero of the Rebel Alliance after successfully helping in the overthrow of the Empire.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/13/132327/3706959-sw-rebelheist-3hughes-65bc5.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 17701,
+    "issue_count": 1050
+  },
+  {
+    "id": 6342,
+    "name": "Darth Vader",
+    "real_name": "Anakin Skywalker",
+    "aliases": [
+      "Anakin Skywalker\r",
+      "The Chosen One\r",
+      "The Emperor's Mailed Fist\r",
+      "Lord Vader"
+    ],
+    "deck": "Once a heroic Jedi Knight known as Anakin Skywalker, Darth Vader was seduced by the dark side and became a dark Lord of the Sith. After severe injuries at the hands of Obi-Wan Kenobi, locking him in a metal suit, Vader would go on to terrorize the galaxy. Under the apprenticeship of Darth Sidious, Vader served as a powerful enforcer for the Galactic Empire and hunted down any surviving Jedi after Order 66. However, in spite of everything he had done, there were still remnants of good in him.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/13/132327/5912199-apr171109.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 17616,
+    "issue_count": 1513
+  },
+  {
+    "id": 2608,
+    "name": "Han Solo",
+    "real_name": "Han Solo",
+    "aliases": [
+      "Han",
+      "Cadet 124-329"
+    ],
+    "deck": "The captain of the Millennium Falcon is the galaxy's most lovable rogue. To those who don't know him, he's a witty, cheating gambler who looks after nobody but himself. To his friends, there's no one better to have by your side.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/13/132327/3573633-starwars-rebelheistvariant-bcf4a.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 17701,
+    "issue_count": 1047
+  },
+  {
+    "id": 6315,
+    "name": "Luke Skywalker",
+    "real_name": "Luke Skywalker",
+    "aliases": [
+      "General Skywalker",
+      "Ace",
+      "Farmboy",
+      "Master Luke",
+      "Grand Master Luke",
+      "Uncle",
+      "Luke Lars",
+      "Wormie"
+    ],
+    "deck": "The son of Darth Vader, Luke Skywalker set out to save Princess Leia from the Empire and became a hero of the Rebel Alliance. Luke began training to become a Jedi under the tuition of both Obi-Wan Kenobi and Yoda, and after discovering his heritage and redeeming his father, he became the leader of the New Jedi Order and brought the Jedi back into the Galaxy, arguably making him the greatest and most powerful Jedi of all time. Before training Rey, his Jedi apprentices were Ben Solo, Hennix, Tai and Voe.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11/111746/7230404-815308._sx1280_ql80_ttd_.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 17616,
+    "issue_count": 1334
+  },
+  {
+    "id": 33545,
+    "name": "Princess Leia",
+    "real_name": "Leia Organa-Solo",
+    "aliases": [
+      "Leia Organa\r",
+      "Leia Skywalker\r",
+      "Princess\r",
+      "Lady Vader\r",
+      "Carrie Fisher"
+    ],
+    "deck": "Princess Leia is a leader and founding member of the Rebel Alliance in its struggle against the Galactic Empire. The daughter of Anakin Skywalker and younger twin sister of Luke Skywalker, Leia is strong in the Force and is trained as a Jedi after the Empire's defeat.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11126/111269625/6397592-star_wars_44_textless.jpg",
+    "gender": "Female",
+    "first_appearance_issue_id": 17616,
+    "issue_count": 1200
+  },
+  {
+    "id": 2594,
+    "name": "R2-D2",
+    "real_name": null,
+    "aliases": [
+      "Artoo Detoo"
+    ],
+    "deck": "An astromech droid that has various useful functions. He has been on countless journeys, usually paired with C-3PO.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/0/77/292573-140298-r2-d2.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 17616,
+    "issue_count": 1057
+  },
+  {
+    "id": 47935,
+    "name": "Dengar",
+    "real_name": null,
+    "aliases": [
+      "Playback"
+    ],
+    "deck": "A bounty hunter, Dengar was badly scarred when Han Solo caused him to wreck his swoop bike while the two were racing as teenagers.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/0/8015/215830-2271-dengar.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 20314,
+    "issue_count": 121
+  },
+  {
+    "id": 130948,
+    "name": "Grakkus the Hutt",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11111/111113340/5827541-0063604167-latest",
+    "gender": "Male",
+    "first_appearance_issue_id": 500309,
+    "issue_count": 15
+  },
+  {
+    "id": 138410,
+    "name": "Kongo the Disemboweler",
+    "real_name": null,
+    "aliases": null,
+    "deck": "Kongo the Disemboweler was a roggwart owned by Grakkus the Hutt. He was unleashed on Luke Skywalker during the Jedi's imprisonment in Grakkus's palace.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11129/111298237/5806768-kongo%20the%20disemboweler.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 502133,
+    "issue_count": 1
+  },
+  {
+    "id": 118756,
+    "name": "Sana Starros",
+    "real_name": "Sana Starros",
+    "aliases": [
+      "Sana Solo"
+    ],
+    "deck": "A bounty hunter active during the Empire Era.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11144/111442876/8810840-hjdrh.jpg",
+    "gender": "Female",
+    "first_appearance_issue_id": 486727,
+    "issue_count": 100
+  },
+  {
+    "id": 131443,
+    "name": "Sgt. Kreel",
+    "real_name": null,
+    "aliases": [
+      "Sergeant Kreel"
+    ],
+    "deck": "Sergeant Kreel, Agent 5241, is a special commando stormtrooper who worked for the Galactic Empire. He was leader of the special commando storntrooper squad, SCAR, and wielded a lightsaber in combat along with his regular weaponry.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/13/132327/5652048-sw19_kreel_squad.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 502133,
+    "issue_count": 18
+  },
+  {
+    "id": 116998,
+    "name": "Aphra",
+    "real_name": "Chelli Lona Aphra",
+    "aliases": [
+      "Dr. Aphra",
+      "Doctor Aphra",
+      "Chelli Lona Aphra"
+    ],
+    "deck": "A traveler and spatial archaeologist with great knowledge of droids.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/4466651-aphra.jpg",
+    "gender": "Female",
+    "first_appearance_issue_id": 483346,
+    "issue_count": 183
+  },
+  {
+    "id": 129512,
+    "name": "Beetee",
+    "real_name": "BT-1",
+    "aliases": [
+      "BT-1",
+      "Beetee-One"
+    ],
+    "deck": "A droid that belonged to Doctor Aphra, Beetee, also known as BT-1, is an assassination droid that was a prototype astromech before going rogue and killing everyone on board its ship. Currently, Beetee is in charge of a criminal organization alongside Triple Zero.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/5472999-bt-1.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 483346,
+    "issue_count": 88
+  },
+  {
+    "id": 129511,
+    "name": "Triple-Zero",
+    "real_name": "Triple Zero",
+    "aliases": [
+      "000\r",
+      "0-0-0"
+    ],
+    "deck": "A protocol-droid that belonged to Doctor Aphra, 0-0-0, better known as Triple Zero, is an assassin droid that specializes in torture and interrogation. He currently runs a small crime organization alongside his droid companion BT-1.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/5468573-0-0-0.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 483346,
+    "issue_count": 94
+  },
+  {
+    "id": 115020,
+    "name": "Black Krrsantan",
+    "real_name": null,
+    "aliases": null,
+    "deck": "A Wookiee Bounty Hunter, sometimes working with Boba Fett. Krrsantan was exiled from Kashyyyk and found himself in the employment of Jabba the Hutt and later worked alongside Doctor Aphra.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/0/40/4393533-black.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 479258,
+    "issue_count": 63
+  },
+  {
+    "id": 125499,
+    "name": "Karbin",
+    "real_name": "Karbin",
+    "aliases": null,
+    "deck": "Before being critically injured in the Clone Wars, Karbin was a commander. Fitted into a life-sustaining suit similar to the one used by General Grievous, Karbin became a formidable warrior who set his sights on becoming Darth Sidious' new apprentice.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/4985472-karbin.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 488647,
+    "issue_count": 9
+  },
+  {
+    "id": 6319,
+    "name": "Beru Lars",
+    "real_name": "Beru Whitesun Lars",
+    "aliases": null,
+    "deck": "Wife of Owen Lars, and step sister in-law of Anakin Skywalker. Along with Owen, she raised Luke Skywalker during his youth. Her death was part of Luke's reasoning for joining the Rebel Alliance.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/9100790-beru.jpg",
+    "gender": "Female",
+    "first_appearance_issue_id": 17616,
+    "issue_count": 48
+  },
+  {
+    "id": 6321,
+    "name": "Biggs Darklighter",
+    "real_name": null,
+    "aliases": null,
+    "deck": "A childhood friend of Luke Skywalker, he flew an X-Wing during the Battle of Yavin but died during the mission.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/0/8015/199233-158766-biggs-darklighter.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 17616,
+    "issue_count": 46
+  },
+  {
+    "id": 5441,
+    "name": "Jabba The Hutt",
+    "real_name": "Jabba Desilijic Tiure",
+    "aliases": [
+      "Jabba Desilijic Tiure"
+    ],
+    "deck": "Jabba the Hutt was one of the most notorious crime lords in the outer rim.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/9830604-jabba.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 95156,
+    "issue_count": 234
+  },
+  {
+    "id": 2206,
+    "name": "Obi-Wan Kenobi",
+    "real_name": "Obi-Wan Kenobi",
+    "aliases": [
+      "Ben Obi-Wan Kenobi\r",
+      "Ben Kenobi\r",
+      "Obi\r",
+      "Old Ben\r",
+      "Old hermit"
+    ],
+    "deck": "Obi-Wan Kenobi was a Jedi Knight who was instructed by Qui-Gon Jinn and he himself taught Anakin Skywalker. Both Kenobi and Anakin fought in the Clone Wars which led to Anakin turning to the dark side and betraying the order. Obi-Wan hid on the planet Tatooine where he watched over Anakin's son Luke, whom he began training to be a Jedi, like his father once was.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/3/39027/3659365-obi-wan_tcg_by_vanderstelt.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 17616,
+    "issue_count": 590
+  },
+  {
+    "id": 6318,
+    "name": "Owen Lars",
+    "real_name": "Owen Lars",
+    "aliases": null,
+    "deck": "The step-brother of Anakin Skywalker and the man who raised Luke. Owen's death at the hands of Imperial stormtroopers was part of Luke's reasoning for joining the Rebel Alliance.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/62795/5012547-star%20wars.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 17616,
+    "issue_count": 63
+  },
+  {
+    "id": 16180,
+    "name": "Salacious Crumb",
+    "real_name": null,
+    "aliases": null,
+    "deck": "Jabba the Hutt's court jester.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/4/48250/897871-salacious_b._crumb.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 576385,
+    "issue_count": 59
+  },
+  {
+    "id": 125785,
+    "name": "TC-70",
+    "real_name": null,
+    "aliases": null,
+    "deck": "Jabba's protocol droid",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/62795/5012777-tc%2070.jpg",
+    "gender": "Female",
+    "first_appearance_issue_id": 511521,
+    "issue_count": 3
+  },
+  {
+    "id": 124739,
+    "name": "Tharius Demo",
+    "real_name": "Eneb Ray",
+    "aliases": [
+      "Eneb Ray\r",
+      "Haarkon Dak"
+    ],
+    "deck": "A Rebel spy disguised as an Imperial officer during the Galactic Civil War.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/4945817-tharius-demo.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 507784,
+    "issue_count": 5
+  },
+  {
+    "id": 162016,
+    "name": "Cav",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7328736-cav_imv6.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 531901,
+    "issue_count": 12
+  },
+  {
+    "id": 162018,
+    "name": "Misty",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7328735-sdsd-1047.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 531901,
+    "issue_count": 13
+  },
+  {
+    "id": 96352,
+    "name": "Pagetti Rook",
+    "real_name": null,
+    "aliases": null,
+    "deck": "Rook was a Skiff Guard for Jabba the Hutt. Rook was killed by Luke Skywalker who sent him to fall in the Great Pit of Carkoon.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/5/51355/3556053-6545494530-250px.png",
+    "gender": "Male",
+    "first_appearance_issue_id": 57171,
+    "issue_count": 10
+  },
+  {
+    "id": 162015,
+    "name": "Aero",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7328739-sw21-aero.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 540085,
+    "issue_count": 10
+  },
+  {
+    "id": 162017,
+    "name": "Mic",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7328738-mic_imv6.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 540085,
+    "issue_count": 12
+  },
+  {
+    "id": 162019,
+    "name": "Shrap",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7328741-shrap.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 540085,
+    "issue_count": 10
+  },
+  {
+    "id": 162020,
+    "name": "Zuke",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7328737-sw24-zuke.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 540085,
+    "issue_count": 12
+  },
+  {
+    "id": 6345,
+    "name": "Wedge Antilles",
+    "real_name": "Wedge Antilles",
+    "aliases": [
+      "Red Two",
+      "Wedgan'tilles",
+      "Veggies"
+    ],
+    "deck": "A long-serving Rebel Alliance and New Republic X-wing pilot, Wedge Antilles is  one of the greatest heroes of the Galactic Civil War and widely considered to be the best fighter pilot in the galaxy.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/0/8015/216522-75283-wedge-antilles.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 17980,
+    "issue_count": 229
+  },
+  {
+    "id": 16168,
+    "name": "Admiral Ackbar",
+    "real_name": "Gial Ackbar",
+    "aliases": [
+      "General Ackbar"
+    ],
+    "deck": "The Supreme Commander of the Rebel Alliance Fleet.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/9600535-ackbar.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 576385,
+    "issue_count": 173
+  },
+  {
+    "id": 7596,
+    "name": "General Dodonna",
+    "real_name": "Jan Dodonna",
+    "aliases": [
+      "Jan Dodonna",
+      "Captain Dodonna",
+      "Lieutenant Dodonna"
+    ],
+    "deck": "Jan Dodonna is a General in the Galactic Republic Army.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/4/48250/912054-jan_dodonna.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 17980,
+    "issue_count": 84
+  },
+  {
+    "id": 16174,
+    "name": "Mon Mothma",
+    "real_name": null,
+    "aliases": null,
+    "deck": "Mon Mothma was the leader of the Rebel Alliance at the time of the battle of Endor.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/4/48250/914968-284px_mon_mothma_negtc.jpg",
+    "gender": "Female",
+    "first_appearance_issue_id": 17980,
+    "issue_count": 168
+  },
+  {
+    "id": 5411,
+    "name": "Qui-Gon Jinn",
+    "real_name": "Unknown",
+    "aliases": [
+      "Ghost of Qui-Gon\r",
+      "Jedi Master Qui-Gon\r",
+      "Qui-Gon"
+    ],
+    "deck": "Qui-Gon Jinn is a headstrong maverick Jedi Master who tends to trust his own instincts above the Jedi Code. He trained the legendary Jedi Knight ; Obi-Wan Kenobi, as well as being the man who discovered Anakin Skywalker. He also becomes a mentor to Grand Master Yoda for discovering the power of spiritual immortality.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11161/111615891/9653517-untitled.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 173961,
+    "issue_count": 193
+  },
+  {
+    "id": 162132,
+    "name": "S4",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7337577-s4_astromech_rebel_%25281%2529.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 571687,
+    "issue_count": 7
+  },
+  {
+    "id": 5396,
+    "name": "Yoda",
+    "real_name": "Yoda",
+    "aliases": [
+      "Master Yoda\r",
+      "Grand Master Yoda"
+    ],
+    "deck": "One of the greatest Jedi Masters of the Old Republic, he was the Grand Master of the Jedi Order during the last years of the Old Republic. He trained Luke Skywalker in the ways of the Jedi and has even faced characters like Asajj Ventress, Count Dooku and Darth Sidious and lived to tell the tale. He was the Jedi Master of former Jedi Knight Dooku, and he was also a mentor to skilled Jedi Knights such as Qui-Gon Jinn, Obi-Wan Kenobi, Anakin Skywalker and Ahsoka Tano.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/12/124259/8689453-ezgif-4-29eb1c585d.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 389324,
+    "issue_count": 468
+  },
+  {
+    "id": 136704,
+    "name": "Garro",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/5724679-garro.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 579324,
+    "issue_count": 3
+  },
+  {
+    "id": 162131,
+    "name": "Bombinax ",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7337575-bomb.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 594975,
+    "issue_count": 5
+  },
+  {
+    "id": 162135,
+    "name": "Queen of Ktath'atn",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11122/111222211/6373148-blank.png",
+    "gender": null,
+    "first_appearance_issue_id": 595703,
+    "issue_count": 6
+  },
+  {
+    "id": 162133,
+    "name": "Vespinax",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7337578-vespinax1.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 595703,
+    "issue_count": 6
+  },
+  {
+    "id": 151267,
+    "name": "Rur",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11122/111220339/6620151-3296951115-timthumb.php",
+    "gender": null,
+    "first_appearance_issue_id": 569329,
+    "issue_count": 11
+  },
+  {
+    "id": 162134,
+    "name": "Varroa",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7337579-varroa_imv6.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 594975,
+    "issue_count": 5
+  },
+  {
+    "id": 6355,
+    "name": "Lando Calrissian",
+    "real_name": "Landonis Balthazar Calrissian",
+    "aliases": [
+      "Drebble\r",
+      "Drebs\r",
+      "Tamtel Skreej"
+    ],
+    "deck": "Han Solo's old friend from his smuggling days. He eventually signed up with the Rebel Alliance and would become a General.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/0/77/112762-29880-lando-calrissian.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 389324,
+    "issue_count": 500
+  },
+  {
+    "id": 5435,
+    "name": "Bib Fortuna",
+    "real_name": null,
+    "aliases": null,
+    "deck": "Bib is the right hand man of Jabba the Hutt. He acts as a translator for Jabba because he tells Jabba what he wants to hear.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11140/111402998/7842956-bibfortuna.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 576385,
+    "issue_count": 114
+  },
+  {
+    "id": 6393,
+    "name": "Max Rebo",
+    "real_name": "Siiruulian Phantele",
+    "aliases": null,
+    "deck": "An Ortolan who was the leader of the Max Rebo Band that played in Jabba's Palace.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11144/111442876/8810825-gdgds.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 576385,
+    "issue_count": 30
+  },
+  {
+    "id": 162161,
+    "name": "Davits Draven",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/9125351-draven.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 590808,
+    "issue_count": 11
+  },
+  {
+    "id": 16164,
+    "name": "Emperor Palpatine",
+    "real_name": "Sheev Palpatine",
+    "aliases": [
+      "Palpatine\r",
+      "Dark Lord of the Sith\r",
+      "Galactic Emperor\r",
+      "Supreme Chancellor Palpatine\r",
+      "Senator of Chommell Sector\r",
+      "Darth Sidious"
+    ],
+    "deck": "Palpatine is the public face of Darth Sidious, the heart of the Sith, from the time before the Empire, and until slightly after. His Sith apprentices include: Darth Maul, Darth Tyranus and Darth Vader in addition to multiple Dark Jedi apprentices such as Mara Jade. He is a true master of the Dark Side of the Force and is considered to be the most powerful Sith Lord that ever lived.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/4/48747/895471-palpatine.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 329411,
+    "issue_count": 496
+  },
+  {
+    "id": 6390,
+    "name": "Wuher",
+    "real_name": null,
+    "aliases": [
+      "Wuhurr ",
+      "Wuhrer"
+    ],
+    "deck": "The Bartender of Chalmun's Cantina in the Mos Eisley Spaceport.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/1/15317/375065-48313-wuher.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 17701,
+    "issue_count": 31
+  },
+  {
+    "id": 161974,
+    "name": "Benthic",
+    "real_name": null,
+    "aliases": null,
+    "deck": "Member of Saw Gerrera's Extremist Rebel faction. ",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/9125398-benthic.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 590808,
+    "issue_count": 20
+  },
+  {
+    "id": 162160,
+    "name": "Chulco Gi",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7346818-chulcogi41.png",
+    "gender": null,
+    "first_appearance_issue_id": 636386,
+    "issue_count": 4
+  },
+  {
+    "id": 155488,
+    "name": "Kanchar",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/6853675-kanchar%20%282%29.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 641417,
+    "issue_count": 10
+  },
+  {
+    "id": 124913,
+    "name": "Trios",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11133/111336799/6414686-8824777332-latest",
+    "gender": "Female",
+    "first_appearance_issue_id": 508426,
+    "issue_count": 23
+  },
+  {
+    "id": 162159,
+    "name": "Ubin Des",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7346801-ubin_des.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 636386,
+    "issue_count": 6
+  },
+  {
+    "id": 6354,
+    "name": "Boba Fett",
+    "real_name": "Boba Fett",
+    "aliases": [
+      "Boba Fett\r",
+      "Teff\r",
+      "Sava Brek Madak\r",
+      "Jaster Mereel\r",
+      "Mandalore\r",
+      "Mand'alor"
+    ],
+    "deck": "One of the greatest and most feared bounty hunters in the galaxy, Boba Fett was the first clone of Jango Fett who acted as his father. After Jango was killed by Mace Windu, Boba Fett harbored a hatred for Jedi and swore that he would get revenge",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/3/38826/1066454-0bobafett.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 389324,
+    "issue_count": 360
+  },
+  {
+    "id": 6320,
+    "name": "Senator Bail Organa",
+    "real_name": "Bail Prestor Organa",
+    "aliases": [
+      "Bail Prestor Organa",
+      "His Serene Highness",
+      "First Chairman",
+      "Viceroy of Alderaan"
+    ],
+    "deck": "Bail Organa was a senator from the planet Alderaan, after the death of Padme Amidala, and Anakin's fall to the darkside, Bail raised Leia as his daughter.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/9125346-bail.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 19589,
+    "issue_count": 52
+  },
+  {
+    "id": 162188,
+    "name": "Urtya",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7346810-sw_44_mon_cal_1_urtya.png",
+    "gender": null,
+    "first_appearance_issue_id": 662098,
+    "issue_count": 4
+  },
+  {
+    "id": 162192,
+    "name": "Baccam Grafis",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7346829-baccam_grafis.png",
+    "gender": null,
+    "first_appearance_issue_id": 663585,
+    "issue_count": 1
+  },
+  {
+    "id": 162190,
+    "name": "Bandwin Cor",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7346651-bandwin_cor.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 663585,
+    "issue_count": 2
+  },
+  {
+    "id": 64278,
+    "name": "Bob Hudsol",
+    "real_name": null,
+    "aliases": null,
+    "deck": " ",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/4/48250/900090-bob_hudsol.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 18060,
+    "issue_count": 5
+  },
+  {
+    "id": 162191,
+    "name": "Haxen Delto",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7346827-haxen_delto.png",
+    "gender": null,
+    "first_appearance_issue_id": 663585,
+    "issue_count": 1
+  },
+  {
+    "id": 115986,
+    "name": "Hera Syndulla",
+    "real_name": "Hera Syndulla",
+    "aliases": null,
+    "deck": "Pilot of the Ghost and member of the Rebel Alliance. She is also the daughter to freedom fighter Cham Syndulla.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/0/5344/4487771-hera%2001.jpg",
+    "gender": "Female",
+    "first_appearance_issue_id": 484899,
+    "issue_count": 57
+  },
+  {
+    "id": 53747,
+    "name": "Hobbie Klivian",
+    "real_name": "Derek Klivian",
+    "aliases": [
+      "Derek Klivian"
+    ],
+    "deck": "Once a cadet at the Imperial Academy, Derek \"Hobbie\" Klivian defected to the Rebel Alliance and became a long-serving member of Rogue Squadron.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/4/48250/898296-hobbie_klivian.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 20314,
+    "issue_count": 54
+  },
+  {
+    "id": 162193,
+    "name": "Lajaie",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11122/111222211/6373148-blank.png",
+    "gender": null,
+    "first_appearance_issue_id": 663585,
+    "issue_count": 3
+  },
+  {
+    "id": 162194,
+    "name": "Pitt Onoran",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7346831-pitt_onoran.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 663585,
+    "issue_count": 1
+  },
+  {
+    "id": 162189,
+    "name": "Tunga Arpagion",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7346805-tunga_arpagion_imv6.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 663585,
+    "issue_count": 11
+  },
+  {
+    "id": 64722,
+    "name": "Vanden Willard",
+    "real_name": null,
+    "aliases": null,
+    "deck": " ",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/4/48250/910257-vanden_willard.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 17980,
+    "issue_count": 11
+  },
+  {
+    "id": 115988,
+    "name": "Zeb Orrelios",
+    "real_name": "Garazeb Orrelios",
+    "aliases": [
+      "Garazeb Orrelios"
+    ],
+    "deck": "A Rebel and member of the Ghost Crew. Garazeb, or \"Zeb\" as he is commonly called, is one of the surviving members of the Lasat race.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/9079754-zeborrelios.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 484899,
+    "issue_count": 27
+  },
+  {
+    "id": 70326,
+    "name": "Zev Senesca",
+    "real_name": null,
+    "aliases": null,
+    "deck": " Pilot who located Luke and Han on Hoth",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/5/51078/1175015-zev_senesca.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 20679,
+    "issue_count": 6
+  },
+  {
+    "id": 162197,
+    "name": "Tan Hubi",
+    "real_name": null,
+    "aliases": null,
+    "deck": "The Moff of the Mon Calamari sector",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/12/127189/7729397-tanhubi.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 664923,
+    "issue_count": 3
+  },
+  {
+    "id": 148699,
+    "name": "Lee-Char",
+    "real_name": "Lee-Char",
+    "aliases": null,
+    "deck": "The king of Mon Cala during the Clone Wars.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/6477267-lee-char-swe.png",
+    "gender": "Male",
+    "first_appearance_issue_id": 662741,
+    "issue_count": 7
+  },
+  {
+    "id": 51611,
+    "name": "Admiral Ozzel",
+    "real_name": "Kendal Ozzel",
+    "aliases": [
+      "Kendal Ozzel"
+    ],
+    "deck": "Former commander of the Super Star Destroyer Executor, Admiral Ozzel was \"disciplined\" for failing to capture escaping rebels after the battle of Hoth.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/1/15317/318173-15650-admiral-ozzel.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 20748,
+    "issue_count": 28
+  },
+  {
+    "id": 172247,
+    "name": "Meorti",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/8248740-meorti.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 685856,
+    "issue_count": 11
+  },
+  {
+    "id": 153473,
+    "name": "Thane Markona",
+    "real_name": "Thane Markona",
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/6696184-thane%20markona.jpeg",
+    "gender": "Male",
+    "first_appearance_issue_id": 692560,
+    "issue_count": 5
+  },
+  {
+    "id": 172267,
+    "name": "Carpo",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/8248739-carpo.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 713517,
+    "issue_count": 3
+  },
+  {
+    "id": 161869,
+    "name": "Dar Champion",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7309191-dar%20champion.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 714244,
+    "issue_count": 8
+  },
+  {
+    "id": 161868,
+    "name": "Warba Calip",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7309190-warba.jpg",
+    "gender": "Female",
+    "first_appearance_issue_id": 714244,
+    "issue_count": 13
+  },
+  {
+    "id": 105170,
+    "name": "Jocasta Nu",
+    "real_name": "Jocasta Nu",
+    "aliases": null,
+    "deck": "The Jedi Librarian",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7310828-jocasta.jpg",
+    "gender": "Female",
+    "first_appearance_issue_id": 125981,
+    "issue_count": 24
+  },
+  {
+    "id": 46940,
+    "name": "Shaak Ti",
+    "real_name": "Shaak Ti",
+    "aliases": null,
+    "deck": "Shaak Ti is a Togruta Jedi Master who proved herself integral to the Republic efforts in the Clone Wars. Described by Mace Windu as \"beautiful as a flower, yet as deadly as a viper,\" Ti demonstrated wisdom and clarity in battle alongside deadly skill with a lightsaber. She was one of the few Jedi to survive Order 66 but was later hunted down and killed by Darth Vader's secret apprentice, Galen Marek.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/9353851-shaakti.jpg",
+    "gender": "Female",
+    "first_appearance_issue_id": 126320,
+    "issue_count": 35
+  },
+  {
+    "id": 47929,
+    "name": "4-LOM",
+    "real_name": "4-LOM",
+    "aliases": [
+      "Forelloem",
+      "Four-Lom"
+    ],
+    "deck": "4-LOM was a protocol droid who became a bounty hunter.he was originally a valet for a cruise lining ship. however he thought sentient beings were carefree and stole from the before eventullay selling them and becoming a bounty hunter",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/0/77/7564661-img_8849.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 20314,
+    "issue_count": 89
+  },
+  {
+    "id": 47931,
+    "name": "Bossk",
+    "real_name": null,
+    "aliases": null,
+    "deck": "A Trandoshan bounty hunter who is skilled with his weaponry.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/0/9606/223415-45787-bossk.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 158336,
+    "issue_count": 141
+  },
+  {
+    "id": 114646,
+    "name": "Cassio Tagge",
+    "real_name": "Cassio Tagge",
+    "aliases": null,
+    "deck": "Head of Imperial Operations on the Death Star.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/0/40/4385819-cassio.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 17616,
+    "issue_count": 16
+  },
+  {
+    "id": 118720,
+    "name": "Cylo",
+    "real_name": null,
+    "aliases": null,
+    "deck": "Cylo was a human doctor who served the Galactic Empire. Unbound by any sense of ethics, Cylo specialized in cybernetic enhancement and was responsible for creating some of the Empire's most menacing defenders. Cylo saved his greatest invention for himself, securing near-immortality by uploading a replicated version of his mind to a supercomputer.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/5697059-cylo-v.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 479258,
+    "issue_count": 14
+  },
+  {
+    "id": 47938,
+    "name": "IG 88",
+    "real_name": "IG-88",
+    "aliases": [
+      "Phlutdroid\r",
+      "IG-88A\r",
+      "IG-88B\r",
+      "IG-88C\r",
+      "IG-88D\r",
+      "IG-88"
+    ],
+    "deck": "An assassin droid who operated out of a droid factory on Mechis III, IG-88 took the facade a bounty hunter, but wished to usher in the era of droid domination and to exterminate all biological life.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/7678117-01-re.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 158336,
+    "issue_count": 102
+  },
+  {
+    "id": 16187,
+    "name": "Ree-Yees",
+    "real_name": null,
+    "aliases": null,
+    "deck": "Gran thug under the employ of Jabba The Hutt. Prone to drunken black-outs and psychotic behavior",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/9100951-ree-yees.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 147140,
+    "issue_count": 25
+  },
+  {
+    "id": 6395,
+    "name": "Sy Snootles",
+    "real_name": null,
+    "aliases": null,
+    "deck": "Sy Snootles is the lead singer in the Max Rebo Band. ",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11144/111442876/8810823-gfngfhbd.jpg",
+    "gender": "Female",
+    "first_appearance_issue_id": 576385,
+    "issue_count": 23
+  },
+  {
+    "id": 51367,
+    "name": "Tessek",
+    "real_name": null,
+    "aliases": [
+      "Squid-Head"
+    ],
+    "deck": "Quarren exiled from the planet Mon Calamari, serves as Jabba the Hutt's accountant.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/9830598-tessek.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 329497,
+    "issue_count": 22
+  },
+  {
+    "id": 122253,
+    "name": "Thanoth",
+    "real_name": null,
+    "aliases": null,
+    "deck": "Thanoth was a highly skilled inspector under the employment of the Galactic Empire. He was tasked with tracking down a large sum of stolen credits, under the supervision of Darth Vader.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/5694454-thanoth-darth_vader_20.png",
+    "gender": "Male",
+    "first_appearance_issue_id": 496878,
+    "issue_count": 10
+  },
+  {
+    "id": 140354,
+    "name": "Aiolin Astarte",
+    "real_name": "Aiolin Astarte",
+    "aliases": null,
+    "deck": "Morit 's twin sister. A minor force sensitive and one of Cylo's experiments.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11131/111312232/5915638-ailoin_astarte_profile.png",
+    "gender": "Female",
+    "first_appearance_issue_id": 488647,
+    "issue_count": 10
+  },
+  {
+    "id": 131441,
+    "name": "Morit",
+    "real_name": "Morit Astarte",
+    "aliases": null,
+    "deck": "Aiolin 's twin brother. A minor force sensitive and one of Cylo's experiments.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11131/111312232/5699440-morit_astarte_profile.png",
+    "gender": "Male",
+    "first_appearance_issue_id": 488647,
+    "issue_count": 13
+  },
+  {
+    "id": 136295,
+    "name": "Tulon Voidgazer",
+    "real_name": null,
+    "aliases": null,
+    "deck": "Tulon Voidgazer was one of Doctor Cylo's protégés. She was a highly intelligent human scientist who fought using a host of psychically controlled drone-droids.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11129/111298237/5697314-tulon_voidgazer.png",
+    "gender": "Female",
+    "first_appearance_issue_id": 488647,
+    "issue_count": 8
+  },
+  {
+    "id": 140396,
+    "name": "Beebox",
+    "real_name": null,
+    "aliases": null,
+    "deck": "A bounty hunter and associate of Bossk, IG-90, and CT-21. Beebox was executed by Darth Vader personally.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11129/111293013/7302472-download%20%286%29.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 493789,
+    "issue_count": 4
+  },
+  {
+    "id": 140394,
+    "name": "C-21 Highsinger",
+    "real_name": "C-21 Highsinger",
+    "aliases": null,
+    "deck": "A droid bounty hunter during the Clone Wars and beyond, CT-21 had highly upgraded servomotors for combat functions.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11131/111312232/5921804-c-21-highsinger-swct.png",
+    "gender": "Male",
+    "first_appearance_issue_id": 433621,
+    "issue_count": 2
+  },
+  {
+    "id": 123249,
+    "name": "Chanath Cha",
+    "real_name": "Chanath Cha",
+    "aliases": null,
+    "deck": "A talented bounty hunter and former ally of Lando Calrissian.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11144/111442876/8814181-dgehr.jpg",
+    "gender": "Female",
+    "first_appearance_issue_id": 498389,
+    "issue_count": 18
+  },
+  {
+    "id": 140395,
+    "name": "IG-90",
+    "real_name": null,
+    "aliases": null,
+    "deck": "An assassin droid and bounty hunter, IG-90 was a partner of Bossk during the Shu-Torun War.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11131/111312232/5921810-ig-90.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 493789,
+    "issue_count": 3
+  },
+  {
+    "id": 51356,
+    "name": "Zuckuss",
+    "real_name": null,
+    "aliases": [
+      "The Uncanny One"
+    ],
+    "deck": "Zuckuss is a Gand bounty hunter and the partner of 4-LOM. He is attuned to the Force and uses visions called intuitions he sees in meditation to hunt down fugitives.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11144/111442876/8825799-ccrr.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 20314,
+    "issue_count": 88
+  },
+  {
+    "id": 130283,
+    "name": "Thlu-ry",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11122/111222211/6373148-blank.png",
+    "gender": "Male",
+    "first_appearance_issue_id": 534284,
+    "issue_count": 1
+  },
+  {
+    "id": 6343,
+    "name": "Padmé Amidala",
+    "real_name": "Padmé Naberrie-Skywalker",
+    "aliases": [
+      "Queen Amidala\r",
+      "Senator Amidala\r",
+      "Padme Skywalker \r",
+      "Padme Naberrie\r",
+      "Padme Amidala\r",
+      "Padmé Naberrie-Skywalker\r",
+      "Padme Naberrie-Skywalker"
+    ],
+    "deck": "Former queen of Naboo, one of the most important and most respected Republic senators, wife of Anakin Skywalker and mother of Princess Leia and Luke Skywalker.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/9561104-padme.jpg",
+    "gender": "Female",
+    "first_appearance_issue_id": 173961,
+    "issue_count": 188
+  },
+  {
+    "id": 161981,
+    "name": "Utani Xane",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11122/111222211/6373148-blank.png",
+    "gender": null,
+    "first_appearance_issue_id": 483346,
+    "issue_count": 2
+  },
+  {
+    "id": 162062,
+    "name": "Sutha",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7337585-sutha_imv6.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 493789,
+    "issue_count": 7
+  },
+  {
+    "id": 115987,
+    "name": "Chopper",
+    "real_name": "C1-10P",
+    "aliases": [
+      "C1-10P"
+    ],
+    "deck": "An astromec droid with a cranky attitude. A member of the Ghost Crew",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/9600488-chopper.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 484899,
+    "issue_count": 39
+  },
+  {
+    "id": 5426,
+    "name": "Depa Billaba",
+    "real_name": "Depa Billaba",
+    "aliases": null,
+    "deck": "Depa Billaba is a Chalactan Jedi Master. She trained under Mace Windu.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/0/5344/4487779-depa%20ballaba%2001.jpg",
+    "gender": "Female",
+    "first_appearance_issue_id": 127291,
+    "issue_count": 51
+  },
+  {
+    "id": 115982,
+    "name": "Ezra Bridger",
+    "real_name": "Ezra Bridger",
+    "aliases": null,
+    "deck": "A young Rebel from the planet Lothal, who possesses the power of the Force. His parents murdered by the Imperials. He is the Padawan apprentice of Jedi Kanan Jarrus.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/9600511-ezra2.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 484899,
+    "issue_count": 34
+  },
+  {
+    "id": 117320,
+    "name": "Gamut Key",
+    "real_name": "Gamut Key",
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/0/5344/4487773-gamut%20key%2001.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 484899,
+    "issue_count": 9
+  },
+  {
+    "id": 127233,
+    "name": "Grey",
+    "real_name": "CC-10/994",
+    "aliases": [
+      "CC-10/994"
+    ],
+    "deck": "Clone trooper commander.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/62795/5107310-cc-10994%20%281%29.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 487838,
+    "issue_count": 14
+  },
+  {
+    "id": 127238,
+    "name": "Janus Kasmir",
+    "real_name": null,
+    "aliases": null,
+    "deck": "Caleb Dume's ex partner",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/62795/5107318-janus.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 484899,
+    "issue_count": 10
+  },
+  {
+    "id": 115989,
+    "name": "Kanan Jarrus",
+    "real_name": "Caleb Dume",
+    "aliases": [
+      "Caleb Dume"
+    ],
+    "deck": "A young Padawan apprentice of Depa Billaba during the fall of the Old Republic. He became a Jedi rebel afterwards. Leads a Rebel group alongside with Hera Syndulla, he is also the master of Ezra Bridger.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/9078319-kanan2.png",
+    "gender": "Male",
+    "first_appearance_issue_id": 487838,
+    "issue_count": 39
+  },
+  {
+    "id": 117319,
+    "name": "Kleeve",
+    "real_name": "Kleeve",
+    "aliases": null,
+    "deck": "A general in the Separatist forces.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/0/5344/4487770-kleeve%2001.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 484899,
+    "issue_count": 11
+  },
+  {
+    "id": 115985,
+    "name": "Sabine Wren",
+    "real_name": "Sabine Wren",
+    "aliases": null,
+    "deck": "A Mandalorian who left the Imperial Academy to join the Ghost Crew along the Rebel Alliance.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/9411591-sabine.jpg",
+    "gender": "Female",
+    "first_appearance_issue_id": 484899,
+    "issue_count": 35
+  },
+  {
+    "id": 127237,
+    "name": "Styles",
+    "real_name": null,
+    "aliases": null,
+    "deck": "Aerved in the Galactic Republic's Grand Army under Jedi General Depa Billaba.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/62795/5107321-styles.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 484899,
+    "issue_count": 13
+  },
+  {
+    "id": 127241,
+    "name": "Big-Mouth",
+    "real_name": null,
+    "aliases": null,
+    "deck": "He served as a clone trooper in the Grand Army of the Republic under the leadership of Captain Styles and Commander Grey.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/62795/5107320-big-mouth.png",
+    "gender": "Male",
+    "first_appearance_issue_id": 487838,
+    "issue_count": 6
+  },
+  {
+    "id": 140420,
+    "name": "Fenn Rau",
+    "real_name": "Fenn Rau",
+    "aliases": null,
+    "deck": "A Mandalorian warrior and protector of Concord Dawn. Fenn Rau lead a rebel cell of Mandalorians against Gar Saxon.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11129/111293013/7075970-download.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 512428,
+    "issue_count": 2
+  },
+  {
+    "id": 44582,
+    "name": "General Grievous",
+    "real_name": "Qymaen jai Sheelal",
+    "aliases": [
+      "Qymaen jai Sheelal \r",
+      "Knight Slayer"
+    ],
+    "deck": "Born as a Kaleesh warlord, Grievous was the cyborg Supreme Commander of the Confederacy of Independent Systems. The Kaleesh warlord was severely injured during a crash and most of his body was replaced with machinery. Having mastered the all lightsaber combat forms after training with Sith Lord Count Dooku, General Grievous soon became a deadly threat even to the Jedi, garnering a reputation as one of the most feared beings in galactic history without even being able to use the Force like any Jedi or Sith ",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/3/31666/895464-grievous.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 198552,
+    "issue_count": 75
+  },
+  {
+    "id": 125946,
+    "name": "General Sear",
+    "real_name": "Coburn Sear",
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/62795/5107326-coburn.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 508430,
+    "issue_count": 3
+  },
+  {
+    "id": 127236,
+    "name": "Stance",
+    "real_name": "CT-1157",
+    "aliases": null,
+    "deck": "served in the Galactic Republic's Grand Army under Jedi General Depa Billaba",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/62795/5107322-stance.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 508430,
+    "issue_count": 3
+  },
+  {
+    "id": 135860,
+    "name": "Grand Inquisitor",
+    "real_name": null,
+    "aliases": null,
+    "deck": "The Grand Inquisitor served the Galactic Empire as the chief jedi hunter under Darth Vader. As his title implies he was the head of the Empire's inquisitors.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/9100771-grandinquisitor.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 554585,
+    "issue_count": 27
+  },
+  {
+    "id": 127232,
+    "name": "Rae Sloane",
+    "real_name": null,
+    "aliases": null,
+    "deck": "captain of the Imperial Star Destroyer Ultimatum",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/62795/5107308-rae.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 530744,
+    "issue_count": 9
+  },
+  {
+    "id": 5389,
+    "name": "Aayla Secura",
+    "real_name": "Aaylas'ecura",
+    "aliases": [
+      "Aaylas'ecura",
+      "Jayzaa",
+      "Tuulaa Doneeta",
+      "Twi'lek Jedi Knight"
+    ],
+    "deck": "Aayla Secura was a Twi'lek Jedi Knight in the last days of the Galactic Republic. As a Jedi, she was also a General in the Clone Wars. She was trained by both Quinlan Vos and Tholme and was very close to her fellow Jedi Kit Fisto.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/0/1513/87120-142563-aayla-secura.jpg",
+    "gender": "Female",
+    "first_appearance_issue_id": 98760,
+    "issue_count": 81
+  },
+  {
+    "id": 5422,
+    "name": "Ki-Adi-Mundi",
+    "real_name": null,
+    "aliases": null,
+    "deck": "Originally from the planet Cerea, Ki-Adi-Mundi was trained by Yoda and Master Micah Giiett before taking his place on the Jedi High Council.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/9623030-kiadimundi.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 98742,
+    "issue_count": 108
+  },
+  {
+    "id": 5403,
+    "name": "Plo Koon",
+    "real_name": "Plo Koon",
+    "aliases": [
+      "Master Plo"
+    ],
+    "deck": "Plo Koon is a Kel Dor Jedi Master who sits on the Jedi Council.  He is an accomplished warrior, diplomat and strategist. His master, was a wookiee Jedi named Tyvokka.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/0/77/112770-109885-plo-koon.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 127291,
+    "issue_count": 117
+  },
+  {
+    "id": 53505,
+    "name": "2-1B",
+    "real_name": "2-1B Surgical Droid",
+    "aliases": [
+      "Surgical Droid"
+    ],
+    "deck": "A medical droid make. One of whom treated Luke's injuries after the Wampa attack on Hoth and later gave Luke his cybernetic hand. A 2-1B droid also helped operate on Vader after his duel with Obi-Wan Kenobi.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/4/48250/914419-2_1b.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 20679,
+    "issue_count": 79
+  },
+  {
+    "id": 6330,
+    "name": "Kit Fisto",
+    "real_name": "Kit Fisto",
+    "aliases": [
+      "Nemonus"
+    ],
+    "deck": "Kit Fisto was a renowned Nautolan Jedi Master in the waning years of the Galactic Republic. He is best known for his friendly smile.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/3/33796/1102292-kitfisto_swrep.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 126320,
+    "issue_count": 65
+  },
+  {
+    "id": 46941,
+    "name": "Luminara Unduli",
+    "real_name": null,
+    "aliases": null,
+    "deck": "A Jedi Master during the Clone Wars.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/1/11091/656832-luminara_cn_1_.jpg",
+    "gender": "Female",
+    "first_appearance_issue_id": 125383,
+    "issue_count": 25
+  },
+  {
+    "id": 5395,
+    "name": "Mace Windu",
+    "real_name": "Mace Windu",
+    "aliases": null,
+    "deck": "Jedi Master Mace Windu was a well-known Jedi Knight of the Republic; he was a member of the Jedi High Council and he was the Master of the Order. He was the second most powerful Jedi and duelist on the Council during the Clone Wars, second only to Yoda. He uses Vaapad (Form VII) lightsaber combat form, which means he uses both the Light Side and Dark Side of the Force, while still remaining on the Light Side.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11144/111442876/9264050-dtrcy.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 127291,
+    "issue_count": 238
+  },
+  {
+    "id": 123861,
+    "name": "Sammo Quid",
+    "real_name": "Sammo Quid",
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11122/111222211/6373148-blank.png",
+    "gender": "Male",
+    "first_appearance_issue_id": 504342,
+    "issue_count": 2
+  },
+  {
+    "id": 123860,
+    "name": "Tai Uzuma",
+    "real_name": "Tai Uzuma",
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11122/111222211/6373148-blank.png",
+    "gender": "Male",
+    "first_appearance_issue_id": 504342,
+    "issue_count": 2
+  },
+  {
+    "id": 70286,
+    "name": "Cin Drallig",
+    "real_name": null,
+    "aliases": null,
+    "deck": "Cin Drallig served as both Battlemaster and head of security for the Jedi Temple.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/62795/5107331-cin-drallig_detail.png",
+    "gender": "Male",
+    "first_appearance_issue_id": 125960,
+    "issue_count": 4
+  },
+  {
+    "id": 127244,
+    "name": "Rackham Sear",
+    "real_name": null,
+    "aliases": null,
+    "deck": "Captain in the Confederacy of Independent Systems.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/62795/5107325-rackhamsear.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 506171,
+    "issue_count": 2
+  },
+  {
+    "id": 175866,
+    "name": "B-U4D",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/13/135098/8412695-b-u4d.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 523263,
+    "issue_count": 4
+  },
+  {
+    "id": 122159,
+    "name": "BB-8",
+    "real_name": "BB-8",
+    "aliases": null,
+    "deck": "An astromech droid operating thirty years after the Battle of Endor.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/9095310-bb-8.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 480659,
+    "issue_count": 100
+  },
+  {
+    "id": 127896,
+    "name": "Jess Pava",
+    "real_name": "Jessika Pava",
+    "aliases": [
+      "Jessika Pava"
+    ],
+    "deck": "Jess Pava is an X-wing pilot for the Resistance and a part of Black Squadron tasked to track down and locate Lor San Tekka.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/62795/5140433-jess%20pava.jpg",
+    "gender": "Female",
+    "first_appearance_issue_id": 523263,
+    "issue_count": 31
+  },
+  {
+    "id": 127894,
+    "name": "Karé Kun",
+    "real_name": "Karé Kun",
+    "aliases": null,
+    "deck": "Kare Kun is an X-wing pilot for the Resistance and a Black Squadron member.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/62795/5140427-kar%C3%A9.jpg",
+    "gender": "Female",
+    "first_appearance_issue_id": 523263,
+    "issue_count": 31
+  },
+  {
+    "id": 127895,
+    "name": "L'ulo L'ampar",
+    "real_name": "L'ulo L'ampar",
+    "aliases": null,
+    "deck": "A male Duros who served in the Rebel Alliance as an A-Wing pilot in Green Squadron, L'ulo became Green Leader during the battle of Endor when Arvel Crynyd rammed the Executor's bridge. He later became a member of Black Squadron while working with the Resistance.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/62795/5140430-l%27ulo.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 499744,
+    "issue_count": 23
+  },
+  {
+    "id": 127897,
+    "name": "Oddy Muva",
+    "real_name": "Oddy Muva",
+    "aliases": null,
+    "deck": "Black Squadron member.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/62795/5140441-oddy.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 523263,
+    "issue_count": 11
+  },
+  {
+    "id": 124947,
+    "name": "Poe Dameron",
+    "real_name": "Poe Dameron",
+    "aliases": [
+      "Black Leader"
+    ],
+    "deck": "The Resistance's best pilot, and former leader of its starfighter corps.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11/111746/6009930-529920._sx1280_ql80_ttd_.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 508981,
+    "issue_count": 116
+  },
+  {
+    "id": 188236,
+    "name": "R2-KT",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/13/135098/9256623-r2-kt.jpg",
+    "gender": "Female",
+    "first_appearance_issue_id": 523263,
+    "issue_count": 2
+  },
+  {
+    "id": 127893,
+    "name": "Snap Wexley",
+    "real_name": "Temmin Wexley",
+    "aliases": [
+      "Temmin Wexley"
+    ],
+    "deck": "Temmin, nicknamed \"Snap\", is an X-wing pilot for the Resistance and a member of Poe Dameron's Black Squadron.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/9597906-snapwexley.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 523263,
+    "issue_count": 39
+  },
+  {
+    "id": 129243,
+    "name": "Agent Terex",
+    "real_name": null,
+    "aliases": [
+      "Captain Terrex"
+    ],
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/5188406-terex.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 528515,
+    "issue_count": 22
+  },
+  {
+    "id": 161856,
+    "name": "Bett",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7308710-bett.jpg",
+    "gender": "Female",
+    "first_appearance_issue_id": 566720,
+    "issue_count": 2
+  },
+  {
+    "id": 161860,
+    "name": "Brrang",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7308707-brr.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 566720,
+    "issue_count": 5
+  },
+  {
+    "id": 161861,
+    "name": "Corlac",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/7308840-corlac-poe_dameron_8.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 557372,
+    "issue_count": 3
+  },
+  {
+    "id": 161865,
+    "name": "N1-ZX ",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7308693-n1.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 575878,
+    "issue_count": 4
+  },
+  {
+    "id": 161857,
+    "name": "Wenda",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7308709-wenda.jpg",
+    "gender": "Female",
+    "first_appearance_issue_id": 566720,
+    "issue_count": 2
+  },
+  {
+    "id": 161858,
+    "name": "Wisper",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/7308841-wisper.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 566720,
+    "issue_count": 2
+  },
+  {
+    "id": 161859,
+    "name": "Zumgi",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7308708-zumgi.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 566720,
+    "issue_count": 4
+  },
+  {
+    "id": 125276,
+    "name": "Captain Phasma",
+    "real_name": null,
+    "aliases": null,
+    "deck": "Captain Phasma is a loyal officer of the First Order, as well as Finn's first commander.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/9123801-phasma2.jpg",
+    "gender": "Female",
+    "first_appearance_issue_id": 526023,
+    "issue_count": 30
+  },
+  {
+    "id": 161855,
+    "name": "Ilka",
+    "real_name": "Sowa Chuan",
+    "aliases": [
+      "Sowa Chuan"
+    ],
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7308713-ilka.jpg",
+    "gender": "Female",
+    "first_appearance_issue_id": 528515,
+    "issue_count": 8
+  },
+  {
+    "id": 140458,
+    "name": "Malarus",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/5925846-malarus.jpg",
+    "gender": "Female",
+    "first_appearance_issue_id": 592605,
+    "issue_count": 9
+  },
+  {
+    "id": 138496,
+    "name": "Mister Bones",
+    "real_name": null,
+    "aliases": [
+      "Mr. Bones\r",
+      "Nunzix"
+    ],
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/5810389-mister%20bones.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 592605,
+    "issue_count": 1
+  },
+  {
+    "id": 16165,
+    "name": "Nien Nunb",
+    "real_name": "Nien Numb",
+    "aliases": null,
+    "deck": "Sullustian who co-piloted the Millenium Falcon during the battle of Endor",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/0/6362/163818-164049-nien-nunb.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 576385,
+    "issue_count": 60
+  },
+  {
+    "id": 139335,
+    "name": "Admiral Statura",
+    "real_name": "Ushos O. Statura ",
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/5854919-statura.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 553022,
+    "issue_count": 4
+  },
+  {
+    "id": 139334,
+    "name": "Captain Perrili",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/5854916-perrili.jpg",
+    "gender": "Female",
+    "first_appearance_issue_id": 595704,
+    "issue_count": 1
+  },
+  {
+    "id": 133919,
+    "name": "Suralinda Javos",
+    "real_name": "Suralinda Javos",
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/5502433-suralinda_javos-poedameron7.png",
+    "gender": "Female",
+    "first_appearance_issue_id": 555535,
+    "issue_count": 13
+  },
+  {
+    "id": 143110,
+    "name": "Lor San Tekka",
+    "real_name": "Lor San Tekka",
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/6106412-lorsantekka.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 537247,
+    "issue_count": 11
+  },
+  {
+    "id": 161873,
+    "name": "Paw Maccon",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7311645-paw.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 643044,
+    "issue_count": 3
+  },
+  {
+    "id": 161874,
+    "name": "Reya",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7311646-reya.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 643044,
+    "issue_count": 2
+  },
+  {
+    "id": 125274,
+    "name": "Finn",
+    "real_name": null,
+    "aliases": null,
+    "deck": "Finn is a former Stormtrooper of the First Order who defected to the Resistance. Finn was taken from his parents and his home when he was young.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/9/96399/4975966-finn.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 480659,
+    "issue_count": 60
+  },
+  {
+    "id": 117591,
+    "name": "Kylo Ren",
+    "real_name": "Ben Solo",
+    "aliases": [
+      "Ben Solo"
+    ],
+    "deck": "The son of the smuggler Han Solo and Princess Leia Organa, Kylo Ren was powerful in the Force because of his Skywalker heritage. He was once named Ben Solo and he was a Jedi apprentice to Jedi Master Luke Skywalker, but he was drawn to the dark side of the Force after joining to the Knights of Ren and he became the Supreme Leader of the First Order after the death of Snoke. ",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/7/70801/4765194-11078126_826580774057137_1468516654063178517_n.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 508981,
+    "issue_count": 83
+  },
+  {
+    "id": 125275,
+    "name": "Maz Kanata",
+    "real_name": "Maz Kanata",
+    "aliases": null,
+    "deck": "Maz Kanata is a wise woman who can see true nature in people even if they can't.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/9095320-maz.jpg",
+    "gender": "Female",
+    "first_appearance_issue_id": 508981,
+    "issue_count": 34
+  },
+  {
+    "id": 125273,
+    "name": "Rey",
+    "real_name": "Rey",
+    "aliases": null,
+    "deck": "Rey was left on Jakku, a desolate desert planet because her parents had to hide the truth about her heritage from the First Order. Rey is one of the few remaining Jedi in the galaxy.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/13/132327/7326609-tumblr_olxdkpcq5h1s797y0o1_640.jpg",
+    "gender": "Female",
+    "first_appearance_issue_id": 508981,
+    "issue_count": 91
+  },
+  {
+    "id": 145137,
+    "name": "Rose Tico",
+    "real_name": "Rose Tico",
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/9095304-ticorose.jpg",
+    "gender": "Female",
+    "first_appearance_issue_id": 656527,
+    "issue_count": 29
+  },
+  {
+    "id": 158123,
+    "name": "Tallisan Lintra",
+    "real_name": "Tallisan Lintra",
+    "aliases": [
+      "Tallie Lintra"
+    ],
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/8248728-tallissan_lintra.png",
+    "gender": "Female",
+    "first_appearance_issue_id": 669459,
+    "issue_count": 4
+  },
+  {
+    "id": 172234,
+    "name": "C'ai Threnalli",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/8248743-caithrenalli-swct.png",
+    "gender": null,
+    "first_appearance_issue_id": 669459,
+    "issue_count": 6
+  },
+  {
+    "id": 172233,
+    "name": "Kaydel Ko Connix",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/9095315-kaydel.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 553022,
+    "issue_count": 12
+  },
+  {
+    "id": 130947,
+    "name": "Warden Luta",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/5304803-luta.jpg",
+    "gender": "Female",
+    "first_appearance_issue_id": 538514,
+    "issue_count": 3
+  },
+  {
+    "id": 161846,
+    "name": "Isin",
+    "real_name": null,
+    "aliases": null,
+    "deck": "Isin was a crime lord who was imprisoned at Megalox prison",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7307324-isin.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 544990,
+    "issue_count": 2
+  },
+  {
+    "id": 161845,
+    "name": "Kan Be",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7307321-kan_be.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 544990,
+    "issue_count": 2
+  },
+  {
+    "id": 161844,
+    "name": "Toren",
+    "real_name": null,
+    "aliases": null,
+    "deck": "A crime lord. He is also known as Papa Toren.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7307312-toren_megalox.png",
+    "gender": "Male",
+    "first_appearance_issue_id": 494322,
+    "issue_count": 9
+  },
+  {
+    "id": 161864,
+    "name": "Bala-Tik",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/9633782-bala-tik.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 541219,
+    "issue_count": 3
+  },
+  {
+    "id": 161862,
+    "name": "Razoo Qin-Fee",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/9633800-razooqin-fee.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 541219,
+    "issue_count": 2
+  },
+  {
+    "id": 161863,
+    "name": "Tasu Leech",
+    "real_name": "Tasu Leech",
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/9633793-tasuleech.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 541219,
+    "issue_count": 24
+  },
+  {
+    "id": 162061,
+    "name": "Korin Aphra",
+    "real_name": "Korin Aphra",
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7337584-korin_aphra_ea1.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 563721,
+    "issue_count": 24
+  },
+  {
+    "id": 162157,
+    "name": "Shadow University Dean",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11122/111222211/6373148-blank.png",
+    "gender": null,
+    "first_appearance_issue_id": 610537,
+    "issue_count": 5
+  },
+  {
+    "id": 162063,
+    "name": "Thomas Toov",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7346268-toov_imv6.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 610537,
+    "issue_count": 5
+  },
+  {
+    "id": 162064,
+    "name": "Yonak",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7337587-yonak_imv6.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 610537,
+    "issue_count": 6
+  },
+  {
+    "id": 144712,
+    "name": "Magna Tolvan",
+    "real_name": "Magna Tolvan",
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/6196586-magna%20tolvan.jpg",
+    "gender": "Female",
+    "first_appearance_issue_id": 576622,
+    "issue_count": 49
+  },
+  {
+    "id": 162034,
+    "name": "Rexa Go",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7346297-rexago.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 638608,
+    "issue_count": 4
+  },
+  {
+    "id": 162035,
+    "name": "Caysin Bog",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7346264-bogimage.png",
+    "gender": null,
+    "first_appearance_issue_id": 647954,
+    "issue_count": 5
+  },
+  {
+    "id": 162037,
+    "name": "Dek-Nil",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7346256-dek-nil.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 647954,
+    "issue_count": 9
+  },
+  {
+    "id": 162168,
+    "name": "Flufto",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11122/111222211/6373148-blank.png",
+    "gender": null,
+    "first_appearance_issue_id": 647954,
+    "issue_count": 4
+  },
+  {
+    "id": 162166,
+    "name": "Glahst Ombra",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7346273-glahst_ombra_imv6.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 647954,
+    "issue_count": 3
+  },
+  {
+    "id": 162165,
+    "name": "Hallio Bas",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11122/111222211/6373148-blank.png",
+    "gender": null,
+    "first_appearance_issue_id": 647954,
+    "issue_count": 2
+  },
+  {
+    "id": 162167,
+    "name": "Rabael Dir Glorio",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7346302-rabael.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 647954,
+    "issue_count": 2
+  },
+  {
+    "id": 162036,
+    "name": "Sister Six",
+    "real_name": "Sister Six",
+    "aliases": null,
+    "deck": "Sister Six is a Xexto female mercenary who was a member of Dr Aphra's team for a while, she would later join a rebellion covert ops squad and fight against the Galactic Empire",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7346303-sister%20six.jpg",
+    "gender": "Female",
+    "first_appearance_issue_id": 647954,
+    "issue_count": 11
+  },
+  {
+    "id": 151335,
+    "name": "Tam Posla",
+    "real_name": "Tam Posla",
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/6626107-tam%20posla.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 647954,
+    "issue_count": 14
+  },
+  {
+    "id": 162182,
+    "name": "Yewl",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11122/111222211/6373148-blank.png",
+    "gender": null,
+    "first_appearance_issue_id": 664310,
+    "issue_count": 3
+  },
+  {
+    "id": 51771,
+    "name": "Dr. Evazan",
+    "real_name": "Cornelius Evazan",
+    "aliases": [
+      "Cornelius Evazan",
+      "Lopset"
+    ],
+    "deck": "A mad doctor known for committing horrible experiments on his patients. He is the partner of Ponda Baba, both of which have the death sentence in 12 systems.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/13/135098/7133742-0046463807-66591.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 17701,
+    "issue_count": 34
+  },
+  {
+    "id": 175895,
+    "name": "Bor Ifriem",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/0/77/8836481-4976327034-Bor_I.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 675154,
+    "issue_count": 7
+  },
+  {
+    "id": 2600,
+    "name": "Ponda Baba",
+    "real_name": null,
+    "aliases": [
+      "Walrus Man"
+    ],
+    "deck": "Aqualish criminal who attacked Luke Skywalker in  the Mos Eisley cantina. His arm was cut off by Obi-Wan Kenobi's lightsaber. He is the former partner of Dr. Evazan and he doesn't like you. ",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7332614-ponda.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 17701,
+    "issue_count": 40
+  },
+  {
+    "id": 162065,
+    "name": "Gurtyl",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/0/77/8836461-7681099482-Gurty.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 694927,
+    "issue_count": 10
+  },
+  {
+    "id": 150794,
+    "name": "Nokk",
+    "real_name": "Nokk",
+    "aliases": null,
+    "deck": "Nokk is a trandoshan monster hunter and wife of fellow monster hunter Winloss",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/6597178-nokk.jpg",
+    "gender": "Female",
+    "first_appearance_issue_id": 683838,
+    "issue_count": 8
+  },
+  {
+    "id": 160075,
+    "name": "Vulaada",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/7184655-vulaada_klam_aphra38.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 694927,
+    "issue_count": 15
+  },
+  {
+    "id": 150793,
+    "name": "Winloss",
+    "real_name": "Winloss",
+    "aliases": null,
+    "deck": "Winloss and his wife Nokk are monster hunters whom were briefly hired by Dr Aphra ",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/6597176-winloss.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 683838,
+    "issue_count": 8
+  },
+  {
+    "id": 52917,
+    "name": "Wat Tambor",
+    "real_name": null,
+    "aliases": null,
+    "deck": "A leader of the confederacy who helped in the design of the Death Star",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/4/48250/897876-wat_tambor.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 126320,
+    "issue_count": 15
+  },
+  {
+    "id": 162066,
+    "name": "Pitina Mar-Mas Voor",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11122/111222211/6373148-blank.png",
+    "gender": null,
+    "first_appearance_issue_id": 706962,
+    "issue_count": 7
+  },
+  {
+    "id": 64328,
+    "name": "General Airen Cracken",
+    "real_name": null,
+    "aliases": null,
+    "deck": " ",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/4/48250/900645-general_airen_cracken.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 165595,
+    "issue_count": 11
+  },
+  {
+    "id": 162002,
+    "name": "Teezee-Too",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11122/111222211/6373148-blank.png",
+    "gender": null,
+    "first_appearance_issue_id": 713865,
+    "issue_count": 5
+  },
+  {
+    "id": 47937,
+    "name": "General Veers",
+    "real_name": "Maximilian Veers",
+    "aliases": [
+      "Maximilian Veers"
+    ],
+    "deck": "General Veers led the AT-AT ground assault during the battle of Hoth and was commanding the AT-AT that destroyed the shield generators.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/1/15317/680916-veers.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 20314,
+    "issue_count": 15
+  }
+]

@@ -616,7 +616,8 @@
     "type": "Group",
     "publisher": "Marvel Comics",
     "issue_count": 0,
-    "is_group": true
+    "is_group": true,
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/c/c8/AgeOfRepublicHC-CoverArt.jpg/revision/latest/scale-to-width-down/400?cb=20200412193439"
   },
   {
     "id": 117082,
@@ -635,6 +636,41 @@
     "description": "<p>One shot.</p><h4>Collected Editions</h4><ul><li><a href=\"https://comicvine.gamespot.com/star-wars-age-of-republic/4050-124885/\">Star Wars: Age of Republic</a></li><li><a href=\"https://comicvine.gamespot.com/star-wars-age-of-republic-villains/4050-118872/\">Star Wars: Age of Republic: Villains</a></li></ul>",
     "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/6797721-01.jpg",
     "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-117082/",
+    "parent_series_id": 1764993490077
+  },
+  {
+    "id": 115909,
+    "name": "Age of Republic: Darth Maul",
+    "aliases": null,
+    "publisher": "Marvel",
+    "start_year": "2018",
+    "issue_count": 1,
+    "first_issue": "1",
+    "last_issue": "1",
+    "type": "One-Shot",
+    "timeline": "33 BBY",
+    "series": [],
+    "description": "<p>One shot.</p><h4>Collected Editions</h4><ul><li><a href=\"https://comicvine.gamespot.com/star-wars-age-of-republic/4050-124885/\">Star Wars: Age of Republic</a></li><li><a href=\"https://comicvine.gamespot.com/star-wars-age-of-republic-villains/4050-118872/\">Star Wars: Age of Republic: Villains</a></li></ul>",
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/6722003-01.jpg",
+    "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-115909/",
+    "parent_series_id": 1764993490077,
+    "last_variant_scrape": "2025-12-06T12:54:57.180Z"
+  },
+  {
+    "id": 117606,
+    "name": "Age of Republic: General Grievous",
+    "aliases": null,
+    "publisher": "Marvel",
+    "start_year": "2019",
+    "issue_count": 1,
+    "first_issue": "1",
+    "last_issue": "1",
+    "type": "One-Shot",
+    "timeline": "20 BBY",
+    "series": [],
+    "description": "<p>One shot.</p><h4>Collected Editions</h4><ul><li><a href=\"https://comicvine.gamespot.com/star-wars-age-of-republic/4050-124885/\">Star Wars: Age of Republic</a></li><li><a href=\"https://comicvine.gamespot.com/star-wars-age-of-republic-villains/4050-118872/\">Star Wars: Age of Republic: Villains</a></li></ul>",
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/6838564-01.jpg",
+    "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-117606/",
     "parent_series_id": 1764993490077
   }
 ]

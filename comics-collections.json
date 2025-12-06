@@ -7946,7 +7946,7 @@
   },
   {
     "id": 1765010813962,
-    "title": "Age of Republic",
+    "title": "Star Wars: Age of Republic (hardcover)",
     "type": "Hardcover",
     "cover_url": "https://static.wikia.nocookie.net/starwars/images/c/c8/AgeOfRepublicHC-CoverArt.jpg/revision/latest/scale-to-width-down/400?cb=20200412193439",
     "release_date": "02/18/2020",
@@ -7978,10 +7978,9 @@
         "title": "Age of Republic - Padmé Amidala 1"
       },
       {
-        "issue_id": null,
+        "issue_id": 694926,
         "order": 5,
-        "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Republic_-_Darth_Maul_1",
-        "title": "Age of Republic - Darth Maul 1"
+        "series_id": 115909
       },
       {
         "issue_id": null,
@@ -7990,16 +7989,14 @@
         "title": "Age of Republic - Jango Fett 1"
       },
       {
-        "issue_id": null,
+        "issue_id": 700686,
         "order": 7,
-        "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Republic_-_Count_Dooku_1",
-        "title": "Age of Republic - Count Dooku 1"
+        "series_id": 117082
       },
       {
-        "issue_id": null,
+        "issue_id": 703065,
         "order": 8,
-        "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Republic_-_General_Grievous_1",
-        "title": "Age of Republic - General Grievous 1"
+        "series_id": 117606
       },
       {
         "issue_id": null,
@@ -8016,7 +8013,7 @@
   },
   {
     "id": 1765010814477,
-    "title": "Age of Republic — Villains",
+    "title": "Star Wars: Age of Republic — Villains",
     "type": "Trade Paperback",
     "cover_url": "https://static.wikia.nocookie.net/starwars/images/f/f3/AgeofRepublic-Villains.jpg/revision/latest/scale-to-width-down/400?cb=20190626035005",
     "release_date": "05/07/2019",
@@ -8025,10 +8022,9 @@
     "amazon_url": null,
     "contents": [
       {
-        "issue_id": null,
+        "issue_id": 694926,
         "order": 1,
-        "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Republic_-_Darth_Maul_1",
-        "title": "Age of Republic - Darth Maul 1"
+        "series_id": 115909
       },
       {
         "issue_id": null,
@@ -8037,16 +8033,14 @@
         "title": "Age of Republic - Jango Fett 1"
       },
       {
-        "issue_id": null,
+        "issue_id": 700686,
         "order": 3,
-        "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Republic_-_Count_Dooku_1",
-        "title": "Age of Republic - Count Dooku 1"
+        "series_id": 117082
       },
       {
-        "issue_id": null,
+        "issue_id": 703065,
         "order": 4,
-        "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Republic_-_General_Grievous_1",
-        "title": "Age of Republic - General Grievous 1"
+        "series_id": 117606
       },
       {
         "issue_id": null,
