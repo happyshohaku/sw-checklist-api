@@ -7616,5 +7616,457 @@
     "series_id": [
       100597
     ]
+  },
+  {
+    "id": 1764960528665,
+    "title": "Han Solo — Imperial Cadet",
+    "type": "Trade Paperback",
+    "cover_url": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+    "release_date": "05/14/2019",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302513450",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 691393,
+        "order": 1,
+        "series_id": "115082"
+      },
+      {
+        "issue_id": 694928,
+        "order": 2,
+        "series_id": "115082"
+      },
+      {
+        "issue_id": 696368,
+        "order": 3,
+        "series_id": "115082"
+      },
+      {
+        "issue_id": 700687,
+        "order": 4,
+        "series_id": "115082"
+      },
+      {
+        "issue_id": 703066,
+        "order": 5,
+        "series_id": "115082"
+      },
+      {
+        "issue_id": null,
+        "order": 6,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Beckett_1",
+        "title": "Beckett 1"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Han_Solo_%E2%80%94_Imperial_Cadet_(trade_paperback)",
+    "series_id": [
+      "115082"
+    ]
+  },
+  {
+    "id": 1764961298155,
+    "title": "Solo: A Star Wars Story",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/c/ca/SoloAStarWarsStoryAdaptation-TPB.jpg/revision/latest/scale-to-width-down/400?cb=20190719031621",
+    "release_date": "06/04/2019",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302514150",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 688326,
+        "order": 1,
+        "series_id": "114269"
+      },
+      {
+        "issue_id": 692555,
+        "order": 2,
+        "series_id": "114269"
+      },
+      {
+        "issue_id": 695659,
+        "order": 3,
+        "series_id": "114269"
+      },
+      {
+        "issue_id": 699407,
+        "order": 4,
+        "series_id": "114269"
+      },
+      {
+        "issue_id": 701323,
+        "order": 5,
+        "series_id": "114269"
+      },
+      {
+        "issue_id": 703951,
+        "order": 6,
+        "series_id": "114269"
+      },
+      {
+        "issue_id": 705482,
+        "order": 7,
+        "series_id": "114269"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Solo:_A_Star_Wars_Story_Adaptation_(trade_paperback)",
+    "series_id": [
+      "114269"
+    ]
+  },
+  {
+    "id": 1764968295475,
+    "title": "Vader - Dark Visions",
+    "type": null,
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/8/87/Vader-DarkVisions-TPB.jpg/revision/latest/scale-to-width-down/400?cb=20250807085633",
+    "release_date": "08/27/2019",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302919009",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 702475,
+        "order": 1,
+        "series_id": "117473"
+      },
+      {
+        "issue_id": 704830,
+        "order": 2,
+        "series_id": "117473"
+      },
+      {
+        "issue_id": 706965,
+        "order": 3,
+        "series_id": "117473"
+      },
+      {
+        "issue_id": 710118,
+        "order": 4,
+        "series_id": "117473"
+      },
+      {
+        "issue_id": 711331,
+        "order": 5,
+        "series_id": "117473"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Vader_-_Dark_Visions_(trade_paperback)",
+    "series_id": [
+      "117473"
+    ]
+  },
+  {
+    "id": 1764991681747,
+    "title": "TIE Fighter",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/9/9f/StarWarsTIEFighter-TPB.jpg/revision/latest/scale-to-width-down/400?cb=20200719041536",
+    "release_date": "10/15/2019",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302918620",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 706420,
+        "order": 1,
+        "series_id": "118396"
+      },
+      {
+        "issue_id": 709214,
+        "order": 2,
+        "series_id": "118396"
+      },
+      {
+        "issue_id": 711958,
+        "order": 3,
+        "series_id": "118396"
+      },
+      {
+        "issue_id": 713866,
+        "order": 4,
+        "series_id": "118396"
+      },
+      {
+        "issue_id": 716973,
+        "order": 5,
+        "series_id": "118396"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_TIE_Fighter_(trade_paperback)",
+    "series_id": [
+      "118396"
+    ]
+  },
+  {
+    "id": 1764991900716,
+    "title": "Galaxy's Edge",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/5/56/SWGalaxysEdge-TPB.jpg/revision/latest/scale-to-width-down/400?cb=20200411070544",
+    "release_date": "10/22/2019",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302917869",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 706963,
+        "order": 1,
+        "series_id": "118532"
+      },
+      {
+        "issue_id": 709727,
+        "order": 2,
+        "series_id": "118532"
+      },
+      {
+        "issue_id": 712550,
+        "order": 3,
+        "series_id": "118532"
+      },
+      {
+        "issue_id": 714674,
+        "order": 4,
+        "series_id": "118532"
+      },
+      {
+        "issue_id": 717532,
+        "order": 5,
+        "series_id": "118532"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Galaxy%27s_Edge_(trade_paperback)",
+    "series_id": [
+      "118532"
+    ]
+  },
+  {
+    "id": 1764993742921,
+    "title": "Star Wars: Allegiance",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/9/9c/StarWarsAllegiance_TPB.png/revision/latest/scale-to-width-down/400?cb=20200406034543",
+    "release_date": "11/19/2019",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302919245",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": 721785,
+        "order": 1,
+        "series_id": "121899"
+      },
+      {
+        "issue_id": 723115,
+        "order": 2,
+        "series_id": "121899"
+      },
+      {
+        "issue_id": 723860,
+        "order": 3,
+        "series_id": "121899"
+      },
+      {
+        "issue_id": 725251,
+        "order": 4,
+        "series_id": "121899"
+      }
+    ],
+    "has_unmatched_issues": false,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Journey_to_Star_Wars:_The_Rise_of_Skywalker_%E2%80%94_Allegiance",
+    "series_id": [
+      "121899"
+    ]
+  },
+  {
+    "id": 1765010813448,
+    "title": "Age of Republic — Heroes",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/a/ae/AgeofRepublic-Heroes.jpg/revision/latest/scale-to-width-down/400?cb=20190626035116",
+    "release_date": "05/14/2019",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302513443",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": null,
+        "order": 1,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Republic_-_Qui-Gon_Jinn_1",
+        "title": "Age of Republic - Qui-Gon Jinn 1"
+      },
+      {
+        "issue_id": null,
+        "order": 2,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Republic_-_Obi-Wan_Kenobi_1",
+        "title": "Age of Republic - Obi-Wan Kenobi 1"
+      },
+      {
+        "issue_id": 700149,
+        "order": 3,
+        "series_id": "116987"
+      },
+      {
+        "issue_id": null,
+        "order": 4,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Republic_-_Padm%C3%A9_Amidala_1",
+        "title": "Age of Republic - Padmé Amidala 1"
+      },
+      {
+        "issue_id": null,
+        "order": 5,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/The_Weapon",
+        "title": "The Weapon"
+      },
+      {
+        "issue_id": null,
+        "order": 6,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Republic_Special_1",
+        "title": "Age of Republic Special 1"
+      },
+      {
+        "issue_id": null,
+        "order": 7,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/501_Plus_One",
+        "title": "501 Plus One"
+      },
+      {
+        "issue_id": null,
+        "order": 8,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Republic_Special_1",
+        "title": "Age of Republic Special 1"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Age_of_Republic_%E2%80%94_Heroes",
+    "series_id": [
+      "116987",
+      1764993490077
+    ]
+  },
+  {
+    "id": 1765010813962,
+    "title": "Age of Republic",
+    "type": "Hardcover",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/c/c8/AgeOfRepublicHC-CoverArt.jpg/revision/latest/scale-to-width-down/400?cb=20200412193439",
+    "release_date": "02/18/2020",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302917098",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": null,
+        "order": 1,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Republic_-_Qui-Gon_Jinn_1",
+        "title": "Age of Republic - Qui-Gon Jinn 1"
+      },
+      {
+        "issue_id": null,
+        "order": 2,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Republic_-_Obi-Wan_Kenobi_1",
+        "title": "Age of Republic - Obi-Wan Kenobi 1"
+      },
+      {
+        "issue_id": 700149,
+        "order": 3,
+        "series_id": "116987"
+      },
+      {
+        "issue_id": null,
+        "order": 4,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Republic_-_Padm%C3%A9_Amidala_1",
+        "title": "Age of Republic - Padmé Amidala 1"
+      },
+      {
+        "issue_id": null,
+        "order": 5,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Republic_-_Darth_Maul_1",
+        "title": "Age of Republic - Darth Maul 1"
+      },
+      {
+        "issue_id": null,
+        "order": 6,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Republic_-_Jango_Fett_1",
+        "title": "Age of Republic - Jango Fett 1"
+      },
+      {
+        "issue_id": null,
+        "order": 7,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Republic_-_Count_Dooku_1",
+        "title": "Age of Republic - Count Dooku 1"
+      },
+      {
+        "issue_id": null,
+        "order": 8,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Republic_-_General_Grievous_1",
+        "title": "Age of Republic - General Grievous 1"
+      },
+      {
+        "issue_id": null,
+        "order": 9,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Republic_Special_1",
+        "title": "Age of Republic Special 1"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Age_of_Republic_(hardcover)",
+    "series_id": [
+      "116987",
+      1764993490077
+    ]
+  },
+  {
+    "id": 1765010814477,
+    "title": "Age of Republic — Villains",
+    "type": "Trade Paperback",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/f/f3/AgeofRepublic-Villains.jpg/revision/latest/scale-to-width-down/400?cb=20190626035005",
+    "release_date": "05/07/2019",
+    "publisher": "Marvel Comics",
+    "isbn": "9781302513375",
+    "amazon_url": null,
+    "contents": [
+      {
+        "issue_id": null,
+        "order": 1,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Republic_-_Darth_Maul_1",
+        "title": "Age of Republic - Darth Maul 1"
+      },
+      {
+        "issue_id": null,
+        "order": 2,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Republic_-_Jango_Fett_1",
+        "title": "Age of Republic - Jango Fett 1"
+      },
+      {
+        "issue_id": null,
+        "order": 3,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Republic_-_Count_Dooku_1",
+        "title": "Age of Republic - Count Dooku 1"
+      },
+      {
+        "issue_id": null,
+        "order": 4,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Republic_-_General_Grievous_1",
+        "title": "Age of Republic - General Grievous 1"
+      },
+      {
+        "issue_id": null,
+        "order": 5,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Sisters",
+        "title": "Sisters"
+      },
+      {
+        "issue_id": null,
+        "order": 6,
+        "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Republic_Special_1",
+        "title": "Age of Republic Special 1"
+      }
+    ],
+    "has_unmatched_issues": true,
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Age_of_Republic_%E2%80%94_Villains",
+    "series_id": [
+      1764993490077
+    ]
   }
 ]

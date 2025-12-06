@@ -9715,6 +9715,47 @@
       "event": null
     }
   ],
+  "688326": [
+    {
+      "category": "Retailer Exclusives",
+      "type": "Reg",
+      "name": "Regular Cover",
+      "artist": "Phil Noto",
+      "alt": "Solo: A Star Wars Story #1 Walmart Phil Noto Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3102192.jpg?1760986022"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Solo: A Star Wars Story #1 1:10 Movie Photo Variant",
+      "artist": "Movie Photo",
+      "alt": "Solo: A Star Wars Story #1 1:10 Movie Photo Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3296775.jpg?1760986022",
+      "ratio": "1:10",
+      "variant_type": [
+        "Movie",
+        "Photo"
+      ]
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Solo: A Star Wars Story #1 1:25 Leonard Kirk Variant",
+      "artist": "Leonard Kirk",
+      "alt": "Solo: A Star Wars Story #1 1:25 Leonard Kirk Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6359243.jpg?1760986022",
+      "ratio": "1:25"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Solo: A Star Wars Story #1 1:50 Luke Ross Variant",
+      "artist": "Luke Ross",
+      "alt": "Solo: A Star Wars Story #1 1:50 Luke Ross Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3402525.jpg?1760986022",
+      "ratio": "1:50"
+    }
+  ],
   "689040": [
     {
       "category": "Other Covers",
@@ -9775,6 +9816,38 @@
       "event": null
     }
   ],
+  "691393": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars: Han Solo – Imperial Cadet #1 1:10 Movie Variant",
+      "artist": "",
+      "alt": "Star Wars: Han Solo – Imperial Cadet #1 1:10 Movie Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3430925.jpg?1734779434",
+      "ratio": "1:10",
+      "variant_type": [
+        "Movie"
+      ]
+    },
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars: Han Solo – Imperial Cadet #1 1:25 Elsa Charretier Variant",
+      "artist": "Elsa Charretier",
+      "alt": "Star Wars: Han Solo – Imperial Cadet #1 1:25 Elsa Charretier Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8119527.jpg?1734779434",
+      "ratio": "1:25"
+    },
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars: Han Solo – Imperial Cadet #1 1:50 Luke Ross Variant",
+      "artist": "Luke Ross",
+      "alt": "Star Wars: Han Solo – Imperial Cadet #1 1:50 Luke Ross Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1708552.jpg?1734779434",
+      "ratio": "1:50"
+    }
+  ],
   "692063": [
     {
       "category": "Other Covers",
@@ -9803,6 +9876,17 @@
       "variant_type": null,
       "printing": null,
       "event": null
+    }
+  ],
+  "692555": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Solo: A Star Wars Story #2 1:25 Carlos Pacheco Variant",
+      "artist": "Carlos Pacheco",
+      "alt": "Solo: A Star Wars Story #2 1:25 Carlos Pacheco Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2117931.jpg?1728922170",
+      "ratio": "1:25"
     }
   ],
   "692560": [
@@ -9896,6 +9980,17 @@
       "event": null
     }
   ],
+  "694928": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars: Han Solo – Imperial Cadet #2 1:25 Marcos Martín Variant",
+      "artist": "",
+      "alt": "Star Wars: Han Solo – Imperial Cadet #2 1:25 Marcos Martín Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1825230.jpg?1734779434",
+      "ratio": "1:25"
+    }
+  ],
   "695629": [
     {
       "category": "Incentive Covers",
@@ -9922,6 +10017,28 @@
       "variant_type": null,
       "printing": null,
       "event": null
+    }
+  ],
+  "695659": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Marco Checchetto",
+      "alt": "Solo: A Star Wars Story #3 1:25 Marco Checchetto Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2159270.jpg?1728922733",
+      "ratio": "1:25"
+    }
+  ],
+  "696368": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars: Han Solo – Imperial Cadet #3 1:25 Todd Nauck Variant",
+      "artist": "Todd Nauck",
+      "alt": "Star Wars: Han Solo – Imperial Cadet #3 1:25 Todd Nauck Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1676287.jpg?1734779434",
+      "ratio": "1:25"
     }
   ],
   "696954": [
@@ -9971,6 +10088,17 @@
       "event": null
     }
   ],
+  "699407": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Yasmine Putri",
+      "alt": "Solo: A Star Wars Story #4 1:25 Yasmine Putri Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4882710.jpg?1728923228",
+      "ratio": "1:25"
+    }
+  ],
   "699410": [
     {
       "category": "Other Covers",
@@ -10014,6 +10142,69 @@
       "variant_type": null,
       "printing": null,
       "event": null
+    }
+  ],
+  "700149": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Concept Design Variant Cover",
+      "artist": "Sang Jun Lee",
+      "alt": "Star Wars: Age of Republic – Anakin Skywalker #1 Sang Jun Lee Concept Design Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6275045.jpg?1738381471"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Greatest Moments Variant Cover (Mace vs. Jango, #4 of 36)",
+      "artist": "Rod Reis",
+      "alt": "Star Wars: Age of Republic – Anakin Skywalker #1 Rod Reis Greatest Moments Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2089933.jpg?1738381471"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Republic – Anakin Skywalker #1 Mike McKone Puzzle Piece Connecting Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Republic – Anakin Skywalker #1 Mike McKone Puzzle Piece Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2064001.jpg?1738381471",
+      "variant_type": [
+        "Connecting"
+      ]
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Republic – Anakin Skywalker #1 1:10 Movie Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Republic – Anakin Skywalker #1 1:10 Movie Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2451796.jpg?1738381471",
+      "ratio": "1:10",
+      "variant_type": [
+        "Movie"
+      ]
+    }
+  ],
+  "700687": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Caspar Wijngaard",
+      "alt": "Star Wars: Han Solo – Imperial Cadet #4 1:25 Caspar Wijngaard Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1981941.jpg?1734779434",
+      "ratio": "1:25"
+    }
+  ],
+  "701323": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "W. Scott Forbes",
+      "alt": "Solo: A Star Wars Story #5 1:25 W. Scott Forbes Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7927574.jpg?1728923329",
+      "ratio": "1:25"
     }
   ],
   "701947": [
@@ -10061,6 +10252,58 @@
       "event": null
     }
   ],
+  "702475": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Vader – Dark Visions #1 Movie Variant",
+      "artist": "",
+      "alt": "Star Wars: Vader – Dark Visions #1 Movie Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8312176.jpg?1734778420",
+      "variant_type": [
+        "Movie"
+      ]
+    },
+    {
+      "category": "Reprints",
+      "type": "Var",
+      "name": "Star Wars: Vader – Dark Visions #1 2nd Printing Paolo Villanelli",
+      "artist": "",
+      "alt": "Star Wars: Vader – Dark Visions #1 2nd Printing Paolo Villanelli",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7773319.jpg?1761588585",
+      "printing": "2nd Printing"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Vader – Dark Visions #1 1:25 Leinil Francis Yu Variant",
+      "artist": "Leinil Francis Yu",
+      "alt": "Star Wars: Vader – Dark Visions #1 1:25 Leinil Francis Yu Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1160292.jpg?1734778420",
+      "ratio": "1:25"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Vader – Dark Visions #1 1:50 Giuseppe Camuncoli Variant",
+      "artist": "Giuseppe Camuncoli",
+      "alt": "Star Wars: Vader – Dark Visions #1 1:50 Giuseppe Camuncoli Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5152491.jpg?1734778420",
+      "ratio": "1:50"
+    }
+  ],
+  "703066": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars: Han Solo – Imperial Cadet #5 1:25 Khoi Pham Variant",
+      "artist": "Khoi Pham",
+      "alt": "Star Wars: Han Solo – Imperial Cadet #5 1:25 Khoi Pham Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8461475.jpg?1734779434",
+      "ratio": "1:25"
+    }
+  ],
+  "703951": [],
   "703953": [
     {
       "category": "Other Covers",
@@ -10093,6 +10336,18 @@
       "event": null
     }
   ],
+  "704830": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars: Vader – Dark Visions #2 1:25 Gerardo Sandoval Variant",
+      "artist": "Gerardo Sandoval",
+      "alt": "Star Wars: Vader – Dark Visions #2 1:25 Gerardo Sandoval Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4065440.jpg?1734778420",
+      "ratio": "1:25"
+    }
+  ],
+  "705482": [],
   "705485": [
     {
       "category": "Open Order Covers",
@@ -10138,6 +10393,40 @@
       "event": null
     }
   ],
+  "706420": [
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Character Variant Cover (Yrica Quell - Rebel X-Wing Pilot - Alphabet Squadron)",
+      "artist": "Jeff Langevin",
+      "alt": "Star Wars: TIE Fighter #1 1:25 Jeff Langevin Character Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6368684.jpg?1750933079",
+      "ratio": "1:25"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover (Imperial TIE Fighter)",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars: TIE Fighter #1 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8759330.jpg?1750933079",
+      "variant_type": [
+        "Action Figure"
+      ]
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: TIE Fighter #1 1:10 Movie Variant",
+      "artist": "",
+      "alt": "Star Wars: TIE Fighter #1 1:10 Movie Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9906102.jpg?1750933079",
+      "ratio": "1:10",
+      "variant_type": [
+        "Movie"
+      ]
+    }
+  ],
   "706962": [
     {
       "category": "Other Covers",
@@ -10151,6 +10440,70 @@
       "variant_type": null,
       "printing": null,
       "event": null
+    }
+  ],
+  "706963": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Attraction Variant Cover",
+      "artist": "Richard Lim",
+      "alt": "Star Wars: Galaxy's Edge #1 Richard Lim Attraction Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9517407.jpg?1725534727"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Galaxy's Edge #1 Patrick Zircher Variant",
+      "artist": "Patrick Zircher",
+      "alt": "Star Wars: Galaxy's Edge #1 Patrick Zircher Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7635940.jpg?1725534776"
+    },
+    {
+      "category": "Reprints",
+      "type": "Var",
+      "name": "Star Wars: Galaxy's Edge #1 2nd Printing Will Sliney",
+      "artist": "",
+      "alt": "Star Wars: Galaxy's Edge #1 2nd Printing Will Sliney",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7954235.jpg?1725534411",
+      "printing": "2nd Printing"
+    },
+    {
+      "category": "Reprints",
+      "type": "Var",
+      "name": "Star Wars: Galaxy's Edge #1 3rd Printing Will Sliney",
+      "artist": "",
+      "alt": "Star Wars: Galaxy's Edge #1 3rd Printing Will Sliney",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2797767.jpg?1725534443",
+      "printing": "3rd Printing"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Galaxy's Edge #1 1:10 Karl Lindberg Concept Art Variant",
+      "artist": "",
+      "alt": "Star Wars: Galaxy's Edge #1 1:10 Karl Lindberg Concept Art Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6327540.jpg?1725534811",
+      "ratio": "1:10"
+    },
+    {
+      "category": "Miscellaneous Covers",
+      "type": "Var",
+      "name": "Star Wars: Galaxy's Edge #1 Concept Art Variant",
+      "artist": "Concept Art",
+      "alt": "Star Wars: Galaxy's Edge #1 Concept Art Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4416284.jpg?1725534958"
+    }
+  ],
+  "706965": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars: Vader – Dark Visions #3 1:25 Yasmine Putri Variant",
+      "artist": "Yasmine Putri",
+      "alt": "Star Wars: Vader – Dark Visions #3 1:25 Yasmine Putri Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3760225.jpg?1734778420",
+      "ratio": "1:25"
     }
   ],
   "707523": [
@@ -10243,6 +10596,59 @@
       "event": null
     }
   ],
+  "709214": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Character Variant Cover (Wyl Lark - Rebel A-Wing Pilot - Alphabet Squadron)",
+      "artist": "Jeff Langevin",
+      "alt": "Star Wars: TIE Fighter #2 1:25 Jeff Langevin Character Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8146153.jpg?1750933108",
+      "ratio": "1:25"
+    }
+  ],
+  "709727": [
+    {
+      "category": "Reprints",
+      "type": "Var",
+      "name": "Star Wars: Galaxy's Edge #2 2nd Printing Will Sliney",
+      "artist": "",
+      "alt": "Star Wars: Galaxy's Edge #2 2nd Printing Will Sliney",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6906910.jpg?1728078321",
+      "printing": "2nd Printing"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Galaxy's Edge #2 1:25 Will Sliney Variant",
+      "artist": "Will Sliney",
+      "alt": "Star Wars: Galaxy's Edge #2 1:25 Will Sliney Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6182198.jpg?1728092932",
+      "ratio": "1:25"
+    }
+  ],
+  "710118": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Riccardo Federici",
+      "alt": "Star Wars: Vader – Dark Visions #4 1:25 Riccardo Federici Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2435707.jpg?1734778420",
+      "ratio": "1:25"
+    }
+  ],
+  "711331": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "ACO",
+      "alt": "Star Wars: Vader – Dark Visions #5 1:25 ACO Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6454213.jpg?1734778420",
+      "ratio": "1:25"
+    }
+  ],
   "711956": [
     {
       "category": "Other Covers",
@@ -10299,6 +10705,37 @@
       "variant_type": null,
       "printing": null,
       "event": null
+    }
+  ],
+  "711958": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Character Variant Cover (Chass Na Chadic - Rebel B-Wing Pilot - Alphabet Squadron)",
+      "artist": "Jeff Langevin",
+      "alt": "Star Wars: TIE Fighter #3 1:25 Jeff Langevin Character Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1270294.jpg?1750933133",
+      "ratio": "1:25"
+    }
+  ],
+  "712550": [
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Caspar Wijngaard",
+      "alt": "Star Wars: Galaxy's Edge #3 1:25 Caspar Wijngaard Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5195750.jpg?1728093193",
+      "ratio": "1:25"
+    },
+    {
+      "category": "Reprints",
+      "type": "Var",
+      "name": "Star Wars: Galaxy's Edge #3 2nd Printing Will Sliney",
+      "artist": "",
+      "alt": "Star Wars: Galaxy's Edge #3 2nd Printing Will Sliney",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9699360.jpg?1728078699",
+      "printing": "2nd Printing"
     }
   ],
   "713517": [
@@ -10361,6 +10798,17 @@
       "event": null
     }
   ],
+  "713866": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars: TIE Fighter #4 1:25 Leonard Kirk Variant",
+      "artist": "Leonard Kirk",
+      "alt": "Star Wars: TIE Fighter #4 1:25 Leonard Kirk Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5621907.jpg?1750933181",
+      "ratio": "1:25"
+    }
+  ],
   "714244": [
     {
       "category": "Other Covers",
@@ -10376,6 +10824,26 @@
       ],
       "printing": null,
       "event": null
+    }
+  ],
+  "714674": [
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Stacey Lee",
+      "alt": "Star Wars: Galaxy's Edge #4 1:25 Stacey Lee Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9080454.jpg?1728093498",
+      "ratio": "1:25"
+    },
+    {
+      "category": "Reprints",
+      "type": "Var",
+      "name": "Star Wars: Galaxy's Edge #4 2nd Printing Will Sliney",
+      "artist": "",
+      "alt": "Star Wars: Galaxy's Edge #4 2nd Printing Will Sliney",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4329949.jpg?1728079033",
+      "printing": "2nd Printing"
     }
   ],
   "715318": [
@@ -10421,6 +10889,46 @@
       "variant_type": null,
       "printing": null,
       "event": null
+    }
+  ],
+  "716973": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Character Variant Cover (Kairos - Rebel U-Wing Pilot - Alphabet Squadron)",
+      "artist": "Jeff Langevin",
+      "alt": "Star Wars: TIE Fighter #5 1:25 Jeff Langevin Character Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5209606.jpg?1750933259",
+      "ratio": "1:25"
+    },
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars: TIE Fighter #5 1:25 Yasmine Putri Variant",
+      "artist": "Yasmine Putri",
+      "alt": "Star Wars: TIE Fighter #5 1:25 Yasmine Putri Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6914076.jpg?1750933259",
+      "ratio": "1:25"
+    }
+  ],
+  "717532": [
+    {
+      "category": "Reprints",
+      "type": "Var",
+      "name": "Star Wars: Galaxy's Edge #5 2nd Printing Will Sliney",
+      "artist": "",
+      "alt": "Star Wars: Galaxy's Edge #5 2nd Printing Will Sliney",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9571888.jpg?1728079264",
+      "printing": "2nd Printing"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Galaxy's Edge #5 1:25 Luke Ross Variant",
+      "artist": "Luke Ross",
+      "alt": "Star Wars: Galaxy's Edge #5 1:25 Luke Ross Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8290674.jpg?1728094579",
+      "ratio": "1:25"
     }
   ],
   "718134": [
@@ -10500,6 +11008,79 @@
       "event": null
     }
   ],
+  "721785": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Brian Stelfreeze",
+      "alt": "Star Wars: Allegiance #1 Brian Stelfreeze Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4192500.jpg?1742551980"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Allegiance #1 Movie Variant",
+      "artist": "",
+      "alt": "Star Wars: Allegiance #1 Movie Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5085557.jpg?1742551980",
+      "variant_type": [
+        "Movie"
+      ]
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: Allegiance #1 Walmart Variant",
+      "artist": "Walmart",
+      "alt": "Star Wars: Allegiance #1 Walmart Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1295360.jpg?1742551980"
+    }
+  ],
+  "723115": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Allegiance #2 Luke Ross Variant",
+      "artist": "Luke Ross",
+      "alt": "Star Wars: Allegiance #2 Luke Ross Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2440627.jpg?1742552436"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Allegiance #2 1:10 Movie Variant",
+      "artist": "",
+      "alt": "Star Wars: Allegiance #2 1:10 Movie Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1179117.jpg?1742552436",
+      "ratio": "1:10",
+      "variant_type": [
+        "Movie"
+      ]
+    }
+  ],
+  "723860": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Allegiance #3 Mike McKone Variant",
+      "artist": "Mike McKone",
+      "alt": "Star Wars: Allegiance #3 Mike McKone Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8193206.jpg?1742552647"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Allegiance #3 1:10 Movie Variant",
+      "artist": "",
+      "alt": "Star Wars: Allegiance #3 1:10 Movie Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3500929.jpg?1742552647",
+      "ratio": "1:10",
+      "variant_type": [
+        "Movie"
+      ]
+    }
+  ],
   "723865": [
     {
       "category": "Open Order Covers",
@@ -10543,6 +11124,28 @@
       ],
       "printing": null,
       "event": null
+    }
+  ],
+  "725251": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Allegiance #4 Will Sliney Variant",
+      "artist": "Will Sliney",
+      "alt": "Star Wars: Allegiance #4 Will Sliney Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6937802.jpg?1742552854"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Allegiance #4 1:10 Movie Variant",
+      "artist": "",
+      "alt": "Star Wars: Allegiance #4 1:10 Movie Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1902097.jpg?1742552854",
+      "ratio": "1:10",
+      "variant_type": [
+        "Movie"
+      ]
     }
   ],
   "726214": [
