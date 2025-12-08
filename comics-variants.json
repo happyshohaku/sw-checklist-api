@@ -9965,6 +9965,64 @@
       "event": null
     }
   ],
+  "694146": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Design Variant Cover",
+      "artist": "Iain McCaig",
+      "alt": "Star Wars: Age of Republic – Qui-Gon Jinn #1 Iain McCaig Concept Design Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5128749.jpg?1734779438"
+    },
+    {
+      "category": "Reprints",
+      "type": "2nd",
+      "name": "Second Printing Variant Cover",
+      "artist": "Cory Smith",
+      "alt": "Star Wars: Age of Republic – Qui-Gon Jinn #1 2nd Printing Cory Smith",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4596922.jpg?1734779438",
+      "printing": "2nd Printing"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Republic – Qui-Gon Jinn #1 Cory Smith Variant",
+      "artist": "Cory Smith",
+      "alt": "Star Wars: Age of Republic – Qui-Gon Jinn #1 Cory Smith Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8896391.jpg?1734779438"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Republic – Qui-Gon Jinn #1 Giuseppe Camuncoli Variant",
+      "artist": "Giuseppe Camuncoli",
+      "alt": "Star Wars: Age of Republic – Qui-Gon Jinn #1 Giuseppe Camuncoli Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5501419.jpg?1734779438"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Republic – Qui-Gon Jinn #1 Mike McKone Puzzle Piece Connecting Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Republic – Qui-Gon Jinn #1 Mike McKone Puzzle Piece Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2189716.jpg?1734779438",
+      "variant_type": [
+        "Connecting"
+      ]
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Republic – Qui-Gon Jinn #1 1:10 Movie Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Republic – Qui-Gon Jinn #1 1:10 Movie Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7707598.jpg?1734779438",
+      "ratio": "1:10",
+      "variant_type": [
+        "Movie"
+      ]
+    }
+  ],
   "694926": [
     {
       "category": "Open Order Covers",
@@ -10071,6 +10129,55 @@
       "ratio": "1:25"
     }
   ],
+  "696367": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Rahzzah",
+      "alt": "Star Wars: Age of Republic – Obi-Wan Kenobi #1 Rahzzah Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4130048.jpg?1764778275"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Design Variant Cover",
+      "artist": "Iain McCaig",
+      "alt": "Star Wars: Age of Republic – Obi-Wan Kenobi #1 Iain McCaig Concept Design Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9888631.jpg?1764778275"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Republic – Obi-Wan Kenobi #1 Leinil Francis Yu Heroes Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Republic – Obi-Wan Kenobi #1 Leinil Francis Yu Heroes Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8005086.jpg?1764778275"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Republic – Obi-Wan Kenobi #1 Mike McKone Puzzle Piece Connecting Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Republic – Obi-Wan Kenobi #1 Mike McKone Puzzle Piece Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8689083.jpg?1764778275",
+      "variant_type": [
+        "Connecting"
+      ]
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Republic – Obi-Wan Kenobi #1 1:10 Movie Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Republic – Obi-Wan Kenobi #1 1:10 Movie Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2964780.jpg?1764778275",
+      "ratio": "1:10",
+      "variant_type": [
+        "Movie"
+      ]
+    }
+  ],
   "696368": [
     {
       "category": "Other Covers",
@@ -10110,6 +10217,81 @@
       "variant_type": null,
       "printing": null,
       "event": null
+    }
+  ],
+  "696955": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "In-Hyuk Lee",
+      "alt": "Star Wars: Age of Republic – Jango Fett #1 InHyuk Lee Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6216489.jpg?1734779451"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Concept Design Variant Cover",
+      "artist": "Doug Chiang",
+      "alt": "Star Wars: Age of Republic – Jango Fett #1 Doug Chiang Concept Design Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5761147.jpg?1734779451"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Republic – Jango Fett #1 Leinil Francis Yu Villains Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Republic – Jango Fett #1 Leinil Francis Yu Villains Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3537028.jpg?1734779451"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Republic – Jango Fett #1 Mike McKone Puzzle Piece Connecting Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Republic – Jango Fett #1 Mike McKone Puzzle Piece Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2978478.jpg?1734779451",
+      "variant_type": [
+        "Connecting"
+      ]
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Republic – Jango Fett #1 1:10 Movie Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Republic – Jango Fett #1 1:10 Movie Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7584087.jpg?1734779451",
+      "ratio": "1:10",
+      "variant_type": [
+        "Movie"
+      ]
+    }
+  ],
+  "697644": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Republic Special #1 Deodato Greatest Hits Variant",
+      "artist": "Deodato Greatest Hits",
+      "alt": "Star Wars: Age of Republic Special #1 Deodato Greatest Hits Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1439459.jpg?1702306772"
+    },
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Republic Special #1 Khoi Pham Variant",
+      "artist": "Khoi Pham",
+      "alt": "Star Wars: Age of Republic Special #1 Khoi Pham Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3230800.jpg?1702306772"
+    },
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Republic Special #1 Mckone Puzzle Piece Variant",
+      "artist": "Mckone Puzzle Piece",
+      "alt": "Star Wars: Age of Republic Special #1 Mckone Puzzle Piece Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1182942.jpg?1702306772"
     }
   ],
   "698613": [
@@ -10343,6 +10525,39 @@
       ],
       "printing": null,
       "event": null
+    }
+  ],
+  "702473": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Concept Design Variant Cover",
+      "artist": "Iain McCaig",
+      "alt": "Star Wars: Age of Republic – Padmé Amidala #1 Iain McCaig Concept Design Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9341600.jpg?1728787800"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Republic – Padmé Amidala #1 Mike McKone Puzzle Piece Connecting Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Republic – Padmé Amidala #1 Mike McKone Puzzle Piece Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7780765.jpg?1728787800",
+      "variant_type": [
+        "Connecting"
+      ]
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Republic – Padmé Amidala #1 1:10 Movie Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Republic – Padmé Amidala #1 1:10 Movie Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8034178.jpg?1728787800",
+      "ratio": "1:10",
+      "variant_type": [
+        "Movie"
+      ]
     }
   ],
   "702475": [

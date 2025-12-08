@@ -7891,16 +7891,14 @@
     "amazon_url": null,
     "contents": [
       {
-        "issue_id": null,
+        "issue_id": 694146,
         "order": 1,
-        "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Republic_-_Qui-Gon_Jinn_1",
-        "title": "Age of Republic - Qui-Gon Jinn 1"
+        "series_id": 115764
       },
       {
-        "issue_id": null,
+        "issue_id": 696367,
         "order": 2,
-        "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Republic_-_Obi-Wan_Kenobi_1",
-        "title": "Age of Republic - Obi-Wan Kenobi 1"
+        "series_id": 116265
       },
       {
         "issue_id": 700149,
@@ -7908,37 +7906,24 @@
         "series_id": 116987
       },
       {
-        "issue_id": null,
+        "issue_id": 702473,
         "order": 4,
-        "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Republic_-_Padm%C3%A9_Amidala_1",
-        "title": "Age of Republic - Padmé Amidala 1"
+        "series_id": 117471
       },
       {
-        "issue_id": null,
+        "issue_id": 697644,
         "order": 5,
-        "wookieepedia_url": "https://starwars.fandom.com/wiki/The_Weapon",
-        "title": "The Weapon"
+        "series_id": 116514,
+        "story_title": "The Weapon"
       },
       {
-        "issue_id": null,
+        "issue_id": 697644,
         "order": 6,
-        "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Republic_Special_1",
-        "title": "Age of Republic Special 1"
-      },
-      {
-        "issue_id": null,
-        "order": 7,
-        "wookieepedia_url": "https://starwars.fandom.com/wiki/501_Plus_One",
-        "title": "501 Plus One"
-      },
-      {
-        "issue_id": null,
-        "order": 8,
-        "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Republic_Special_1",
-        "title": "Age of Republic Special 1"
+        "series_id": 116514,
+        "story_title": "501 Plus One"
       }
     ],
-    "has_unmatched_issues": true,
+    "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Age_of_Republic_%E2%80%94_Heroes",
     "series_id": [
       1764993490077
@@ -7946,7 +7931,7 @@
   },
   {
     "id": 1765010813962,
-    "title": "Star Wars: Age of Republic (hardcover)",
+    "title": "Age of Republic",
     "type": "Hardcover",
     "cover_url": "https://static.wikia.nocookie.net/starwars/images/c/c8/AgeOfRepublicHC-CoverArt.jpg/revision/latest/scale-to-width-down/400?cb=20200412193439",
     "release_date": "02/18/2020",
@@ -7955,16 +7940,14 @@
     "amazon_url": null,
     "contents": [
       {
-        "issue_id": null,
+        "issue_id": 694146,
         "order": 1,
-        "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Republic_-_Qui-Gon_Jinn_1",
-        "title": "Age of Republic - Qui-Gon Jinn 1"
+        "series_id": 115764
       },
       {
-        "issue_id": null,
+        "issue_id": 696367,
         "order": 2,
-        "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Republic_-_Obi-Wan_Kenobi_1",
-        "title": "Age of Republic - Obi-Wan Kenobi 1"
+        "series_id": 116265
       },
       {
         "issue_id": 700149,
@@ -7972,10 +7955,9 @@
         "series_id": 116987
       },
       {
-        "issue_id": null,
+        "issue_id": 702473,
         "order": 4,
-        "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Republic_-_Padm%C3%A9_Amidala_1",
-        "title": "Age of Republic - Padmé Amidala 1"
+        "series_id": 117471
       },
       {
         "issue_id": 694926,
@@ -7983,10 +7965,9 @@
         "series_id": 115909
       },
       {
-        "issue_id": null,
+        "issue_id": 696955,
         "order": 6,
-        "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Republic_-_Jango_Fett_1",
-        "title": "Age of Republic - Jango Fett 1"
+        "series_id": 116384
       },
       {
         "issue_id": 700686,
@@ -7999,13 +7980,12 @@
         "series_id": 117606
       },
       {
-        "issue_id": null,
+        "issue_id": 697644,
         "order": 9,
-        "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Republic_Special_1",
-        "title": "Age of Republic Special 1"
+        "series_id": 116514
       }
     ],
-    "has_unmatched_issues": true,
+    "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Age_of_Republic_(hardcover)",
     "series_id": [
       1764993490077
@@ -8013,7 +7993,7 @@
   },
   {
     "id": 1765010814477,
-    "title": "Star Wars: Age of Republic — Villains",
+    "title": "Age of Republic — Villains",
     "type": "Trade Paperback",
     "cover_url": "https://static.wikia.nocookie.net/starwars/images/f/f3/AgeofRepublic-Villains.jpg/revision/latest/scale-to-width-down/400?cb=20190626035005",
     "release_date": "05/07/2019",
@@ -8027,10 +8007,9 @@
         "series_id": 115909
       },
       {
-        "issue_id": null,
+        "issue_id": 696955,
         "order": 2,
-        "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Republic_-_Jango_Fett_1",
-        "title": "Age of Republic - Jango Fett 1"
+        "series_id": 116384
       },
       {
         "issue_id": 700686,
@@ -8043,19 +8022,13 @@
         "series_id": 117606
       },
       {
-        "issue_id": null,
+        "issue_id": 697644,
         "order": 5,
-        "wookieepedia_url": "https://starwars.fandom.com/wiki/Sisters",
-        "title": "Sisters"
-      },
-      {
-        "issue_id": null,
-        "order": 6,
-        "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Republic_Special_1",
-        "title": "Age of Republic Special 1"
+        "series_id": 116514,
+        "story_title": "Sisters"
       }
     ],
-    "has_unmatched_issues": true,
+    "has_unmatched_issues": false,
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars:_Age_of_Republic_%E2%80%94_Villains",
     "series_id": [
       1764993490077
