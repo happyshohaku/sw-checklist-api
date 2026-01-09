@@ -10742,6 +10742,110 @@
       "event": null
     }
   ],
+  "705929": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Concept Design Variant Cover",
+      "artist": "Iain McCaig",
+      "alt": "Star Wars: Age of Rebellion – Grand Moff Tarkin #1 Iain McCaig Concept Design Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9623810.jpg?1706350342"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Rebellion – Grand Moff Tarkin #1 Mike McKone Puzzle Piece Connecting Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Rebellion – Grand Moff Tarkin #1 Mike McKone Puzzle Piece Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1484524.jpg?1710701075",
+      "variant_type": [
+        "Connecting"
+      ]
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Rebellion – Grand Moff Tarkin #1 1:10 Movie Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Rebellion – Grand Moff Tarkin #1 1:10 Movie Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1030831.jpg?1730216507",
+      "ratio": "1:10",
+      "variant_type": [
+        "Movie"
+      ]
+    }
+  ],
+  "705930": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Concept Design Variant Cover",
+      "artist": "Paul LeBlanc",
+      "alt": "Star Wars: Age of Rebellion – Princess Leia #1 Paul LeBlanc Concept Design Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8407999.jpg?1755433572"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Rebellion – Princess Leia #1 Giuseppe Camuncoli Promo Variant",
+      "artist": "Giuseppe Camuncoli Promo",
+      "alt": "Star Wars: Age of Rebellion – Princess Leia #1 Giuseppe Camuncoli Promo Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6737917.jpg?1755433572"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Rebellion – Princess Leia #1 Mike McKone Puzzle Piece Connecting Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Rebellion – Princess Leia #1 Mike McKone Puzzle Piece Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3683837.jpg?1755433572",
+      "variant_type": [
+        "Connecting"
+      ]
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Rebellion – Princess Leia #1 1:10 Movie Photo Variant",
+      "artist": "Movie Photo",
+      "alt": "Star Wars: Age of Rebellion – Princess Leia #1 1:10 Movie Photo Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5594483.jpg?1755419214",
+      "ratio": "1:10",
+      "variant_type": [
+        "Movie",
+        "Photo"
+      ]
+    }
+  ],
+  "706419": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Marco Checchetto",
+      "alt": "Star Wars: Age of Rebellion Special #1 Marco Checchetto Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5838674.jpg?1722449933"
+    },
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Greatest Moments Variant Cover (Heroes of the Rebellion, #11 of 36)",
+      "artist": "Jen Bartel",
+      "alt": "Star Wars: Age of Rebellion Special #1 Jen Bartel Greatest Moments Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9454104.jpg?1722449933"
+    },
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Rebellion Special #1 Mike McKone Puzzle Piece Connecting Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Rebellion Special #1 Mike McKone Puzzle Piece Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3492021.jpg?1722449933",
+      "variant_type": [
+        "Connecting"
+      ]
+    }
+  ],
   "706420": [
     {
       "category": "Incentive Covers",
@@ -10885,6 +10989,106 @@
       "event": null
     }
   ],
+  "707524": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Concept Design Variant Cover",
+      "artist": "Ralph McQuarrie",
+      "alt": "Star Wars: Age of Rebellion – Han Solo #1 Ralph McQuarrie Concept Design Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7223241.jpg?1711219989"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Heroes Variant Cover",
+      "artist": "Gerald Parel",
+      "alt": "Star Wars: Age of Rebellion – Han Solo #1 Gerald Parel Heroes Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5209525.jpg?1711219989"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Rebellion – Han Solo #1 Mike McKone Puzzle Piece Connecting Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Rebellion – Han Solo #1 Mike McKone Puzzle Piece Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6384410.jpg?1711219989",
+      "variant_type": [
+        "Connecting"
+      ]
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Rebellion – Han Solo #1 Yasmine Putri Greatest Moments Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Rebellion – Han Solo #1 Yasmine Putri Greatest Moments Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2351782.jpg?1711219989"
+    },
+    {
+      "category": "Reprints",
+      "type": "Var",
+      "name": "Star Wars: Age of Rebellion – Han Solo #1 2nd Printing Chris Sprouse",
+      "artist": "",
+      "alt": "Star Wars: Age of Rebellion – Han Solo #1 2nd Printing Chris Sprouse",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5607468.jpg?1711220039",
+      "printing": "2nd Printing"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Rebellion – Han Solo #1 1:10 Movie Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Rebellion – Han Solo #1 1:10 Movie Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1332027.jpg?1711219989",
+      "ratio": "1:10",
+      "variant_type": [
+        "Movie"
+      ]
+    }
+  ],
+  "708140": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Concept Design Variant Cover",
+      "artist": "Ralph McQuarrie",
+      "alt": "Star Wars: Age of Rebellion – Boba Fett #1 Ralph McQuarrie Concept Design Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2859216.jpg?1748454281"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Rebellion – Boba Fett #1 Mike McKone Puzzle Piece Connecting Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Rebellion – Boba Fett #1 Mike McKone Puzzle Piece Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6913175.jpg?1748468589",
+      "variant_type": [
+        "Connecting"
+      ]
+    },
+    {
+      "category": "Reprints",
+      "type": "Var",
+      "name": "Star Wars: Age of Rebellion – Boba Fett #1 2nd Printing Marc Laming",
+      "artist": "",
+      "alt": "Star Wars: Age of Rebellion – Boba Fett #1 2nd Printing Marc Laming",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7723628.jpg?1725534319",
+      "printing": "2nd Printing"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Rebellion – Boba Fett #1 1:10 Movie Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Rebellion – Boba Fett #1 1:10 Movie Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7852211.jpg?1748468589",
+      "ratio": "1:10",
+      "variant_type": [
+        "Movie"
+      ]
+    }
+  ],
   "708142": [
     {
       "category": "Other Covers",
@@ -10945,6 +11149,39 @@
       "event": null
     }
   ],
+  "709211": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Concept Design Variant Cover",
+      "artist": "Nilo Rodis-Jamero",
+      "alt": "Star Wars: Age of Rebellion – Lando Calrissian #1 Nilo Rodis-Jamero Concept Design Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6592189.jpg?1729093577"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Rebellion – Lando Calrissian #1 Mike McKone Puzzle Piece Connecting Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Rebellion – Lando Calrissian #1 Mike McKone Puzzle Piece Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3883807.jpg?1729093537",
+      "variant_type": [
+        "Connecting"
+      ]
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Rebellion – Lando Calrissian #1 1:10 Movie Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Rebellion – Lando Calrissian #1 1:10 Movie Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3486484.jpg?1729093613",
+      "ratio": "1:10",
+      "variant_type": [
+        "Movie"
+      ]
+    }
+  ],
   "709214": [
     {
       "category": "Other Covers",
@@ -10954,6 +11191,47 @@
       "alt": "Star Wars: TIE Fighter #2 1:25 Jeff Langevin Character Variant",
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8146153.jpg?1750933108",
       "ratio": "1:25"
+    }
+  ],
+  "709726": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Concept Design Variant Cover",
+      "artist": "Nilo Rodis-Jamero",
+      "alt": "Star Wars: Age Of Rebellion - Jabba The Hutt #1 Nilo Rodis-Jamero Concept Design Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6987699.jpg?1734779377"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Villains Variant Cover",
+      "artist": "Gerald Parel",
+      "alt": "Star Wars: Age Of Rebellion - Jabba The Hutt #1 Gerald Parel Villains Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9355009.jpg?1734779377"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Age Of Rebellion - Jabba The Hutt #1 Mike McKone Puzzle Piece Connecting Variant",
+      "artist": "",
+      "alt": "Star Wars: Age Of Rebellion - Jabba The Hutt #1 Mike McKone Puzzle Piece Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8628739.jpg?1734779377",
+      "variant_type": [
+        "Connecting"
+      ]
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Age Of Rebellion - Jabba The Hutt #1 1:10 Movie Variant",
+      "artist": "",
+      "alt": "Star Wars: Age Of Rebellion - Jabba The Hutt #1 1:10 Movie Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1848188.jpg?1734779377",
+      "ratio": "1:10",
+      "variant_type": [
+        "Movie"
+      ]
     }
   ],
   "709727": [
@@ -10985,6 +11263,48 @@
       "alt": "Star Wars: Vader – Dark Visions #4 1:25 Riccardo Federici Variant",
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2435707.jpg?1734778420",
       "ratio": "1:25"
+    }
+  ],
+  "710694": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Concept Design Variant Cover",
+      "artist": "Ralph McQuarrie",
+      "alt": "Star Wars: Age of Rebellion – Luke Skywalker #1 Ralph McQuarrie Concept Design Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4159785.jpg?1734779381"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Rebellion – Luke Skywalker #1 Mike McKone Puzzle Piece Connecting Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Rebellion – Luke Skywalker #1 Mike McKone Puzzle Piece Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4126459.jpg?1734779381",
+      "variant_type": [
+        "Connecting"
+      ]
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Rebellion – Luke Skywalker #1 1:10 Movie Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Rebellion – Luke Skywalker #1 1:10 Movie Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6151011.jpg?1734779381",
+      "ratio": "1:10",
+      "variant_type": [
+        "Movie"
+      ]
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Rebellion – Luke Skywalker #1 1:100 Chris Sprouse Variant",
+      "artist": "Chris Sprouse",
+      "alt": "Star Wars: Age of Rebellion – Luke Skywalker #1 1:100 Chris Sprouse Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6820401.jpg?1734779381",
+      "ratio": "1:100"
     }
   ],
   "711331": [
@@ -11067,6 +11387,56 @@
       "ratio": "1:25"
     }
   ],
+  "712548": [
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Tommy Lee Edwards",
+      "alt": "Star Wars: Age of Rebellion – Darth Vader #1 1:100 Tommy Lee Edwards Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3138146.jpg?1738380882",
+      "ratio": "1:100"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Concept Design Variant Cover",
+      "artist": "Ralph McQuarrie",
+      "alt": "Star Wars: Age of Rebellion – Darth Vader #1 Ralph McQuarrie Concept Design Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8849804.jpg?1738380882"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Greatest Moments Variant Cover (The Cave (#18/36))",
+      "artist": "Gabriele Dell'Otto",
+      "alt": "Star Wars: Age of Rebellion – Darth Vader #1 Gabriele Dell'Otto Greatest Moments Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4453481.jpg?1738380882"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Rebellion – Darth Vader #1 Mike McKone Puzzle Piece Connecting Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Rebellion – Darth Vader #1 Mike McKone Puzzle Piece Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6791151.jpg?1738380882",
+      "variant_type": [
+        "Connecting"
+      ]
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Rebellion – Darth Vader #1 1:10 Movie Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Rebellion – Darth Vader #1 1:10 Movie Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7519636.jpg?1738380882",
+      "ratio": "1:10",
+      "variant_type": [
+        "Movie"
+      ]
+    }
+  ],
   "712550": [
     {
       "category": "Incentive Covers",
@@ -11085,6 +11455,79 @@
       "alt": "Star Wars: Galaxy's Edge #3 2nd Printing Will Sliney",
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9699360.jpg?1728078699",
       "printing": "2nd Printing"
+    }
+  ],
+  "713081": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Concept Design Variant Cover",
+      "artist": "Glyn Dillon",
+      "alt": "Star Wars: Age of Resistance – Finn #1 Glyn Dillon Concept Design Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4748047.jpg?1729542519"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Resistance – Finn #1 Giuseppe Camuncoli Promo Variant",
+      "artist": "Giuseppe Camuncoli Promo",
+      "alt": "Star Wars: Age of Resistance – Finn #1 Giuseppe Camuncoli Promo Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6123862.jpg?1729542549"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Resistance – Finn #1 Mike McKone Puzzle Piece Connecting Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Resistance – Finn #1 Mike McKone Puzzle Piece Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9406249.jpg?1729542469",
+      "variant_type": [
+        "Connecting"
+      ]
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Resistance – Finn #1 1:10 Movie Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Resistance – Finn #1 1:10 Movie Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5828499.jpg?1729542488",
+      "ratio": "1:10",
+      "variant_type": [
+        "Movie"
+      ]
+    }
+  ],
+  "713083": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Marco Checchetto",
+      "alt": "Star Wars: Target Vader #1 1:50 Marco Checchetto Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1240557.jpg?1730181987",
+      "ratio": "1:50"
+    },
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars: Target Vader #1 1:10 Movie Variant",
+      "artist": "",
+      "alt": "Star Wars: Target Vader #1 1:10 Movie Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3147677.jpg?1730181987",
+      "ratio": "1:10",
+      "variant_type": [
+        "Movie"
+      ]
+    },
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars: Target Vader #1 1:25 Carmen Carnero Design Variant",
+      "artist": "Carmen Carnero Design",
+      "alt": "Star Wars: Target Vader #1 1:25 Carmen Carnero Design Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5886510.jpg?1730181987",
+      "ratio": "1:25"
     }
   ],
   "713517": [
@@ -11132,6 +11575,39 @@
       "event": null
     }
   ],
+  "713518": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Resistance – Captain Phasma #1 Mike McKone Puzzle Piece Connecting Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Resistance – Captain Phasma #1 Mike McKone Puzzle Piece Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3219196.jpg?1750916499",
+      "variant_type": [
+        "Connecting"
+      ]
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Resistance – Captain Phasma #1 Tonči Zonjić Concept Design Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Resistance – Captain Phasma #1 Tonči Zonjić Concept Design Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1015630.jpg?1750916499"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Resistance – Captain Phasma #1 1:10 Movie Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Resistance – Captain Phasma #1 1:10 Movie Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6404268.jpg?1750916499",
+      "ratio": "1:10",
+      "variant_type": [
+        "Movie"
+      ]
+    }
+  ],
   "713865": [
     {
       "category": "Other Covers",
@@ -11173,6 +11649,27 @@
       ],
       "printing": null,
       "event": null
+    }
+  ],
+  "714673": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Resistance Special #1 Mike McKone Puzzle Piece Connecting Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Resistance Special #1 Mike McKone Puzzle Piece Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2306610.jpg?1729544382",
+      "variant_type": [
+        "Connecting"
+      ]
+    },
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Resistance Special #1 Patrick Zircher Greatest Moments Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Resistance Special #1 Patrick Zircher Greatest Moments Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4047256.jpg?1718926640"
     }
   ],
   "714674": [
@@ -11225,6 +11722,16 @@
       "event": null
     }
   ],
+  "716375": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars: Target Vader #2 John McCrea Variant",
+      "artist": "John McCrea",
+      "alt": "Star Wars: Target Vader #2 John McCrea Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5500348.jpg?1729361492"
+    }
+  ],
   "716971": [
     {
       "category": "Other Covers",
@@ -11258,6 +11765,80 @@
       "alt": "Star Wars: TIE Fighter #5 1:25 Yasmine Putri Variant",
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6914076.jpg?1750933259",
       "ratio": "1:25"
+    }
+  ],
+  "717530": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Resistance – General Hux #1 Kevin Jenkins Concept Design Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Resistance – General Hux #1 Kevin Jenkins Concept Design Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3248706.jpg?1750916574"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Resistance – General Hux #1 Mike McKone Puzzle Piece Connecting Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Resistance – General Hux #1 Mike McKone Puzzle Piece Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7162184.jpg?1750916574",
+      "variant_type": [
+        "Connecting"
+      ]
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Resistance – General Hux #1 1:10 Movie Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Resistance – General Hux #1 1:10 Movie Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5831122.jpg?1750916574",
+      "ratio": "1:10",
+      "variant_type": [
+        "Movie"
+      ]
+    }
+  ],
+  "717531": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Concept Design Variant Cover",
+      "artist": "Glyn Dillon",
+      "alt": "Star Wars: Age of Resistance – Poe Dameron #1 Glyn Dillon Concept Design Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4789814.jpg?1750916556"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Greatest Moments Variant Cover (Forest Chase, #23/36)",
+      "artist": "Chris Samnee",
+      "alt": "Star Wars: Age of Resistance – Poe Dameron #1 Chris Samnee Greatest Moments Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6500858.jpg?1750916556"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Resistance – Poe Dameron #1 Mike McKone Puzzle Piece Connecting Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Resistance – Poe Dameron #1 Mike McKone Puzzle Piece Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6262927.jpg?1750916556",
+      "variant_type": [
+        "Connecting"
+      ]
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Resistance – Poe Dameron #1 1:10 Movie Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Resistance – Poe Dameron #1 1:10 Movie Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8640810.jpg?1750916556",
+      "ratio": "1:10",
+      "variant_type": [
+        "Movie"
+      ]
     }
   ],
   "717532": [
@@ -11310,6 +11891,65 @@
       "event": null
     }
   ],
+  "718135": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Game Variant Cover",
+      "artist": "Game Art",
+      "alt": "Star Wars: Jedi Fallen Order – Dark Temple #1 1:10 Jean-Francois Rey Video Game Art Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2932427.jpg?1753542354",
+      "ratio": "1:10"
+    }
+  ],
+  "718766": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Resistance – Supreme Leader Snoke #1 Mike McKone Puzzle Piece Connecting Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Resistance – Supreme Leader Snoke #1 Mike McKone Puzzle Piece Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4410300.jpg?1734779263",
+      "variant_type": [
+        "Connecting"
+      ]
+    }
+  ],
+  "719444": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Resistance – Rey #1 Mike McKone Puzzle Piece Connecting Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Resistance – Rey #1 Mike McKone Puzzle Piece Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7294164.jpg?1761260791",
+      "variant_type": [
+        "Connecting"
+      ]
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Resistance – Rey #1 1:50 Joe Quesada Variant",
+      "artist": "Joe Quesada",
+      "alt": "Star Wars: Age of Resistance – Rey #1 1:50 Joe Quesada Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2937742.jpg?1761260791",
+      "ratio": "1:50"
+    }
+  ],
+  "719445": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Resistance – Rose Tico #1 Mike McKone Puzzle Piece Connecting Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Resistance – Rose Tico #1 Mike McKone Puzzle Piece Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5243068.jpg?1766714582",
+      "variant_type": [
+        "Connecting"
+      ]
+    }
+  ],
   "719446": [
     {
       "category": "Other Covers",
@@ -11325,6 +11965,39 @@
       "event": null
     }
   ],
+  "720172": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Resistance – Kylo Ren #1 Mike McKone Puzzle Piece Connecting Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Resistance – Kylo Ren #1 Mike McKone Puzzle Piece Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7941621.jpg?1734779279",
+      "variant_type": [
+        "Connecting"
+      ]
+    },
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars: Age of Resistance – Kylo Ren #1 Ron Frenz Greatest Moments Variant",
+      "artist": "",
+      "alt": "Star Wars: Age of Resistance – Kylo Ren #1 Ron Frenz Greatest Moments Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5048633.jpg?1734779279"
+    }
+  ],
+  "720173": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars: Jedi Fallen Order – Dark Temple #2 1:10 Jordan Lamarre-Wan & Theo Stylianides Video Game Art Variant",
+      "artist": "",
+      "alt": "Star Wars: Jedi Fallen Order – Dark Temple #2 1:10 Jordan Lamarre-Wan & Theo Stylianides Video Game Art Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6110520.jpg?1753542496",
+      "ratio": "1:10"
+    }
+  ],
+  "720174": [],
   "721162": [
     {
       "category": "Other Covers",
@@ -11364,7 +12037,7 @@
       "name": "Variant Cover",
       "artist": "Brian Stelfreeze",
       "alt": "Star Wars: Allegiance #1 Brian Stelfreeze Variant",
-      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4192500.jpg?1742551980"
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4192500.jpg?1766533227"
     },
     {
       "category": "Open Order Covers",
@@ -11372,7 +12045,7 @@
       "name": "Star Wars: Allegiance #1 Movie Variant",
       "artist": "",
       "alt": "Star Wars: Allegiance #1 Movie Variant",
-      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5085557.jpg?1742551980",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5085557.jpg?1766533227",
       "variant_type": [
         "Movie"
       ]
@@ -11383,9 +12056,21 @@
       "name": "Star Wars: Allegiance #1 Walmart Variant",
       "artist": "Walmart",
       "alt": "Star Wars: Allegiance #1 Walmart Variant",
-      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1295360.jpg?1742551980"
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1295360.jpg?1766533227"
     }
   ],
+  "721790": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars: Jedi Fallen Order – Dark Temple #3 1:10 Paolo Villanelli Variant",
+      "artist": "Paolo Villanelli",
+      "alt": "Star Wars: Jedi Fallen Order – Dark Temple #3 1:10 Paolo Villanelli Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8267625.jpg?1734779258",
+      "ratio": "1:10"
+    }
+  ],
+  "721791": [],
   "723115": [
     {
       "category": "Open Order Covers",
@@ -11557,6 +12242,18 @@
       "event": null
     }
   ],
+  "727269": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars: Jedi Fallen Order – Dark Temple #4 1:10 Paolo Villanelli Variant",
+      "artist": "Paolo Villanelli",
+      "alt": "Star Wars: Jedi Fallen Order – Dark Temple #4 1:10 Paolo Villanelli Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9966113.jpg?1734779258",
+      "ratio": "1:10"
+    }
+  ],
+  "727270": [],
   "728430": [
     {
       "category": "Open Order Covers",
@@ -11628,6 +12325,17 @@
       "event": null
     }
   ],
+  "729686": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Paul Renaud",
+      "alt": "Star Wars: Jedi Fallen Order – Dark Temple #5 1:10 Paul Renaud Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6914041.jpg?1734779258",
+      "ratio": "1:10"
+    }
+  ],
   "730346": [
     {
       "category": "Other Covers",
@@ -11641,6 +12349,68 @@
       "variant_type": null,
       "printing": null,
       "event": null
+    }
+  ],
+  "730347": [],
+  "731528": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover (Ben Solo)",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars: The Rise of Kylo Ren #1 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5753024.jpg?1743527145",
+      "variant_type": [
+        "Action Figure"
+      ]
+    },
+    {
+      "category": "Reprints",
+      "type": "Var",
+      "name": "Star Wars: The Rise of Kylo Ren #1 2nd Printing",
+      "artist": "",
+      "alt": "Star Wars: The Rise of Kylo Ren #1 2nd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5626406.jpg?1726572430",
+      "printing": "2nd Printing"
+    },
+    {
+      "category": "Reprints",
+      "type": "Var",
+      "name": "Star Wars: The Rise of Kylo Ren #1 3rd Printing",
+      "artist": "",
+      "alt": "Star Wars: The Rise of Kylo Ren #1 3rd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9304075.jpg?1726572435",
+      "printing": "3rd Printing"
+    },
+    {
+      "category": "Reprints",
+      "type": "Var",
+      "name": "Star Wars: The Rise of Kylo Ren #1 4th Printing",
+      "artist": "",
+      "alt": "Star Wars: The Rise of Kylo Ren #1 4th Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3244756.jpg?1726572440",
+      "printing": "4th Printing"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: The Rise of Kylo Ren #1 1:10 Movie Variant",
+      "artist": "",
+      "alt": "Star Wars: The Rise of Kylo Ren #1 1:10 Movie Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8171236.jpg?1743527145",
+      "ratio": "1:10",
+      "variant_type": [
+        "Movie"
+      ]
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: The Rise of Kylo Ren #1 1:25 Carmen Carnero Variant",
+      "artist": "Carmen Carnero",
+      "alt": "Star Wars: The Rise of Kylo Ren #1 1:25 Carmen Carnero Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5827263.jpg?1743527145",
+      "ratio": "1:25"
     }
   ],
   "731978": [
@@ -11781,6 +12551,35 @@
       "event": null
     }
   ],
+  "732891": [
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Jodie Muir",
+      "alt": "Star Wars: The Rise of Kylo Ren #2 1:25 Jodie Muir Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5172390.jpg?1743527723",
+      "ratio": "1:25"
+    },
+    {
+      "category": "Reprints",
+      "type": "2nd",
+      "name": "Second Printing Variant Cover",
+      "artist": "?",
+      "alt": "Star Wars: The Rise of Kylo Ren #2 2nd Printing Will Sliney",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4422120.jpg?1709504875",
+      "printing": "2nd Printing"
+    },
+    {
+      "category": "Reprints",
+      "type": "3rd",
+      "name": "Third Printing Variant Cover",
+      "artist": "Clayton Crain",
+      "alt": "Star Wars: The Rise of Kylo Ren #2 3rd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1380257.jpg?1726572424",
+      "printing": "3rd Printing"
+    }
+  ],
   "735530": [
     {
       "category": "Incentive Covers",
@@ -11902,6 +12701,26 @@
       "variant_type": null,
       "printing": null,
       "event": null
+    }
+  ],
+  "737168": [
+    {
+      "category": "Reprints",
+      "type": "2nd",
+      "name": "Second Printing Variant Cover",
+      "artist": "?",
+      "alt": "Star Wars: The Rise of Kylo Ren #3 2nd Printing Will Sliney",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4162078.jpg?1709506006",
+      "printing": "2nd Printing"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: The Rise of Kylo Ren #3 1:25 Stefano Landini Variant",
+      "artist": "Stefano Landini",
+      "alt": "Star Wars: The Rise of Kylo Ren #3 1:25 Stefano Landini Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2716117.jpg?1743527468",
+      "ratio": "1:25"
     }
   ],
   "738620": [
@@ -12061,6 +12880,17 @@
       "variant_type": null,
       "printing": null,
       "event": null
+    }
+  ],
+  "740827": [
+    {
+      "category": "Other Covers",
+      "type": "Var",
+      "name": "Star Wars: The Rise of Kylo Ren #4 1:25 Giuseppe Camuncoli Variant",
+      "artist": "Giuseppe Camuncoli",
+      "alt": "Star Wars: The Rise of Kylo Ren #4 1:25 Giuseppe Camuncoli Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3570924.jpg?1743527697",
+      "ratio": "1:25"
     }
   ],
   "742378": [
@@ -13582,6 +14412,517 @@
       "event": null
     }
   ],
+  "847502": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover (Boba Fett: Black Armor)",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7993320.jpg?1747600418",
+      "variant_type": [
+        "Action Figure"
+      ]
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 Leinil Francis Yu Variant",
+      "artist": "Leinil Francis Yu",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 Leinil Francis Yu Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6424655.jpg?1747586034"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 Steve McNiven Crimson Variant",
+      "artist": "Steve McNiven Crimson",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 Steve McNiven Crimson Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6500274.jpg?1747586048"
+    },
+    {
+      "category": "Reprints",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 2nd Printing",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 2nd Printing",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9715329.jpg?1747586061",
+      "printing": "2nd Printing"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 1:50 Steve McNiven Black Armor Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 1:50 Steve McNiven Black Armor Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8182502.jpg?1747586105",
+      "ratio": "1:50"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 616 Comics Giuseppe Camuncoli Virgin Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 616 Comics Giuseppe Camuncoli Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8342551.jpg?1748043877",
+      "variant_type": [
+        "Virgin"
+      ]
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 Big Time Collectibles / Slab City Comics Chris Sprouse Variant",
+      "artist": "Sprouse",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 Big Time Collectibles / Slab City Comics Chris Sprouse Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6072226.jpg?1747586117",
+      "retailer": "Big Time Collectibles, Slab City Comics Chris Sprouse Variant"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 Big Time Collectibles / Slab City Comics Chris Sprouse Virgin Variant",
+      "artist": "Virgin",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 Big Time Collectibles / Slab City Comics Chris Sprouse Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3396821.jpg?1747586121",
+      "retailer": "Big Time Collectibles, Slab City Comics Chris Sprouse Virgin Variant",
+      "variant_type": [
+        "Virgin"
+      ]
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 Bird City Comics / Jolzar Collectibles Giuseppe Camuncoli Variant",
+      "artist": "Camuncoli",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 Bird City Comics / Jolzar Collectibles Giuseppe Camuncoli Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6109200.jpg?1748043973",
+      "retailer": "Bird City Comics, Jolzar Collectibles Giuseppe Camuncoli Variant"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 Black Flag Comics Clayton Crain Road Tour Virgin Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 Black Flag Comics Clayton Crain Road Tour Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9068272.jpg?1747586126",
+      "variant_type": [
+        "Virgin"
+      ]
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 Black Flag Comics Clayton Crain Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 Black Flag Comics Clayton Crain Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8104794.jpg?1747586131"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 Black Flag Comics Clayton Crain Virgin Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 Black Flag Comics Clayton Crain Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5858185.jpg?1747586136",
+      "variant_type": [
+        "Virgin"
+      ]
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 ComicBookExclusives Ramón Bachs Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 ComicBookExclusives Ramón Bachs Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4419508.jpg?1747586140"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 ComicBookExclusives Ramón Bachs Virgin Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 ComicBookExclusives Ramón Bachs Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8883394.jpg?1747586145",
+      "variant_type": [
+        "Virgin"
+      ]
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 Comic Kingdom of Canada Minkyu Jung Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 Comic Kingdom of Canada Minkyu Jung Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7408239.jpg?1747586149"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 Comic Kingdom of Canada Minkyu Jung Virgin Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 Comic Kingdom of Canada Minkyu Jung Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3304498.jpg?1747586153",
+      "variant_type": [
+        "Virgin"
+      ]
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 Comics Elite / Comic Kingdom of Canada Todd Nauck Variant",
+      "artist": "Nauck",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 Comics Elite / Comic Kingdom of Canada Todd Nauck Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8016478.jpg?1747586169",
+      "retailer": "Comics Elite, Comic Kingdom"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 Comics Elite / Comic Kingdom of Canada Todd Nauck Virgin Variant",
+      "artist": "Virgin",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 Comics Elite / Comic Kingdom of Canada Todd Nauck Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6210017.jpg?1747586239",
+      "retailer": "Comics Elite, Comic Kingdom",
+      "variant_type": [
+        "Virgin"
+      ]
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 Devil Dog Comics Carlo Pagulayan Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 Devil Dog Comics Carlo Pagulayan Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5400103.jpg?1747586244"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 Devil Dog Comics Carlo Pagulayan Virgin Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 Devil Dog Comics Carlo Pagulayan Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7561567.jpg?1747586249",
+      "variant_type": [
+        "Virgin"
+      ]
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 East Side Comics InHyuk Lee Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 East Side Comics InHyuk Lee Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3753555.jpg?1747586255"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 East Side Comics InHyuk Lee Virgin Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 East Side Comics InHyuk Lee Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1213543.jpg?1747586259",
+      "variant_type": [
+        "Virgin"
+      ]
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 EliteComics11 Neal Adams Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 EliteComics11 Neal Adams Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7713403.jpg?1747586265"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 EliteComics11 Neal Adams Virgin Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 EliteComics11 Neal Adams Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8032996.jpg?1747586269",
+      "variant_type": [
+        "Virgin"
+      ]
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 Frankie's Comics Khoi Pham Variant",
+      "artist": "Khoi Pham",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 Frankie's Comics Khoi Pham Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2691670.jpg?1747586274",
+      "retailer": "Frankie's Comics"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 Frankie's Comics Khoi Pham Virgin Variant",
+      "artist": "Khoi Pham",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 Frankie's Comics Khoi Pham Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4183722.jpg?1747586279",
+      "retailer": "Frankie's Comics",
+      "variant_type": [
+        "Virgin"
+      ]
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 Gotham Central Comics Ken Lashley Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 Gotham Central Comics Ken Lashley Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4232659.jpg?1747586283"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 Gotham Central Comics Ken Lashley Virgin Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 Gotham Central Comics Ken Lashley Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4888981.jpg?1747586287",
+      "variant_type": [
+        "Virgin"
+      ]
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 IGComicStore Erik M. Gist Virgin Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 IGComicStore Erik M. Gist Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7348530.jpg?1747586291",
+      "variant_type": [
+        "Virgin"
+      ]
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 Izzy's Comics / Comic Book Dealer Stefano Landini Minimal Trade Dress Variant",
+      "artist": "Dress",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 Izzy's Comics / Comic Book Dealer Stefano Landini Minimal Trade Dress Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7608565.jpg?1747586311"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 Izzy's Comics / Comic Book Dealer Stefano Landini Variant",
+      "artist": "Landini",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 Izzy's Comics / Comic Book Dealer Stefano Landini Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7430854.jpg?1747586316"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 Izzy's Comics / Comic Book Dealer Stefano Landini Virgin Variant",
+      "artist": "Virgin",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 Izzy's Comics / Comic Book Dealer Stefano Landini Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6428178.jpg?1747586321",
+      "variant_type": [
+        "Virgin"
+      ]
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 Jetpack Comics Will Sliney Connecting Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 Jetpack Comics Will Sliney Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5252542.jpg?1748051933",
+      "variant_type": [
+        "Connecting"
+      ]
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 Limited Edition Comics Marco Turini Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 Limited Edition Comics Marco Turini Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7807916.jpg?1747586330"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 Limited Edition Comics Marco Turini Virgin Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 Limited Edition Comics Marco Turini Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9181909.jpg?1747586335",
+      "variant_type": [
+        "Virgin"
+      ]
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 Mega Gaming and Comics David López Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 Mega Gaming and Comics David López Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9311894.jpg?1747586341"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 Mega Gaming and Comics David López Virgin Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 Mega Gaming and Comics David López Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3791331.jpg?1747586346",
+      "variant_type": [
+        "Virgin"
+      ]
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 Mike Mayhew Webstore Gold Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 Mike Mayhew Webstore Gold Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4318393.jpg?1747586352"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 Mike Mayhew Webstore Variant",
+      "artist": "Mike Mayhew Webstore",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 Mike Mayhew Webstore Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5300271.jpg?1747586358"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 Mike Mayhew Webstore Virgin Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 Mike Mayhew Webstore Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3372531.jpg?1747586362",
+      "variant_type": [
+        "Virgin"
+      ]
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 Scorpion Comics Sara Pichelli Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 Scorpion Comics Sara Pichelli Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2524917.jpg?1747586366"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 Scorpion Comics Sara Pichelli Virgin Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 Scorpion Comics Sara Pichelli Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4599670.jpg?1747586371",
+      "variant_type": [
+        "Virgin"
+      ]
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 State of Comics / One Stop Shop Comics Phil Noto Variant",
+      "artist": "Noto",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 State of Comics / One Stop Shop Comics Phil Noto Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1499698.jpg?1747586376"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 TFAW Bernard Chang Variant",
+      "artist": "TFAW Bernard Chang",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 TFAW Bernard Chang Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3475003.jpg?1747586383"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 The Comic Mint Paolo Villanelli Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 The Comic Mint Paolo Villanelli Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2364428.jpg?1747586436"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 Two Twenty-One Comics / Kowabunga Comics Jan Duursema Variant",
+      "artist": "Duursema",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 Two Twenty-One Comics / Kowabunga Comics Jan Duursema Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6566280.jpg?1747586440"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 Two Twenty-One Comics / Kowabunga Comics Jan Duursema Virgin Variant",
+      "artist": "Virgin",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 Two Twenty-One Comics / Kowabunga Comics Jan Duursema Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7777870.jpg?1747586445",
+      "variant_type": [
+        "Virgin"
+      ]
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 Ultimate Comics Tommy Lee Edwards Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 Ultimate Comics Tommy Lee Edwards Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4534427.jpg?1747586450"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 Ultimate Comics Tommy Lee Edwards Virgin Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 Ultimate Comics Tommy Lee Edwards Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8566611.jpg?1747586454",
+      "variant_type": [
+        "Virgin"
+      ]
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 Unknown Comics / Street Level Hero / Comic Traders David Nakayama Variant",
+      "artist": "David Nakayama",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 Unknown Comics / Street Level Hero / Comic Traders David Nakayama Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7567831.jpg?1748234681",
+      "retailer": "Unknown Comics, Street Level Hero, Comic Traders David Nakayama Variant"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 Unknown Comics / Street Level Hero / Comic Traders David Nakayama Virgin Variant",
+      "artist": "David Nakayama",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 Unknown Comics / Street Level Hero / Comic Traders David Nakayama Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5908336.jpg?1748234726",
+      "retailer": "Unknown Comics, Street Level Hero, Comic Traders David Nakayama Virgin Variant",
+      "variant_type": [
+        "Virgin"
+      ]
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 Unknown Comics / Street Level Hero / Comic Traders Mico Suayan Variant",
+      "artist": "Mico Suayan",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 Unknown Comics / Street Level Hero / Comic Traders Mico Suayan Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7150586.jpg?1747586468",
+      "retailer": "Unknown Comics, Street Level Hero, Comic Traders Mico Suayan Variant"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters Alpha #1 Unknown Comics / Street Level Hero / Comic Traders Mico Suayan Virgin Variant",
+      "artist": "Mico Suayan",
+      "alt": "Star Wars: War of the Bounty Hunters Alpha #1 Unknown Comics / Street Level Hero / Comic Traders Mico Suayan Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4513468.jpg?1747586473",
+      "retailer": "Unknown Comics, Street Level Hero, Comic Traders Mico Suayan Virgin Variant",
+      "variant_type": [
+        "Virgin"
+      ]
+    }
+  ],
   "848845": [
     {
       "category": "Open Order Covers",
@@ -13844,6 +15185,306 @@
       "variant_type": [
         "Virgin"
       ]
+    }
+  ],
+  "857592": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Pride Month Variant Cover (Doctor Aphra)",
+      "artist": "Babs Tarr",
+      "alt": "Star Wars: War of the Bounty Hunters #1 Babs Tarr Pride Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5864162.jpg?1711106503"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover (Boba Fett)",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars: War of the Bounty Hunters #1 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9927191.jpg?1711106839",
+      "variant_type": [
+        "Action Figure"
+      ]
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #1 Giuseppe Camuncoli Wraparound Variant",
+      "artist": "Giuseppe Camuncoli Wraparound",
+      "alt": "Star Wars: War of the Bounty Hunters #1 Giuseppe Camuncoli Wraparound Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7278382.jpg?1711106559"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #1 Sara Pichelli Variant",
+      "artist": "Sara Pichelli",
+      "alt": "Star Wars: War of the Bounty Hunters #1 Sara Pichelli Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4247693.jpg?1711106803"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #1 1:25 John Cassaday Trading Card Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters #1 1:25 John Cassaday Trading Card Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8590302.jpg?1711106701",
+      "ratio": "1:25"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #1 1:25 Leinil Francis Yu Variant",
+      "artist": "Leinil Francis Yu",
+      "alt": "Star Wars: War of the Bounty Hunters #1 1:25 Leinil Francis Yu Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7438767.jpg?1711106626",
+      "ratio": "1:25"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #1 1:50 Pepe Larraz Variant",
+      "artist": "Pepe Larraz",
+      "alt": "Star Wars: War of the Bounty Hunters #1 1:50 Pepe Larraz Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4775069.jpg?1711106754",
+      "ratio": "1:50"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #1 616 Comics / Jolzar Collectibles Paolo Villanelli Variant",
+      "artist": "Villanelli",
+      "alt": "Star Wars: War of the Bounty Hunters #1 616 Comics / Jolzar Collectibles Paolo Villanelli Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2749639.jpg?1748047220"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #1 616 Comics / Jolzar Collectibles Paolo Villanelli Virgin Variant",
+      "artist": "Virgin",
+      "alt": "Star Wars: War of the Bounty Hunters #1 616 Comics / Jolzar Collectibles Paolo Villanelli Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3830942.jpg?1748047273",
+      "variant_type": [
+        "Virgin"
+      ]
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #1 Big Time Collectibles / Slab City Comics Mico Suayan Variant",
+      "artist": "Suayan",
+      "alt": "Star Wars: War of the Bounty Hunters #1 Big Time Collectibles / Slab City Comics Mico Suayan Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2192577.jpg?1748050950",
+      "retailer": "Big Time Collectibles, Slab City Comics Mico Suayan Variant"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #1 Big Time Collectibles / Slab City Comics Mico Suayan Virgin Variant",
+      "artist": "Virgin",
+      "alt": "Star Wars: War of the Bounty Hunters #1 Big Time Collectibles / Slab City Comics Mico Suayan Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8727256.jpg?1748050975",
+      "retailer": "Big Time Collectibles, Slab City Comics Mico Suayan Virgin Variant",
+      "variant_type": [
+        "Virgin"
+      ]
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #1 Comic Kingdom of Canada / Comics Elite Todd Nauck Variant",
+      "artist": "Nauck",
+      "alt": "Star Wars: War of the Bounty Hunters #1 Comic Kingdom of Canada / Comics Elite Todd Nauck Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6356703.jpg?1748050719"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #1 Comic Kingdom of Canada / Comics Elite Todd Nauck Virgin Variant",
+      "artist": "Virgin",
+      "alt": "Star Wars: War of the Bounty Hunters #1 Comic Kingdom of Canada / Comics Elite Todd Nauck Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7866595.jpg?1748050727",
+      "variant_type": [
+        "Virgin"
+      ]
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #1 Frankie's Comics Tyler Kirkham Variant",
+      "artist": "Tyler Kirkham",
+      "alt": "Star Wars: War of the Bounty Hunters #1 Frankie's Comics Tyler Kirkham Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7927245.jpg?1748050450",
+      "retailer": "Frankie's Comics"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #1 Frankie's Comics Tyler Kirkham Virgin Variant",
+      "artist": "Tyler Kirkham",
+      "alt": "Star Wars: War of the Bounty Hunters #1 Frankie's Comics Tyler Kirkham Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1582083.jpg?1748050435",
+      "retailer": "Frankie's Comics",
+      "variant_type": [
+        "Virgin"
+      ]
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #1 Jetpack Comics Will Sliney Connecting Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters #1 Jetpack Comics Will Sliney Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3380471.jpg?1748051967",
+      "variant_type": [
+        "Connecting"
+      ]
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #1 Mike Mayhew Webstore Variant",
+      "artist": "Mike Mayhew Webstore",
+      "alt": "Star Wars: War of the Bounty Hunters #1 Mike Mayhew Webstore Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3737912.jpg?1748049826"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #1 Mike Mayhew Webstore Virgin Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters #1 Mike Mayhew Webstore Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1221772.jpg?1748049808",
+      "variant_type": [
+        "Virgin"
+      ]
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #1 Rupps Comics / Brian Rood Webstore Variant",
+      "artist": "Webstore",
+      "alt": "Star Wars: War of the Bounty Hunters #1 Rupps Comics / Brian Rood Webstore Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1420664.jpg?1748049489",
+      "retailer": "Rupps Comics, Brian Rood Webstore Variant"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #1 Rupps Comics / Brian Rood Webstore Virgin Variant",
+      "artist": "Virgin",
+      "alt": "Star Wars: War of the Bounty Hunters #1 Rupps Comics / Brian Rood Webstore Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4194205.jpg?1748049583",
+      "retailer": "Rupps Comics, Brian Rood Webstore Virgin Variant",
+      "variant_type": [
+        "Virgin"
+      ]
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #1 Scorpion Comics Carlo Pagulayan Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters #1 Scorpion Comics Carlo Pagulayan Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1144317.jpg?1748049333"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #1 Scorpion Comics Carlo Pagulayan Virgin Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters #1 Scorpion Comics Carlo Pagulayan Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1286893.jpg?1748049340",
+      "variant_type": [
+        "Virgin"
+      ]
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #1 Shattered Comics / Diamond International Galleries Matthew DiMasi Variant",
+      "artist": "DiMasi",
+      "alt": "Star Wars: War of the Bounty Hunters #1 Shattered Comics / Diamond International Galleries Matthew DiMasi Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5128514.jpg?1748048705",
+      "retailer": "Shattered Comics, Diamond International Galleries Matthew Di"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #1 Shattered Comics / Elite Comics 11 Matthew DiMasi Color Splash Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters #1 Shattered Comics / Elite Comics 11 Matthew DiMasi Color Splash Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8212054.jpg?1748048677",
+      "retailer": "Shattered Comics, Elite Comics"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #1 Sunset Comix David López Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters #1 Sunset Comix David López Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5358199.jpg?1748047663"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #1 Sunset Comix David López Virgin Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters #1 Sunset Comix David López Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6395712.jpg?1748047608",
+      "variant_type": [
+        "Virgin"
+      ]
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #1 Ultimate Comics John McCrea Black & White Virgin Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters #1 Ultimate Comics John McCrea Black & White Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7077288.jpg?1748046792",
+      "variant_type": [
+        "Virgin",
+        "Black & White"
+      ]
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #1 Ultimate Comics John McCrea Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters #1 Ultimate Comics John McCrea Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2602528.jpg?1748046751"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #1 Unknown Comics / Street Level Hero / Comic Traders Jan Duursema Variant",
+      "artist": "Jan Duursema",
+      "alt": "Star Wars: War of the Bounty Hunters #1 Unknown Comics / Street Level Hero / Comic Traders Jan Duursema Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3332581.jpg?1748050136",
+      "retailer": "Unknown Comics, Street Level Hero, Comic Traders Jan Duursema Variant"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #1 Unknown Comics / Street Level Hero / Comic Traders Jan Duursema Virgin Variant",
+      "artist": "Jan Duursema",
+      "alt": "Star Wars: War of the Bounty Hunters #1 Unknown Comics / Street Level Hero / Comic Traders Jan Duursema Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6292077.jpg?1748050192",
+      "retailer": "Unknown Comics, Street Level Hero, Comic Traders Jan Duursema Virgin Variant",
+      "variant_type": [
+        "Virgin"
+      ]
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #1 Walmart Steve McNiven Variant",
+      "artist": "Walmart Steve McNiven",
+      "alt": "Star Wars: War of the Bounty Hunters #1 Walmart Steve McNiven Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9989996.jpg?1748044104"
     }
   ],
   "858870": [
@@ -14134,6 +15775,77 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5183789.jpg?1721039049"
     }
   ],
+  "871550": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #2 Camuncoli Headshot Variant",
+      "artist": "Camuncoli Headshot",
+      "alt": "Star Wars: War of the Bounty Hunters #2 Camuncoli Headshot Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5142019.jpg?1701610660"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #2 Christopher Action Figure Variant",
+      "artist": "Christopher Action Figure",
+      "alt": "Star Wars: War of the Bounty Hunters #2 Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5300470.jpg?1701555888",
+      "variant_type": [
+        "Action Figure"
+      ]
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #2 Todd Nauck Variant A",
+      "artist": "Todd Nauck",
+      "alt": "Star Wars: War of the Bounty Hunters #2 Todd Nauck Variant A",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3169376.jpg?1701555959"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #2 Todd Nauck Variant B",
+      "artist": "Todd Nauck",
+      "alt": "Star Wars: War of the Bounty Hunters #2 Todd Nauck Variant B",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7915427.jpg?1701555965"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #2 Tyler Kirkham Variant A",
+      "artist": "Tyler Kirkham",
+      "alt": "Star Wars: War of the Bounty Hunters #2 Tyler Kirkham Variant A",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9071405.jpg?1701555943"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #2 Tyler Kirkham Variant B",
+      "artist": "Tyler Kirkham",
+      "alt": "Star Wars: War of the Bounty Hunters #2 Tyler Kirkham Variant B",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6248590.jpg?1701555949"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #2 1:25 Trading Card Variant",
+      "artist": "Trading Card",
+      "alt": "Star Wars: War of the Bounty Hunters #2 1:25 Trading Card Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3053710.jpg?1701573878",
+      "ratio": "1:25"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #2 1:50 Checchetto Variant",
+      "artist": "Checchetto",
+      "alt": "Star Wars: War of the Bounty Hunters #2 1:50 Checchetto Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9950475.jpg?1701573878",
+      "ratio": "1:50"
+    }
+  ],
   "872863": [
     {
       "category": "Other Covers",
@@ -14393,6 +16105,127 @@
       "event": null
     }
   ],
+  "880895": [
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Declan Shalvey",
+      "alt": "Star Wars: War of the Bounty Hunters #3 1:50 Declan Shalvey Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4140502.jpg?1701616498",
+      "ratio": "1:50"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover (Dengar)",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars: War of the Bounty Hunters #3 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6431216.jpg?1701616698",
+      "variant_type": [
+        "Action Figure"
+      ]
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #3 Wanted Poster Variant",
+      "artist": "Wanted Poster",
+      "alt": "Star Wars: War of the Bounty Hunters #3 Wanted Poster Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8987239.jpg?1701634429"
+    },
+    {
+      "category": "Reprints",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #3 2nd Printing Luke Ross",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters #3 2nd Printing Luke Ross",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7185509.jpg?1701616668",
+      "printing": "2nd Printing"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #3 1:25 John Cassaday Trading Card Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters #3 1:25 John Cassaday Trading Card Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6152317.jpg?1701634429",
+      "ratio": "1:25"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #3 616 Comics Jonboy Meyers Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters #3 616 Comics Jonboy Meyers Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7523488.jpg?1701617266"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #3 616 Comics Jonboy Meyers Virgin Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters #3 616 Comics Jonboy Meyers Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7199593.jpg?1701617282",
+      "variant_type": [
+        "Virgin"
+      ]
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #3 Comic Kingdom Creative Todd Nauck Connecting Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters #3 Comic Kingdom Creative Todd Nauck Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7973262.jpg?1701618605",
+      "variant_type": [
+        "Connecting"
+      ]
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #3 Comic Kingdom Creative Todd Nauck Connecting Virgin Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters #3 Comic Kingdom Creative Todd Nauck Connecting Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6920362.jpg?1701618618",
+      "variant_type": [
+        "Virgin",
+        "Connecting"
+      ]
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #3 IGComicstore Erik M. Gist Virgin Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters #3 IGComicstore Erik M. Gist Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3285249.jpg?1701616820",
+      "variant_type": [
+        "Virgin"
+      ]
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #3 Tyler Kirkham Webstore Virgin Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters #3 Tyler Kirkham Webstore Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5358953.jpg?1701618101",
+      "variant_type": [
+        "Virgin"
+      ]
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #3 Unknown Comics / Street Level Hero / Comic Traders Tyler Kirkham Variant",
+      "artist": "Tyler Kirkham",
+      "alt": "Star Wars: War of the Bounty Hunters #3 Unknown Comics / Street Level Hero / Comic Traders Tyler Kirkham Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4561168.jpg?1722348676",
+      "retailer": "Unknown Comics, Street Level Hero, Comic Traders Tyler Kirkham Variant"
+    }
+  ],
   "882026": [
     {
       "category": "Open Order Covers",
@@ -14525,6 +16358,127 @@
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8680342.jpg?1732025144"
     }
   ],
+  "884067": [
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Variant Cover",
+      "artist": "Bryan Hitch",
+      "alt": "Star Wars: War of the Bounty Hunters #4 1:50 Bryan Hitch Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2392511.jpg?1761589854",
+      "ratio": "1:50"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Action Figure Variant Cover (Eyegee-Eighteight (IG-88))",
+      "artist": "John Tyler Christopher",
+      "alt": "Star Wars: War of the Bounty Hunters #4 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5084715.jpg?1761589715",
+      "variant_type": [
+        "Action Figure"
+      ]
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #4 Paolo Villanelli Blueprint Variant",
+      "artist": "Paolo Villanelli Blueprint",
+      "alt": "Star Wars: War of the Bounty Hunters #4 Paolo Villanelli Blueprint Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6719899.jpg?1761589704"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #4 Todd Nauck Variant",
+      "artist": "Todd Nauck",
+      "alt": "Star Wars: War of the Bounty Hunters #4 Todd Nauck Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9426369.jpg?1761590140"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #4 Todd Nauck Virgin Variant",
+      "artist": "Todd Nauck Virgin",
+      "alt": "Star Wars: War of the Bounty Hunters #4 Todd Nauck Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9989511.jpg?1701669860",
+      "variant_type": [
+        "Virgin"
+      ]
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #4 1:25 John Cassaday Trading Card Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters #4 1:25 John Cassaday Trading Card Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5374922.jpg?1761589837",
+      "ratio": "1:25"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #4 2nd Printing John Tyler Christopher Webstore Negative Space Holiday Variant",
+      "artist": "Holiday",
+      "alt": "Star Wars: War of the Bounty Hunters #4 2nd Printing John Tyler Christopher Webstore Negative Space Holiday Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5518527.jpg?1761590025",
+      "printing": "2nd Printing"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #4 2nd Printing John Tyler Christopher Webstore Negative Space Variant",
+      "artist": "Space",
+      "alt": "Star Wars: War of the Bounty Hunters #4 2nd Printing John Tyler Christopher Webstore Negative Space Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7614097.jpg?1761590062",
+      "printing": "2nd Printing"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #4 John Tyler Christopher Webstore Negative Space Holiday Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters #4 John Tyler Christopher Webstore Negative Space Holiday Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7103090.jpg?1761590116"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #4 John Tyler Christopher Webstore Negative Space Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters #4 John Tyler Christopher Webstore Negative Space Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8100711.jpg?1761590088"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #4 Unknown / Street Level Hero / Comic Traders Tyler Kirkham Variant",
+      "artist": "Tyler Kirkham",
+      "alt": "Star Wars: War of the Bounty Hunters #4 Unknown / Street Level Hero / Comic Traders Tyler Kirkham Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3790825.jpg?1713985588",
+      "retailer": "Unknown, Street Level Hero, Comic Traders Tyler Kirkham Variant"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #4 Unknown / Street Level Hero / Comic Traders Tyler Kirkham Virgin Variant",
+      "artist": "Tyler Kirkham",
+      "alt": "Star Wars: War of the Bounty Hunters #4 Unknown / Street Level Hero / Comic Traders Tyler Kirkham Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5316255.jpg?1761589909",
+      "retailer": "Unknown, Street Level Hero, Comic Traders Tyler Kirkham Virgin Variant",
+      "variant_type": [
+        "Virgin"
+      ]
+    },
+    {
+      "category": "Misprints",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #4 Black Variant",
+      "artist": "Black",
+      "alt": "Star Wars: War of the Bounty Hunters #4 Black Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6576198.jpg?1761589737"
+    }
+  ],
   "884818": [
     {
       "category": "Other Covers",
@@ -14651,6 +16605,113 @@
       "artist": "",
       "alt": "Star Wars: Doctor Aphra #15 Sprouse Lucasfilm 50th Variant",
       "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7906065.jpg?1701789619"
+    }
+  ],
+  "889461": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #5 Christopher Action Figure Variant",
+      "artist": "Christopher Action Figure",
+      "alt": "Star Wars: War of the Bounty Hunters #5 Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5873785.jpg?1701789688",
+      "variant_type": [
+        "Action Figure"
+      ]
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #5 Frenz Bounty Hunter Handbook Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters #5 Frenz Bounty Hunter Handbook Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3041542.jpg?1701789688"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #5 McNiven Boba Always Gets His Bounty Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters #5 McNiven Boba Always Gets His Bounty Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6518706.jpg?1701789688"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #5 Mike McKone Variant",
+      "artist": "Mike McKone",
+      "alt": "Star Wars: War of the Bounty Hunters #5 Mike McKone Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3817326.jpg?1701789688"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #5 Pagulayan Variant",
+      "artist": "Pagulayan",
+      "alt": "Star Wars: War of the Bounty Hunters #5 Pagulayan Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9660914.jpg?1701789688"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #5 Sprouse Lucasfilm 50th Anniversary Variant",
+      "artist": "",
+      "alt": "Star Wars: War of the Bounty Hunters #5 Sprouse Lucasfilm 50th Anniversary Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7126549.jpg?1701789688"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #5 Steve McNiven Carbonite Variant",
+      "artist": "Steve McNiven Carbonite",
+      "alt": "Star Wars: War of the Bounty Hunters #5 Steve McNiven Carbonite Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1573311.jpg?1732031948"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #5 Todd Nauck Variant A",
+      "artist": "Todd Nauck",
+      "alt": "Star Wars: War of the Bounty Hunters #5 Todd Nauck Variant A",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1648508.jpg?1701789688"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #5 Todd Nauck Variant B",
+      "artist": "Todd Nauck",
+      "alt": "Star Wars: War of the Bounty Hunters #5 Todd Nauck Variant B",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2819630.jpg?1701789688"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #5 1:25 Trading Card Variant",
+      "artist": "Trading Card",
+      "alt": "Star Wars: War of the Bounty Hunters #5 1:25 Trading Card Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5843492.jpg?1701789688",
+      "ratio": "1:25"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #5 Unknown Comics / Street Level Hero / Comic Traders Gerald Parel Variant",
+      "artist": "Gerald Parel",
+      "alt": "Star Wars: War of the Bounty Hunters #5 Unknown Comics / Street Level Hero / Comic Traders Gerald Parel Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9591857.jpg?1718822070",
+      "retailer": "Unknown Comics, Street Level Hero, Comic Traders Gerald Parel Variant"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: War of the Bounty Hunters #5 Unknown Comics / Street Level Hero / Comic Traders Gerald Parel Virgin Variant",
+      "artist": "Gerald Parel",
+      "alt": "Star Wars: War of the Bounty Hunters #5 Unknown Comics / Street Level Hero / Comic Traders Gerald Parel Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6425677.jpg?1718818642",
+      "retailer": "Unknown Comics, Street Level Hero, Comic Traders Gerald Parel Virgin Variant",
+      "variant_type": [
+        "Virgin"
+      ]
     }
   ],
   "890598": [
@@ -21154,7 +23215,7 @@
       "name": "Star Wars: Jedi Knights #5 Dan Jurgens Classic Homage Variant",
       "artist": "",
       "alt": "Star Wars: Jedi Knights #5 Dan Jurgens Classic Homage Variant",
-      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6541742.jpg?1761645891"
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6541742.jpg?1762904995"
     },
     {
       "category": "Open Order Covers",
@@ -21162,7 +23223,7 @@
       "name": "Star Wars: Jedi Knights #5 Ivan Tao Variant",
       "artist": "Ivan Tao",
       "alt": "Star Wars: Jedi Knights #5 Ivan Tao Variant",
-      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8874900.jpg?1761645891"
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8874900.jpg?1762904995"
     },
     {
       "category": "Open Order Covers",
@@ -21170,7 +23231,7 @@
       "name": "Star Wars: Jedi Knights #5 Taurin Clarke Lightsaber Variant",
       "artist": "Taurin Clarke Lightsaber",
       "alt": "Star Wars: Jedi Knights #5 Taurin Clarke Lightsaber Variant",
-      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6261815.jpg?1761645891"
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6261815.jpg?1762904995"
     },
     {
       "category": "Incentive Covers",
@@ -21178,7 +23239,7 @@
       "name": "Star Wars: Jedi Knights #5 1:25 Mike McKone Variant",
       "artist": "Mike McKone",
       "alt": "Star Wars: Jedi Knights #5 1:25 Mike McKone Variant",
-      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8352375.jpg?1761645891",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8352375.jpg?1765456217",
       "ratio": "1:25"
     },
     {
@@ -21187,7 +23248,7 @@
       "name": "Star Wars: Jedi Knights #5 1:100 Taurin Clarke Lightsaber Virgin Variant",
       "artist": "",
       "alt": "Star Wars: Jedi Knights #5 1:100 Taurin Clarke Lightsaber Virgin Variant",
-      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1262630.jpg?1761645891",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1262630.jpg?1762904995",
       "ratio": "1:100",
       "variant_type": [
         "Virgin"
@@ -21332,7 +23393,7 @@
       "name": "Star Wars: Jedi Knights #6 Chris Sprouse Revenge of the Sith 20th Anniversary Variant",
       "artist": "",
       "alt": "Star Wars: Jedi Knights #6 Chris Sprouse Revenge of the Sith 20th Anniversary Variant",
-      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9323505.jpg?1761643759"
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9323505.jpg?1765456475"
     },
     {
       "category": "Open Order Covers",
@@ -21340,7 +23401,7 @@
       "name": "Star Wars: Jedi Knights #6 Dan Jurgens Classic Homage Variant",
       "artist": "",
       "alt": "Star Wars: Jedi Knights #6 Dan Jurgens Classic Homage Variant",
-      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8886794.jpg?1761643759"
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8886794.jpg?1765456490"
     },
     {
       "category": "Open Order Covers",
@@ -21348,7 +23409,7 @@
       "name": "Star Wars: Jedi Knights #6 Taurin Clarke Lightsaber Variant",
       "artist": "Taurin Clarke Lightsaber",
       "alt": "Star Wars: Jedi Knights #6 Taurin Clarke Lightsaber Variant",
-      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6913634.jpg?1761643759"
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6913634.jpg?1765456509"
     },
     {
       "category": "Incentive Covers",
@@ -21356,7 +23417,7 @@
       "name": "Star Wars: Jedi Knights #6 1:25 Alan Quah Variant",
       "artist": "Alan Quah",
       "alt": "Star Wars: Jedi Knights #6 1:25 Alan Quah Variant",
-      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1748904.jpg?1761643759",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1748904.jpg?1765456526",
       "ratio": "1:25"
     },
     {
@@ -21485,6 +23546,17 @@
         "Virgin"
       ],
       "event": "NYCC 2025"
+    },
+    {
+      "category": "Retailer Exclusives",
+      "type": "Var",
+      "name": "Star Wars: Legacy of Vader #8 Big Time Collectibles 2025 NYCC John Giang Secret Virgin Variant",
+      "artist": "",
+      "alt": "Star Wars: Legacy of Vader #8 Big Time Collectibles 2025 NYCC John Giang Secret Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8731743.jpg?1764268296",
+      "variant_type": [
+        "Virgin"
+      ]
     }
   ],
   "1131770": [
@@ -21494,7 +23566,7 @@
       "name": "Star Wars: Jedi Knights #7 Chris Sprouse Revenge of the Sith 20th Anniversary Variant",
       "artist": "",
       "alt": "Star Wars: Jedi Knights #7 Chris Sprouse Revenge of the Sith 20th Anniversary Variant",
-      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9844294.jpg?1758779411"
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9844294.jpg?1765456165"
     },
     {
       "category": "Open Order Covers",
@@ -21502,7 +23574,7 @@
       "name": "Star Wars: Jedi Knights #7 Dan Jurgens Classic Homage Variant",
       "artist": "",
       "alt": "Star Wars: Jedi Knights #7 Dan Jurgens Classic Homage Variant",
-      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6715953.jpg?1758779411"
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6715953.jpg?1765456154"
     },
     {
       "category": "Open Order Covers",
@@ -21510,7 +23582,7 @@
       "name": "Star Wars: Jedi Knights #7 Rod Reis Variant",
       "artist": "Rod Reis",
       "alt": "Star Wars: Jedi Knights #7 Rod Reis Variant",
-      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6893914.jpg?1758779411"
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6893914.jpg?1765456574"
     },
     {
       "category": "Open Order Covers",
@@ -21670,7 +23742,7 @@
       "name": "Star Wars: Jedi Knights #8 Dan Jurgens Classic Homage Variant",
       "artist": "",
       "alt": "Star Wars: Jedi Knights #8 Dan Jurgens Classic Homage Variant",
-      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4310223.jpg?1762572937"
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4310223.jpg?1765456639"
     },
     {
       "category": "Open Order Covers",
@@ -21678,7 +23750,7 @@
       "name": "Star Wars: Jedi Knights #8 Mike McKone Variant",
       "artist": "Mike McKone",
       "alt": "Star Wars: Jedi Knights #8 Mike McKone Variant",
-      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7266222.jpg?1762572937"
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7266222.jpg?1765456692"
     },
     {
       "category": "Open Order Covers",
@@ -21686,7 +23758,7 @@
       "name": "Star Wars: Jedi Knights #8 Movie Variant",
       "artist": "",
       "alt": "Star Wars: Jedi Knights #8 Movie Variant",
-      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9207037.jpg?1762572937",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9207037.jpg?1765474605",
       "variant_type": [
         "Movie"
       ]
@@ -21697,7 +23769,7 @@
       "name": "Star Wars: Jedi Knights #8 Taurin Clarke Lightsaber Variant",
       "artist": "Taurin Clarke Lightsaber",
       "alt": "Star Wars: Jedi Knights #8 Taurin Clarke Lightsaber Variant",
-      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1940262.jpg?1762572937"
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1940262.jpg?1765456667"
     },
     {
       "category": "Incentive Covers",
@@ -21705,7 +23777,7 @@
       "name": "Star Wars: Jedi Knights #8 1:50 Taurin Clarke Lightsaber Virgin Variant",
       "artist": "",
       "alt": "Star Wars: Jedi Knights #8 1:50 Taurin Clarke Lightsaber Virgin Variant",
-      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8767792.jpg?1762572937",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8767792.jpg?1765474605",
       "ratio": "1:50",
       "variant_type": [
         "Virgin"
@@ -21729,7 +23801,7 @@
       "name": "Star Wars: Legacy of Vader #10 Bengal Porter Engle & Belle Zettifar Jedi Knights Variant",
       "artist": "",
       "alt": "Star Wars: Legacy of Vader #10 Bengal Porter Engle & Belle Zettifar Jedi Knights Variant",
-      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2107168.jpg?1762372469"
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2107168.jpg?1763567025"
     },
     {
       "category": "Open Order Covers",
@@ -21737,7 +23809,7 @@
       "name": "Star Wars: Legacy of Vader #10 Luke Ross Variant",
       "artist": "Luke Ross",
       "alt": "Star Wars: Legacy of Vader #10 Luke Ross Variant",
-      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2277325.jpg?1762372469"
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2277325.jpg?1763567032"
     },
     {
       "category": "Incentive Covers",
@@ -21745,7 +23817,162 @@
       "name": "Star Wars: Legacy of Vader #10 1:25 Josemaria Casanovas Variant",
       "artist": "Josemaria Casanovas",
       "alt": "Star Wars: Legacy of Vader #10 1:25 Josemaria Casanovas Variant",
-      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8429596.jpg?1762372469",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8429596.jpg?1763567039",
+      "ratio": "1:25"
+    }
+  ],
+  "1143310": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars #7 Bengal Yoda & Obi-Wan Jedi Knights Variant",
+      "artist": "",
+      "alt": "Star Wars #7 Bengal Yoda & Obi-Wan Jedi Knights Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7794564.jpg?1763550676"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars #7 Erik M. Gist Battle for Endor 40th Anniversary Variant",
+      "artist": "",
+      "alt": "Star Wars #7 Erik M. Gist Battle for Endor 40th Anniversary Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4725769.jpg?1763550659"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars #7 John Tyler Christopher Action Figure Variant",
+      "artist": "",
+      "alt": "Star Wars #7 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2925354.jpg?1763550652",
+      "variant_type": [
+        "Action Figure"
+      ]
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars #7 1:25 Ejikure Variant",
+      "artist": "Ejikure",
+      "alt": "Star Wars #7 1:25 Ejikure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3757700.jpg?1763550684",
+      "ratio": "1:25"
+    }
+  ],
+  "1144100": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Jedi Knights #9 Dan Jurgens Classic Homage Variant",
+      "artist": "",
+      "alt": "Star Wars: Jedi Knights #9 Dan Jurgens Classic Homage Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5981701.jpg?1763667262"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Jedi Knights #9 John Giang Variant",
+      "artist": "John Giang",
+      "alt": "Star Wars: Jedi Knights #9 John Giang Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1644895.jpg?1763667262"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Jedi Knights #9 Taurin Clarke Lightsaber Variant",
+      "artist": "Taurin Clarke Lightsaber",
+      "alt": "Star Wars: Jedi Knights #9 Taurin Clarke Lightsaber Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7181994.jpg?1763667262"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Jedi Knights #9 1:50 Taurin Clarke Lightsaber Virgin Variant",
+      "artist": "",
+      "alt": "Star Wars: Jedi Knights #9 1:50 Taurin Clarke Lightsaber Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3149640.jpg?1763667262",
+      "ratio": "1:50",
+      "variant_type": [
+        "Virgin"
+      ]
+    }
+  ],
+  "1146704": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Legacy of Vader #11 Bengal Plo Koon & Mace Windu Jedi Knights Variant",
+      "artist": "",
+      "alt": "Star Wars: Legacy of Vader #11 Bengal Plo Koon & Mace Windu Jedi Knights Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3485468.jpg?1764796645"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Legacy of Vader #11 1:25 Rod Reis Variant",
+      "artist": "Rod Reis",
+      "alt": "Star Wars: Legacy of Vader #11 1:25 Rod Reis Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8512266.jpg?1764796645",
+      "ratio": "1:25"
+    }
+  ],
+  "1148757": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Jedi Knights #10 Dan Jurgens Classic Homage Variant",
+      "artist": "",
+      "alt": "Star Wars: Jedi Knights #10 Dan Jurgens Classic Homage Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3186273.jpg?1766765867"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars: Jedi Knights #10 Taurin Clarke Lightsaber Variant",
+      "artist": "Taurin Clarke Lightsaber",
+      "alt": "Star Wars: Jedi Knights #10 Taurin Clarke Lightsaber Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9788482.jpg?1766765867"
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars: Jedi Knights #10 1:50 Taurin Clarke Lightsaber Virgin Variant",
+      "artist": "",
+      "alt": "Star Wars: Jedi Knights #10 1:50 Taurin Clarke Lightsaber Virgin Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1723296.jpg?1766765867",
+      "ratio": "1:50",
+      "variant_type": [
+        "Virgin"
+      ]
+    }
+  ],
+  "1149818": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars #8 Bengal Luke Skywalker & Leia Organa Jedi Knights Variant",
+      "artist": "",
+      "alt": "Star Wars #8 Bengal Luke Skywalker & Leia Organa Jedi Knights Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8870420.jpg?1767036722"
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars #8 John Tyler Christopher Action Figure Variant",
+      "artist": "",
+      "alt": "Star Wars #8 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6440114.jpg?1767036722",
+      "variant_type": [
+        "Action Figure"
+      ]
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars #8 1:25 Nogi San Variant",
+      "artist": "Nogi San",
+      "alt": "Star Wars #8 1:25 Nogi San Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5548131.jpg?1767036722",
       "ratio": "1:25"
     }
   ],
@@ -21756,7 +23983,7 @@
       "name": "Star Wars: Legacy of Vader #11 Bengal Plo Koon & Mace Windu Jedi Knights Variant",
       "artist": "",
       "alt": "Star Wars: Legacy of Vader #11 Bengal Plo Koon & Mace Windu Jedi Knights Variant",
-      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3485468.jpg?1761814855"
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3485468.jpg?1764796645"
     },
     {
       "category": "Incentive Covers",
@@ -21764,7 +23991,7 @@
       "name": "Star Wars: Legacy of Vader #11 1:25 Rod Reis Variant",
       "artist": "Rod Reis",
       "alt": "Star Wars: Legacy of Vader #11 1:25 Rod Reis Variant",
-      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8512266.jpg?1761814855",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8512266.jpg?1764796645",
       "ratio": "1:25"
     }
   ],
@@ -21775,7 +24002,7 @@
       "name": "Star Wars: Legacy of Vader #12 Baldemar Rivas Variant",
       "artist": "Baldemar Rivas",
       "alt": "Star Wars: Legacy of Vader #12 Baldemar Rivas Variant",
-      "image_url": "https://leagueofcomicgeeks.com/assets/images/cover-preload.jpg"
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1588705.jpg?1766823177"
     },
     {
       "category": "Incentive Covers",
@@ -21783,7 +24010,7 @@
       "name": "Star Wars: Legacy of Vader #12 1:25 Kyle Hotz Variant",
       "artist": "Kyle Hotz",
       "alt": "Star Wars: Legacy of Vader #12 1:25 Kyle Hotz Variant",
-      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4439253.jpg?1761814868",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4439253.jpg?1767490984",
       "ratio": "1:25"
     }
   ],
@@ -21794,7 +24021,7 @@
       "name": "Star Wars: Jedi Knights #9 Dan Jurgens Classic Homage Variant",
       "artist": "",
       "alt": "Star Wars: Jedi Knights #9 Dan Jurgens Classic Homage Variant",
-      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5981701.jpg?1762541621"
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5981701.jpg?1763667262"
     },
     {
       "category": "Open Order Covers",
@@ -21802,7 +24029,7 @@
       "name": "Star Wars: Jedi Knights #9 John Giang Variant",
       "artist": "John Giang",
       "alt": "Star Wars: Jedi Knights #9 John Giang Variant",
-      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1644895.jpg?1762541621"
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1644895.jpg?1763667262"
     },
     {
       "category": "Open Order Covers",
@@ -21810,7 +24037,7 @@
       "name": "Star Wars: Jedi Knights #9 Taurin Clarke Lightsaber Variant",
       "artist": "Taurin Clarke Lightsaber",
       "alt": "Star Wars: Jedi Knights #9 Taurin Clarke Lightsaber Variant",
-      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7181994.jpg?1762541621"
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7181994.jpg?1763667262"
     },
     {
       "category": "Incentive Covers",
@@ -21818,7 +24045,7 @@
       "name": "Star Wars: Jedi Knights #9 1:50 Taurin Clarke Lightsaber Virgin Variant",
       "artist": "",
       "alt": "Star Wars: Jedi Knights #9 1:50 Taurin Clarke Lightsaber Virgin Variant",
-      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3149640.jpg?1762541621",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3149640.jpg?1763667262",
       "ratio": "1:50",
       "variant_type": [
         "Virgin"
@@ -21832,7 +24059,7 @@
       "name": "Star Wars: Jedi Knights #10 Dan Jurgens Classic Homage Variant",
       "artist": "",
       "alt": "Star Wars: Jedi Knights #10 Dan Jurgens Classic Homage Variant",
-      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3186273.jpg?1762347246"
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3186273.jpg?1766765867"
     },
     {
       "category": "Open Order Covers",
@@ -21840,7 +24067,7 @@
       "name": "Star Wars: Jedi Knights #10 Taurin Clarke Lightsaber Variant",
       "artist": "Taurin Clarke Lightsaber",
       "alt": "Star Wars: Jedi Knights #10 Taurin Clarke Lightsaber Variant",
-      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9788482.jpg?1762208410"
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9788482.jpg?1766765867"
     },
     {
       "category": "Incentive Covers",
@@ -21848,7 +24075,7 @@
       "name": "Star Wars: Jedi Knights #10 1:50 Taurin Clarke Lightsaber Virgin Variant",
       "artist": "",
       "alt": "Star Wars: Jedi Knights #10 1:50 Taurin Clarke Lightsaber Virgin Variant",
-      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1723296.jpg?1762202887",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1723296.jpg?1766765867",
       "ratio": "1:50",
       "variant_type": [
         "Virgin"
@@ -21930,7 +24157,7 @@
       "name": "Star Wars #9 John Tyler Christopher Action Figure Variant",
       "artist": "",
       "alt": "Star Wars #9 John Tyler Christopher Action Figure Variant",
-      "image_url": "https://leagueofcomicgeeks.com/assets/images/cover-preload.jpg",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4909174.jpg?1767424451",
       "variant_type": [
         "Action Figure"
       ]
@@ -21941,7 +24168,7 @@
       "name": "Star Wars #9 Leinil Francis Yu Variant",
       "artist": "Leinil Francis Yu",
       "alt": "Star Wars #9 Leinil Francis Yu Variant",
-      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6066940.jpg?1761486093"
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6066940.jpg?1767492833"
     },
     {
       "category": "Incentive Covers",
@@ -21949,7 +24176,40 @@
       "name": "Star Wars #9 1:25 Luke Ross Variant",
       "artist": "Luke Ross",
       "alt": "Star Wars #9 1:25 Luke Ross Variant",
-      "image_url": "https://leagueofcomicgeeks.com/assets/images/cover-preload.jpg",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3767499.jpg?1767492801",
+      "ratio": "1:25"
+    }
+  ],
+  "1764837654089": [
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars #10 John Tyler Christopher Action Figure Variant",
+      "artist": "",
+      "alt": "Star Wars #10 John Tyler Christopher Action Figure Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4740507.jpg?1766590463",
+      "variant_type": [
+        "Action Figure"
+      ]
+    },
+    {
+      "category": "Open Order Covers",
+      "type": "Var",
+      "name": "Star Wars #10 Taurin Clarke Black History Month Connecting Variant",
+      "artist": "",
+      "alt": "Star Wars #10 Taurin Clarke Black History Month Connecting Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6905945.jpg?1766590513",
+      "variant_type": [
+        "Connecting"
+      ]
+    },
+    {
+      "category": "Incentive Covers",
+      "type": "Var",
+      "name": "Star Wars #10 1:25 Carmen Carnero Variant",
+      "artist": "Carmen Carnero",
+      "alt": "Star Wars #10 1:25 Carmen Carnero Variant",
+      "image_url": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9944139.jpg?1766590411",
       "ratio": "1:25"
     }
   ]

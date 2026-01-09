@@ -29885,6 +29885,30 @@
       {
         "name": "Danny Khazem",
         "role": "Editor"
+      },
+      {
+        "name": "Marc Guggenheim",
+        "role": "Writer"
+      },
+      {
+        "name": "Madibek Musabekov",
+        "role": "Artist"
+      },
+      {
+        "name": "Luis Guerrero",
+        "role": "Colorist"
+      },
+      {
+        "name": "Clayton Cowles",
+        "role": "Letterer"
+      },
+      {
+        "name": "Grace Orriss",
+        "role": "Associate Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
       }
     ],
     "upc": "75960621106700111",
@@ -29939,6 +29963,30 @@
       {
         "name": "Danny Khazem",
         "role": "Editor"
+      },
+      {
+        "name": "Marc Guggenheim",
+        "role": "Writer"
+      },
+      {
+        "name": "Madibek Musabekov",
+        "role": "Artist"
+      },
+      {
+        "name": "Luis Guerrero",
+        "role": "Colorist"
+      },
+      {
+        "name": "Clayton Cowles",
+        "role": "Letterer"
+      },
+      {
+        "name": "Grace Orriss",
+        "role": "Associate Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
       }
     ],
     "upc": "75960621106700211",
@@ -29990,6 +30038,30 @@
       {
         "name": "Danny Khazem",
         "role": "Editor"
+      },
+      {
+        "name": "Marc Guggenheim",
+        "role": "Writer"
+      },
+      {
+        "name": "Madibek Musabekov",
+        "role": "Artist"
+      },
+      {
+        "name": "Luis Guerrero",
+        "role": "Colorist"
+      },
+      {
+        "name": "Clayton Cowles",
+        "role": "Letterer"
+      },
+      {
+        "name": "Grace Orriss",
+        "role": "Associate Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
       }
     ],
     "upc": "75960621106700311",
@@ -30108,6 +30180,30 @@
       {
         "name": "Danny Khazem",
         "role": "Editor"
+      },
+      {
+        "name": "Marc Guggenheim",
+        "role": "Writer"
+      },
+      {
+        "name": "Madibek Musabekov",
+        "role": "Artist"
+      },
+      {
+        "name": "Luis Guerrero",
+        "role": "Colorist"
+      },
+      {
+        "name": "Clayton Cowles",
+        "role": "Letterer"
+      },
+      {
+        "name": "Grace Orriss",
+        "role": "Associate Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
       }
     ],
     "upc": "75960621106700511",
@@ -30147,6 +30243,30 @@
       {
         "name": "Mark Paniccia",
         "role": "Editor"
+      },
+      {
+        "name": "Marc Guggenheim",
+        "role": "Writer"
+      },
+      {
+        "name": "Madibek Musabekov",
+        "role": "Artist"
+      },
+      {
+        "name": "Luis Guerrero",
+        "role": "Colorist"
+      },
+      {
+        "name": "Clayton Cowles",
+        "role": "Letterer"
+      },
+      {
+        "name": "Grace Orriss",
+        "role": "Associate Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
       }
     ],
     "upc": "75960621106700611",
@@ -30252,6 +30372,30 @@
       {
         "name": "Mark Paniccia",
         "role": "Editor"
+      },
+      {
+        "name": "Marc Guggenheim",
+        "role": "Writer"
+      },
+      {
+        "name": "Madibek Musabekov",
+        "role": "Artist"
+      },
+      {
+        "name": "Luis Guerrero",
+        "role": "Colorist"
+      },
+      {
+        "name": "Clayton Cowles",
+        "role": "Letterer"
+      },
+      {
+        "name": "Grace Orriss",
+        "role": "Associate Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
       }
     ],
     "upc": "75960621106700811",
@@ -30354,16 +30498,36 @@
     "deck": null,
     "creators": [
       {
+        "name": "Alex Segura",
+        "role": "Writer"
+      },
+      {
+        "name": "Clayton Cowles",
+        "role": "Letterer"
+      },
+      {
         "name": "Drew Baumgartner",
         "role": "Assistant Editor"
+      },
+      {
+        "name": "Grace Orriss",
+        "role": "Associate Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
       },
       {
         "name": "Mikey J. Basso",
         "role": "Assistant Editor"
       },
       {
-        "name": "Mark Paniccia",
-        "role": "Editor"
+        "name": "Phil Noto",
+        "role": "Artist, Colorist"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
       }
     ],
     "upc": "75960621004600211",
@@ -30398,16 +30562,36 @@
     "deck": null,
     "creators": [
       {
+        "name": "Alex Segura",
+        "role": "Writer"
+      },
+      {
+        "name": "Clayton Cowles",
+        "role": "Letterer"
+      },
+      {
         "name": "Drew Baumgartner",
         "role": "Assistant Editor"
+      },
+      {
+        "name": "Grace Orriss",
+        "role": "Associate Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
       },
       {
         "name": "Mikey J. Basso",
         "role": "Assistant Editor"
       },
       {
-        "name": "Mark Paniccia",
-        "role": "Editor"
+        "name": "Phil Noto",
+        "role": "Artist, Colorist"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
       }
     ],
     "upc": "75960621004600311",
@@ -30444,16 +30628,36 @@
     "deck": null,
     "creators": [
       {
+        "name": "Alex Segura",
+        "role": "Writer"
+      },
+      {
+        "name": "Clayton Cowles",
+        "role": "Letterer"
+      },
+      {
         "name": "Drew Baumgartner",
         "role": "Assistant Editor"
+      },
+      {
+        "name": "Grace Orriss",
+        "role": "Associate Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
       },
       {
         "name": "Mikey J. Basso",
         "role": "Assistant Editor"
       },
       {
-        "name": "Mark Paniccia",
-        "role": "Editor"
+        "name": "Phil Noto",
+        "role": "Artist, Colorist"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
       }
     ],
     "upc": "75960621004600411",
@@ -30491,16 +30695,36 @@
     "deck": null,
     "creators": [
       {
+        "name": "Alex Segura",
+        "role": "Writer"
+      },
+      {
+        "name": "Clayton Cowles",
+        "role": "Letterer"
+      },
+      {
         "name": "Drew Baumgartner",
         "role": "Assistant Editor"
+      },
+      {
+        "name": "Grace Orriss",
+        "role": "Associate Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
       },
       {
         "name": "Mikey J. Basso",
         "role": "Assistant Editor"
       },
       {
-        "name": "Mark Paniccia",
-        "role": "Editor"
+        "name": "Phil Noto",
+        "role": "Artist, Colorist"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
       }
     ],
     "upc": "75960621004600511",
@@ -30536,12 +30760,32 @@
     "deck": null,
     "creators": [
       {
-        "name": "Mikey J. Basso",
-        "role": "Assistant Editor"
+        "name": "Alex Segura",
+        "role": "Writer"
+      },
+      {
+        "name": "Clayton Cowles",
+        "role": "Letterer"
+      },
+      {
+        "name": "Grace Orriss",
+        "role": "Associate Editor"
       },
       {
         "name": "Mark Paniccia",
         "role": "Editor"
+      },
+      {
+        "name": "Mikey J. Basso",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Phil Noto",
+        "role": "Artist, Colorist"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
       }
     ],
     "upc": "75960621004600611",
@@ -30571,38 +30815,6 @@
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_(2025)_6"
   },
   {
-    "id": 1762613205295,
-    "series_id": 162323,
-    "issue_number": "11",
-    "issue_number_sort": 11,
-    "name": "Star Wars: Legacy of Vader",
-    "aliases": null,
-    "deck": null,
-    "creators": [
-      {
-        "name": "Charles Soule",
-        "role": "Writer"
-      },
-      {
-        "name": "Luke Ross",
-        "role": "Artist"
-      }
-    ],
-    "upc": "75960621005301111",
-    "cover_date": null,
-    "store_date": "12/03/2025",
-    "story_arcs": [],
-    "characters": [],
-    "description_full": "",
-    "description": "KYLO REN IN THE PITS OF MUSTAFAR! As VANEÉ'S unhinged plans come together, KYLO REN is put to the ultimate test! The legacy of VADER comes full circle in physical form as Kylo is forced to don his grandfather's helmet! Can Kylo survive the deadly depths of VADER'S CASTLE?",
-    "description_covers": "",
-    "description_notes": [],
-    "cover_url": "https://static.wikia.nocookie.net/starwars/images/a/a8/LegacyofVader11-SolicitCover.jpg/revision/latest?cb=20250822220414",
-    "league_id": "2994221",
-    "league_url": "https://leagueofcomicgeeks.com/comic/2994221/star-wars-legacy-of-vader-11",
-    "wookieepedia_url": "https://starwars.fandom.com/wiki/Legacy_of_Vader_11"
-  },
-  {
     "id": 1762613205296,
     "series_id": 162323,
     "issue_number": "12",
@@ -30618,6 +30830,10 @@
       {
         "name": "Luke Ross",
         "role": "Artist"
+      },
+      {
+        "name": "Nolan Woodard",
+        "role": "Colorist"
       }
     ],
     "upc": "75960621005301211",
@@ -30635,83 +30851,146 @@
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Legacy_of_Vader_12"
   },
   {
-    "id": 1762613416598,
+    "id": 1144100,
     "series_id": 162624,
     "issue_number": "9",
     "issue_number_sort": 9,
-    "name": "Star Wars: Jedi Knights",
+    "name": "Chrysalis",
     "aliases": null,
     "deck": null,
     "creators": [
       {
-        "name": "Marc Guggenheim",
-        "role": "Writer"
+        "name": "Clayton Cowles",
+        "role": "Letterer"
       },
       {
-        "name": "Madibek Musabekov",
-        "role": "Artist"
+        "name": "Drew Baumgartner",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Grace Orriss",
+        "role": "Associate Editor"
       },
       {
         "name": "Luis Guerrero",
         "role": "Colorist"
       },
       {
+        "name": "Madibek Musabekov",
+        "role": "Artist"
+      },
+      {
+        "name": "Marc Guggenheim",
+        "role": "Writer"
+      },
+      {
         "name": "Mark Paniccia",
         "role": "Editor"
+      },
+      {
+        "name": "Mikey J. Basso",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
       }
     ],
     "upc": "75960621106700911",
-    "cover_date": null,
+    "cover_date": "2026-01-01",
     "store_date": "11/19/2025",
     "story_arcs": [],
-    "characters": [],
-    "description_full": "",
-    "description": "THE SECRET OF CORLIS RATH IS REVEALED! The mysterious CORLIS RATH has hunted JEDI MASTER QUI-GON JINN across the galaxy. Now learn the why in this first part of the deadly villain's origin. Guest-starring the enigmatic COUNT DOOKU.",
-    "description_covers": "",
-    "description_notes": [],
+    "characters": [
+      5389,
+      5392,
+      105170,
+      5395,
+      2206,
+      5411,
+      195801
+    ],
+    "description_full": "<p><em><b>THE SECRET OF CORLIS RATH IS REVEALED!</b></em></p><p><em>The mysterious CORLIS RATH has hunted JEDI MASTER QUI-GON JINN across the galaxy.</em></p><p><em>Now learn the why in this first part of the deadly villain's origin.</em></p><p><em>Guest-starring the enigmatic COUNT DOOKU.</em></p>",
+    "description": "<p><em><b>THE SECRET OF CORLIS RATH IS REVEALED!</b></em></p><p><em>The mysterious CORLIS RATH has hunted JEDI MASTER QUI-GON JINN across the galaxy.</em></p><p><em>Now learn the why in this first part of the deadly villain's origin.</em></p><p><em>Guest-starring the enigmatic COUNT DOOKU.</em></p>",
+    "description_covers": null,
+    "description_notes": null,
     "cover_url": "https://static.wikia.nocookie.net/starwars/images/7/70/Jedi-Knights-9-Final-Cover.jpg/revision/latest?cb=20251104023524",
     "league_id": "7998299",
     "league_url": "https://leagueofcomicgeeks.com/comic/7998299/star-wars-jedi-knights-9",
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Jedi_Knights_9"
   },
   {
-    "id": 1762613416599,
+    "id": 1148757,
     "series_id": 162624,
     "issue_number": "10",
     "issue_number_sort": 10,
-    "name": "Star Wars: Jedi Knights",
+    "name": "A Higher Path",
     "aliases": null,
     "deck": null,
     "creators": [
+      {
+        "name": "Clayton Cowles",
+        "role": "Letterer"
+      },
+      {
+        "name": "Drew Baumgartner",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Grace Orriss",
+        "role": "Associate Editor"
+      },
+      {
+        "name": "Luis Guerrero",
+        "role": "Colorist"
+      },
+      {
+        "name": "Madibek Musabekov",
+        "role": "Artist"
+      },
       {
         "name": "Marc Guggenheim",
         "role": "Writer"
       },
       {
-        "name": "Madibek Musabekov",
-        "role": "Artist"
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Mikey J. Basso",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
       }
     ],
     "upc": "75960621106701011",
-    "cover_date": null,
+    "cover_date": "2026-02-01",
     "store_date": "12/17/2025",
     "story_arcs": [],
-    "characters": [],
-    "description_full": "",
-    "description": "THE SAGA OF CORLIS RATH CONCLUDES! QUI-GON must finally confront CORLIS RATH — and his memories! What secret lies in Qui-Gon's hidden past? And will OBI-WAN be able to help his master when it matters most? The great mystery of the fan-favorite series revealed at last!",
-    "description_covers": "",
-    "description_notes": [],
-    "cover_url": "https://static.wikia.nocookie.net/starwars/images/f/fe/JediKnights10-SolicitCover.jpg/revision/latest?cb=20250918205942",
+    "characters": [
+      5392,
+      5395,
+      2206,
+      5411,
+      46940,
+      5396
+    ],
+    "description_full": "<p><em>THE SAGA OF CORLIS RATH CONCLUDES!</em></p><p><em>QUI-GON must finally confront CORLIS RATH — and his memories!</em></p><p><em>What secret lies in Qui-Gon's hidden past?</em></p><p><em>And will OBI-WAN be able to help his master when it matters most?</em></p><p><em>The great mystery of the fan-favorite series revealed at last!</em></p>",
+    "description": "<p><em>THE SAGA OF CORLIS RATH CONCLUDES!</em></p><p><em>QUI-GON must finally confront CORLIS RATH — and his memories!</em></p><p><em>What secret lies in Qui-Gon's hidden past?</em></p><p><em>And will OBI-WAN be able to help his master when it matters most?</em></p><p><em>The great mystery of the fan-favorite series revealed at last!</em></p>",
+    "description_covers": null,
+    "description_notes": null,
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/f/f1/Jedi-Knights-10-Final-Cover.jpg/revision/latest?cb=20251127061307",
     "league_id": "8261662",
     "league_url": "https://leagueofcomicgeeks.com/comic/8261662/star-wars-jedi-knights-10",
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Jedi_Knights_10"
   },
   {
-    "id": 1762614986872,
+    "id": 1143310,
     "series_id": 164202,
     "issue_number": "7",
     "issue_number_sort": 7,
-    "name": "Star Wars",
+    "name": "To the Brink",
     "aliases": null,
     "deck": null,
     "creators": [
@@ -30720,16 +30999,8 @@
         "role": "Writer"
       },
       {
-        "name": "Pete Woods",
-        "role": "Artist, Colorist"
-      },
-      {
         "name": "Clayton Cowles",
         "role": "Letterer"
-      },
-      {
-        "name": "Mikey J. Basso",
-        "role": "Assistant Editor"
       },
       {
         "name": "Grace Orriss",
@@ -30740,30 +31011,52 @@
         "role": "Editor"
       },
       {
+        "name": "Mikey J. Basso",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Pete Woods",
+        "role": "Artist, Colorist"
+      },
+      {
         "name": "Robert Simpson",
         "role": "Senior Editor"
       }
     ],
     "upc": "75960621004600711",
-    "cover_date": null,
+    "cover_date": "2026-01-01",
     "store_date": "11/12/2025",
     "story_arcs": [],
-    "characters": [],
-    "description_full": "",
-    "description": "REVOLUTION! HAN, LUKE and VALANCE are caught in the crossfire as the NAGAI uprising takes hold! A betrayal shakes the power structure of an entire sector! And a NEW REPUBLIC hero is stranded with nowhere to turn!",
-    "description_covers": "",
-    "description_notes": [],
+    "characters": [
+      194934,
+      63917,
+      194855,
+      2608,
+      196153,
+      194853,
+      6315,
+      195911,
+      16174,
+      33545,
+      191265,
+      191263,
+      196152
+    ],
+    "description_full": "<p><em><b>REVOLUTION!</b></em></p><p><em>HAN, LUKE and VALANCE are caught in the crossfire as the NAGAI uprising takes hold!</em></p><p><em>A betrayal shakes the power structure of an entire sector!</em></p><p><em>And a NEW REPUBLIC hero is stranded with nowhere to turn!</em></p>",
+    "description": "<p><em><b>REVOLUTION!</b></em></p><p><em>HAN, LUKE and VALANCE are caught in the crossfire as the NAGAI uprising takes hold!</em></p><p><em>A betrayal shakes the power structure of an entire sector!</em></p><p><em>And a NEW REPUBLIC hero is stranded with nowhere to turn!</em></p>",
+    "description_covers": null,
+    "description_notes": null,
     "cover_url": "https://static.wikia.nocookie.net/starwars/images/5/54/StarWars2025-7-Final-Cover.jpg/revision/latest?cb=20251029023547",
     "league_id": "1859255",
     "league_url": "https://leagueofcomicgeeks.com/comic/1859255/star-wars-7",
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_(2025)_7"
   },
   {
-    "id": 1762614986874,
+    "id": 1149818,
     "series_id": 164202,
     "issue_number": "8",
     "issue_number_sort": 8,
-    "name": "Star Wars",
+    "name": "Desperate Measures",
     "aliases": null,
     "deck": null,
     "creators": [
@@ -30772,20 +31065,40 @@
         "role": "Writer"
       },
       {
+        "name": "Clayton Cowles",
+        "role": "Letterer"
+      },
+      {
+        "name": "Grace Orriss",
+        "role": "Associate Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Mikey J. Basso",
+        "role": "Assistant Editor"
+      },
+      {
         "name": "Pete Woods",
-        "role": "Artist"
+        "role": "Artist, Colorist"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
       }
     ],
     "upc": "75960621004600811",
-    "cover_date": null,
+    "cover_date": "2026-02-01",
     "store_date": "12/24/2025",
     "story_arcs": [],
     "characters": [],
-    "description_full": "",
-    "description": "SECRET REBELLION! As LUKE and his friends join a powerful revolt against the FENRIL CONSORTIUM, the true villain takes control. A key character is kidnapped by the deadly ZANTARRK GANG! RYNN and VALANCE go undercover in a desperate attempt to maintain the peace! Luke's quest to connect with his JEDI heritage is put to the test — as an ancient artifact might be the only key to victory!",
-    "description_covers": "",
-    "description_notes": [],
-    "cover_url": "https://static.wikia.nocookie.net/starwars/images/e/ea/2025StarWars8-SolicitCover.jpg/revision/latest?cb=20250918210800",
+    "description_full": "<p><em><b>SECRET REBELLION!</b></em></p><p><em>As LUKE and his friends join a powerful revolt against the FENRIL CONSORTIUM, the true villain takes control.</em></p><p><em>A key character is kidnapped by the deadly ZANTARRK GANG!</em></p><p><em>RYNN and VALANCE go undercover in a desperate attempt to maintain the peace!</em></p><p><em>Luke's quest to connect with his JEDI heritage is put to the test — as an ancient artifact might be the only key to victory!</em></p>",
+    "description": "<p><em><b>SECRET REBELLION!</b></em></p><p><em>As LUKE and his friends join a powerful revolt against the FENRIL CONSORTIUM, the true villain takes control.</em></p><p><em>A key character is kidnapped by the deadly ZANTARRK GANG!</em></p><p><em>RYNN and VALANCE go undercover in a desperate attempt to maintain the peace!</em></p><p><em>Luke's quest to connect with his JEDI heritage is put to the test — as an ancient artifact might be the only key to victory!</em></p>",
+    "description_covers": null,
+    "description_notes": null,
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/a/a6/StarWars2025-8-Final-Cover.jpg/revision/latest?cb=20251208054032",
     "league_id": "3175894",
     "league_url": "https://leagueofcomicgeeks.com/comic/3175894/star-wars-8",
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_(2025)_8"
@@ -30804,7 +31117,15 @@
         "role": "Writer"
       },
       {
-        "name": "Phil Noto",
+        "name": "Chris Sotomayor",
+        "role": "Colorist"
+      },
+      {
+        "name": "Clayton Cowles",
+        "role": "Letterer"
+      },
+      {
+        "name": "Ramón Rosanas",
         "role": "Artist"
       }
     ],
@@ -30817,7 +31138,7 @@
     "description": "THE END FOR THE NEW REPUBLIC?! LUKE, LEIA, HAN and VALANCE struggle to reunite and help their Nagai allies fight for freedom! A shocking death as a hero falls at the hands of the ZANTARRK STORMTROOPERS! A villain's desperate, final gamble puts everything the NEW REPUBLIC stands for in peril! Can an ancient JEDI RELIC rescue our heroes from certain death — or doom them?",
     "description_covers": "",
     "description_notes": [],
-    "cover_url": "https://static.wikia.nocookie.net/starwars/images/d/d0/2025StarWars9-SolicitCover.jpg/revision/latest?cb=20251023203323",
+    "cover_url": "https://static.wikia.nocookie.net/starwars/images/6/6b/StarWars2025-9-Final-Cover.jpg/revision/latest?cb=20260107025852",
     "league_id": "9247743",
     "league_url": "https://leagueofcomicgeeks.com/comic/9247743/star-wars-9",
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Star_Wars_(2025)_9"
@@ -36023,8 +36344,25 @@
     "name": "Star Wars",
     "aliases": null,
     "deck": null,
-    "creators": [],
-    "upc": null,
+    "creators": [
+      {
+        "name": "Alex Segura",
+        "role": "Writer"
+      },
+      {
+        "name": "Chris Sotomayor",
+        "role": "Colorist"
+      },
+      {
+        "name": "Clayton Cowles",
+        "role": "Letterer"
+      },
+      {
+        "name": "Luke Ross",
+        "role": "Artist"
+      }
+    ],
+    "upc": "75960621004601011",
     "cover_date": null,
     "store_date": "02/18/2026",
     "story_arcs": [],
@@ -38732,5 +39070,2795 @@
     "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Republic_Special_1",
     "league_url": "https://leagueofcomicgeeks.com/comic/6888399/star-wars-age-of-republic-special-1",
     "league_id": "6888399"
+  },
+  {
+    "id": 708140,
+    "series_id": 118871,
+    "issue_number": "1",
+    "issue_number_sort": 1,
+    "name": "Hunter's Heart",
+    "aliases": null,
+    "deck": " ",
+    "creators": [
+      {
+        "name": "Greg Pak",
+        "role": "Writer"
+      },
+      {
+        "name": "Marc Laming",
+        "role": "Artist"
+      },
+      {
+        "name": "Neeraj Menon",
+        "role": "Colorist"
+      },
+      {
+        "name": "Travis Lanham",
+        "role": "Letterer"
+      },
+      {
+        "name": "Tom Groneman",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Beatrice Kilat",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
+      },
+      {
+        "name": "Bria LaVorgna",
+        "role": "Writer"
+      }
+    ],
+    "upc": "75960609183600111",
+    "cover_date": "2019-07-01",
+    "store_date": "2019-05-08",
+    "story_arcs": [],
+    "characters": [
+      6354
+    ],
+    "description_full": "<p><em>THE HUNTER'S HEART!</em></p><p><em>As the implacable bounty hunter who tracked down HAN SOLO, BOBA FETT earned his reputation as one of the greatest villains in the galaxy.</em></p><p><em>But what happens when Boba Fett picks up the trail of an actual villain?</em></p><p><em>Find out what kind of heart - if any - beats under that MANDALORIAN armor!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Terry Dodson &amp; Rachel Dodson</td><td>1</td></tr><tr><td>Var</td><td>Puzzle Piece Variant Cover</td><td>Mike McKone &amp; Guru-eFX</td><td>2</td></tr><tr><td>Var</td><td>Concept Design Variant Cover</td><td>Ralph McQuarrie</td><td>3</td></tr><tr><td>Var</td><td>Movie Variant Cover</td><td>Photo</td><td>4</td></tr></tbody></table>",
+    "description": "<p><em>THE HUNTER'S HEART!</em></p><p><em>As the implacable bounty hunter who tracked down HAN SOLO, BOBA FETT earned his reputation as one of the greatest villains in the galaxy.</em></p><p><em>But what happens when Boba Fett picks up the trail of an actual villain?</em></p><p><em>Find out what kind of heart - if any - beats under that MANDALORIAN armor!</em></p>",
+    "description_covers": "<h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Terry Dodson &amp; Rachel Dodson</td><td>1</td></tr><tr><td>Var</td><td>Puzzle Piece Variant Cover</td><td>Mike McKone &amp; Guru-eFX</td><td>2</td></tr><tr><td>Var</td><td>Concept Design Variant Cover</td><td>Ralph McQuarrie</td><td>3</td></tr><tr><td>Var</td><td>Movie Variant Cover</td><td>Photo</td><td>4</td></tr></tbody></table>",
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/6922218-01.jpg",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Rebellion_-_Boba_Fett_1",
+    "league_url": "https://leagueofcomicgeeks.com/comic/8824690/star-wars-age-of-rebellion-boba-fett-1",
+    "league_id": "8824690"
+  },
+  {
+    "id": 712548,
+    "series_id": 119878,
+    "issue_number": "1",
+    "issue_number_sort": 1,
+    "name": "To the Letter",
+    "aliases": null,
+    "deck": " ",
+    "creators": [
+      {
+        "name": "Greg Pak",
+        "role": "Writer"
+      },
+      {
+        "name": "Ramón Bachs",
+        "role": "Artist"
+      },
+      {
+        "name": "Stéphane Paitreau",
+        "role": "Colorist"
+      },
+      {
+        "name": "Travis Lanham",
+        "role": "Letterer"
+      },
+      {
+        "name": "Tom Groneman",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
+      },
+      {
+        "name": "Bria LaVorgna",
+        "role": "Writer"
+      }
+    ],
+    "upc": "75960609184300111",
+    "cover_date": "2019-08-01",
+    "store_date": "2019-06-26",
+    "story_arcs": [],
+    "characters": [
+      6342,
+      16164
+    ],
+    "description_full": "<p><em>YOUR HUMBLE SERVANT VADER!</em></p><p><em>DARTH VADER may be the most feared man in the galaxy. But to the proud Grand Moffs of THE EMPIRE, he's just the Emperor's apprentice - below them in the hierarchy.</em></p><p><em>But what fury burns in the heart of a SITH with such overwhelming rage when a mere Moff dares command him?</em></p><p><em>And at what point does Darth Vader show them his true power?</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Terry Dodson &amp; Rachel Dodson</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Tommy Lee Edwards</td><td>2</td></tr><tr><td>Var</td><td>Puzzle Piece Variant Cover</td><td>Mike McKone &amp; Guru-eFX</td><td>3</td></tr><tr><td>Var</td><td>Concept Design Variant Cover</td><td>Ralph McQuarrie</td><td>4</td></tr><tr><td>Var</td><td>Greatest Moments Variant Cover (The Cave (#18/36))</td><td>Gabriele Dell'Otto</td><td>5</td></tr><tr><td>Var</td><td>Movie Variant Cover</td><td>Photo</td><td>6</td></tr></tbody></table>",
+    "description": "<p><em>YOUR HUMBLE SERVANT VADER!</em></p><p><em>DARTH VADER may be the most feared man in the galaxy. But to the proud Grand Moffs of THE EMPIRE, he's just the Emperor's apprentice - below them in the hierarchy.</em></p><p><em>But what fury burns in the heart of a SITH with such overwhelming rage when a mere Moff dares command him?</em></p><p><em>And at what point does Darth Vader show them his true power?</em></p>",
+    "description_covers": "<h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Terry Dodson &amp; Rachel Dodson</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Tommy Lee Edwards</td><td>2</td></tr><tr><td>Var</td><td>Puzzle Piece Variant Cover</td><td>Mike McKone &amp; Guru-eFX</td><td>3</td></tr><tr><td>Var</td><td>Concept Design Variant Cover</td><td>Ralph McQuarrie</td><td>4</td></tr><tr><td>Var</td><td>Greatest Moments Variant Cover (The Cave (#18/36))</td><td>Gabriele Dell'Otto</td><td>5</td></tr><tr><td>Var</td><td>Movie Variant Cover</td><td>Photo</td><td>6</td></tr></tbody></table>",
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/6981422-01.jpg",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Rebellion_-_Darth_Vader_1",
+    "league_url": "https://leagueofcomicgeeks.com/comic/1735633/star-wars-age-of-rebellion-darth-vader-1",
+    "league_id": "1735633"
+  },
+  {
+    "id": 705929,
+    "series_id": 118269,
+    "issue_number": "1",
+    "issue_number_sort": 1,
+    "name": "Tooth and Claw",
+    "aliases": null,
+    "deck": " ",
+    "creators": [
+      {
+        "name": "Greg Pak",
+        "role": "Writer"
+      },
+      {
+        "name": "Marc Laming",
+        "role": "Artist"
+      },
+      {
+        "name": "Jordan Boyd",
+        "role": "Colorist"
+      },
+      {
+        "name": "Neeraj Menon",
+        "role": "Colorist"
+      },
+      {
+        "name": "Travis Lanham",
+        "role": "Letterer"
+      },
+      {
+        "name": "Tom Groneman",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
+      },
+      {
+        "name": "Bria LaVorgna",
+        "role": "Writer"
+      }
+    ],
+    "upc": "75960609190400111",
+    "cover_date": "2019-06-01",
+    "store_date": "2019-04-10",
+    "story_arcs": [],
+    "characters": [
+      2595,
+      6342,
+      6416,
+      175851,
+      33545
+    ],
+    "description_full": "<p><em>THE SOUL OF THE DEATH STAR!</em></p><p><em>The EMPIRE has built the deadliest weapon the galaxy has ever seen. But even the most ruthless Imperial officer might hesitate before unleashing the DEATH STAR's power to kill millions in an instant. Behold the secret story of GRAND MOFF TARKIN, the horrors that hammered and honed his resolve, and the terrifying steps he takes to ensure that the Death Star lives up to its deadly name!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Terry Dodson &amp; Rachel Dodson</td><td>1</td></tr><tr><td>Var</td><td>Puzzle Piece Variant Cover</td><td>Mike McKone &amp; Guru-eFX</td><td>2</td></tr><tr><td>Var</td><td>Concept Design Variant Cover</td><td>Iain McCaig</td><td>3</td></tr><tr><td>Var</td><td>Movie Variant Cover</td><td>Photo</td><td>4</td></tr></tbody></table>",
+    "description": "<p><em>THE SOUL OF THE DEATH STAR!</em></p><p><em>The EMPIRE has built the deadliest weapon the galaxy has ever seen. But even the most ruthless Imperial officer might hesitate before unleashing the DEATH STAR's power to kill millions in an instant. Behold the secret story of GRAND MOFF TARKIN, the horrors that hammered and honed his resolve, and the terrifying steps he takes to ensure that the Death Star lives up to its deadly name!</em></p>",
+    "description_covers": "<h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Terry Dodson &amp; Rachel Dodson</td><td>1</td></tr><tr><td>Var</td><td>Puzzle Piece Variant Cover</td><td>Mike McKone &amp; Guru-eFX</td><td>2</td></tr><tr><td>Var</td><td>Concept Design Variant Cover</td><td>Iain McCaig</td><td>3</td></tr><tr><td>Var</td><td>Movie Variant Cover</td><td>Photo</td><td>4</td></tr></tbody></table>",
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/6883288-01.jpg",
+    "timeline": "0 BBY",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Rebellion_-_Grand_Moff_Tarkin_1",
+    "league_url": "https://leagueofcomicgeeks.com/comic/2656618/star-wars-age-of-rebellion-grand-moff-tarkin-1",
+    "league_id": "2656618"
+  },
+  {
+    "id": 707524,
+    "series_id": 118664,
+    "issue_number": "1",
+    "issue_number_sort": 1,
+    "name": "Running From the Rebellion",
+    "aliases": null,
+    "deck": " ",
+    "creators": [
+      {
+        "name": "Greg Pak",
+        "role": "Writer"
+      },
+      {
+        "name": "Chris Sprouse",
+        "role": "Penciller"
+      },
+      {
+        "name": "Karl Story",
+        "role": "Inker"
+      },
+      {
+        "name": "Tamra Bonvillain",
+        "role": "Colorist"
+      },
+      {
+        "name": "Travis Lanham",
+        "role": "Letterer"
+      },
+      {
+        "name": "Tom Groneman",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Beatrice Kilat",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
+      },
+      {
+        "name": "Glenn Greenberg",
+        "role": "Writer"
+      }
+    ],
+    "upc": "75960609185000111",
+    "cover_date": "2019-07-01",
+    "store_date": "2019-05-01",
+    "story_arcs": [],
+    "characters": [
+      156421,
+      6334,
+      2608,
+      6315
+    ],
+    "description_full": "<p><em>THE SCOUNDREL'S CODE!</em></p><p><em>After helping destroy the DEATH STAR, HAN SOLO's ready to cash in his reward and return to life as a scoundrel.</em></p><p><em>But when LUKE SKYWALKER asks for one last favor, Han gets pulled into a rebel mission that might wreck all of his plans.</em></p><p><em>Co-starring CHEWBACCA and introducing AKKO, an old friend who might actually out-scoundrel Han himself!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Terry Dodson &amp; Rachel Dodson</td><td>1</td></tr><tr><td>Var</td><td>Puzzle Piece Variant Cover</td><td>Mike McKone &amp; Guru-eFX</td><td>2</td></tr><tr><td>Var</td><td>Concept Design Variant Cover</td><td>Ralph McQuarrie</td><td>3</td></tr><tr><td>Var</td><td>Movie Variant Cover</td><td>Photo</td><td>4</td></tr><tr><td>Var</td><td>Heroes Variant Cover</td><td>Gerald Parel</td><td>5</td></tr><tr><td>Var</td><td>Greatest Moments Variant Cover (Use the Force, Luke (#14/36))</td><td>Yasmin Putri</td><td>6</td></tr></tbody></table>",
+    "description": "<p><em>THE SCOUNDREL'S CODE!</em></p><p><em>After helping destroy the DEATH STAR, HAN SOLO's ready to cash in his reward and return to life as a scoundrel.</em></p><p><em>But when LUKE SKYWALKER asks for one last favor, Han gets pulled into a rebel mission that might wreck all of his plans.</em></p><p><em>Co-starring CHEWBACCA and introducing AKKO, an old friend who might actually out-scoundrel Han himself!</em></p>",
+    "description_covers": "<h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Terry Dodson &amp; Rachel Dodson</td><td>1</td></tr><tr><td>Var</td><td>Puzzle Piece Variant Cover</td><td>Mike McKone &amp; Guru-eFX</td><td>2</td></tr><tr><td>Var</td><td>Concept Design Variant Cover</td><td>Ralph McQuarrie</td><td>3</td></tr><tr><td>Var</td><td>Movie Variant Cover</td><td>Photo</td><td>4</td></tr><tr><td>Var</td><td>Heroes Variant Cover</td><td>Gerald Parel</td><td>5</td></tr><tr><td>Var</td><td>Greatest Moments Variant Cover (Use the Force, Luke (#14/36))</td><td>Yasmin Putri</td><td>6</td></tr></tbody></table>",
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/6913174-01.jpg",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Rebellion_-_Han_Solo_1",
+    "league_url": "https://leagueofcomicgeeks.com/comic/7212806/star-wars-age-of-rebellion-han-solo-1",
+    "league_id": "7212806"
+  },
+  {
+    "id": 709726,
+    "series_id": 119308,
+    "issue_number": "1",
+    "issue_number_sort": 1,
+    "name": "Great To Be Jabba",
+    "aliases": null,
+    "deck": " ",
+    "creators": [
+      {
+        "name": "Greg Pak",
+        "role": "Writer"
+      },
+      {
+        "name": "Emilio Laiso",
+        "role": "Artist"
+      },
+      {
+        "name": "Marco Turini",
+        "role": "Artist"
+      },
+      {
+        "name": "Roland Boschi",
+        "role": "Artist"
+      },
+      {
+        "name": "Andres Mossa",
+        "role": "Colorist"
+      },
+      {
+        "name": "Neeraj Menon",
+        "role": "Colorist"
+      },
+      {
+        "name": "Rachelle Rosenberg",
+        "role": "Colorist"
+      },
+      {
+        "name": "Travis Lanham",
+        "role": "Letterer"
+      },
+      {
+        "name": "Tom Groneman",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
+      },
+      {
+        "name": "Bria LaVorgna",
+        "role": "Writer"
+      }
+    ],
+    "upc": "75960609186700111",
+    "cover_date": "2019-07-01",
+    "store_date": "2019-05-22",
+    "story_arcs": [],
+    "characters": [
+      6354,
+      5441
+    ],
+    "description_full": "<p><em>IT'S GREAT TO BE JABBA!</em></p><p><em>Across the galaxy, Imperials, rebels and scoundrels alike speak in hushed tones of JABBA THE HUTT, the greatest gangster in the OUTER RIM.</em></p><p><em>Discover what makes the name of Jabba so feared, in a crime story that stretches from the casinos of CANTO BIGHT to the deserts of TATOOINE!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Terry Dodson &amp; Rachel Dodson</td><td>1</td></tr><tr><td>Var</td><td>Puzzle Piece Variant Cover</td><td>Mike McKone &amp; Guru-eFX</td><td>2</td></tr><tr><td>Var</td><td>Concept Design Variant Cover</td><td>Nilo Rodis-Jamero</td><td>3</td></tr><tr><td>Var</td><td>Movie Variant Cover</td><td>Photo</td><td>4</td></tr><tr><td>Var</td><td>Villains Variant Cover</td><td>Gerald Parel</td><td>5</td></tr></tbody></table>",
+    "description": "<p><em>IT'S GREAT TO BE JABBA!</em></p><p><em>Across the galaxy, Imperials, rebels and scoundrels alike speak in hushed tones of JABBA THE HUTT, the greatest gangster in the OUTER RIM.</em></p><p><em>Discover what makes the name of Jabba so feared, in a crime story that stretches from the casinos of CANTO BIGHT to the deserts of TATOOINE!</em></p>",
+    "description_covers": "<h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Terry Dodson &amp; Rachel Dodson</td><td>1</td></tr><tr><td>Var</td><td>Puzzle Piece Variant Cover</td><td>Mike McKone &amp; Guru-eFX</td><td>2</td></tr><tr><td>Var</td><td>Concept Design Variant Cover</td><td>Nilo Rodis-Jamero</td><td>3</td></tr><tr><td>Var</td><td>Movie Variant Cover</td><td>Photo</td><td>4</td></tr><tr><td>Var</td><td>Villains Variant Cover</td><td>Gerald Parel</td><td>5</td></tr></tbody></table>",
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/6938340-01.jpg",
+    "league_id": "3790702",
+    "league_url": "https://leagueofcomicgeeks.com/comic/3790702/star-wars-age-of-rebellion-jabba-the-hutt-1",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Rebellion_-_Jabba_the_Hutt_1"
+  },
+  {
+    "id": 709211,
+    "series_id": 119162,
+    "issue_number": "1",
+    "issue_number_sort": 1,
+    "name": "Cloud City Blues",
+    "aliases": null,
+    "deck": " ",
+    "creators": [
+      {
+        "name": "Greg Pak",
+        "role": "Writer"
+      },
+      {
+        "name": "Matteo Buffagni",
+        "role": "Artist"
+      },
+      {
+        "name": "Tamra Bonvillain",
+        "role": "Colorist"
+      },
+      {
+        "name": "Travis Lanham",
+        "role": "Letterer"
+      },
+      {
+        "name": "Tom Groneman",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Beatrice Kilat",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
+      },
+      {
+        "name": "Glenn Greenberg",
+        "role": "Writer"
+      }
+    ],
+    "upc": "75960609187400111",
+    "cover_date": "2019-07-01",
+    "store_date": "2019-05-15",
+    "story_arcs": [],
+    "characters": [
+      6355,
+      6411
+    ],
+    "description_full": "<p><em>CLOUD CITY BLUES!</em></p><p><em>Former smuggler LANDO CALRISSIAN has a beautiful dream: a life of leisure and luxury as the totally legitimate BARON ADMINISTRATOR of CLOUD CITY.</em></p><p><em>All he needs to do is take care of his money troubles with one last, big scam. But what will get in his way the most - his bad luck or this annoying sense of ethics he seems to be developing?</em></p><p><em>Co-starring LOBOT!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Terry Dodson &amp; Rachel Dodson</td><td>1</td></tr><tr><td>Var</td><td>Puzzle Piece Variant Cover</td><td>Mike McKone &amp; Guru-eFX</td><td>2</td></tr><tr><td>Var</td><td>Concept Design Variant Cover</td><td>Nilo Rodis-Jamero</td><td>3</td></tr><tr><td>Var</td><td>Movie Variant Cover</td><td>Photo</td><td>4</td></tr></tbody></table>",
+    "description": "<p><em>CLOUD CITY BLUES!</em></p><p><em>Former smuggler LANDO CALRISSIAN has a beautiful dream: a life of leisure and luxury as the totally legitimate BARON ADMINISTRATOR of CLOUD CITY.</em></p><p><em>All he needs to do is take care of his money troubles with one last, big scam. But what will get in his way the most - his bad luck or this annoying sense of ethics he seems to be developing?</em></p><p><em>Co-starring LOBOT!</em></p>",
+    "description_covers": "<h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Terry Dodson &amp; Rachel Dodson</td><td>1</td></tr><tr><td>Var</td><td>Puzzle Piece Variant Cover</td><td>Mike McKone &amp; Guru-eFX</td><td>2</td></tr><tr><td>Var</td><td>Concept Design Variant Cover</td><td>Nilo Rodis-Jamero</td><td>3</td></tr><tr><td>Var</td><td>Movie Variant Cover</td><td>Photo</td><td>4</td></tr></tbody></table>",
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/6929700-01.jpg",
+    "league_id": "7696310",
+    "league_url": "https://leagueofcomicgeeks.com/comic/7696310/star-wars-age-of-rebellion-lando-calrissian-1",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Rebellion_-_Lando_Calrissian_1"
+  },
+  {
+    "id": 710694,
+    "series_id": 119558,
+    "issue_number": "1",
+    "issue_number_sort": 1,
+    "name": "Fight or Flight",
+    "aliases": null,
+    "deck": " ",
+    "creators": [
+      {
+        "name": "Greg Pak",
+        "role": "Writer"
+      },
+      {
+        "name": "Chris Sprouse",
+        "role": "Penciller"
+      },
+      {
+        "name": "Karl Story",
+        "role": "Inker"
+      },
+      {
+        "name": "Marc Deering",
+        "role": "Inker"
+      },
+      {
+        "name": "Scott Koblish",
+        "role": "Penciller"
+      },
+      {
+        "name": "Stefano Landini",
+        "role": "Penciller"
+      },
+      {
+        "name": "Tamra Bonvillain",
+        "role": "Colorist"
+      },
+      {
+        "name": "Travis Lanham",
+        "role": "Letterer"
+      },
+      {
+        "name": "Tom Groneman",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
+      },
+      {
+        "name": "Glenn Greenberg",
+        "role": "Writer"
+      }
+    ],
+    "upc": "75960609188100111",
+    "cover_date": "2019-08-01",
+    "store_date": "2019-06-05",
+    "story_arcs": [],
+    "characters": [
+      6315
+    ],
+    "description_full": "<p><em>THE FIRST TEMPTATION OF LUKE SKYWALKER!</em></p><p><em>After learning the true identity of his father, LUKE continues his training and prepares for the inevitable showdown, determined never to follow the path of VADER.</em></p><p><em>But when a rebel general's mistakes lead to disaster and Luke must seize command, the DARK SIDE tempts him as never before.</em></p><p><em>Featuring the eerie influence of THE EMPEROR!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Terry Dodson &amp; Rachel Dodson</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Chris Sprouse, Karl Story &amp; Neeraj Menon</td><td>2</td></tr><tr><td>Var</td><td>Puzzle Piece Variant Cover</td><td>Mike McKone &amp; Guru-eFX</td><td>3</td></tr><tr><td>Var</td><td>Concept Design Variant Cover</td><td>Ralph McQuarrie</td><td>4</td></tr><tr><td>Var</td><td>Movie Variant Cover</td><td>Photo</td><td>5</td></tr></tbody></table>",
+    "description": "<p><em>THE FIRST TEMPTATION OF LUKE SKYWALKER!</em></p><p><em>After learning the true identity of his father, LUKE continues his training and prepares for the inevitable showdown, determined never to follow the path of VADER.</em></p><p><em>But when a rebel general's mistakes lead to disaster and Luke must seize command, the DARK SIDE tempts him as never before.</em></p><p><em>Featuring the eerie influence of THE EMPEROR!</em></p>",
+    "description_covers": "<h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Terry Dodson &amp; Rachel Dodson</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Chris Sprouse, Karl Story &amp; Neeraj Menon</td><td>2</td></tr><tr><td>Var</td><td>Puzzle Piece Variant Cover</td><td>Mike McKone &amp; Guru-eFX</td><td>3</td></tr><tr><td>Var</td><td>Concept Design Variant Cover</td><td>Ralph McQuarrie</td><td>4</td></tr><tr><td>Var</td><td>Movie Variant Cover</td><td>Photo</td><td>5</td></tr></tbody></table>",
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/6958092-01.jpg",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Rebellion_-_Luke_Skywalker_1",
+    "league_url": "https://leagueofcomicgeeks.com/comic/5774190/star-wars-age-of-rebellion-luke-skywalker-1",
+    "league_id": "5774190"
+  },
+  {
+    "id": 705930,
+    "series_id": 118270,
+    "issue_number": "1",
+    "issue_number_sort": 1,
+    "name": "Princess Scoundrel",
+    "aliases": null,
+    "deck": " ",
+    "creators": [
+      {
+        "name": "Greg Pak",
+        "role": "Writer"
+      },
+      {
+        "name": "Chris Sprouse",
+        "role": "Penciller"
+      },
+      {
+        "name": "Karl Story",
+        "role": "Inker"
+      },
+      {
+        "name": "Marc Deering",
+        "role": "Inker"
+      },
+      {
+        "name": "Tamra Bonvillain",
+        "role": "Colorist"
+      },
+      {
+        "name": "Travis Lanham",
+        "role": "Letterer"
+      },
+      {
+        "name": "Will Sliney",
+        "role": "Penciller"
+      },
+      {
+        "name": "Tom Groneman",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
+      },
+      {
+        "name": "Bria LaVorgna",
+        "role": "Writer"
+      }
+    ],
+    "upc": "75960609189800111",
+    "cover_date": "2019-06-01",
+    "store_date": "2019-04-10",
+    "story_arcs": [],
+    "characters": [
+      47931,
+      52797,
+      6334,
+      6355,
+      33545
+    ],
+    "description_full": "<p><em>BOUNTY HUNTER PRINCESS!</em></p><p><em>With HAN SOLO frozen in carbonite in the palace of JABBA THE HUTT, PRINCESS LEIA prepares for a daring rescue by taking on the identity of the bounty hunter BOUSHH. But in order to succeed, she'll have to prove herself in her new identity to the ruthless bounty hunter BOSSK! With her life and all of her principles on the line, how far will Leia go to rescue a scoundrel? Co-starring CHEWBACCA and LANDO, who almost certainly have a bad feeling about this!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Terry Dodson &amp; Rachel Dodson</td><td>1</td></tr><tr><td>Var</td><td>Puzzle Piece Variant Cover</td><td>Mike McKone &amp; Guru-eFX</td><td>2</td></tr><tr><td>Var</td><td>Promo Variant Cover</td><td>Giuseppe Camuncoli &amp; Elia Bonetti</td><td>3</td></tr><tr><td>Var</td><td>Concept Design Variant Cover</td><td>Paul LeBlanc</td><td>4</td></tr><tr><td>Var</td><td>Movie Variant Cover</td><td>Photo</td><td>5</td></tr></tbody></table>",
+    "description": "<p><em>BOUNTY HUNTER PRINCESS!</em></p><p><em>With HAN SOLO frozen in carbonite in the palace of JABBA THE HUTT, PRINCESS LEIA prepares for a daring rescue by taking on the identity of the bounty hunter BOUSHH. But in order to succeed, she'll have to prove herself in her new identity to the ruthless bounty hunter BOSSK! With her life and all of her principles on the line, how far will Leia go to rescue a scoundrel? Co-starring CHEWBACCA and LANDO, who almost certainly have a bad feeling about this!</em></p>",
+    "description_covers": "<h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Terry Dodson &amp; Rachel Dodson</td><td>1</td></tr><tr><td>Var</td><td>Puzzle Piece Variant Cover</td><td>Mike McKone &amp; Guru-eFX</td><td>2</td></tr><tr><td>Var</td><td>Promo Variant Cover</td><td>Giuseppe Camuncoli &amp; Elia Bonetti</td><td>3</td></tr><tr><td>Var</td><td>Concept Design Variant Cover</td><td>Paul LeBlanc</td><td>4</td></tr><tr><td>Var</td><td>Movie Variant Cover</td><td>Photo</td><td>5</td></tr></tbody></table>",
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/6883289-01.jpg",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Rebellion_-_Princess_Leia_1",
+    "league_url": "https://leagueofcomicgeeks.com/comic/8408687/star-wars-age-of-rebellion-princess-leia-1",
+    "league_id": "8408687"
+  },
+  {
+    "id": 706419,
+    "series_id": 118395,
+    "issue_number": "1",
+    "issue_number_sort": 1,
+    "name": "The Long Game; The Trial of Dagobah; Stolen Valor",
+    "aliases": null,
+    "deck": " ",
+    "creators": [
+      {
+        "name": "Jon Adams",
+        "role": "Writer, Artist"
+      },
+      {
+        "name": "Marc Guggenheim",
+        "role": "Writer"
+      },
+      {
+        "name": "Simon Spurrier",
+        "role": "Writer"
+      },
+      {
+        "name": "Andrea Broccardo",
+        "role": "Artist"
+      },
+      {
+        "name": "Caspar Wijngaard",
+        "role": "Artist"
+      },
+      {
+        "name": "Travis Lanham",
+        "role": "Letterer"
+      },
+      {
+        "name": "Chris O'Halloran",
+        "role": "Colorist"
+      },
+      {
+        "name": "Dono Sánchez-Almara",
+        "role": "Colorist"
+      },
+      {
+        "name": "Lee Loughridge",
+        "role": "Colorist"
+      },
+      {
+        "name": "Tom Groneman",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
+      },
+      {
+        "name": "Bryan Young",
+        "role": "Writer"
+      },
+      {
+        "name": "Joe Johnson",
+        "role": "Artist"
+      },
+      {
+        "name": "Ralph McQuarrie",
+        "role": "Artist"
+      }
+    ],
+    "upc": "75960609191100111",
+    "cover_date": "2019-06-01",
+    "store_date": "2019-04-17",
+    "story_arcs": [],
+    "characters": [
+      47929,
+      6321,
+      115020,
+      47935,
+      140492,
+      47938,
+      53604,
+      6315,
+      2594,
+      5396
+    ],
+    "description_full": "<p><em>A ONE-SHOT SPECIAL FEATURING YOUR FAVORITE (AND UNEXPECTED) CHARACTERS FROM THE ORIGINAL STAR WARS TRILOGY!</em></p><p><em>Move over, Boba Fett. The most dangerous bounty hunter in the galaxy isn't who you think. The cold, calculating assassin droid IG-88 had a deadly reputation. Wanted criminals should tremble in fear because IG-88 will stop at nothing to get the job done. But where did it come from? What does it want? Perfection might be a good place to start. SI SPURRIER (DOCTOR APHRA) and CASPAR WIJNGAARD (DOCTOR APHRA ANNUAL) bring the terrifying droid to life!</em></p><p><em>The destruction of the Order, the death of his friends, exile - no matter what he has endured, YODA will always be a Jedi. Even in hiding on the isolated planet of Dagobah, far from the evil Empire's reach, a Jedi's work is never done. Marc Guggenheim (X-MEN GOLD) and ANDREA BROCCARDO (STAR WARS) will pay the wise, old master a visit!</em></p><p><em>The freedom-fighting REBEL ALLIANCE has more than its fair share of heroes - like ace pilots BIGGS DARKLIGHTER and JEK PORKINS. But they've been fighting the evil Galactic Empire for a long time and sometimes, even noble warriors like Biggs and Porkins need a little rest and relaxation. Is anywhere truly free from the trials of the galactic conflict? Writer and illustrator JON ADAMS (the New Yorker, LOVE ROMANCES) has the answer!</em></p><h2>Contents</h2><ul><li>IG-88 in The Long Game</li><li>Yoda in The Trial of Dagobah</li><li>Biggs Darklighter and Jek Porkins in Stolen Valor</li></ul><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Giuseppe Camuncoli &amp; Guru-eFX</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Marco Checchetto</td><td>2</td></tr><tr><td>Var</td><td>Greatest Moments Variant Cover (Heroes of the Rebellion, #11 of 36)</td><td>Jen Bartel</td><td>3</td></tr><tr><td>Var</td><td>Puzzle Piece Variant Cover</td><td>Mike McKone &amp; Guru-eFX</td><td>4</td></tr></tbody></table>",
+    "description": "<p><em>A ONE-SHOT SPECIAL FEATURING YOUR FAVORITE (AND UNEXPECTED) CHARACTERS FROM THE ORIGINAL STAR WARS TRILOGY!</em></p><p><em>Move over, Boba Fett. The most dangerous bounty hunter in the galaxy isn't who you think. The cold, calculating assassin droid IG-88 had a deadly reputation. Wanted criminals should tremble in fear because IG-88 will stop at nothing to get the job done. But where did it come from? What does it want? Perfection might be a good place to start. SI SPURRIER (DOCTOR APHRA) and CASPAR WIJNGAARD (DOCTOR APHRA ANNUAL) bring the terrifying droid to life!</em></p><p><em>The destruction of the Order, the death of his friends, exile - no matter what he has endured, YODA will always be a Jedi. Even in hiding on the isolated planet of Dagobah, far from the evil Empire's reach, a Jedi's work is never done. Marc Guggenheim (X-MEN GOLD) and ANDREA BROCCARDO (STAR WARS) will pay the wise, old master a visit!</em></p><p><em>The freedom-fighting REBEL ALLIANCE has more than its fair share of heroes - like ace pilots BIGGS DARKLIGHTER and JEK PORKINS. But they've been fighting the evil Galactic Empire for a long time and sometimes, even noble warriors like Biggs and Porkins need a little rest and relaxation. Is anywhere truly free from the trials of the galactic conflict? Writer and illustrator JON ADAMS (the New Yorker, LOVE ROMANCES) has the answer!</em></p><h2>Contents</h2><ul><li>IG-88 in The Long Game</li><li>Yoda in The Trial of Dagobah</li><li>Biggs Darklighter and Jek Porkins in Stolen Valor</li></ul>",
+    "description_covers": "<h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Giuseppe Camuncoli &amp; Guru-eFX</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Marco Checchetto</td><td>2</td></tr><tr><td>Var</td><td>Greatest Moments Variant Cover (Heroes of the Rebellion, #11 of 36)</td><td>Jen Bartel</td><td>3</td></tr><tr><td>Var</td><td>Puzzle Piece Variant Cover</td><td>Mike McKone &amp; Guru-eFX</td><td>4</td></tr></tbody></table>",
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/6893206-01.jpg",
+    "league_url": "https://leagueofcomicgeeks.com/comic/4042905/star-wars-age-of-rebellion-special-1",
+    "league_id": "4042905",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Rebellion_Special_1"
+  },
+  {
+    "id": 713518,
+    "series_id": 120138,
+    "issue_number": "1",
+    "issue_number_sort": 1,
+    "name": "Fallen Guns",
+    "aliases": null,
+    "deck": " ",
+    "creators": [
+      {
+        "name": "Tom Taylor",
+        "role": "Writer"
+      },
+      {
+        "name": "Cory Hamscher",
+        "role": "Inker"
+      },
+      {
+        "name": "Guru-eFX",
+        "role": "Colorist"
+      },
+      {
+        "name": "Leonard Kirk",
+        "role": "Penciller"
+      },
+      {
+        "name": "Travis Lanham",
+        "role": "Letterer"
+      },
+      {
+        "name": "Tom Groneman",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
+      },
+      {
+        "name": "Bryan Young",
+        "role": "Writer"
+      }
+    ],
+    "upc": "75960609201700111",
+    "cover_date": "2019-09-01",
+    "store_date": "2019-07-10",
+    "story_arcs": [],
+    "characters": [
+      125276
+    ],
+    "description_full": "<p><em>ANOTHER GUN! STORMTROOPERS don't get a name. They are simply a tool of the EMPIRE. But PHASMA has a name, and one young soldier wants what she has. One stormtrooper has ambition. And this ambition is on a collision course with CAPTAIN PHASMA.</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Phil Noto</td><td>1</td></tr><tr><td>Var</td><td>Puzzle Piece Variant Cover</td><td>Mike McKone &amp; Guru-eFX</td><td>2</td></tr><tr><td>Var</td><td>Movie Variant Cover</td><td>Photo</td><td>3</td></tr><tr><td>Var</td><td>Concept Design Variant Cover</td><td>Tonci Zonjic</td><td>4</td></tr></tbody></table><p> </p><p> </p>",
+    "description": "<p><em>ANOTHER GUN! STORMTROOPERS don't get a name. They are simply a tool of the EMPIRE. But PHASMA has a name, and one young soldier wants what she has. One stormtrooper has ambition. And this ambition is on a collision course with CAPTAIN PHASMA.</em></p>",
+    "description_covers": "<h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Phil Noto</td><td>1</td></tr><tr><td>Var</td><td>Puzzle Piece Variant Cover</td><td>Mike McKone &amp; Guru-eFX</td><td>2</td></tr><tr><td>Var</td><td>Movie Variant Cover</td><td>Photo</td><td>3</td></tr><tr><td>Var</td><td>Concept Design Variant Cover</td><td>Tonci Zonjic</td><td>4</td></tr></tbody></table>",
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/7000496-01.jpg",
+    "league_id": "5868670",
+    "league_url": "https://leagueofcomicgeeks.com/comic/5868670/star-wars-age-of-resistance-captain-phasma-1",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Resistance_-_Captain_Phasma_1"
+  },
+  {
+    "id": 713081,
+    "series_id": 120029,
+    "issue_number": "1",
+    "issue_number_sort": 1,
+    "name": "Infestation",
+    "aliases": null,
+    "deck": " ",
+    "creators": [
+      {
+        "name": "Tom Taylor",
+        "role": "Writer"
+      },
+      {
+        "name": "Ramón Rosanas",
+        "role": "Artist"
+      },
+      {
+        "name": "Guru-eFX",
+        "role": "Colorist"
+      },
+      {
+        "name": "Travis Lanham",
+        "role": "Letterer"
+      },
+      {
+        "name": "Tom Groneman",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
+      },
+      {
+        "name": "Bryan Young",
+        "role": "Writer"
+      }
+    ],
+    "upc": "75960609202400111",
+    "cover_date": "2019-09-01",
+    "store_date": "2019-07-03",
+    "story_arcs": [],
+    "characters": [
+      125276,
+      125274,
+      117591
+    ],
+    "description_full": "<p><em>A LITTLE REBELLION! Before he was a rebel hero, FINN had another calling. He was... a janitor. But how could this lead FN-2187 to question everything? How much action can someone see mopping floors and dealing with a pest problem? It turns out, a whole lot.</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Phil Noto</td><td>1</td></tr><tr><td>Var</td><td>Puzzle Piece Variant Cover</td><td>Mike McKone &amp; Guru-eFX</td><td>2</td></tr><tr><td>Var</td><td>Movie Variant Cover</td><td>Photo</td><td>3</td></tr><tr><td>Var</td><td>Concept Design Variant Cover</td><td>Glyn Dillon</td><td>4</td></tr><tr><td>Var</td><td>Promo Variant Cover</td><td>Giuseppe Camuncoli &amp; Elia Bonetti</td><td>5</td></tr></tbody></table><p> </p><p> </p>",
+    "description": "<p><em>A LITTLE REBELLION! Before he was a rebel hero, FINN had another calling. He was... a janitor. But how could this lead FN-2187 to question everything? How much action can someone see mopping floors and dealing with a pest problem? It turns out, a whole lot.</em></p>",
+    "description_covers": "<h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Phil Noto</td><td>1</td></tr><tr><td>Var</td><td>Puzzle Piece Variant Cover</td><td>Mike McKone &amp; Guru-eFX</td><td>2</td></tr><tr><td>Var</td><td>Movie Variant Cover</td><td>Photo</td><td>3</td></tr><tr><td>Var</td><td>Concept Design Variant Cover</td><td>Glyn Dillon</td><td>4</td></tr><tr><td>Var</td><td>Promo Variant Cover</td><td>Giuseppe Camuncoli &amp; Elia Bonetti</td><td>5</td></tr></tbody></table>",
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/6990922-01.jpg",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Resistance_-_Finn_1",
+    "league_url": "https://leagueofcomicgeeks.com/comic/4648974/star-wars-age-of-resistance-finn-1",
+    "league_id": "4648974"
+  },
+  {
+    "id": 717530,
+    "series_id": 120954,
+    "issue_number": "1",
+    "issue_number_sort": 1,
+    "name": "Marooned",
+    "aliases": null,
+    "deck": " ",
+    "creators": [
+      {
+        "name": "Tom Taylor",
+        "role": "Writer"
+      },
+      {
+        "name": "Cory Hamscher",
+        "role": "Inker"
+      },
+      {
+        "name": "Guru-eFX",
+        "role": "Colorist"
+      },
+      {
+        "name": "Leonard Kirk",
+        "role": "Penciller"
+      },
+      {
+        "name": "Travis Lanham",
+        "role": "Letterer"
+      },
+      {
+        "name": "Tom Groneman",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
+      },
+      {
+        "name": "Bria LaVorgna",
+        "role": "Writer"
+      }
+    ],
+    "upc": "75960609203100111",
+    "cover_date": "2019-10-01",
+    "store_date": "2019-08-28",
+    "story_arcs": [],
+    "characters": [
+      182813,
+      125277,
+      117591,
+      132221
+    ],
+    "description_full": "<p><em>MAROONED!</em></p><p><em>GENERAL HUX and KYLO REN crash-land on a far-off planet.</em></p><p><em>With no hope of rescue, the two are forced to work together to survive.</em></p><p><em>But can they survive each other?</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Phil Noto</td><td>1</td></tr><tr><td>Var</td><td>Puzzle Piece Variant Cover</td><td>Mike McKone &amp; Guru-eFX</td><td>2</td></tr><tr><td>Var</td><td>Concept Design Variant Cover</td><td>Unlisted</td><td>3</td></tr><tr><td>Var</td><td>Movie Variant Cover</td><td>Photo</td><td>4</td></tr></tbody></table>",
+    "description": "<p><em>MAROONED!</em></p><p><em>GENERAL HUX and KYLO REN crash-land on a far-off planet.</em></p><p><em>With no hope of rescue, the two are forced to work together to survive.</em></p><p><em>But can they survive each other?</em></p>",
+    "description_covers": "<h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Phil Noto</td><td>1</td></tr><tr><td>Var</td><td>Puzzle Piece Variant Cover</td><td>Mike McKone &amp; Guru-eFX</td><td>2</td></tr><tr><td>Var</td><td>Concept Design Variant Cover</td><td>Unlisted</td><td>3</td></tr><tr><td>Var</td><td>Movie Variant Cover</td><td>Photo</td><td>4</td></tr></tbody></table>",
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/7054362-01.jpg",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Resistance_-_General_Hux_1",
+    "league_url": "https://leagueofcomicgeeks.com/comic/3097364/star-wars-age-of-resistance-general-hux-1",
+    "league_id": "3097364"
+  },
+  {
+    "id": 720172,
+    "series_id": 121583,
+    "issue_number": "1",
+    "issue_number_sort": 1,
+    "name": "Out of the Shadow",
+    "aliases": null,
+    "deck": " ",
+    "creators": [
+      {
+        "name": "Tom Taylor",
+        "role": "Writer"
+      },
+      {
+        "name": "Cory Hamscher",
+        "role": "Inker"
+      },
+      {
+        "name": "Guru-eFX",
+        "role": "Colorist"
+      },
+      {
+        "name": "Leonard Kirk",
+        "role": "Penciller"
+      },
+      {
+        "name": "Travis Lanham",
+        "role": "Letterer"
+      },
+      {
+        "name": "Tom Groneman",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
+      },
+      {
+        "name": "Bryan Young",
+        "role": "Writer"
+      },
+      {
+        "name": "Doug Chiang",
+        "role": "Artist"
+      }
+    ],
+    "upc": "75960609204800111",
+    "cover_date": "2019-11-01",
+    "store_date": "2019-09-25",
+    "story_arcs": [],
+    "characters": [
+      6342,
+      125277,
+      117591
+    ],
+    "description_full": "<p><em>A DYNASTY OF DOOM!</em></p><p><em>ANAKIN SKYWALKER casts a long shadow.</em></p><p><em>Can KYLO REN ever escape his infamous grandfather's reputation?</em></p><p><em>Or will he succeed where DARTH VADER failed?</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Phil Noto</td><td>1</td></tr><tr><td>Var</td><td>Puzzle Piece Variant Cover</td><td>Mike McKone &amp; Guru-eFX</td><td>2</td></tr><tr><td>Var</td><td>Greatest Moments Variant Cover (Father vs. Son (#27/36))</td><td>Ron Frenz, Tom Palmer &amp; Antonio Fabela</td><td>3</td></tr></tbody></table>",
+    "description": "<p><em>A DYNASTY OF DOOM!</em></p><p><em>ANAKIN SKYWALKER casts a long shadow.</em></p><p><em>Can KYLO REN ever escape his infamous grandfather's reputation?</em></p><p><em>Or will he succeed where DARTH VADER failed?</em></p>",
+    "description_covers": "<h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Phil Noto</td><td>1</td></tr><tr><td>Var</td><td>Puzzle Piece Variant Cover</td><td>Mike McKone &amp; Guru-eFX</td><td>2</td></tr><tr><td>Var</td><td>Greatest Moments Variant Cover (Father vs. Son (#27/36))</td><td>Ron Frenz, Tom Palmer &amp; Antonio Fabela</td><td>3</td></tr></tbody></table>",
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/7084662-01.jpg",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Resistance_-_Kylo_Ren_1",
+    "league_url": "https://leagueofcomicgeeks.com/comic/8826616/star-wars-age-of-resistance-kylo-ren-1",
+    "league_id": "8826616"
+  },
+  {
+    "id": 717531,
+    "series_id": 120955,
+    "issue_number": "1",
+    "issue_number_sort": 1,
+    "name": "Fight or Flight",
+    "aliases": null,
+    "deck": " ",
+    "creators": [
+      {
+        "name": "Tom Taylor",
+        "role": "Writer"
+      },
+      {
+        "name": "Ramón Rosanas",
+        "role": "Artist"
+      },
+      {
+        "name": "Guru-eFX",
+        "role": "Colorist"
+      },
+      {
+        "name": "Travis Lanham",
+        "role": "Letterer"
+      },
+      {
+        "name": "Tom Groneman",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
+      },
+      {
+        "name": "Bria LaVorgna",
+        "role": "Writer"
+      }
+    ],
+    "upc": "75960609206200111",
+    "cover_date": "2019-10-01",
+    "store_date": "2019-08-28",
+    "story_arcs": [],
+    "characters": [
+      149697,
+      122159,
+      127894,
+      16165,
+      124947
+    ],
+    "description_full": "<p><em>FIGHT AND FLIGHT!</em></p><p><em>POE DAMERON is the greatest pilot in THE RESISTANCE.</em></p><p><em>But before the Resistance, he commanded another crew. He flew for the NEW REPUBLIC.</em></p><p><em>But was Poe flying for the right cause?</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Phil Noto</td><td>1</td></tr><tr><td>Var</td><td>Puzzle Piece Variant Cover</td><td>Mike McKone &amp; Guru-eFX</td><td>2</td></tr><tr><td>Var</td><td>Concept Design Variant Cover</td><td>Glyn Dillon</td><td>3</td></tr><tr><td>Var</td><td>Greatest Moments Variant Cover (Forest Chase, #23/36)</td><td>Chris Samnee</td><td>4</td></tr><tr><td>Var</td><td>Movie Variant Cover</td><td>Photo</td><td>5</td></tr></tbody></table>",
+    "description": "<p><em>FIGHT AND FLIGHT!</em></p><p><em>POE DAMERON is the greatest pilot in THE RESISTANCE.</em></p><p><em>But before the Resistance, he commanded another crew. He flew for the NEW REPUBLIC.</em></p><p><em>But was Poe flying for the right cause?</em></p>",
+    "description_covers": "<h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Phil Noto</td><td>1</td></tr><tr><td>Var</td><td>Puzzle Piece Variant Cover</td><td>Mike McKone &amp; Guru-eFX</td><td>2</td></tr><tr><td>Var</td><td>Concept Design Variant Cover</td><td>Glyn Dillon</td><td>3</td></tr><tr><td>Var</td><td>Greatest Moments Variant Cover (Forest Chase, #23/36)</td><td>Chris Samnee</td><td>4</td></tr><tr><td>Var</td><td>Movie Variant Cover</td><td>Photo</td><td>5</td></tr></tbody></table>",
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/7054364-01.jpg",
+    "league_id": "7612486",
+    "league_url": "https://leagueofcomicgeeks.com/comic/7612486/star-wars-age-of-resistance-poe-dameron-1",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Resistance_-_Poe_Dameron_1"
+  },
+  {
+    "id": 719444,
+    "series_id": 121422,
+    "issue_number": "1",
+    "issue_number_sort": 1,
+    "name": "Alone",
+    "aliases": null,
+    "deck": " ",
+    "creators": [
+      {
+        "name": "Tom Taylor",
+        "role": "Writer"
+      },
+      {
+        "name": "Ramón Rosanas",
+        "role": "Artist"
+      },
+      {
+        "name": "Guru-eFX",
+        "role": "Colorist"
+      },
+      {
+        "name": "Travis Lanham",
+        "role": "Letterer"
+      },
+      {
+        "name": "Tom Groneman",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
+      },
+      {
+        "name": "Bria LaVorgna",
+        "role": "Writer"
+      },
+      {
+        "name": "Glyn Dillon",
+        "role": "Artist"
+      }
+    ],
+    "upc": "75960609207900111",
+    "cover_date": "2019-11-01",
+    "store_date": "2019-09-18",
+    "story_arcs": [],
+    "characters": [
+      16168,
+      175866,
+      122159,
+      6335,
+      6334,
+      2608,
+      172233,
+      117591,
+      124947,
+      33545,
+      2594,
+      125273,
+      137610
+    ],
+    "description_full": "<p><em>SEARCH FOR SKYWALKER!</em></p><p><em>After HAN SOLO'S fall, REY searched for LUKE SKYWALKER. But before Luke, there was LEIA.</em></p><p><em>Witness never-before-seen moments between REY and GENERAL ORGANA.</em></p><p><em>What will Rey, CHEWBACCA and R2-D2 encounter on the way to find Leia's missing brother?</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Phil Noto</td><td>1</td></tr><tr><td>Var</td><td>Puzzle Piece Variant Cover</td><td>Mike McKone &amp; Guru-eFX</td><td>2</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Joe Quesada &amp; Richard Isanove</td><td>3</td></tr></tbody></table>",
+    "description": "<p><em>SEARCH FOR SKYWALKER!</em></p><p><em>After HAN SOLO'S fall, REY searched for LUKE SKYWALKER. But before Luke, there was LEIA.</em></p><p><em>Witness never-before-seen moments between REY and GENERAL ORGANA.</em></p><p><em>What will Rey, CHEWBACCA and R2-D2 encounter on the way to find Leia's missing brother?</em></p>",
+    "description_covers": "<h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Phil Noto</td><td>1</td></tr><tr><td>Var</td><td>Puzzle Piece Variant Cover</td><td>Mike McKone &amp; Guru-eFX</td><td>2</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Joe Quesada &amp; Richard Isanove</td><td>3</td></tr></tbody></table>",
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/7075987-01.jpg",
+    "league_id": "2717486",
+    "league_url": "https://leagueofcomicgeeks.com/comic/2717486/star-wars-age-of-resistance-rey-1",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Resistance_-_Rey_1"
+  },
+  {
+    "id": 719445,
+    "series_id": 121423,
+    "issue_number": "1",
+    "issue_number_sort": 1,
+    "name": "My Hero",
+    "aliases": null,
+    "deck": " ",
+    "creators": [
+      {
+        "name": "Tom Taylor",
+        "role": "Writer"
+      },
+      {
+        "name": "Ramón Rosanas",
+        "role": "Artist"
+      },
+      {
+        "name": "Guru-eFX",
+        "role": "Colorist"
+      },
+      {
+        "name": "Travis Lanham",
+        "role": "Letterer"
+      },
+      {
+        "name": "Tom Groneman",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
+      },
+      {
+        "name": "Bria LaVorgna",
+        "role": "Writer"
+      }
+    ],
+    "upc": "75960609205500111",
+    "cover_date": "2019-11-01",
+    "store_date": "2019-09-18",
+    "story_arcs": [],
+    "characters": [
+      16168,
+      149697,
+      145461,
+      33545,
+      145137
+    ],
+    "description_full": "<p><em>\"MY HERO\"</em></p><p><em>Sisters. Friends. Co-pilots. Growing up, Rose and Paige Tico were everything to each other.</em></p><p><em>Until the First Order tore their world apart.</em></p><p><em>See the bond between Rose and Paige before it was forever broken.</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Phil Noto</td><td>1</td></tr><tr><td>Var</td><td>Puzzle Piece Variant Cover</td><td>Mike McKone &amp; Guru-eFX</td><td>2</td></tr></tbody></table>",
+    "description": "<p><em>\"MY HERO\"</em></p><p><em>Sisters. Friends. Co-pilots. Growing up, Rose and Paige Tico were everything to each other.</em></p><p><em>Until the First Order tore their world apart.</em></p><p><em>See the bond between Rose and Paige before it was forever broken.</em></p>",
+    "description_covers": "<h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Phil Noto</td><td>1</td></tr><tr><td>Var</td><td>Puzzle Piece Variant Cover</td><td>Mike McKone &amp; Guru-eFX</td><td>2</td></tr></tbody></table>",
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/7075988-01.jpg",
+    "league_id": "1886881",
+    "league_url": "https://leagueofcomicgeeks.com/comic/1886881/star-wars-age-of-resistance-rose-tico-1",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Resistance_-_Rose_Tico_1"
+  },
+  {
+    "id": 718766,
+    "series_id": 121256,
+    "issue_number": "1",
+    "issue_number_sort": 1,
+    "name": "Fail. Or Kill It.",
+    "aliases": null,
+    "deck": " ",
+    "creators": [
+      {
+        "name": "Tom Taylor",
+        "role": "Writer"
+      },
+      {
+        "name": "Cory Hamscher",
+        "role": "Inker"
+      },
+      {
+        "name": "Guru-eFX",
+        "role": "Colorist"
+      },
+      {
+        "name": "Leonard Kirk",
+        "role": "Penciller"
+      },
+      {
+        "name": "Travis Lanham",
+        "role": "Letterer"
+      },
+      {
+        "name": "Tom Groneman",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
+      },
+      {
+        "name": "Bryan Young",
+        "role": "Writer"
+      },
+      {
+        "name": "Ivan Manzella",
+        "role": "Artist"
+      }
+    ],
+    "upc": "75960609208600111",
+    "cover_date": "2019-11-01",
+    "store_date": "2019-09-11",
+    "story_arcs": [],
+    "characters": [
+      2608,
+      117591,
+      6315,
+      33545,
+      132221
+    ],
+    "description_full": "<p><em>THE DEVIL'S APPRENTICE!</em></p><p><em>SUPREME LEADER SNOKE'S brutal training of KYLO REN begins.</em></p><p><em>Will the sadistic Snoke break his tormented protégé?</em></p><p><em>Or has he underestimated the son of HAN and LEIA?</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Phil Noto</td><td>1</td></tr><tr><td>Var</td><td>Puzzle Piece Variant Cover</td><td>Mike McKone &amp; Guru-eFX</td><td>2</td></tr></tbody></table>",
+    "description": "<p><em>THE DEVIL'S APPRENTICE!</em></p><p><em>SUPREME LEADER SNOKE'S brutal training of KYLO REN begins.</em></p><p><em>Will the sadistic Snoke break his tormented protégé?</em></p><p><em>Or has he underestimated the son of HAN and LEIA?</em></p>",
+    "description_covers": "<h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Phil Noto</td><td>1</td></tr><tr><td>Var</td><td>Puzzle Piece Variant Cover</td><td>Mike McKone &amp; Guru-eFX</td><td>2</td></tr></tbody></table>",
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/7066219-01.jpg",
+    "league_id": "9615147",
+    "league_url": "https://leagueofcomicgeeks.com/comic/9615147/star-wars-age-of-resistance-supreme-leader-snoke-1",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Resistance_-_Supreme_Leader_Snoke_1"
+  },
+  {
+    "id": 714673,
+    "series_id": 120412,
+    "issue_number": "1",
+    "issue_number_sort": 1,
+    "name": null,
+    "aliases": null,
+    "deck": " ",
+    "creators": [
+      {
+        "name": "Chris Eliopoulos",
+        "role": "Writer"
+      },
+      {
+        "name": "G. Willow Wilson",
+        "role": "Writer"
+      },
+      {
+        "name": "Tom Taylor",
+        "role": "Writer"
+      },
+      {
+        "name": "Elsa Charretier",
+        "role": "Artist"
+      },
+      {
+        "name": "Javier Pina",
+        "role": "Artist"
+      },
+      {
+        "name": "Matteo Buffagni",
+        "role": "Artist"
+      },
+      {
+        "name": "Travis Lanham",
+        "role": "Letterer"
+      },
+      {
+        "name": "Chris O'Halloran",
+        "role": "Colorist"
+      },
+      {
+        "name": "Tom Groneman",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
+      },
+      {
+        "name": "Nick Filardi",
+        "role": "Colorist"
+      },
+      {
+        "name": "Guru-eFX",
+        "role": "Colorist"
+      },
+      {
+        "name": "Bria LaVorgna",
+        "role": "Writer"
+      },
+      {
+        "name": "Glyn Dillon",
+        "role": "Artist"
+      },
+      {
+        "name": "Christian Alzmann",
+        "role": "Artist"
+      },
+      {
+        "name": "Jake Lunt Davies",
+        "role": "Artist"
+      },
+      {
+        "name": "Robert Rowley",
+        "role": "Artist"
+      }
+    ],
+    "upc": "75960609209300111",
+    "cover_date": "2019-09-01",
+    "store_date": "2019-07-31",
+    "story_arcs": [],
+    "characters": [
+      149697,
+      122159,
+      6334,
+      2608,
+      125275,
+      124947,
+      33545
+    ],
+    "description_full": "<p><em>A ONE-SHOT SPECIAL FEATURING YOUR FAVORITE CHARACTERS FROM THE NEW STAR WARS TRILOGY! Star Wars fans first met Resistance leader and confidante of Leia Organa VICE ADMIRAL AMILYN HOLDO at the end of her story in 2017's The Last Jedi-now, witness her triumphant beginning! This July, Hugo Award-winning writer G. Willow Wilson (MS. MARVEL) explores a pivotal conflict in Holdo's early career that will start the young woman down the path to heroic infamy for the rebellion! With her ship at the mercy of a dangerous enemy, it's up to Holdo to outsmart their foe and win the confidence of her compatriots in the process. With art by Elsa Charratier! The infamous \"pirate queen\" of Takodana, MAZ KANATA, thought she'd seen everything in her thousand-plus years of running a bar and hiring smugglers. But it turns out that the criminal underworld is always full of new surprises...especially when she hires HAN SOLO and CHEWBACCA for a job! Story by Tom Taylor (AGE OF RESISTANCE)!</em></p><p><em>And Poe Dameron's loyal companion, the astromech droid BB-8, just can't seem to stay out of trouble. His missions always seem to escalate into a full-blown adventures! And if it means a win for his friends and the heroic Resistance freedom-fighters the little droid will stop at nothing to get the job done! Story by CHRIS ELIOPOULOS!</em></p><h2>Contents</h2><ul><li>Maz Kanata in Maz's Scoundrels</li><li>Amilyn Holdo in The Bridge</li><li>BB-8 in Robot Resistance</li></ul><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Phil Noto</td><td>1</td></tr><tr><td>Var</td><td>Greatest Moments Variant Cover (There Is No Try, #21 of 36)</td><td>Patrick Zircher &amp; Chris O'Halloran</td><td>2</td></tr><tr><td>Var</td><td>Puzzle Piece Variant Cover</td><td>Mike McKone &amp; Guru-eFX</td><td>3</td></tr></tbody></table>",
+    "description": "<p><em>A ONE-SHOT SPECIAL FEATURING YOUR FAVORITE CHARACTERS FROM THE NEW STAR WARS TRILOGY! Star Wars fans first met Resistance leader and confidante of Leia Organa VICE ADMIRAL AMILYN HOLDO at the end of her story in 2017's The Last Jedi-now, witness her triumphant beginning! This July, Hugo Award-winning writer G. Willow Wilson (MS. MARVEL) explores a pivotal conflict in Holdo's early career that will start the young woman down the path to heroic infamy for the rebellion! With her ship at the mercy of a dangerous enemy, it's up to Holdo to outsmart their foe and win the confidence of her compatriots in the process. With art by Elsa Charratier! The infamous \"pirate queen\" of Takodana, MAZ KANATA, thought she'd seen everything in her thousand-plus years of running a bar and hiring smugglers. But it turns out that the criminal underworld is always full of new surprises...especially when she hires HAN SOLO and CHEWBACCA for a job! Story by Tom Taylor (AGE OF RESISTANCE)!</em></p><p><em>And Poe Dameron's loyal companion, the astromech droid BB-8, just can't seem to stay out of trouble. His missions always seem to escalate into a full-blown adventures! And if it means a win for his friends and the heroic Resistance freedom-fighters the little droid will stop at nothing to get the job done! Story by CHRIS ELIOPOULOS!</em></p><h2>Contents</h2><ul><li>Maz Kanata in Maz's Scoundrels</li><li>Amilyn Holdo in The Bridge</li><li>BB-8 in Robot Resistance</li></ul>",
+    "description_covers": "<h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Phil Noto</td><td>1</td></tr><tr><td>Var</td><td>Greatest Moments Variant Cover (There Is No Try, #21 of 36)</td><td>Patrick Zircher &amp; Chris O'Halloran</td><td>2</td></tr><tr><td>Var</td><td>Puzzle Piece Variant Cover</td><td>Mike McKone &amp; Guru-eFX</td><td>3</td></tr></tbody></table>",
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/7023042-01.jpg",
+    "league_id": "2962338",
+    "league_url": "https://leagueofcomicgeeks.com/comic/2962338/star-wars-age-of-resistance-special-1",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Age_of_Resistance_Special_1"
+  },
+  {
+    "id": 718135,
+    "series_id": 121107,
+    "issue_number": "1",
+    "issue_number_sort": 1,
+    "name": "Chapter 1 of 5: A Planet Divided",
+    "aliases": null,
+    "deck": " ",
+    "creators": [
+      {
+        "name": "Matthew Rosenberg",
+        "role": "Writer"
+      },
+      {
+        "name": "Paolo Villanelli",
+        "role": "Artist"
+      },
+      {
+        "name": "Arif Prianto",
+        "role": "Colorist"
+      },
+      {
+        "name": "Joe Sabino",
+        "role": "Letterer"
+      },
+      {
+        "name": "Tom Groneman",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Beatrice Kilat",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
+      }
+    ],
+    "upc": "75960609472100111",
+    "cover_date": "2019-11-01",
+    "store_date": "2019-09-04",
+    "story_arcs": [],
+    "characters": [
+      157907,
+      161875,
+      5402,
+      157906,
+      105170,
+      5395,
+      161876,
+      161883,
+      161870,
+      161882,
+      5405,
+      5396
+    ],
+    "description_full": "<p><em>IN THE GLORY DAYS OF THE REPUBLIC, TWO JEDI WILL GET CAUGHT UP IN A BATTLE THEY CAN'T UNDERSTAND - A BATTLE FOR THEIR LIVES!</em></p><p><em>Leading into Jedi: Fallen Order the upcoming third-person action-adventure Star Wars title from Lucasfilm and Respawn Entertainment, DARK TEMPLE follows the Jedi Master ENO CORDOVA and his impulsive Padawan CERE JUNDA on their most dangerous mission yet. The Jedi Council has sent them to the remote planet Ontotho to oversee the peaceful excavation of a mysterious temple that has been uncovered. But they will come to find that what surrounds the temple may be even more dangerous than the mysteries within it. Clandestine local resistance forces and ruthless corporate security troops in a war for the fate of Ontotho - and the Jedi are caught in the middle!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Marco Checchetto</td><td>1</td></tr><tr><td>Var</td><td>Game Variant Cover</td><td>Game Art</td><td>2</td></tr></tbody></table>",
+    "description": "<p><em>IN THE GLORY DAYS OF THE REPUBLIC, TWO JEDI WILL GET CAUGHT UP IN A BATTLE THEY CAN'T UNDERSTAND - A BATTLE FOR THEIR LIVES!</em></p><p><em>Leading into Jedi: Fallen Order the upcoming third-person action-adventure Star Wars title from Lucasfilm and Respawn Entertainment, DARK TEMPLE follows the Jedi Master ENO CORDOVA and his impulsive Padawan CERE JUNDA on their most dangerous mission yet. The Jedi Council has sent them to the remote planet Ontotho to oversee the peaceful excavation of a mysterious temple that has been uncovered. But they will come to find that what surrounds the temple may be even more dangerous than the mysteries within it. Clandestine local resistance forces and ruthless corporate security troops in a war for the fate of Ontotho - and the Jedi are caught in the middle!</em></p>",
+    "description_covers": "<h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Marco Checchetto</td><td>1</td></tr><tr><td>Var</td><td>Game Variant Cover</td><td>Game Art</td><td>2</td></tr></tbody></table>",
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/7059433-01.jpg",
+    "league_id": "4234635",
+    "league_url": "https://leagueofcomicgeeks.com/comic/4234635/star-wars-jedi-fallen-order-dark-temple-1",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Jedi_Fallen_Order_-_Dark_Temple_1"
+  },
+  {
+    "id": 720173,
+    "series_id": 121107,
+    "issue_number": "2",
+    "issue_number_sort": 2,
+    "name": "Chapter 2 of 5: Trapped On Ontotho",
+    "aliases": null,
+    "deck": " ",
+    "creators": [
+      {
+        "name": "Matthew Rosenberg",
+        "role": "Writer"
+      },
+      {
+        "name": "Paolo Villanelli",
+        "role": "Artist"
+      },
+      {
+        "name": "Arif Prianto",
+        "role": "Colorist"
+      },
+      {
+        "name": "Joe Sabino",
+        "role": "Letterer"
+      },
+      {
+        "name": "Tom Groneman",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
+      }
+    ],
+    "upc": "75960609472100211",
+    "cover_date": "2019-11-01",
+    "store_date": "2019-09-25",
+    "story_arcs": [],
+    "characters": [
+      157907,
+      161875,
+      161881,
+      157906,
+      161877,
+      161876,
+      161870
+    ],
+    "description_full": "<p><em>Following a sudden ambush in the jungles of Ontotho, Young Padawan Cere Junda is left to find her own way on a hostile planet. But local freedom fighters are happy to take Cere Junda in - if she will fight by their side!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Paolo Villainelli &amp; Neeraj Menon</td><td>1</td></tr><tr><td>Var</td><td>Game Variant Cover</td><td>Photo</td><td>2</td></tr></tbody></table>",
+    "description": "<p><em>Following a sudden ambush in the jungles of Ontotho, Young Padawan Cere Junda is left to find her own way on a hostile planet. But local freedom fighters are happy to take Cere Junda in - if she will fight by their side!</em></p>",
+    "description_covers": "<h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Paolo Villainelli &amp; Neeraj Menon</td><td>1</td></tr><tr><td>Var</td><td>Game Variant Cover</td><td>Photo</td><td>2</td></tr></tbody></table>",
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/7084685-02.jpg",
+    "league_id": "4889898",
+    "league_url": "https://leagueofcomicgeeks.com/comic/4889898/star-wars-jedi-fallen-order-dark-temple-2",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Jedi_Fallen_Order_-_Dark_Temple_2"
+  },
+  {
+    "id": 721790,
+    "series_id": 121107,
+    "issue_number": "3",
+    "issue_number_sort": 3,
+    "name": "Chapter 3 of 5: A Fragile Peace",
+    "aliases": null,
+    "deck": " ",
+    "creators": [
+      {
+        "name": "Matthew Rosenberg",
+        "role": "Writer"
+      },
+      {
+        "name": "Paolo Villanelli",
+        "role": "Artist"
+      },
+      {
+        "name": "Arif Prianto",
+        "role": "Colorist"
+      },
+      {
+        "name": "Joe Sabino",
+        "role": "Letterer"
+      },
+      {
+        "name": "Tom Groneman",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
+      }
+    ],
+    "upc": "75960609472100311",
+    "cover_date": "2019-12-01",
+    "store_date": "2019-10-09",
+    "story_arcs": [],
+    "characters": [
+      157907,
+      161875,
+      161881,
+      157906,
+      161880,
+      161877,
+      161876,
+      161870
+    ],
+    "description_full": "<p><em>The battle for Ontotho is heating up, and JEDI PADAWAN CERE JUNDA finds herself right in the middle of it, fighting alongside the FYLAR FREEDOM FIGHTERS.</em></p><p><em>But as Cere moves to help end the local war, she will come face to face with the last person she expects!</em></p><p><em>What secrets lie in the hidden temple of Ontotho? The race is on to find out.</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Will Sliney &amp; Dono Sanchez-Almara</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Paolo Villainelli &amp; Neeraj Menon</td><td>2</td></tr></tbody></table>",
+    "description": "<p><em>The battle for Ontotho is heating up, and JEDI PADAWAN CERE JUNDA finds herself right in the middle of it, fighting alongside the FYLAR FREEDOM FIGHTERS.</em></p><p><em>But as Cere moves to help end the local war, she will come face to face with the last person she expects!</em></p><p><em>What secrets lie in the hidden temple of Ontotho? The race is on to find out.</em></p>",
+    "description_covers": "<h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Will Sliney &amp; Dono Sanchez-Almara</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Paolo Villainelli &amp; Neeraj Menon</td><td>2</td></tr></tbody></table>",
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/7101055-03.jpg",
+    "league_id": "9162420",
+    "league_url": "https://leagueofcomicgeeks.com/comic/9162420/star-wars-jedi-fallen-order-dark-temple-3",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Jedi_Fallen_Order_-_Dark_Temple_3"
+  },
+  {
+    "id": 727269,
+    "series_id": 121107,
+    "issue_number": "4",
+    "issue_number_sort": 4,
+    "name": "Chapter 4 of 5: A Truce, A Trap and A Traitor",
+    "aliases": null,
+    "deck": " ",
+    "creators": [
+      {
+        "name": "Matthew Rosenberg",
+        "role": "Writer"
+      },
+      {
+        "name": "Paolo Villanelli",
+        "role": "Artist"
+      },
+      {
+        "name": "Arif Prianto",
+        "role": "Colorist"
+      },
+      {
+        "name": "Joe Sabino",
+        "role": "Letterer"
+      },
+      {
+        "name": "Tom Groneman",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
+      }
+    ],
+    "upc": "75960609472100411",
+    "cover_date": "2020-01-01",
+    "store_date": "2019-11-13",
+    "story_arcs": [],
+    "characters": [
+      157907,
+      161875,
+      161881,
+      157906,
+      161880,
+      161877,
+      161876,
+      161870
+    ],
+    "description_full": "<p><em>ONE AGAINST A WORLD</em></p><p><em>Jedi Knight ENO CORDOVA must risk his life to uncover the secrets of the Dark Temple on Ontotho...while the fearsome Ontothon army approaches!</em></p><p><em>Can Padawan CERE JUNDA alone stop them from taking the temple for themselves?</em></p><p><em>And who are the deadly TEMPLE GUARDIANS and what are they protecting?</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Will Sliney &amp; Dono Sanchez-Almara</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Paolo Villainelli &amp; Neeraj Menon</td><td>2</td></tr></tbody></table>",
+    "description": "<p><em>ONE AGAINST A WORLD</em></p><p><em>Jedi Knight ENO CORDOVA must risk his life to uncover the secrets of the Dark Temple on Ontotho...while the fearsome Ontothon army approaches!</em></p><p><em>Can Padawan CERE JUNDA alone stop them from taking the temple for themselves?</em></p><p><em>And who are the deadly TEMPLE GUARDIANS and what are they protecting?</em></p>",
+    "description_covers": "<h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Will Sliney &amp; Dono Sanchez-Almara</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Paolo Villainelli &amp; Neeraj Menon</td><td>2</td></tr></tbody></table>",
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/7144140-04.jpg",
+    "league_id": "2641082",
+    "league_url": "https://leagueofcomicgeeks.com/comic/2641082/star-wars-jedi-fallen-order-dark-temple-4",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Jedi_Fallen_Order_-_Dark_Temple_4"
+  },
+  {
+    "id": 729686,
+    "series_id": 121107,
+    "issue_number": "5",
+    "issue_number_sort": 5,
+    "name": "Chapter 5 of 5: The Collapse of All Things",
+    "aliases": null,
+    "deck": " ",
+    "creators": [
+      {
+        "name": "Matthew Rosenberg",
+        "role": "Writer"
+      },
+      {
+        "name": "Ruairí Coleman",
+        "role": "Artist"
+      },
+      {
+        "name": "Paolo Villanelli",
+        "role": "Artist"
+      },
+      {
+        "name": "Arif Prianto",
+        "role": "Colorist"
+      },
+      {
+        "name": "Joe Sabino",
+        "role": "Letterer"
+      },
+      {
+        "name": "Tom Groneman",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
+      }
+    ],
+    "upc": "75960609472100511",
+    "cover_date": "2020-02-01",
+    "store_date": "2019-12-04",
+    "story_arcs": [],
+    "characters": [
+      157907,
+      161875,
+      161881,
+      157906,
+      161880,
+      105170,
+      46941,
+      5395,
+      161878,
+      161877,
+      161876,
+      161879,
+      161870,
+      161882,
+      5396
+    ],
+    "description_full": "<p><em>ONE AGAINST A WORLD</em></p><p><em>Jedi Master Eno Cordova will have to use all his wits and training if he hopes to survive the mysteries of the Dark Temple!</em></p><p><em>Meanwhile Jedi Padawan Cere Junda strikes a blow in the hopes of ending the battle with the Daa Corporation's army. But was it too late?</em></p><p><em>If Cordova and Junda hope to survive they're going to need to get off Ontotho. And they can't do that alone!</em></p><p><em>It all ends here! Read the shocking conclusion to the epic comic series featuring characters from the videogame STAR WARS JEDI: FALLEN ORDER.</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Will Sliney &amp; Dono Sanchez-Almara</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Paul Renaud</td><td>2</td></tr></tbody></table>",
+    "description": "<p><em>ONE AGAINST A WORLD</em></p><p><em>Jedi Master Eno Cordova will have to use all his wits and training if he hopes to survive the mysteries of the Dark Temple!</em></p><p><em>Meanwhile Jedi Padawan Cere Junda strikes a blow in the hopes of ending the battle with the Daa Corporation's army. But was it too late?</em></p><p><em>If Cordova and Junda hope to survive they're going to need to get off Ontotho. And they can't do that alone!</em></p><p><em>It all ends here! Read the shocking conclusion to the epic comic series featuring characters from the videogame STAR WARS JEDI: FALLEN ORDER.</em></p>",
+    "description_covers": "<h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Will Sliney &amp; Dono Sanchez-Almara</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Paul Renaud</td><td>2</td></tr></tbody></table>",
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/7169600-05.jpg",
+    "league_id": "9024032",
+    "league_url": "https://leagueofcomicgeeks.com/comic/9024032/star-wars-jedi-fallen-order-dark-temple-5",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Jedi_Fallen_Order_-_Dark_Temple_5"
+  },
+  {
+    "id": 713083,
+    "series_id": 120030,
+    "issue_number": "1",
+    "issue_number_sort": 1,
+    "name": "On the Hunt",
+    "aliases": null,
+    "deck": " ",
+    "creators": [
+      {
+        "name": "Robbie Thompson",
+        "role": "Writer"
+      },
+      {
+        "name": "Marc Laming",
+        "role": "Artist"
+      },
+      {
+        "name": "Cris Bolson",
+        "role": "Artist"
+      },
+      {
+        "name": "Andres Mossa",
+        "role": "Colorist"
+      },
+      {
+        "name": "Erick Arciniega",
+        "role": "Colorist"
+      },
+      {
+        "name": "Jordan Boyd",
+        "role": "Colorist"
+      },
+      {
+        "name": "Neeraj Menon",
+        "role": "Colorist"
+      },
+      {
+        "name": "Federico Blee",
+        "role": "Colorist"
+      },
+      {
+        "name": "Clayton Cowles",
+        "role": "Letterer"
+      },
+      {
+        "name": "Tom Groneman",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
+      }
+    ],
+    "upc": "75960609396000111",
+    "cover_date": "2019-09-01",
+    "store_date": "2019-07-03",
+    "story_arcs": [],
+    "characters": [
+      162139,
+      63917,
+      162138,
+      6342,
+      47935,
+      16164,
+      162136,
+      162140,
+      162137
+    ],
+    "description_full": "<p><em>THE HUNTER! DARTH VADER is on the hunt for a mysterious criminal syndicate operating outside of THE EMPIRE's rule. But little does he know he's being hunted by a group of the galaxy's deadliest bounty hunters, hired by the syndicate to take out Vader once and for all. Led by fallen Imperial Officer BEILERT VALANCE, this ragtag group of assassins will stop at nothing to kill the biggest bounty of their lives.</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Nic Klein</td><td>1</td></tr><tr><td>Var</td><td>Concept Design Variant Cover</td><td>Carmen Nunez Carnero</td><td>2</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Marco Checchetto</td><td>3</td></tr><tr><td>Var</td><td>Movie Variant Cover</td><td>Photo</td><td>4</td></tr></tbody></table>",
+    "description": "<p><em>THE HUNTER! DARTH VADER is on the hunt for a mysterious criminal syndicate operating outside of THE EMPIRE's rule. But little does he know he's being hunted by a group of the galaxy's deadliest bounty hunters, hired by the syndicate to take out Vader once and for all. Led by fallen Imperial Officer BEILERT VALANCE, this ragtag group of assassins will stop at nothing to kill the biggest bounty of their lives.</em></p>",
+    "description_covers": "<h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Nic Klein</td><td>1</td></tr><tr><td>Var</td><td>Concept Design Variant Cover</td><td>Carmen Nunez Carnero</td><td>2</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Marco Checchetto</td><td>3</td></tr><tr><td>Var</td><td>Movie Variant Cover</td><td>Photo</td><td>4</td></tr></tbody></table>",
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/6990923-01.jpg",
+    "timeline": "1 BBY",
+    "league_id": "1434481",
+    "league_url": "https://leagueofcomicgeeks.com/comic/1434481/star-wars-target-vader-1",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Target_Vader_1"
+  },
+  {
+    "id": 716375,
+    "series_id": 120030,
+    "issue_number": "2",
+    "issue_number_sort": 2,
+    "name": "The Plan",
+    "aliases": null,
+    "deck": " ",
+    "creators": [
+      {
+        "name": "Robbie Thompson",
+        "role": "Writer"
+      },
+      {
+        "name": "Stefano Landini",
+        "role": "Artist"
+      },
+      {
+        "name": "Neeraj Menon",
+        "role": "Colorist"
+      },
+      {
+        "name": "Joe Caramagna",
+        "role": "Letterer"
+      },
+      {
+        "name": "Tom Groneman",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
+      }
+    ],
+    "upc": "75960609396000211",
+    "cover_date": "2019-10-01",
+    "store_date": "2019-08-14",
+    "story_arcs": [],
+    "characters": [
+      63917,
+      162138,
+      6342,
+      47935,
+      162136,
+      162137
+    ],
+    "description_full": "<p><em>THE HUNTER BECOMES THE HUNTED!</em></p><p><em>VALANCE and DENGAR track DARTH VADER while also seeking out the perfect weapon to kill the SITH LORD...</em></p><p><em>...which they'll need as Vader turns the tables on the hunters and corners them!</em></p><p><em>And both hunter and hunted uncover dark secrets behind the criminal syndicate known only as THE HIDDEN HAND.</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Nic Klein</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>John McCrea &amp; Mike Spicer</td><td>2</td></tr></tbody></table>",
+    "description": "<p><em>THE HUNTER BECOMES THE HUNTED!</em></p><p><em>VALANCE and DENGAR track DARTH VADER while also seeking out the perfect weapon to kill the SITH LORD...</em></p><p><em>...which they'll need as Vader turns the tables on the hunters and corners them!</em></p><p><em>And both hunter and hunted uncover dark secrets behind the criminal syndicate known only as THE HIDDEN HAND.</em></p>",
+    "description_covers": "<h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Nic Klein</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>John McCrea &amp; Mike Spicer</td><td>2</td></tr></tbody></table>",
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/7040981-02.jpg",
+    "timeline": "1 BBY",
+    "league_id": "1680212",
+    "league_url": "https://leagueofcomicgeeks.com/comic/1680212/star-wars-target-vader-2",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Target_Vader_2"
+  },
+  {
+    "id": 720174,
+    "series_id": 120030,
+    "issue_number": "3",
+    "issue_number_sort": 3,
+    "name": "The Trap",
+    "aliases": null,
+    "deck": " ",
+    "creators": [
+      {
+        "name": "Robbie Thompson",
+        "role": "Writer"
+      },
+      {
+        "name": "Stefano Landini",
+        "role": "Artist"
+      },
+      {
+        "name": "Neeraj Menon",
+        "role": "Colorist"
+      },
+      {
+        "name": "Joe Caramagna",
+        "role": "Letterer"
+      },
+      {
+        "name": "Tom Groneman",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
+      }
+    ],
+    "upc": "75960609396000311",
+    "cover_date": "2019-11-01",
+    "store_date": "2019-09-25",
+    "story_arcs": [],
+    "characters": [
+      63917,
+      162138,
+      6342,
+      47935,
+      162136,
+      162137
+    ],
+    "description_full": "<p><em>THE DOUBLE CROSS!</em></p><p><em>VALANCE and his crew of bounty hunters have DARTH VADER on the ropes, surrounding him with enemy ships.</em></p><p><em>Vader is the greatest pilot in the galaxy, though, and he's about to go head to head with the Imperial Navy's former best pilot... Beilert Valance!</em></p><p><em>But if Valance can survive this aerial duel, will he survive betrayal on land, as a member of the Rebellion lies hidden within his ranks!</em></p>",
+    "description": "<p><em>THE DOUBLE CROSS!</em></p><p><em>VALANCE and his crew of bounty hunters have DARTH VADER on the ropes, surrounding him with enemy ships.</em></p><p><em>Vader is the greatest pilot in the galaxy, though, and he's about to go head to head with the Imperial Navy's former best pilot... Beilert Valance!</em></p><p><em>But if Valance can survive this aerial duel, will he survive betrayal on land, as a member of the Rebellion lies hidden within his ranks!</em></p>",
+    "description_covers": null,
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/7084686-03.jpg",
+    "timeline": "1 BBY",
+    "league_id": "2671708",
+    "league_url": "https://leagueofcomicgeeks.com/comic/2671708/star-wars-target-vader-3",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Target_Vader_3"
+  },
+  {
+    "id": 721791,
+    "series_id": 120030,
+    "issue_number": "4",
+    "issue_number_sort": 4,
+    "name": "The Shot",
+    "aliases": null,
+    "deck": " ",
+    "creators": [
+      {
+        "name": "Robbie Thompson",
+        "role": "Writer"
+      },
+      {
+        "name": "Stefano Landini",
+        "role": "Artist"
+      },
+      {
+        "name": "Neeraj Menon",
+        "role": "Colorist"
+      },
+      {
+        "name": "Federico Blee",
+        "role": "Colorist"
+      },
+      {
+        "name": "Giada Marchisio",
+        "role": "Colorist"
+      },
+      {
+        "name": "Joe Caramagna",
+        "role": "Letterer"
+      },
+      {
+        "name": "Tom Groneman",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
+      }
+    ],
+    "upc": "75960609396000411",
+    "cover_date": "2019-12-01",
+    "store_date": "2019-10-09",
+    "story_arcs": [],
+    "characters": [
+      63917,
+      162138,
+      6342,
+      47935,
+      162136,
+      162137
+    ],
+    "description_full": "<p><em>HUNTING THE HUNTERS!</em></p><p><em>DARTH VADER is trapped, alone, and surrounded by deadly bounty hunters...</em></p><p><em>...but the SITH LORD is never truly alone as long as he wields the Dark Side of The Force!</em></p><p><em>VALANCE and his gang of bounty hunters soon find that the hunters have become the hunted, as Vader picks them off one-by-one -- and he's helped by one of Valance's own!</em></p>",
+    "description": "<p><em>HUNTING THE HUNTERS!</em></p><p><em>DARTH VADER is trapped, alone, and surrounded by deadly bounty hunters...</em></p><p><em>...but the SITH LORD is never truly alone as long as he wields the Dark Side of The Force!</em></p><p><em>VALANCE and his gang of bounty hunters soon find that the hunters have become the hunted, as Vader picks them off one-by-one -- and he's helped by one of Valance's own!</em></p>",
+    "description_covers": null,
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/7101056-04.jpg",
+    "timeline": "1 BBY",
+    "league_id": "2275408",
+    "league_url": "https://leagueofcomicgeeks.com/comic/2275408/star-wars-target-vader-4",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Target_Vader_4"
+  },
+  {
+    "id": 727270,
+    "series_id": 120030,
+    "issue_number": "5",
+    "issue_number_sort": 5,
+    "name": "The Past",
+    "aliases": null,
+    "deck": " ",
+    "creators": [
+      {
+        "name": "Robbie Thompson",
+        "role": "Writer"
+      },
+      {
+        "name": "Chris Bolson",
+        "role": "Artist"
+      },
+      {
+        "name": "Roberto Di Salvo",
+        "role": "Artist"
+      },
+      {
+        "name": "Marco Failla",
+        "role": "Artist"
+      },
+      {
+        "name": "Rachelle Rosenberg",
+        "role": "Colorist"
+      },
+      {
+        "name": "Joe Caramagna",
+        "role": "Letterer"
+      },
+      {
+        "name": "Tom Groneman",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
+      }
+    ],
+    "upc": "75960609396000511",
+    "cover_date": "2020-01-01",
+    "store_date": "2019-11-13",
+    "story_arcs": [],
+    "characters": [
+      162139,
+      63917,
+      6342,
+      162136,
+      152917,
+      152918,
+      152919,
+      166204,
+      157231
+    ],
+    "description_full": "<p><em>THE GREAT ESCAPE!</em></p><p><em>VALANCE has been betrayed, captured, and now stands alone.</em></p><p><em>But nothing will stop THE HUNTER from finishing his prey... DARTH VADER, who is closing in on his own target, THE HIDDEN HAND, a mysterious syndicate working with scum, villainy... and the REBELLION?</em></p><p><em>Can Valance use his training as a former Imperial to escape... or will he find out he has more in common with the Dark Lord than he could ever have imagined?!</em></p>",
+    "description": "<p><em>THE GREAT ESCAPE!</em></p><p><em>VALANCE has been betrayed, captured, and now stands alone.</em></p><p><em>But nothing will stop THE HUNTER from finishing his prey... DARTH VADER, who is closing in on his own target, THE HIDDEN HAND, a mysterious syndicate working with scum, villainy... and the REBELLION?</em></p><p><em>Can Valance use his training as a former Imperial to escape... or will he find out he has more in common with the Dark Lord than he could ever have imagined?!</em></p>",
+    "description_covers": null,
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/7144141-05.jpg",
+    "timeline": "1 BBY",
+    "league_id": "6088244",
+    "league_url": "https://leagueofcomicgeeks.com/comic/6088244/star-wars-target-vader-5",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Target_Vader_5"
+  },
+  {
+    "id": 730347,
+    "series_id": 120030,
+    "issue_number": "6",
+    "issue_number_sort": 6,
+    "name": "Free",
+    "aliases": null,
+    "deck": " ",
+    "creators": [
+      {
+        "name": "Robbie Thompson",
+        "role": "Writer"
+      },
+      {
+        "name": "Stefano Landini",
+        "role": "Artist"
+      },
+      {
+        "name": "Roberto Di Salvo",
+        "role": "Artist"
+      },
+      {
+        "name": "Georges Duarte",
+        "role": "Artist"
+      },
+      {
+        "name": "Rachelle Rosenberg",
+        "role": "Colorist"
+      },
+      {
+        "name": "Neeraj Menon",
+        "role": "Colorist"
+      },
+      {
+        "name": "Joe Caramagna",
+        "role": "Letterer"
+      },
+      {
+        "name": "Tom Groneman",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
+      }
+    ],
+    "upc": "75960609396000611",
+    "cover_date": "2020-02-01",
+    "store_date": "2019-12-11",
+    "story_arcs": [],
+    "characters": [
+      162139,
+      63917,
+      6342,
+      47935,
+      162136,
+      162140,
+      166204
+    ],
+    "description_full": "<p><em>Showdown!</em></p><p><em>Valance has escaped the clutches of the Empire, and finally has a lead on who's REALLY behind the mysterious crime syndicate, the Hidden Hand. In the process, he's uncovered a mystery about his own past.</em></p><p><em>Darth Vader... AND members of the Rebellion, desperate for one last arms deal with The Hidden Hand.</em></p><p><em>Will Valance be able to finish the job and kill Vader? Will Vader crush the Rebellion once and for all? Or will The Hidden Hand continue to walk between the raindrops and escape them all? Check out the thrilling finale to find out!</em></p>",
+    "description": "<p><em>Showdown!</em></p><p><em>Valance has escaped the clutches of the Empire, and finally has a lead on who's REALLY behind the mysterious crime syndicate, the Hidden Hand. In the process, he's uncovered a mystery about his own past.</em></p><p><em>Darth Vader... AND members of the Rebellion, desperate for one last arms deal with The Hidden Hand.</em></p><p><em>Will Valance be able to finish the job and kill Vader? Will Vader crush the Rebellion once and for all? Or will The Hidden Hand continue to walk between the raindrops and escape them all? Check out the thrilling finale to find out!</em></p>",
+    "description_covers": null,
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/7176004-06.jpg",
+    "timeline": "1 BBY",
+    "league_id": "6951452",
+    "league_url": "https://leagueofcomicgeeks.com/comic/6951452/star-wars-target-vader-6",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Target_Vader_6"
+  },
+  {
+    "id": 731528,
+    "series_id": 123714,
+    "issue_number": "1",
+    "issue_number_sort": 1,
+    "name": "Chapter One",
+    "aliases": null,
+    "deck": " ",
+    "creators": [
+      {
+        "name": "Charles Soule",
+        "role": "Writer"
+      },
+      {
+        "name": "Will Sliney",
+        "role": "Artist"
+      },
+      {
+        "name": "Guru-eFX",
+        "role": "Colorist"
+      },
+      {
+        "name": "Travis Lanham",
+        "role": "Letterer"
+      },
+      {
+        "name": "Tom Groneman",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
+      }
+    ],
+    "upc": "75960609741800111",
+    "cover_date": "2020-02-01",
+    "store_date": "2019-12-18",
+    "story_arcs": [],
+    "characters": [
+      162230,
+      162231,
+      181206,
+      162232,
+      117591,
+      6315,
+      33545,
+      161402,
+      132221,
+      162233,
+      162234,
+      162235,
+      164075
+    ],
+    "description_full": "<p><em>WITH BEN SOLO'S FALL... COMES KYLO REN'S RISE!</em></p><p><em>Young Ben Solo is legendary Jedi Luke Skywalker's most promising pupil. As the son of Rebel Alliance heroes Leia Organa and Han Solo, as well as Luke's own nephew, Ben has the potential to be a great force for light in the galaxy. But the Skywalker legacy casts a long shadow, the currents of the dark side run deep, and Darth Vader's blood runs in Ben's veins. Voices call from both his past and his future, telling him who he must be. He will shatter, he will be reforged, his destiny will be revealed. Snoke awaits. The Knights of Ren await. Ben Solo's path to his true self begins here.</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Clayton Crain</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Carmen Nunez Carnero &amp; Rachelle Rosenberg</td><td>2</td></tr><tr><td>Var</td><td>Action Figure Variant Cover (Ben Solo)</td><td>John Tyler Christopher</td><td>3</td></tr><tr><td>Var</td><td>Movie Variant Cover</td><td>Movie Photo</td><td>4</td></tr></tbody></table>",
+    "description": "<p><em>WITH BEN SOLO'S FALL... COMES KYLO REN'S RISE!</em></p><p><em>Young Ben Solo is legendary Jedi Luke Skywalker's most promising pupil. As the son of Rebel Alliance heroes Leia Organa and Han Solo, as well as Luke's own nephew, Ben has the potential to be a great force for light in the galaxy. But the Skywalker legacy casts a long shadow, the currents of the dark side run deep, and Darth Vader's blood runs in Ben's veins. Voices call from both his past and his future, telling him who he must be. He will shatter, he will be reforged, his destiny will be revealed. Snoke awaits. The Knights of Ren await. Ben Solo's path to his true self begins here.</em></p>",
+    "description_covers": "<h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Clayton Crain</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Carmen Nunez Carnero &amp; Rachelle Rosenberg</td><td>2</td></tr><tr><td>Var</td><td>Action Figure Variant Cover (Ben Solo)</td><td>John Tyler Christopher</td><td>3</td></tr><tr><td>Var</td><td>Movie Variant Cover</td><td>Movie Photo</td><td>4</td></tr></tbody></table>",
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/7184465-01.jpg",
+    "league_id": "9159761",
+    "league_url": "https://leagueofcomicgeeks.com/comic/9159761/star-wars-the-rise-of-kylo-ren-1",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/The_Rise_of_Kylo_Ren_1"
+  },
+  {
+    "id": 732891,
+    "series_id": 123714,
+    "issue_number": "2",
+    "issue_number_sort": 2,
+    "name": "Chapter Two",
+    "aliases": null,
+    "deck": " ",
+    "creators": [
+      {
+        "name": "Tom Groneman",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Charles Soule",
+        "role": "Writer"
+      },
+      {
+        "name": "Will Sliney",
+        "role": "Artist"
+      },
+      {
+        "name": "Guru-eFX",
+        "role": "Colorist"
+      },
+      {
+        "name": "Travis Lanham",
+        "role": "Letterer"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
+      }
+    ],
+    "upc": "75960609741800211",
+    "cover_date": "2020-03-01",
+    "store_date": "2020-01-08",
+    "story_arcs": [],
+    "characters": [
+      162230,
+      162231,
+      181206,
+      162232,
+      117591,
+      143110,
+      6315,
+      161402,
+      132221,
+      162233,
+      162234,
+      162235,
+      164075
+    ],
+    "description_full": "<p><em>SNOKE SINKS HIS CLAWS IN! YOUNG BEN SOLO FACES THE KNIGHTS OF REN!</em></p><p><em>With the new jedi school in ruins and fellow students hot on his trail for the murder of their master, Ben Solo flees to the only friend he has left in the galaxy...a man named Snoke. But Snoke has plans for Ben...and ideas about the Force that are as dangerous as they are intriguing for the troubled young jedi.</em></p><p><em>If Ben wishes to be truly free...the answers might lie with the dark side. And with the Knights of Ren!</em></p><p><em>But it won't be the first time he's tangled with the Knights. In the past, Jedi Master Luke Skywalker journeys to the Unknown Regions and brings young Ben along for the mission. Can even Luke Skywalker stand against the fabled Knights of Ren?!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Clayton Crain</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Jodie Muir</td><td>2</td></tr><tr><td>2nd</td><td>Second Printing Variant Cover</td><td>?</td><td>Missing</td></tr><tr><td>3rd</td><td>Third Printing Variant Cover</td><td>Clayton Crain</td><td>3</td></tr></tbody></table>",
+    "description": "<p><em>SNOKE SINKS HIS CLAWS IN! YOUNG BEN SOLO FACES THE KNIGHTS OF REN!</em></p><p><em>With the new jedi school in ruins and fellow students hot on his trail for the murder of their master, Ben Solo flees to the only friend he has left in the galaxy...a man named Snoke. But Snoke has plans for Ben...and ideas about the Force that are as dangerous as they are intriguing for the troubled young jedi.</em></p><p><em>If Ben wishes to be truly free...the answers might lie with the dark side. And with the Knights of Ren!</em></p><p><em>But it won't be the first time he's tangled with the Knights. In the past, Jedi Master Luke Skywalker journeys to the Unknown Regions and brings young Ben along for the mission. Can even Luke Skywalker stand against the fabled Knights of Ren?!</em></p>",
+    "description_covers": "<h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Clayton Crain</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Jodie Muir</td><td>2</td></tr><tr><td>2nd</td><td>Second Printing Variant Cover</td><td>?</td><td>Missing</td></tr><tr><td>3rd</td><td>Third Printing Variant Cover</td><td>Clayton Crain</td><td>3</td></tr></tbody></table>",
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/7204830-02.jpg",
+    "league_id": "7771077",
+    "league_url": "https://leagueofcomicgeeks.com/comic/7771077/star-wars-the-rise-of-kylo-ren-2",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/The_Rise_of_Kylo_Ren_2"
+  },
+  {
+    "id": 737168,
+    "series_id": 123714,
+    "issue_number": "3",
+    "issue_number_sort": 3,
+    "name": "Chapter Three",
+    "aliases": null,
+    "deck": " ",
+    "creators": [
+      {
+        "name": "Tom Groneman",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Charles Soule",
+        "role": "Writer"
+      },
+      {
+        "name": "Will Sliney",
+        "role": "Artist"
+      },
+      {
+        "name": "Guru-eFX",
+        "role": "Colorist"
+      },
+      {
+        "name": "Travis Lanham",
+        "role": "Letterer"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
+      }
+    ],
+    "upc": "75960609741800311",
+    "cover_date": "2020-04-01",
+    "store_date": "2020-02-12",
+    "story_arcs": [],
+    "characters": [
+      162230,
+      166750,
+      162231,
+      181206,
+      162232,
+      117591,
+      6315,
+      2594,
+      161402,
+      162233,
+      162234,
+      162235,
+      164075
+    ],
+    "description_full": "<p><em>BEN SOLO, KNIGHT OF REN?</em></p><p><em>Soon, BEN SOLO'S path will end in a place of fire and blood, and a shadow will rise to take his place. He is with the KNIGHTS OF REN now, and they will welcome him, if he can pay their price.</em></p><p><em>But before that destiny is fulfilled, a battle must be fought at an ancient JEDI Outpost on the planet ELPHRODA - between Ben and those who know what he could have been... and fear what he might become.</em></p><p><em>Fear leads to anger. Anger leads to hate. Hate leads to suffering. Everyone here is afraid - Ben Solo most of all!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Clayton Crain</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Stefano Landini &amp; Nicola Righi</td><td>2</td></tr><tr><td>2nd</td><td>Second Printing Variant Cover</td><td>?</td><td>3</td></tr></tbody></table>",
+    "description": "<p><em>BEN SOLO, KNIGHT OF REN?</em></p><p><em>Soon, BEN SOLO'S path will end in a place of fire and blood, and a shadow will rise to take his place. He is with the KNIGHTS OF REN now, and they will welcome him, if he can pay their price.</em></p><p><em>But before that destiny is fulfilled, a battle must be fought at an ancient JEDI Outpost on the planet ELPHRODA - between Ben and those who know what he could have been... and fear what he might become.</em></p><p><em>Fear leads to anger. Anger leads to hate. Hate leads to suffering. Everyone here is afraid - Ben Solo most of all!</em></p>",
+    "description_covers": "<h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Clayton Crain</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Stefano Landini &amp; Nicola Righi</td><td>2</td></tr><tr><td>2nd</td><td>Second Printing Variant Cover</td><td>?</td><td>3</td></tr></tbody></table>",
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/7242088-03.jpg",
+    "league_id": "7498357",
+    "league_url": "https://leagueofcomicgeeks.com/comic/7498357/star-wars-the-rise-of-kylo-ren-3",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/The_Rise_of_Kylo_Ren_3"
+  },
+  {
+    "id": 740827,
+    "series_id": 123714,
+    "issue_number": "4",
+    "issue_number_sort": 4,
+    "name": "Chapter Four",
+    "aliases": null,
+    "deck": " ",
+    "creators": [
+      {
+        "name": "Tom Groneman",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Charles Soule",
+        "role": "Writer"
+      },
+      {
+        "name": "Will Sliney",
+        "role": "Artist"
+      },
+      {
+        "name": "Guru-eFX",
+        "role": "Colorist"
+      },
+      {
+        "name": "Travis Lanham",
+        "role": "Letterer"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
+      }
+    ],
+    "upc": "75960609741800411",
+    "cover_date": "2020-05-01",
+    "store_date": "2020-03-11",
+    "story_arcs": [],
+    "characters": [
+      162230,
+      162231,
+      6334,
+      16164,
+      2608,
+      162232,
+      117591,
+      6355,
+      33545,
+      161402,
+      125273,
+      132221,
+      162233,
+      137610,
+      162234,
+      162235,
+      164075
+    ],
+    "description_full": "<p><em>SINS OF THE SON</em></p><p><em>The Rise of KYLO REN concludes, as BEN SOLO, once the Jedi's greatest hope, is swallowed by the Dark Side.</em></p><p><em>It is his destiny - and if there was ever another path, SNOKE and the KNIGHTS OF REN made certain he could not see it.</em></p><p><em>From Ben, to Ren... and now he is lost.</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>E.M. Gist</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Giuseppe Camuncoli &amp; David Curiel</td><td>2</td></tr></tbody></table>",
+    "description": "<p><em>SINS OF THE SON</em></p><p><em>The Rise of KYLO REN concludes, as BEN SOLO, once the Jedi's greatest hope, is swallowed by the Dark Side.</em></p><p><em>It is his destiny - and if there was ever another path, SNOKE and the KNIGHTS OF REN made certain he could not see it.</em></p><p><em>From Ben, to Ren... and now he is lost.</em></p>",
+    "description_covers": "<h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>E.M. Gist</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Giuseppe Camuncoli &amp; David Curiel</td><td>2</td></tr></tbody></table>",
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/7275368-04.jpg",
+    "league_id": "3017630",
+    "league_url": "https://leagueofcomicgeeks.com/comic/3017630/star-wars-the-rise-of-kylo-ren-4",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/The_Rise_of_Kylo_Ren_4"
+  },
+  {
+    "id": 857592,
+    "series_id": 136616,
+    "issue_number": "1",
+    "issue_number_sort": 1,
+    "name": "Most Wanted",
+    "aliases": null,
+    "deck": " ",
+    "creators": [
+      {
+        "name": "Charles Soule",
+        "role": "Writer"
+      },
+      {
+        "name": "Luke Ross",
+        "role": "Artist"
+      },
+      {
+        "name": "Neeraj Menon",
+        "role": "Colorist"
+      },
+      {
+        "name": "Travis Lanham",
+        "role": "Letterer"
+      },
+      {
+        "name": "Tom Groneman",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
+      }
+    ],
+    "upc": "75960620040500111",
+    "cover_date": "2021-08-01",
+    "store_date": "2021-06-02",
+    "story_arcs": [],
+    "characters": [
+      47929,
+      116998,
+      63917,
+      5435,
+      6354,
+      6334,
+      6342,
+      47935,
+      5446,
+      5441,
+      6355,
+      6315,
+      175903,
+      33545,
+      152920,
+      16180,
+      118756,
+      51367,
+      175904,
+      51356
+    ],
+    "description_full": "<p><em>AT WAR FOR THE GREATEST PRIZE OF ALL: HAN SOLO!</em></p><p><em>THE HUNT BEGINS!</em></p><p><em>Nobody. Steals. From BOBA FETT! The notorious bounty hunter will not stop until he gets what's rightfully his. For the thief, no corner of the galaxy is safe. Good thing for them that the REBEL ALLIANCE, THE EMPIRE and every bounty hunter in the galaxy is standing in Boba's way.</em></p><p><em>With a last-page reveal that will blow this Death Star-sized story wide open, Issue #1 is just the beginning. The biggest crossover in STAR WARS history will continue raging through the pages of the WAR OF THE BOUNTY HUNTERS event miniseries and tie-in to STAR WARS, DOCTOR APHRA, DARTH VADER and BOUNTY HUNTERS through October.</em></p><p><em>Only one hunter will be left standing, and the STAR WARS galaxy will never be the same!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Steve McNiven &amp; Frank D'Armata</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Leinil Francis Yu &amp; Sunny Gho</td><td>2</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Pepe Larraz &amp; Erick Arciniega</td><td>3</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Sara Pichelli &amp; Nolan Woodard</td><td>4</td></tr><tr><td>Var</td><td>Wraparound Variant Cover</td><td>Giuseppe Camuncoli, Daniele Orlandini &amp; David Curiel</td><td>5</td></tr><tr><td>Var</td><td>Pride Month Variant Cover (Doctor Aphra)</td><td>Babs Tarr</td><td>6</td></tr><tr><td>Var</td><td>Action Figure Variant Cover (Boba Fett)</td><td>John Tyler Christopher</td><td>7</td></tr><tr><td>Var</td><td>Trading Card Variant Cover (Boba Fett)</td><td>John Cassaday &amp; Dave Stewart</td><td>8</td></tr></tbody></table>",
+    "description": "<p><em>AT WAR FOR THE GREATEST PRIZE OF ALL: HAN SOLO!</em></p><p><em>THE HUNT BEGINS!</em></p><p><em>Nobody. Steals. From BOBA FETT! The notorious bounty hunter will not stop until he gets what's rightfully his. For the thief, no corner of the galaxy is safe. Good thing for them that the REBEL ALLIANCE, THE EMPIRE and every bounty hunter in the galaxy is standing in Boba's way.</em></p><p><em>With a last-page reveal that will blow this Death Star-sized story wide open, Issue #1 is just the beginning. The biggest crossover in STAR WARS history will continue raging through the pages of the WAR OF THE BOUNTY HUNTERS event miniseries and tie-in to STAR WARS, DOCTOR APHRA, DARTH VADER and BOUNTY HUNTERS through October.</em></p><p><em>Only one hunter will be left standing, and the STAR WARS galaxy will never be the same!</em></p>",
+    "description_covers": "<h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Steve McNiven &amp; Frank D'Armata</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Leinil Francis Yu &amp; Sunny Gho</td><td>2</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Pepe Larraz &amp; Erick Arciniega</td><td>3</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Sara Pichelli &amp; Nolan Woodard</td><td>4</td></tr><tr><td>Var</td><td>Wraparound Variant Cover</td><td>Giuseppe Camuncoli, Daniele Orlandini &amp; David Curiel</td><td>5</td></tr><tr><td>Var</td><td>Pride Month Variant Cover (Doctor Aphra)</td><td>Babs Tarr</td><td>6</td></tr><tr><td>Var</td><td>Action Figure Variant Cover (Boba Fett)</td><td>John Tyler Christopher</td><td>7</td></tr><tr><td>Var</td><td>Trading Card Variant Cover (Boba Fett)</td><td>John Cassaday &amp; Dave Stewart</td><td>8</td></tr></tbody></table>",
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/8007499-01.jpg",
+    "league_id": "1902657",
+    "league_url": "https://leagueofcomicgeeks.com/comic/1902657/star-wars-war-of-the-bounty-hunters-1",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/War_of_the_Bounty_Hunters_1"
+  },
+  {
+    "id": 871550,
+    "series_id": 136616,
+    "issue_number": "2",
+    "issue_number_sort": 2,
+    "name": "Part II: The Scoundrel's Ball",
+    "aliases": null,
+    "deck": " ",
+    "creators": [
+      {
+        "name": "Charles Soule",
+        "role": "Writer"
+      },
+      {
+        "name": "Luke Ross",
+        "role": "Artist"
+      },
+      {
+        "name": "Neeraj Menon",
+        "role": "Colorist"
+      },
+      {
+        "name": "Travis Lanham",
+        "role": "Letterer"
+      },
+      {
+        "name": "Tom Groneman",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
+      }
+    ],
+    "upc": "75960620040500211",
+    "cover_date": "2021-09-01",
+    "store_date": "2021-07-14",
+    "story_arcs": [],
+    "characters": [
+      116998,
+      6354,
+      170407,
+      47931,
+      6334,
+      6342,
+      175905,
+      2608,
+      5441,
+      181988,
+      6355,
+      175903,
+      181994,
+      181993,
+      33545,
+      152920,
+      118756,
+      52922,
+      175904
+    ],
+    "description_full": "<p><em>THE BIGGEST COMC EVENT OF THE STAR WARS GALAXY CONTINUES!</em></p><p><em>Notorious bounty hunter BOBA FETT has tracked his missing prize - heroic smuggler HAN SOLO, frozen in carbonite - to the remote, frozen world of JEKARA.</em></p><p><em>But representatives from many of the galaxy's most powerful factions have gathered, and they all want the same thing - Solo.</em></p><p><em>Things go from bad to worse, as Boba Fett realizes that he himself has become almost as valuable to the galaxy's hunters as Han Solo, and he must turn to the least trustworthy person in the galaxy for help...DOCTOR APHRA...</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Steve McNiven &amp; Frank D'Armata</td><td>1</td></tr><tr><td>Var</td><td>Headshot Variant Cover</td><td>Giuseppe Camuncoli &amp; Frank Martin</td><td>2</td></tr><tr><td>Var</td><td>Trading Card Variant Cover (Dengar)</td><td>John Cassaday &amp; Dave Stewart</td><td>3</td></tr><tr><td>Var</td><td>Action Figure Variant Cover (Bossk)</td><td>John Tyler Christopher</td><td>4</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Marco Checchetto</td><td>5</td></tr></tbody></table>",
+    "description": "<p><em>THE BIGGEST COMC EVENT OF THE STAR WARS GALAXY CONTINUES!</em></p><p><em>Notorious bounty hunter BOBA FETT has tracked his missing prize - heroic smuggler HAN SOLO, frozen in carbonite - to the remote, frozen world of JEKARA.</em></p><p><em>But representatives from many of the galaxy's most powerful factions have gathered, and they all want the same thing - Solo.</em></p><p><em>Things go from bad to worse, as Boba Fett realizes that he himself has become almost as valuable to the galaxy's hunters as Han Solo, and he must turn to the least trustworthy person in the galaxy for help...DOCTOR APHRA...</em></p>",
+    "description_covers": "<h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Steve McNiven &amp; Frank D'Armata</td><td>1</td></tr><tr><td>Var</td><td>Headshot Variant Cover</td><td>Giuseppe Camuncoli &amp; Frank Martin</td><td>2</td></tr><tr><td>Var</td><td>Trading Card Variant Cover (Dengar)</td><td>John Cassaday &amp; Dave Stewart</td><td>3</td></tr><tr><td>Var</td><td>Action Figure Variant Cover (Bossk)</td><td>John Tyler Christopher</td><td>4</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Marco Checchetto</td><td>5</td></tr></tbody></table>",
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/8065810-02.jpg",
+    "league_id": "6764094",
+    "league_url": "https://leagueofcomicgeeks.com/comic/6764094/star-wars-war-of-the-bounty-hunters-2",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/War_of_the_Bounty_Hunters_2"
+  },
+  {
+    "id": 880895,
+    "series_id": 136616,
+    "issue_number": "3",
+    "issue_number_sort": 3,
+    "name": "Part III: The Crimson Blade",
+    "aliases": null,
+    "deck": " ",
+    "creators": [
+      {
+        "name": "Charles Soule",
+        "role": "Writer"
+      },
+      {
+        "name": "Luke Ross",
+        "role": "Penciller"
+      },
+      {
+        "name": "David Messina",
+        "role": "Inker"
+      },
+      {
+        "name": "Guru-eFX",
+        "role": "Colorist"
+      },
+      {
+        "name": "Neeraj Menon",
+        "role": "Colorist"
+      },
+      {
+        "name": "Travis Lanham",
+        "role": "Letterer"
+      },
+      {
+        "name": "Tom Groneman",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
+      }
+    ],
+    "upc": "75960620040500311",
+    "cover_date": "2021-10-01",
+    "store_date": "2021-08-18",
+    "story_arcs": [],
+    "characters": [
+      116998,
+      6354,
+      170407,
+      47931,
+      6334,
+      6342,
+      175905,
+      5441,
+      181988,
+      6355,
+      6315,
+      175903,
+      181994,
+      181993,
+      33545,
+      152920,
+      118756,
+      52922,
+      175904
+    ],
+    "description_full": "<p><em>WINNER TAKES ALL!</em></p><p><em>Terrifying, implacable Dark Lord of the Sith DARTH VADER has laid claim to HAN SOLO, who is frozen in carbonite.</em></p><p><em>But the great, exalted JABBA THE HUTT also believes that Solo is his property. It's the galaxy's baddest gangster versus the Empire's most powerful enforcer, and neither is backing down.</em></p><p><em>BOBA FETT is caught between a Sith and a Hutt...and it's WINNER TAKE ALL.</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Steve McNiven &amp; Frank D'Armata</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Declan Shalvey</td><td>2</td></tr><tr><td>Var</td><td>Wanted Poster Variant Cover (Boba Fett)</td><td>David Nakayama</td><td>3</td></tr><tr><td>Var</td><td>Trading Card Variant Cover (IG-88)</td><td>John Cassaday &amp; Dave Stewart</td><td>4</td></tr><tr><td>Var</td><td>Action Figure Variant Cover (Dengar)</td><td>John Tyler Christopher</td><td>5</td></tr></tbody></table>",
+    "description": "<p><em>WINNER TAKES ALL!</em></p><p><em>Terrifying, implacable Dark Lord of the Sith DARTH VADER has laid claim to HAN SOLO, who is frozen in carbonite.</em></p><p><em>But the great, exalted JABBA THE HUTT also believes that Solo is his property. It's the galaxy's baddest gangster versus the Empire's most powerful enforcer, and neither is backing down.</em></p><p><em>BOBA FETT is caught between a Sith and a Hutt...and it's WINNER TAKE ALL.</em></p>",
+    "description_covers": "<h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Steve McNiven &amp; Frank D'Armata</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Declan Shalvey</td><td>2</td></tr><tr><td>Var</td><td>Wanted Poster Variant Cover (Boba Fett)</td><td>David Nakayama</td><td>3</td></tr><tr><td>Var</td><td>Trading Card Variant Cover (IG-88)</td><td>John Cassaday &amp; Dave Stewart</td><td>4</td></tr><tr><td>Var</td><td>Action Figure Variant Cover (Dengar)</td><td>John Tyler Christopher</td><td>5</td></tr></tbody></table>",
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/8111174-03.jpg",
+    "league_id": "4959728",
+    "league_url": "https://leagueofcomicgeeks.com/comic/4959728/star-wars-war-of-the-bounty-hunters-3",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/War_of_the_Bounty_Hunters_3"
+  },
+  {
+    "id": 884067,
+    "series_id": 136616,
+    "issue_number": "4",
+    "issue_number_sort": 4,
+    "name": "Part IV: Attack At Dawn",
+    "aliases": null,
+    "deck": " ",
+    "creators": [
+      {
+        "name": "Charles Soule",
+        "role": "Writer"
+      },
+      {
+        "name": "Luke Ross",
+        "role": "Penciller"
+      },
+      {
+        "name": "David Messina",
+        "role": "Inker"
+      },
+      {
+        "name": "Guru-eFX",
+        "role": "Colorist"
+      },
+      {
+        "name": "Neeraj Menon",
+        "role": "Colorist"
+      },
+      {
+        "name": "Travis Lanham",
+        "role": "Letterer"
+      },
+      {
+        "name": "Danny Khazem",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Tom Groneman",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
+      }
+    ],
+    "upc": "75960620040500411",
+    "cover_date": "2021-11-01",
+    "store_date": "2021-09-08",
+    "story_arcs": [],
+    "characters": [
+      116998,
+      63917,
+      6354,
+      170407,
+      6335,
+      6334,
+      6342,
+      47935,
+      5441,
+      6355,
+      6411,
+      6315,
+      175903,
+      33545,
+      152920,
+      52922,
+      175904
+    ],
+    "description_full": "<p><em>THE WAR CONTINUES!</em></p><p><em>The true machinations of the theft of HAN SOLO from BOBA FETT become clear, as one-time love of Solo QI'RA has returned her terrifying criminal organization, CRIMSON DAWN, to the galaxy.</em></p><p><em>Qi'ra used Han to bring the most powerful players in the galaxy together, and now the pieces are moving toward their endgame.</em></p><p><em>DARTH VADER, LUKE SKYWALKER, LEIA ORGANA, VALANCE, APHRA, THE HUTTS - all are vying for the ultimate prize, while Boba Fett's stuck in the middle, a simple man just trying to get what's his!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Steve McNiven &amp; Frank D'Armata</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Bryan Hitch</td><td>2</td></tr><tr><td>Var</td><td>Blueprint Variant Cover (Boba Fett)</td><td>Paolo Villanelli &amp; Mattia Iacono</td><td>3</td></tr><tr><td>Var</td><td>Trading Card Variant Cover (Bossk)</td><td>John Cassaday &amp; Dave Stewart</td><td>4</td></tr><tr><td>Var</td><td>Action Figure Variant Cover (Eyegee-Eighteight (IG-88))</td><td>John Tyler Christopher</td><td>5</td></tr></tbody></table>",
+    "description": "<p><em>THE WAR CONTINUES!</em></p><p><em>The true machinations of the theft of HAN SOLO from BOBA FETT become clear, as one-time love of Solo QI'RA has returned her terrifying criminal organization, CRIMSON DAWN, to the galaxy.</em></p><p><em>Qi'ra used Han to bring the most powerful players in the galaxy together, and now the pieces are moving toward their endgame.</em></p><p><em>DARTH VADER, LUKE SKYWALKER, LEIA ORGANA, VALANCE, APHRA, THE HUTTS - all are vying for the ultimate prize, while Boba Fett's stuck in the middle, a simple man just trying to get what's his!</em></p>",
+    "description_covers": "<h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Steve McNiven &amp; Frank D'Armata</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Bryan Hitch</td><td>2</td></tr><tr><td>Var</td><td>Blueprint Variant Cover (Boba Fett)</td><td>Paolo Villanelli &amp; Mattia Iacono</td><td>3</td></tr><tr><td>Var</td><td>Trading Card Variant Cover (Bossk)</td><td>John Cassaday &amp; Dave Stewart</td><td>4</td></tr><tr><td>Var</td><td>Action Figure Variant Cover (Eyegee-Eighteight (IG-88))</td><td>John Tyler Christopher</td><td>5</td></tr></tbody></table>",
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/8145362-04.jpg",
+    "league_id": "3680268",
+    "league_url": "https://leagueofcomicgeeks.com/comic/3680268/star-wars-war-of-the-bounty-hunters-4",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/War_of_the_Bounty_Hunters_4"
+  },
+  {
+    "id": 889461,
+    "series_id": 136616,
+    "issue_number": "5",
+    "issue_number_sort": 5,
+    "name": "Part V: Attack At Dawn",
+    "aliases": null,
+    "deck": " ",
+    "creators": [
+      {
+        "name": "Charles Soule",
+        "role": "Writer"
+      },
+      {
+        "name": "Luke Ross",
+        "role": "Penciller"
+      },
+      {
+        "name": "David Messina",
+        "role": "Inker"
+      },
+      {
+        "name": "Rachelle Rosenberg",
+        "role": "Colorist"
+      },
+      {
+        "name": "Neeraj Menon",
+        "role": "Colorist"
+      },
+      {
+        "name": "Travis Lanham",
+        "role": "Letterer"
+      },
+      {
+        "name": "Danny Khazem",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Tom Groneman",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
+      }
+    ],
+    "upc": "75960620040500511",
+    "cover_date": "2021-12-01",
+    "store_date": "2021-10-13",
+    "story_arcs": [],
+    "characters": [
+      47454,
+      116998,
+      176721,
+      63917,
+      5435,
+      6354,
+      170407,
+      162231,
+      123249,
+      6334,
+      6342,
+      170825,
+      180413,
+      5441,
+      180414,
+      6355,
+      6411,
+      6315,
+      176722,
+      176723,
+      6370,
+      33545,
+      152920,
+      2594,
+      161402,
+      180412,
+      175750,
+      162235
+    ],
+    "description_full": "<p><em>THE ULTIMATE FINALE! THE BIGGEST EVENT OF THE YEAR CHANGES THE FACE OF THE GALAXY!</em></p><p><em>Everything and everyone in the galaxy is against bounty hunter BOBA FETT, from Sith Lords to Hutt rulers to the mysterious CRIMSON DAWN.</em></p><p><em>He can't succeed. There's no way he can regain HAN SOLO, escape the bounties on his head, and survive to get his prize to JABBA THE HUTT and get paid. But HAN SOLO belongs to him, and no one will take him away.</em></p><p><em>With a shocker of an ending that sets up a revolutionary new status quo for STAR WARS COMICS!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Steve McNiven &amp; Frank D'Armata</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Carlo Pagulayan, Jason Paz &amp; Rain Beredo</td><td>2</td></tr><tr><td>Var</td><td>Action Figure Variant Cover (Valance: Damaged)</td><td>John Tyler Christopher</td><td>3</td></tr><tr><td>Var</td><td>Handbook Variant Cover (Boba Fett)</td><td>Ron Frenz, Tom Palmer &amp; Nolan Woodard</td><td>4</td></tr><tr><td>Var</td><td>Trading Card Variant Cover (4-LOM &amp; Zuckuss)</td><td>John Cassaday &amp; Dave Stewart</td><td>5</td></tr><tr><td>Var</td><td>Carbonite Variant Cover</td><td>Steve McNiven &amp; Frank D'Armata</td><td>6</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Steve McNiven &amp; Frank D'Armata</td><td>7</td></tr><tr><td>Var</td><td>Lucasfilm 50th Anniversary Variant Cover (Jedi Master &amp; Apprentice)</td><td>Chris Sprouse, Karl Story &amp; Neeraj Menon</td><td>8</td></tr></tbody></table>",
+    "description": "<p><em>THE ULTIMATE FINALE! THE BIGGEST EVENT OF THE YEAR CHANGES THE FACE OF THE GALAXY!</em></p><p><em>Everything and everyone in the galaxy is against bounty hunter BOBA FETT, from Sith Lords to Hutt rulers to the mysterious CRIMSON DAWN.</em></p><p><em>He can't succeed. There's no way he can regain HAN SOLO, escape the bounties on his head, and survive to get his prize to JABBA THE HUTT and get paid. But HAN SOLO belongs to him, and no one will take him away.</em></p><p><em>With a shocker of an ending that sets up a revolutionary new status quo for STAR WARS COMICS!</em></p>",
+    "description_covers": "<h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Steve McNiven &amp; Frank D'Armata</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Carlo Pagulayan, Jason Paz &amp; Rain Beredo</td><td>2</td></tr><tr><td>Var</td><td>Action Figure Variant Cover (Valance: Damaged)</td><td>John Tyler Christopher</td><td>3</td></tr><tr><td>Var</td><td>Handbook Variant Cover (Boba Fett)</td><td>Ron Frenz, Tom Palmer &amp; Nolan Woodard</td><td>4</td></tr><tr><td>Var</td><td>Trading Card Variant Cover (4-LOM &amp; Zuckuss)</td><td>John Cassaday &amp; Dave Stewart</td><td>5</td></tr><tr><td>Var</td><td>Carbonite Variant Cover</td><td>Steve McNiven &amp; Frank D'Armata</td><td>6</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Steve McNiven &amp; Frank D'Armata</td><td>7</td></tr><tr><td>Var</td><td>Lucasfilm 50th Anniversary Variant Cover (Jedi Master &amp; Apprentice)</td><td>Chris Sprouse, Karl Story &amp; Neeraj Menon</td><td>8</td></tr></tbody></table>",
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/8198251-05.jpg",
+    "league_id": "6209007",
+    "league_url": "https://leagueofcomicgeeks.com/comic/6209007/star-wars-war-of-the-bounty-hunters-5",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/War_of_the_Bounty_Hunters_5"
+  },
+  {
+    "id": 847502,
+    "series_id": 135899,
+    "issue_number": "1",
+    "issue_number_sort": 1,
+    "name": "Precious Cargo",
+    "aliases": null,
+    "deck": " ",
+    "creators": [
+      {
+        "name": "Charles Soule",
+        "role": "Writer"
+      },
+      {
+        "name": "Steve McNiven",
+        "role": "Artist"
+      },
+      {
+        "name": "Laura Martin",
+        "role": "Colorist"
+      },
+      {
+        "name": "Travis Lanham",
+        "role": "Letterer"
+      },
+      {
+        "name": "Tom Groneman",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
+      }
+    ],
+    "upc": "75960620129700111",
+    "cover_date": "2021-07-01",
+    "store_date": "2021-05-05",
+    "story_arcs": [],
+    "characters": [
+      5435,
+      6354,
+      169109,
+      6394,
+      2608,
+      5441,
+      6393,
+      169110
+    ],
+    "description_full": "<p><em>THE STAR WARS COMIC EVENT YOU'VE BEEN WAITING FOR!</em></p><p><em>The notorious bounty hunter BOBA FETT has finally landed his greatest prize - HAN SOLO, frozen in carbonite for easy transport.</em></p><p><em>Fett will bring the smuggler to TATOOINE to collect the massive bounty placed on Solo's head by the fearsome crime lord JABBA THE HUTT.</em></p><p><em>Sounds easy. What could go wrong?</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Steve McNiven &amp; Laura Martin</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover (Black Armor)</td><td>Steve McNiven &amp; Laura Martin</td><td>2</td></tr><tr><td>Var</td><td>Variant Cover (Crimson Armor)</td><td>Steve McNiven &amp; Laura Martin</td><td>3</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Leinil Francis Yu &amp; Sunny Gho</td><td>4</td></tr><tr><td>Var</td><td>Action Figure Variant Cover (Boba Fett: Black Armor)</td><td>John Tyler Christopher</td><td>5</td></tr></tbody></table>",
+    "description": "<p><em>THE STAR WARS COMIC EVENT YOU'VE BEEN WAITING FOR!</em></p><p><em>The notorious bounty hunter BOBA FETT has finally landed his greatest prize - HAN SOLO, frozen in carbonite for easy transport.</em></p><p><em>Fett will bring the smuggler to TATOOINE to collect the massive bounty placed on Solo's head by the fearsome crime lord JABBA THE HUTT.</em></p><p><em>Sounds easy. What could go wrong?</em></p>",
+    "description_covers": "<h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Steve McNiven &amp; Laura Martin</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover (Black Armor)</td><td>Steve McNiven &amp; Laura Martin</td><td>2</td></tr><tr><td>Var</td><td>Variant Cover (Crimson Armor)</td><td>Steve McNiven &amp; Laura Martin</td><td>3</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Leinil Francis Yu &amp; Sunny Gho</td><td>4</td></tr><tr><td>Var</td><td>Action Figure Variant Cover (Boba Fett: Black Armor)</td><td>John Tyler Christopher</td><td>5</td></tr></tbody></table>",
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/7954956-01.jpg",
+    "league_id": "5223085",
+    "league_url": "https://leagueofcomicgeeks.com/comic/5223085/star-wars-war-of-the-bounty-hunters-alpha-1",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/War_of_the_Bounty_Hunters_Alpha_1"
+  },
+  {
+    "id": 1146704,
+    "series_id": 162323,
+    "issue_number": "11",
+    "issue_number_sort": 11,
+    "name": "Reign of Kylo Ren, Part 11",
+    "aliases": null,
+    "deck": null,
+    "creators": [
+      {
+        "name": "Charles Soule",
+        "role": "Writer"
+      },
+      {
+        "name": "Grace Orriss",
+        "role": "Editor"
+      },
+      {
+        "name": "Joe Caramagna",
+        "role": "Letterer"
+      },
+      {
+        "name": "Luke Ross",
+        "role": "Artist"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "Editor"
+      },
+      {
+        "name": "Mikey J. Basso",
+        "role": "Assistant Editor"
+      },
+      {
+        "name": "Nolan Woodard",
+        "role": "Colorist"
+      },
+      {
+        "name": "Robert Simpson",
+        "role": "Senior Editor"
+      }
+    ],
+    "upc": "75960621005301111",
+    "cover_date": "2026-02-01",
+    "store_date": "2025-12-03",
+    "story_arcs": [],
+    "characters": [
+      117591
+    ],
+    "description_full": "<p><em><b>KYLO REN IN THE PITS OF MUSTAFAR!</b></em></p><p><em>As VANEE'S unhinged plans come together, KYLO REN is put to the ultimate test!</em></p><p><em>The legacy of VADER comes full circle in physical form as Kylo is forced to don his grandfather's helmet!</em></p><p><em>Can Kylo survive the deadly depths of VADER'S CASTLE?</em></p>",
+    "description": "<p><em><b>KYLO REN IN THE PITS OF MUSTAFAR!</b></em></p><p><em>As VANEE'S unhinged plans come together, KYLO REN is put to the ultimate test!</em></p><p><em>The legacy of VADER comes full circle in physical form as Kylo is forced to don his grandfather's helmet!</em></p><p><em>Can Kylo survive the deadly depths of VADER'S CASTLE?</em></p>",
+    "description_covers": null,
+    "description_notes": null,
+    "cover_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11/110017/9927516-wwww.jpg",
+    "league_id": "2994221",
+    "league_url": "https://leagueofcomicgeeks.com/comic/2994221/star-wars-legacy-of-vader-11",
+    "wookieepedia_url": "https://starwars.fandom.com/wiki/Legacy_of_Vader_11"
   }
 ]

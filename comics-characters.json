@@ -7566,5 +7566,330 @@
     "gender": "Male",
     "first_appearance_issue_id": 697644,
     "issue_count": 9
+  },
+  {
+    "id": 175851,
+    "name": "Moradmin Bast",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11122/111222211/6373148-blank.png",
+    "gender": null,
+    "first_appearance_issue_id": 17701,
+    "issue_count": 6
+  },
+  {
+    "id": 156421,
+    "name": "Akko",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/6915007-akko.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 707524,
+    "issue_count": 7
+  },
+  {
+    "id": 140492,
+    "name": "Embo",
+    "real_name": "Embo",
+    "aliases": null,
+    "deck": "Considered one of the best bounty hunters in the galaxy, Embo was second only to Cad Bane during the clone wars. Embo relied on very little technology instead opting for a bowcaster, his unique metal hat, and his pet anooba.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/9584129-embo.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 695508,
+    "issue_count": 3
+  },
+  {
+    "id": 53604,
+    "name": "Jek Porkins",
+    "real_name": "Jek Tono Porkins",
+    "aliases": [
+      "Red 6"
+    ],
+    "deck": "X-Wing pilot who was killed during the Battle of Yavin.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/4/48250/912045-jek_porkins.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 17980,
+    "issue_count": 18
+  },
+  {
+    "id": 182813,
+    "name": "Brendol Hux",
+    "real_name": "Brendol Hux",
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/9095269-hux-brendol.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 717530,
+    "issue_count": 4
+  },
+  {
+    "id": 157907,
+    "name": "Cere Junda",
+    "real_name": "Cere Junda",
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/7061714-junda.jpg",
+    "gender": "Female",
+    "first_appearance_issue_id": 720173,
+    "issue_count": 6
+  },
+  {
+    "id": 161875,
+    "name": "Dylanto Daa",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7312369-daa.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 720173,
+    "issue_count": 6
+  },
+  {
+    "id": 157906,
+    "name": "Eno Cordova",
+    "real_name": "Eno Cordova",
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/7061715-cordova.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 718135,
+    "issue_count": 6
+  },
+  {
+    "id": 161876,
+    "name": "Neralli",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7312370-neralli.jpg",
+    "gender": "Female",
+    "first_appearance_issue_id": 720173,
+    "issue_count": 6
+  },
+  {
+    "id": 161883,
+    "name": "Poli Dapatian",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11122/111222211/6373148-blank.png",
+    "gender": null,
+    "first_appearance_issue_id": 718135,
+    "issue_count": 2
+  },
+  {
+    "id": 161882,
+    "name": "Tera Sinube",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/8544424-tera_sinube_hs.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 488337,
+    "issue_count": 12
+  },
+  {
+    "id": 161881,
+    "name": "En-Threelo",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7312366-enth.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 720173,
+    "issue_count": 5
+  },
+  {
+    "id": 161877,
+    "name": "Moroo",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7313333-moroo.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 720173,
+    "issue_count": 5
+  },
+  {
+    "id": 161880,
+    "name": "Fess",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11141/111415385/7312365-fess.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 721790,
+    "issue_count": 4
+  },
+  {
+    "id": 161878,
+    "name": "Maslo-Skaff",
+    "real_name": null,
+    "aliases": null,
+    "deck": "Sullustan Jedi Master during the Republic Era.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11129/111293013/7313308-download%20%2811%29.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 729686,
+    "issue_count": 2
+  },
+  {
+    "id": 161879,
+    "name": "Odu",
+    "real_name": null,
+    "aliases": null,
+    "deck": "Jedi Master during the Republic Era.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11129/111293013/7313304-download%20%287%29.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 729686,
+    "issue_count": 2
+  },
+  {
+    "id": 162139,
+    "name": "Aeliar",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11140/111402998/7474937-aeliar.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 713083,
+    "issue_count": 4
+  },
+  {
+    "id": 162138,
+    "name": "Chio Fain",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11140/111402998/7467748-chiofain.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 713083,
+    "issue_count": 5
+  },
+  {
+    "id": 162140,
+    "name": "Gwi",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11140/111402998/7473759-gwi.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 713083,
+    "issue_count": 2
+  },
+  {
+    "id": 162137,
+    "name": "Honnah",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11140/111402998/7467770-honnah.jpg",
+    "gender": "Female",
+    "first_appearance_issue_id": 713083,
+    "issue_count": 5
+  },
+  {
+    "id": 181206,
+    "name": "Hennix",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/0/77/8792762-0751809955-latest.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 731528,
+    "issue_count": 3
+  },
+  {
+    "id": 164075,
+    "name": "Voe",
+    "real_name": null,
+    "aliases": null,
+    "deck": "A Force sensitive female, Voe was one of the Jedi apprentices of Jedi Master Luke Skywalker after the destruction of the Galactic Empire. Despite working hard, she still couldn't be as powerful as Ben Solo, and this made her being jealous of Ben Solo's innate Force power.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11113/111137054/7537199-jedivoe.jpg",
+    "gender": "Female",
+    "first_appearance_issue_id": 731528,
+    "issue_count": 5
+  },
+  {
+    "id": 5446,
+    "name": "Ephant Mon",
+    "real_name": null,
+    "aliases": null,
+    "deck": "Ephant Mon was a member of Jabba's gang of thugs. ",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/0/1417/223482-19646-ephant-mon.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 201071,
+    "issue_count": 16
+  },
+  {
+    "id": 176721,
+    "name": "Bazzra",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11158/111584478/8469180-7894023198-large.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 889461,
+    "issue_count": 5
+  },
+  {
+    "id": 180414,
+    "name": "Ladybright",
+    "real_name": null,
+    "aliases": [
+      "Bright"
+    ],
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11144/111442876/8814175-gfgfg.jpg",
+    "gender": null,
+    "first_appearance_issue_id": 889461,
+    "issue_count": 6
+  },
+  {
+    "id": 6370,
+    "name": "Oola",
+    "real_name": "Oola",
+    "aliases": [
+      "The Twi'Lek Dancer"
+    ],
+    "deck": "A Twi'Lek dancer who had the misfortune to end up at Jabba the Hutt's palace.",
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/1/15776/9623034-oola.jpg",
+    "gender": "Female",
+    "first_appearance_issue_id": 576385,
+    "issue_count": 22
+  },
+  {
+    "id": 180412,
+    "name": "Sear",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11122/111222211/6373148-blank.png",
+    "gender": null,
+    "first_appearance_issue_id": 889461,
+    "issue_count": 6
+  },
+  {
+    "id": 169109,
+    "name": "Doc Ragon",
+    "real_name": null,
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/7954987-docragon.jpg",
+    "gender": "Male",
+    "first_appearance_issue_id": 847503,
+    "issue_count": 5
+  },
+  {
+    "id": 169110,
+    "name": "Wyrmen Lictor",
+    "real_name": "Wyrmen Lictor",
+    "aliases": null,
+    "deck": null,
+    "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11112/111123579/7954988-wyrmenlictor.jpg",
+    "gender": "Female",
+    "first_appearance_issue_id": 847503,
+    "issue_count": 4
   }
 ]
